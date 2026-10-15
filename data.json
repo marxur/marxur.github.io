@@ -3,6 +3,47 @@
   "reviewedAt": "2026-10-15T16:20:00.210Z",
   "articles": [
     {
+      "slug": "meta-muse-spark-open-20261015",
+      "category": "Modelos",
+      "label": "ÚLTIMA HORA",
+      "topic": "Meta",
+      "title": "Noticias de Última Hora: Meta lanza Muse Spark Open, su modelo de pesos abiertos para programar y crear agentes",
+      "summary": "Meta publica Muse Spark Open: 816.000 millones de parámetros, 42.000 millones activos, un millón de tokens de contexto y entrada de texto, imagen, audio y vídeo.",
+      "company": "Meta",
+      "date": "2026-10-15",
+      "source": "Meta",
+      "sourceTitle": "Muse Spark Open (Hugging Face)",
+      "sourceUrl": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "art": "agents",
+      "body": [
+        "Meta ha publicado este 15 de octubre Muse Spark Open, la versión de pesos abiertos de Muse Spark, su modelo para programación y trabajo con agentes. Según su ficha en Hugging Face, tiene 816.000 millones de parámetros en total, de los que activa 42.000 millones por token."
+      ],
+      "takeaway": "Nuestra lectura: Meta suma un modelo grande de pesos abiertos centrado en agentes y programación, aunque servirlo exige mucha memoria de GPU.",
+      "caveat": "La licencia Muse Model License tiene condiciones propias. Conviene revisarlas antes de usar el modelo en un producto.",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "sources": [
+        {
+          "name": "Meta · Documentación de Muse Spark Open",
+          "url": "https://dev.meta.ai/docs/muse-spark-open"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Qué ofrece",
+          "body": "Es un modelo de mezcla de expertos multimodal: acepta texto, imágenes, audio y vídeo, y responde en texto. Su ventana de contexto llega a un millón de tokens (1.048.576, según la documentación de Meta). La ficha lo orienta al razonamiento en varios pasos, los agentes de programación y el uso de herramientas."
+        },
+        {
+          "heading": "Cómo se puede usar",
+          "body": "Los pesos se descargan desde Hugging Face en dos formatos: BF16, de unos 1,65 TB, y NVFP4, de unos 537 GB. Se puede autoalojar en GPU propias o usar a través de proveedores que ofrecen el modelo por API. Se publica con la licencia Muse Model License y la ficha indica que no está destinado a menores de 18 años."
+        }
+      ],
+      "publishedAt": "2026-10-15T21:30:00.000Z",
+      "modifiedAt": "2026-10-15T21:30:00.000Z"
+    },
+    {
       "slug": "openai-bajo-presion-demandas-detencion-20261015",
       "category": "Análisis",
       "label": "ÚLTIMA HORA",
@@ -2239,6 +2280,7 @@
   ],
   "selectedSlugs": [
     "nvidia-nemotron-3-5-super-vl-20261015",
+    "meta-muse-spark-open-20261015",
     "openai-bajo-presion-demandas-detencion-20261015",
     "grok-voice-3-release-20261014",
     "youtube-music-ai-labels-20261014",

@@ -2,6 +2,17 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "meta-muse-spark-open-20261015",
+   "title": "Noticias de Última Hora: Meta lanza Muse Spark Open, su modelo de pesos abiertos para programar y crear agentes",
+   "summary": "Meta publica Muse Spark Open: 816.000 millones de parámetros, 42.000 millones activos, un millón de tokens de contexto y entrada de texto, imagen, audio y vídeo.",
+   "category": "Modelos",
+   "topic": "Meta",
+   "source": "Meta",
+   "date": "2026-10-15",
+   "url": "/noticias/meta-muse-spark-open-20261015.html",
+   "type": "noticia"
+  },
+  {
    "slug": "openai-bajo-presion-demandas-detencion-20261015",
    "title": "Noticias de Última Hora: OpenAI, bajo presión: ocho estados la demandan y un ingeniero, acusado, es detenido",
    "summary": "Ocho estados de EE. UU. demandan a OpenAI por presentar ChatGPT como seguro para menores, y un ingeniero es detenido, acusado de ocultar una grabadora. Rige la presunción de inocencia.",
