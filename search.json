@@ -2,6 +2,17 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "openai-bajo-presion-demandas-detencion-20261015",
+   "title": "Noticias de Última Hora: OpenAI, bajo presión: ocho estados la demandan y un ingeniero, acusado, es detenido",
+   "summary": "Ocho estados de EE. UU. demandan a OpenAI por presentar ChatGPT como seguro para menores, y un ingeniero es detenido, acusado de ocultar una grabadora. Rige la presunción de inocencia.",
+   "category": "Análisis",
+   "topic": "OpenAI",
+   "source": "Fiscalía General de Nebraska",
+   "date": "2026-10-15",
+   "url": "/noticias/openai-bajo-presion-demandas-detencion-20261015.html",
+   "type": "noticia"
+  },
+  {
    "slug": "nvidia-nemotron-3-5-super-vl-20261015",
    "title": "Noticias de Última Hora: NVIDIA lanza Nemotron 3.5 Super VL, un modelo abierto multimodal para agentes de IA",
    "summary": "NVIDIA presenta un modelo abierto de 120.000 millones de parámetros, 12.000 millones activos, que entiende imágenes, páginas web, PDF y vídeo. Ya está en Hugging Face.",
