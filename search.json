@@ -2,6 +2,17 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "chatgpt-gpt-live-1-1-voces-20261015",
+   "title": "Noticias de Última Hora: OpenAI lanza GPT-Live-1.1, voces nuevas y más naturales en ChatGPT",
+   "summary": "El nuevo modelo de voz llega a ChatGPT, Codex y dots con voces nuevas, mejores acentos y menos esperas. Se despliega hoy para todos y llegará pronto a la API.",
+   "category": "Herramientas",
+   "topic": "OpenAI",
+   "source": "OpenAI",
+   "date": "2026-10-15",
+   "url": "/noticias/chatgpt-gpt-live-1-1-voces-20261015.html",
+   "type": "noticia"
+  },
+  {
    "slug": "chatgpt-chrome-pestanas-20261015",
    "title": "Noticias de Última Hora: ChatGPT ya puede usar tus pestañas de Chrome y hacer tareas por ti",
    "summary": "OpenAI lleva el uso del ordenador a Chrome: con su extensión, ChatGPT puede usar tus pestañas para responder mejor y completar tareas. Está disponible en todos los planes.",

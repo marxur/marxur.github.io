@@ -3,6 +3,55 @@
   "reviewedAt": "2026-10-15T16:20:00.210Z",
   "articles": [
     {
+      "slug": "chatgpt-gpt-live-1-1-voces-20261015",
+      "category": "Herramientas",
+      "label": "ÚLTIMA HORA",
+      "topic": "OpenAI",
+      "title": "Noticias de Última Hora: OpenAI lanza GPT-Live-1.1, voces nuevas y más naturales en ChatGPT",
+      "summary": "El nuevo modelo de voz llega a ChatGPT, Codex y dots con voces nuevas, mejores acentos y menos esperas. Se despliega hoy para todos y llegará pronto a la API.",
+      "company": "OpenAI",
+      "date": "2026-10-15",
+      "source": "OpenAI",
+      "sourceTitle": "OpenAI en X: anuncio de GPT-Live-1.1",
+      "sourceUrl": "https://x.com/OpenAI/status/2110797830361436604",
+      "art": "agents",
+      "body": [
+        "OpenAI ha anunciado este 15 de octubre GPT-Live-1.1, la nueva versión de su modelo de voz. Según la cuenta oficial de OpenAI en X, llega al modo de voz de ChatGPT, a Codex y a dots con voces nuevas, mejores acentos y menos esperas del tipo «checking...». Se despliega hoy para todos los usuarios y llegará pronto a la API."
+      ],
+      "takeaway": "Nuestra lectura: si la conversación fluye sin esperas, hablar puede convertirse en una forma principal de usar ChatGPT.",
+      "caveat": "La versión completa es la de los planes de pago; el resto de usuarios usa por defecto GPT-Live-1.1 Quip. Y no hay ninguna voz anunciada con acento de España.",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "sources": [
+        {
+          "name": "OpenAI · Ficha de sistema de GPT-Live-1.1",
+          "url": "https://deploymentsafety.openai.com/gpt-live-1-1"
+        },
+        {
+          "name": "OpenAI Help Center · ChatGPT Voice",
+          "url": "https://help.openai.com/en/articles/20001274-chatgpt-voice"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Voces nuevas en seis idiomas",
+          "body": "OpenAI estrena voces nuevas en francés, alemán, hindi, español de México, coreano y japonés. El anuncio no menciona ninguna voz específica de español de España."
+        },
+        {
+          "heading": "Quién tiene cada versión",
+          "body": "Según la ficha de sistema publicada por OpenAI, GPT-Live-1.1 es el modelo de voz por defecto para los usuarios de Plus y planes superiores, también en Codex y dots, mientras que el resto recibe por defecto GPT-Live-1.1 Quip, una versión más ligera. Son modelos full-duplex: escuchan y responden de forma continua, así que siguen pausas e interrupciones sin esperar a que termines de hablar."
+        },
+        {
+          "heading": "Seguridad",
+          "body": "La propia ficha reconoce que, en pruebas sintéticas, GPT-Live-1.1 muestra retrocesos estadísticamente significativos en algunas categorías sensibles, como salud mental o dependencia emocional, frente a GPT-Live-1. OpenAI dice que investigará esas regresiones; en las pruebas con conversaciones reales rinde a la par que su predecesor."
+        }
+      ],
+      "publishedAt": "2026-10-15T22:50:00.000Z",
+      "modifiedAt": "2026-10-15T22:50:00.000Z"
+    },
+    {
       "slug": "chatgpt-chrome-pestanas-20261015",
       "category": "Herramientas",
       "label": "ÚLTIMA HORA",
@@ -2325,6 +2374,7 @@
   ],
   "selectedSlugs": [
     "nvidia-nemotron-3-5-super-vl-20261015",
+    "chatgpt-gpt-live-1-1-voces-20261015",
     "chatgpt-chrome-pestanas-20261015",
     "meta-muse-spark-open-20261015",
     "openai-bajo-presion-demandas-detencion-20261015",
