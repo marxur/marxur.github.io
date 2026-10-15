@@ -75,6 +75,13 @@ SHORTS = {
         'thumbnailUrl': 'https://i.ytimg.com/vi/sWN4eATrNyg/hqdefault.jpg',
         'uploadDate': '2026-10-16T00:06:48+02:00',
     },
+    'I79RbDEYdfU': {
+        'page': 'noticias/chatgpt-gpt-live-1-1-voces-20261015.html',
+        'name': 'Noticias de Última Hora | OpenAI lanza GPT-Live-1.1: voces nuevas en ChatGPT | Noticias IA',
+        'description': 'OpenAI lanza GPT-Live-1.1, su nuevo modelo de voz para ChatGPT, Codex y dots: voces nuevas, mejores acentos y menos esperas.',
+        'thumbnailUrl': 'https://i.ytimg.com/vi/I79RbDEYdfU/hqdefault.jpg',
+        'uploadDate': '2026-10-16T00:41:56+02:00',
+    },
 }
 
 SHORT_CSS = (
