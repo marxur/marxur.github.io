@@ -1,0 +1,32 @@
+name: Copiar ianoticias.org
+on:
+  push:
+    paths: ['.github/workflows/mirror.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar las 68 URL del sitemap y sus recursos
+        run: |
+          set -e
+          B=https://www.ianoticias.org
+          curl -fsS $B/sitemap.xml -o sitemap.xml
+          curl -fsS $B/robots.txt -o robots.txt
+          grep -o '<loc>[^<]*' sitemap.xml | sed 's/<loc>//' > /tmp/urls.txt
+          echo "URLs: $(wc -l < /tmp/urls.txt)"
+          while read u; do p=${u#$B/}; [ -z "$p" ] && p=index.html; mkdir -p "$(dirname "$p")"; curl -fsS "$u" -o "$p"; done < /tmp/urls.txt
+          grep -rhoE '(href|src)="/[^"#?]*' --include=*.html . | sed 's/.*="//' | grep -vE '\.html$|^/$' | sort -u > /tmp/assets.txt
+          for a in $(cat /tmp/assets.txt) /data.json; do mkdir -p ".$(dirname $a)"; curl -fsS "$B$a" -o ".$a" || echo "FALLO $a"; done
+          touch .nojekyll
+          find . -path ./.git -prune -o -type f -print | wc -l
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Copia estática de ianoticias.org (68 URL del sitemap)"
+          git push
