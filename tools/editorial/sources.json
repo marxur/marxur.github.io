@@ -1,0 +1,44 @@
+[
+  {
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "url": "https://x.com/OpenAI",
+    "description": "Anuncios de modelos, ChatGPT y agentes de OpenAI."
+  },
+  {
+    "name": "Anthropic",
+    "handle": "@AnthropicAI",
+    "url": "https://x.com/AnthropicAI",
+    "description": "Novedades de Claude e investigación de Anthropic."
+  },
+  {
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "url": "https://x.com/GoogleDeepMind",
+    "description": "Modelos Gemini y avances de investigación de Google."
+  },
+  {
+    "name": "Google",
+    "handle": "@Google",
+    "url": "https://x.com/Google",
+    "description": "Lanzamientos y actualizaciones de productos de Google."
+  },
+  {
+    "name": "Grok",
+    "handle": "@grok",
+    "url": "https://x.com/grok",
+    "description": "Novedades de Grok y su ecosistema de agentes."
+  },
+  {
+    "name": "Sam Altman",
+    "handle": "@sama",
+    "url": "https://x.com/sama",
+    "description": "Anuncios y comentarios del responsable de OpenAI."
+  },
+  {
+    "name": "Demis Hassabis",
+    "handle": "@demishassabis",
+    "url": "https://x.com/demishassabis",
+    "description": "Investigación y modelos del equipo de Google DeepMind."
+  }
+]

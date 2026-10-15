@@ -1,0 +1,23 @@
+import {companyOf} from './topics.mjs';
+const escapeXml=(s:string)=>String(s).replace(/[<>&"']/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;',"'":'&apos;'}[c]!));
+export function articleArt(a:any,hero=false) {
+  const hash=[...a.slug].reduce((n,c)=>(n*31+c.charCodeAt(0))>>>0,0);
+  const palettes=[['#1F2A44','#F4EDE3','#D9A441'],['#E4E8DF','#1F2A44','#6E7B6C'],['#EEDDD2','#1F2A44','#B5523B'],['#B5523B','#F4EDE3','#D9A441'],['#D9A441','#1F2A44','#B5523B']];
+  const company=companyOf(a);
+  const brands:Record<string,string[]>={Kimi:['#090F21','#F1F5FF','#548AFF'],xAI:['#090909','#FFFFFF','#B7B7B7'],Google:['#F8FAFF','#202124','#4285F4'],Anthropic:['#9E442D','#FFF2E8','#E9A27E']};
+  const [bg,ink,accent]=brands[company]??palettes[hash%palettes.length];
+  const brandColour=(i:number)=>company==='Google'?['#4285F4','#EA4335','#FBBC05','#34A853'][i%4]:i%3===0?accent:ink;
+  const all=[a.topic,...(a.tags??[]),a.title].join(' ').toLowerCase();
+  const theme=/voz|dictado|superwhisper|wispr/.test(all)?'voice':/agent|dots|bots|work/.test(all)?'agents':/china|qwen|deepseek|kimi/.test(all)?'china':/notebook|herramientas|guía/.test(all)?'tools':'model';
+  let motif='';
+  if(theme==='voice') motif=Array.from({length:28},(_,i)=>{const h=30+Math.abs(Math.sin(i*.63+hash))*170;return `<rect x="${450+i*10}" y="${185-h/2}" width="4" height="${h}" rx="2" fill="${i%4===0?accent:ink}" opacity=".8"/>`;}).join('')+'<path d="M450 310h230" fill="none" stroke="'+ink+'" stroke-width="3"/>';
+  else if(theme==='agents') {const nodes=[[460,95],[670,90],[575,205],[450,325],[700,320]];motif=nodes.map(([x,y],i)=>`<path d="M575 205L${x} ${y}" stroke="${ink}" opacity=".4" fill="none"/><rect x="${x-32}" y="${y-24}" width="64" height="48" rx="10" fill="${i===2?accent:ink}"/><circle cx="${x-10}" cy="${y}" r="4" fill="${bg}"/><circle cx="${x+10}" cy="${y}" r="4" fill="${bg}"/>`).join('');}
+  else if(theme==='china') motif=Array.from({length:5},(_,i)=>`<path d="M${430+i*57} 330V${90+i%3*42}h35v${240-i%3*42}" fill="none" stroke="${i===2?accent:ink}" stroke-width="8"/><circle cx="${447+i*57}" cy="${70+i%3*42}" r="5" fill="${ink}"/>`).join('');
+  else if(theme==='tools') motif=Array.from({length:6},(_,i)=>`<rect x="${450+i%3*85}" y="${95+Math.floor(i/3)*105}" width="67" height="82" rx="6" fill="${i===hash%6?accent:ink}" opacity="${i===hash%6?1:.18}"/><path d="M${464+i%3*85} ${120+Math.floor(i/3)*105}h38m-38 17h25m-25 17h32" stroke="${ink}" stroke-width="3"/>`).join('');
+  else motif=`<g transform="translate(595 210) rotate(${hash%45-20})"><rect x="-120" y="-115" width="240" height="220" rx="18" fill="none" stroke="${ink}" stroke-width="2"/><rect x="-90" y="-85" width="180" height="160" rx="10" fill="${ink}" opacity=".12"/><path d="M0-65v120M-60-5H60M-42-47l84 84M-42 37l84-84" stroke="${accent}" stroke-width="12" stroke-linecap="round"/></g>`;
+  if(company==='Google') motif=motif.replace(/fill="#[A-Fa-f0-9]{6}"/g,(_,i)=>`fill="${brandColour(i)}"`);
+  if(hero) motif=`<g transform="translate(530 218)">${[0,1,2,3].map(i=>`<ellipse rx="${110+i*24}" ry="${50+i*13}" transform="rotate(${i*45})" fill="none" stroke="${brandColour(i)}" stroke-width="${company==='Google'?14:4}" opacity=".85"/>`).join('')}<circle r="27" fill="${accent}"/></g>`;
+  const colourBar=company==='Google'?[0,1,2,3].map(i=>`<rect x="${i*200}" y="448" width="200" height="12" fill="${brandColour(i)}"/>`).join(''):'';
+  const label=a.topic.length>21?a.category:a.topic;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460"><title>${escapeXml(a.title)}</title><rect width="800" height="460" fill="${bg}"/><path d="M30 40h740M30 420h740" stroke="${ink}" opacity=".2"/><text x="36" y="80" fill="${ink}" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">NOTICIAS IA · ${escapeXml(a.category.toUpperCase())}</text><text x="36" y="200" fill="${ink}" font-family="Georgia,serif" font-size="${label.length>16?34:48}" font-weight="bold">${escapeXml(label)}</text><rect x="36" y="230" width="54" height="5" fill="${accent}"/><text x="36" y="285" fill="${ink}" font-family="Arial,sans-serif" font-size="18">${escapeXml(company)}</text><text x="36" y="390" fill="${ink}" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">ILUSTRACIÓN EDITORIAL · ${escapeXml(a.date)}</text>${motif}${colourBar}</svg>`;
+}

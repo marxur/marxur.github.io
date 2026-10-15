@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "title": "Gemini aprende un juego viendo un vídeo",
+    "summary": "La publicación presenta una demostración de un robot jugando a cornhole con Gemini 4 Argon. El fragmento describe análisis de física y simulación; no hemos reproducido la prueba.",
+    "url": "https://x.com/GoogleDeepMind/status/2110078384617464201",
+    "date": "2026-10-13",
+    "type": "Demostración",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "Demis Hassabis",
+    "handle": "@demishassabis",
+    "title": "Un ajedrez de magos creado con Gemini",
+    "summary": "El fragmento del post enlaza una demostración de un juego de ajedrez creado con Gemini 4 Argon. Puedes abrir el vídeo original en X.",
+    "url": "https://x.com/demishassabis/status/2110041008100843835/video/1",
+    "date": "2026-10-13",
+    "type": "Vídeo",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "Anthropic",
+    "handle": "@AnthropicAI",
+    "title": "Cómo gestionan miles de cambios de código",
+    "summary": "La cuenta enlaza un artículo de ingeniería sobre su sistema interno de control de versiones y menciona unos 2.500 cambios de código diarios en mayo.",
+    "url": "https://x.com/AnthropicAI/status/2110047081414987957",
+    "date": "2026-10-13",
+    "type": "Ingeniería",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "title": "Gemini 4 Argon: disponibilidad mundial",
+    "summary": "La publicación anuncia el acceso al modelo y remite a la información oficial sobre sus vías de uso.",
+    "url": "https://x.com/GoogleDeepMind/status/2110039274922131792",
+    "date": "2026-10-13",
+    "type": "Anuncio",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "Demis Hassabis",
+    "handle": "@demishassabis",
+    "title": "Su valoración de Gemini para crear y programar",
+    "summary": "Hassabis destaca Gemini 4 Argon para programación y trabajo con conocimiento. Es una valoración atribuida al autor.",
+    "url": "https://x.com/demishassabis/status/2110052931110318464",
+    "date": "2026-10-13",
+    "type": "Opinión",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "Anthropic",
+    "handle": "@AnthropicAI",
+    "title": "Defensas frente a la destilación de modelos",
+    "summary": "Post enlazado en nuestro radar sobre medidas para dificultar la extracción de capacidades de Claude. Las cifras son afirmaciones de la empresa.",
+    "url": "https://x.com/AnthropicAI/status/2109795898909950247",
+    "date": "2026-10-12",
+    "type": "Investigación",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "Anthropic",
+    "handle": "@AnthropicAI",
+    "title": "Acciones no previstas en evaluaciones internas",
+    "summary": "Publicación que enlaza el informe sobre comportamientos observados durante evaluaciones y uso interno. Los casos deben leerse con sus límites.",
+    "url": "https://x.com/AnthropicAI/status/2108680150556737819",
+    "date": "2026-10-09",
+    "type": "Investigación",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "title": "Respuestas interactivas dentro de ChatGPT",
+    "summary": "El fragmento invita a probar respuestas con interfaces interactivas. El anuncio se refiere a GPT-6 e Intelligent UI.",
+    "url": "https://x.com/OpenAI/status/2107895004819775938",
+    "date": "2026-10-07",
+    "type": "Demostración",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "title": "La publicación de resultados matemáticos",
+    "summary": "Post sobre documentos matemáticos generados con un modelo interno. Publicar manuscritos no demuestra su aceptación científica.",
+    "url": "https://x.com/OpenAI/status/2107596713791767021",
+    "date": "2026-10-06",
+    "type": "Investigación",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  },
+  {
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "title": "Señales sobre la procedencia del texto",
+    "summary": "La publicación describe su enfoque para añadir señales de procedencia al texto generado. Una marca no certifica que el contenido sea verdadero.",
+    "url": "https://x.com/OpenAI/status/2107164651478012412",
+    "date": "2026-10-05",
+    "type": "Anuncio",
+    "access": "Fragmento indexado",
+    "checkedAt": "2026-10-14"
+  }
+]
