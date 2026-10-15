@@ -61,6 +61,13 @@ SHORTS = {
         'thumbnailUrl': 'https://i.ytimg.com/vi/IPrTGAj-AFY/hqdefault.jpg',
         'uploadDate': '2026-10-14T21:00:00+02:00',
     },
+    'sqbxukWxrzs': {
+        'page': 'noticias/meta-muse-spark-open-20261015.html',
+        'name': 'Noticias de Última Hora | Meta lanza Muse Spark Open: 816B y pesos abiertos | Noticias IA',
+        'description': 'Meta publica Muse Spark Open, modelo de pesos abiertos con 816.000 M de parámetros (42.000 M activos) y un millón de tokens de contexto.',
+        'thumbnailUrl': 'https://i.ytimg.com/vi/sqbxukWxrzs/hqdefault.jpg',
+        'uploadDate': '2026-10-15T20:03:46+02:00',
+    },
 }
 
 SHORT_CSS = (
