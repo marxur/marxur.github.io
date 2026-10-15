@@ -3,7 +3,27 @@
         {
             "id": "d5t_kJGXTPU",
             "title": "Bienvenidos a Noticias IA: la IA en menos de un minuto",
-            "publishedAt": "2026-10-13T17:00:34+00:00"
+            "publishedAt": "2026-10-13T19:00:00+02:00"
+        },
+        {
+            "id": "pZUmmmgcNjI",
+            "title": "Gemini 4 Argon ya está disponible en todo el mundo",
+            "publishedAt": "2026-10-14T14:00:00+02:00"
+        },
+        {
+            "id": "IPrTGAj-AFY",
+            "title": "NVIDIA invierte 250 M$ para seguridad de agentes, adiós a GPT-4o en la API y más | Noticias IA 14/10",
+            "publishedAt": "2026-10-14T21:00:00+02:00"
+        },
+        {
+            "id": "ExnzuMOHcVg",
+            "title": "Google DeepMind y Singapur ajustan Gemma para detectar estafas en el móvil",
+            "publishedAt": "2026-10-15T14:00:00+02:00"
+        },
+        {
+            "id": "5S5_EbJ6BtM",
+            "title": "GPT-5.6 Sol ayuda a hackear Chrome en 6 días: 250.000 $ de recompensa",
+            "publishedAt": "2026-10-14T19:00:00+02:00"
         }
     ],
     "checkedAt": "2026-10-14T07:07:28.129Z",
