@@ -3,6 +3,51 @@
   "reviewedAt": "2026-10-15T16:20:00.210Z",
   "articles": [
     {
+      "slug": "chatgpt-chrome-pestanas-20261015",
+      "category": "Herramientas",
+      "label": "ÚLTIMA HORA",
+      "topic": "OpenAI",
+      "title": "Noticias de Última Hora: ChatGPT ya puede usar tus pestañas de Chrome y hacer tareas por ti",
+      "summary": "OpenAI lleva el uso del ordenador a Chrome: con su extensión, ChatGPT puede usar tus pestañas para responder mejor y completar tareas. Está disponible en todos los planes.",
+      "company": "OpenAI",
+      "date": "2026-10-15",
+      "source": "OpenAI",
+      "sourceTitle": "ChatGPT en X: anuncio de ChatGPT en Chrome",
+      "sourceUrl": "https://x.com/ChatGPT/status/2110823738531037651",
+      "art": "agents",
+      "body": [
+        "OpenAI ha anunciado este 15 de octubre que lleva el uso del ordenador de ChatGPT a Chrome. Según la cuenta oficial de ChatGPT en X, el asistente ya puede usar tus pestañas de Chrome para dar respuestas más útiles y hacer tareas por ti. La extensión está disponible para todos los planes de ChatGPT."
+      ],
+      "takeaway": "Nuestra lectura: ChatGPT pasa de responder sobre la web a trabajar dentro de tu navegador, lo que ahorra pasos pero exige revisar bien los permisos.",
+      "caveat": "Conceder acceso a todas las webs o al historial aumenta el riesgo. Conviene empezar con permisos puntuales y no usarlo con datos sensibles sin supervisión.",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "sources": [
+        {
+          "name": "Chrome Web Store · Extensión ChatGPT (OpenAI)",
+          "url": "https://chromewebstore.google.com/detail/chatgpt/hehggadaopoacecdllhhajmbjkdcmajg"
+        },
+        {
+          "name": "ChatGPT Learn · Browser extension",
+          "url": "https://learn.chatgpt.com/docs/chrome-extension"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Qué puede hacer",
+          "body": "Según su ficha oficial en Chrome Web Store, la extensión permite a ChatGPT tomar contexto de las pestañas y actuar en ellas: investigar en webs, resumir y responder preguntas sobre una pestaña, rellenar datos, crear documentos u ordenar pestañas. Trabaja en segundo plano sin tomar el control de la sesión activa. La extensión también funciona en otros navegadores basados en Chromium, como Edge, Brave y Opera."
+        },
+        {
+          "heading": "Permisos y privacidad",
+          "body": "La ficha indica que ChatGPT pedirá siempre permiso antes de consultar el historial de navegación o de descargar y subir archivos. La guía oficial de OpenAI añade que, por defecto, pregunta antes de interactuar con cada web nueva, y que el contenido de las páginas debe tratarse como no fiable. Al instalarla, Chrome pide permisos amplios, como leer y cambiar los datos de todas las webs."
+        }
+      ],
+      "publishedAt": "2026-10-15T22:15:00.000Z",
+      "modifiedAt": "2026-10-15T22:15:00.000Z"
+    },
+    {
       "slug": "meta-muse-spark-open-20261015",
       "category": "Modelos",
       "label": "ÚLTIMA HORA",
@@ -2280,6 +2325,7 @@
   ],
   "selectedSlugs": [
     "nvidia-nemotron-3-5-super-vl-20261015",
+    "chatgpt-chrome-pestanas-20261015",
     "meta-muse-spark-open-20261015",
     "openai-bajo-presion-demandas-detencion-20261015",
     "grok-voice-3-release-20261014",

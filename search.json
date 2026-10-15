@@ -2,6 +2,17 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "chatgpt-chrome-pestanas-20261015",
+   "title": "Noticias de Última Hora: ChatGPT ya puede usar tus pestañas de Chrome y hacer tareas por ti",
+   "summary": "OpenAI lleva el uso del ordenador a Chrome: con su extensión, ChatGPT puede usar tus pestañas para responder mejor y completar tareas. Está disponible en todos los planes.",
+   "category": "Herramientas",
+   "topic": "OpenAI",
+   "source": "OpenAI",
+   "date": "2026-10-15",
+   "url": "/noticias/chatgpt-chrome-pestanas-20261015.html",
+   "type": "noticia"
+  },
+  {
    "slug": "meta-muse-spark-open-20261015",
    "title": "Noticias de Última Hora: Meta lanza Muse Spark Open, su modelo de pesos abiertos para programar y crear agentes",
    "summary": "Meta publica Muse Spark Open: 816.000 millones de parámetros, 42.000 millones activos, un millón de tokens de contexto y entrada de texto, imagen, audio y vídeo.",
