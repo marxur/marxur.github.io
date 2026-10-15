@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/editorial/
+Sitemap: https://www.ianoticias.org/sitemap.xml
