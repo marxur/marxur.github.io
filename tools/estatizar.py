@@ -68,6 +68,13 @@ SHORTS = {
         'thumbnailUrl': 'https://i.ytimg.com/vi/sqbxukWxrzs/hqdefault.jpg',
         'uploadDate': '2026-10-15T20:03:46+02:00',
     },
+    'sWN4eATrNyg': {
+        'page': 'noticias/chatgpt-chrome-pestanas-20261015.html',
+        'name': 'Noticias de Última Hora | ChatGPT ya usa tus pestañas de Chrome | Noticias IA',
+        'description': 'OpenAI lleva el uso del ordenador a Chrome: ChatGPT puede usar tus pestañas para responder mejor y hacer tareas. Disponible en todos los planes.',
+        'thumbnailUrl': 'https://i.ytimg.com/vi/sWN4eATrNyg/hqdefault.jpg',
+        'uploadDate': '2026-10-16T00:06:48+02:00',
+    },
 }
 
 SHORT_CSS = (
