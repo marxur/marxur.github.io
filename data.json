@@ -3,6 +3,47 @@
   "reviewedAt": "2026-10-15T16:20:00.210Z",
   "articles": [
     {
+      "slug": "reflection-beam-20261016",
+      "category": "Modelos",
+      "label": "ÚLTIMA HORA",
+      "topic": "Reflection",
+      "title": "Noticias de Última Hora: Reflection libera Beam, un modelo abierto de 501.000 millones de parámetros con licencia Apache 2.0",
+      "summary": "Reflection publica en Hugging Face los pesos de Beam, su primer modelo abierto: mezcla de expertos con 501.000 millones de parámetros, 23.000 millones activos, para programación, razonamiento y agentes.",
+      "company": "Reflection",
+      "date": "2026-10-16",
+      "source": "Reflection",
+      "sourceTitle": "Beam is now available (blog de Reflection)",
+      "sourceUrl": "https://www.reflection.ai/blog/beam-is-available",
+      "art": "agents",
+      "body": [
+        "Reflection ha publicado este 16 de octubre los pesos de Beam, su primer modelo de pesos abiertos, en Hugging Face y con licencia Apache 2.0, que permite usarlo, modificarlo y comercializarlo. Según la compañía, está pensado para programación avanzada, razonamiento y tareas de agente de larga duración."
+      ],
+      "takeaway": "Nuestra lectura: más que el tamaño, lo relevante es la licencia. Un modelo de este calibre con pesos abiertos y Apache 2.0 permite el uso comercial sin condiciones propias.",
+      "caveat": "Las cifras de rendimiento que acompañan al lanzamiento son de la propia Reflection y todavía no están verificadas por terceros. Servir un modelo de este tamaño exige mucha memoria de GPU.",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "sources": [
+        {
+          "name": "Hugging Face · Ficha de Beam-1.0-501B-A23B",
+          "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Qué ofrece",
+          "body": "Beam es un modelo de mezcla de expertos (MoE) disperso con 501.000 millones de parámetros en total, de los que activa unos 23.000 millones (501,3 y 23,4 según su ficha técnica). Trabaja solo con texto, admite una ventana de contexto de un millón de tokens y se ha desarrollado sobre todo para inglés, según la ficha en Hugging Face."
+        },
+        {
+          "heading": "Cómo se puede usar",
+          "body": "Los pesos se publican en tres formatos de precisión, BF16, FP8 y NVFP4, junto con un modelo auxiliar para decodificación especulativa. Reflection lo lanza con más de 40 socios e integraciones: se puede descargar y autoalojar, usar a través de la API de Reflection (en beta pública) o de proveedores como Amazon Web Services, Google Cloud, Microsoft Azure, Hugging Face, Ollama u OpenRouter. También abre Mirror CLI, su herramienta de terminal para trabajar con agentes."
+        }
+      ],
+      "publishedAt": "2026-10-16T17:30:00.000Z",
+      "modifiedAt": "2026-10-16T17:30:00.000Z"
+    },
+    {
       "slug": "chatgpt-gpt-live-1-1-voces-20261015",
       "category": "Herramientas",
       "label": "ÚLTIMA HORA",
@@ -2374,6 +2415,7 @@
   ],
   "selectedSlugs": [
     "nvidia-nemotron-3-5-super-vl-20261015",
+    "reflection-beam-20261016",
     "chatgpt-gpt-live-1-1-voces-20261015",
     "chatgpt-chrome-pestanas-20261015",
     "meta-muse-spark-open-20261015",

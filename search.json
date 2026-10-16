@@ -2,6 +2,17 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "reflection-beam-20261016",
+   "title": "Noticias de Última Hora: Reflection libera Beam, un modelo abierto de 501.000 millones de parámetros con licencia Apache 2.0",
+   "summary": "Reflection publica en Hugging Face los pesos de Beam, su primer modelo abierto: mezcla de expertos con 501.000 millones de parámetros, 23.000 millones activos, para programación, razonamiento y agentes.",
+   "category": "Modelos",
+   "topic": "Reflection",
+   "source": "Reflection",
+   "date": "2026-10-16",
+   "url": "/noticias/reflection-beam-20261016.html",
+   "type": "noticia"
+  },
+  {
    "slug": "chatgpt-gpt-live-1-1-voces-20261015",
    "title": "Noticias de Última Hora: OpenAI lanza GPT-Live-1.1, voces nuevas y más naturales en ChatGPT",
    "summary": "El nuevo modelo de voz llega a ChatGPT, Codex y dots con voces nuevas, mejores acentos y menos esperas. Se despliega hoy para todos y llegará pronto a la API.",
