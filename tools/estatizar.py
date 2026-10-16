@@ -82,6 +82,13 @@ SHORTS = {
         'thumbnailUrl': 'https://i.ytimg.com/vi/I79RbDEYdfU/hqdefault.jpg',
         'uploadDate': '2026-10-16T00:41:56+02:00',
     },
+    'RFyl-iracJs': {
+        'page': 'noticias/reflection-beam-20261016.html',
+        'name': 'Noticias de Última Hora: Reflection libera Beam, un modelo abierto de 501B con licencia Apache 2.0',
+        'description': 'Reflection publica Beam en Hugging Face con licencia Apache 2.0: modelo MoE de 501.000 M de parámetros (23.000 M activos) para programación, razonamiento y agentes.',
+        'thumbnailUrl': 'https://i.ytimg.com/vi/RFyl-iracJs/hqdefault.jpg',
+        'uploadDate': '2026-10-16T19:09:39+02:00',
+    },
 }
 
 SHORT_CSS = (
