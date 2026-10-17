@@ -1,7 +1,752 @@
 {
-  "edition": "2026-10-15",
-  "reviewedAt": "2026-10-15T16:20:00.210Z",
+  "edition": "2026-10-17T19:31:15Z",
+  "reviewedAt": "2026-10-17T19:31:15Z",
   "articles": [
+    {
+      "slug": "deepseek-v41-flash-1017-update-20261017",
+      "title": "DeepSeek actualiza V4.1 Flash y abre su buscador por API",
+      "summary": "DeepSeek anuncia Flash-1017 en API, web y aplicación y abre el acceso a su motor de búsqueda.",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "DeepSeek",
+      "company": "DeepSeek",
+      "date": "2026-10-17",
+      "source": "DeepSeek",
+      "sourceTitle": "DeepSeek actualiza V4.1 Flash y abre su buscador por API",
+      "sourceUrl": "https://api-docs.deepseek.com/updates/",
+      "art": "china",
+      "body": [
+        "DeepSeek fecha el 17 de octubre la revisión V4.1 Flash-1017. Según sus notas oficiales, llega a la API, la web y la aplicación; conserva el identificador deepseek-flash, la forma de llamada y los precios.",
+        "La compañía también abre por API su buscador propio y enlaza una guía de búsqueda y extracción de páginas. Este anuncio facilita construir agentes que consulten la web, aunque no garantiza acceso a todos los sitios ni verifica automáticamente lo que encuentran."
+      ],
+      "sections": [
+        {
+          "heading": "Qué conviene comprobar",
+          "body": "Un alias que apunta a la versión más reciente puede cambiar el comportamiento sin modificar el código de la aplicación. Comparar tareas habituales y registrar la fecha ayuda a distinguir una actualización del modelo de otros cambios del sistema."
+        }
+      ],
+      "takeaway": "Quienes integran DeepSeek pueden revisar el nuevo modelo y el servicio de búsqueda desde su documentación oficial.",
+      "caveat": "Las mejoras de rendimiento son afirmaciones del proveedor. No hemos realizado llamadas ni reproducido sus evaluaciones.",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "DeepSeek",
+          "title": "Documentación original",
+          "url": "https://api-docs.deepseek.com/updates/"
+        }
+      ]
+    },
+    {
+      "slug": "openai-chatgpt-slides-space-20261016",
+      "title": "ChatGPT incorpora presentaciones colaborativas y agentes en paralelo",
+      "summary": "OpenAI anuncia ChatGPT Slides en Space y mejoras de GPT-6 Pro para repartir tareas entre agentes.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "OpenAI",
+      "company": "OpenAI",
+      "date": "2026-10-16",
+      "source": "OpenAI",
+      "sourceTitle": "ChatGPT incorpora presentaciones colaborativas y agentes en paralelo",
+      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "art": "agents",
+      "body": [
+        "OpenAI anuncia presentaciones colaborativas en Space: ChatGPT Slides permite editar contenido y exportarlo a PowerPoint, PDF o Google Slides. El despliegue se dirige a usuarios elegibles de Pro, Business y Enterprise con acceso a Space.",
+        "Las mismas notas del 16 de octubre anuncian mejoras de GPT-6 Pro en el chat y agentes que pueden trabajar en paralelo. El usuario puede seguir el progreso y consultar las tareas terminadas."
+      ],
+      "sections": [],
+      "takeaway": "Las novedades reúnen preparación de presentaciones y reparto de tareas dentro de ChatGPT.",
+      "caveat": "La disponibilidad depende de la cuenta y del espacio. No hemos probado el acceso, las exportaciones ni la mejora de velocidad.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Documentación original",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-hy-memory20-stack-20261016",
+      "title": "Tencent presenta Hy Memory 2.0 para conectar la memoria de los agentes",
+      "summary": "Tencent presenta una pila de memoria con tres piezas separables: el modelo especializado Hy-Memory-30B-A3B, el framework Hy Memory y la aplicación MemHub.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Tencent",
+      "company": "Tencent",
+      "date": "2026-10-16",
+      "source": "Tencent",
+      "sourceTitle": "Tencent presenta Hy Memory 2.0 para conectar la memoria de los agentes",
+      "sourceUrl": "https://memory.hunyuan.tencent.com/",
+      "art": "agents",
+      "body": [
+        "Tencent presenta una pila de memoria con tres piezas separables: el modelo especializado Hy-Memory-30B-A3B, el framework Hy Memory y la aplicación MemHub. El sitio del proveedor fecha el anuncio el 16; el preprint del modelo se presentó el 15. Se verifican código, paquete Python y un listado de archivos de pesos, sin instalarlos. La evaluación publicada usa subconjuntos fijos del 20 % de sus pruebas y no demuestra superioridad general sobre Claude. La propuesta busca continuidad entre herramientas; la compatibilidad de MemHub debe comprobarse por separado."
+      ],
+      "sections": [],
+      "takeaway": "Estudiar integración antes de adoptar.",
+      "caveat": "No hemos realizado una prueba independiente. Rendimiento de autores, no reproducido. El SDK puede usar servicios LLM y embeddings externos: local-first no equivale a todo local. Compatibilidad y binarios de MemHub sin probar.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://memory.hunyuan.tencent.com/"
+        },
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://github.com/Tencent-Hunyuan/Hy-Memory"
+        },
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B/tree/main"
+        },
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://arxiv.org/abs/2610.22196"
+        },
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://github.com/Tencent-Hunyuan/Hy-Memory/blob/main/memhub/README.md"
+        },
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://pypi.org/project/hy-memory/2.0.2/"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-claude-code-21302-20261016",
+      "title": "Claude Code 2.1.302 añade controles y corrige fallos de consumo",
+      "summary": "La versión 2.1.302 de Claude Code permite elegir el modelo del clasificador local del modo automático y controlar la compactación en reposo desde la configuración.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-16",
+      "source": "Anthropic",
+      "sourceTitle": "Claude Code 2.1.302 añade controles y corrige fallos de consumo",
+      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
+      "art": "agents",
+      "body": [
+        "La versión 2.1.302 de Claude Code permite elegir el modelo del clasificador local del modo automático y controlar la compactación en reposo desde la configuración. No cambia con esa variable el clasificador del servidor. Las notas también corrigen sugerencias que consumían créditos, contadores que se reiniciaban al reanudar y rutinas que podían repetirse después de fallar. Hay cambios en permisos y ejecución de subagentes; no se han activado aquí. El registro acredita la publicación de correcciones, no que todos los fallos estén resueltos en cualquier instalación."
+      ],
+      "sections": [],
+      "takeaway": "Revisar notas y probar en entorno controlado.",
+      "caveat": "No hemos realizado una prueba independiente. GitHub muestra 16 Oct 20:53 sin zona comprobada. Sin instalación ni certificación de seguridad.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-rtx-spark-windows-availability-20261016",
+      "title": "NVIDIA anuncia la disponibilidad de los portátiles RTX Spark",
+      "summary": "NVIDIA anuncia la comercialización de portátiles RTX Spark con Windows mediante seis fabricantes.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "NVIDIA",
+      "company": "NVIDIA",
+      "date": "2026-10-16",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA anuncia la disponibilidad de los portátiles RTX Spark",
+      "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-RTX-Spark-PCs-Available-Today--A-New-Beginning-for-Windows-PCs/default.aspx",
+      "art": "agents",
+      "body": [
+        "NVIDIA anuncia la comercialización de portátiles RTX Spark con Windows mediante seis fabricantes. La ficha combina CPU Grace y GPU Blackwell RTX con hasta 128 GB de memoria unificada, una configuración pensada también para modelos y agentes locales. Es una familia distinta de DGX Spark: conviene no intercambiar sus características. La disponibilidad está declarada por el proveedor, no comprobada en tiendas españolas. Las cifras máximas de cómputo tampoco sustituyen pruebas de velocidad, compatibilidad y consumo con los modelos que interese ejecutar."
+      ],
+      "sections": [],
+      "takeaway": "Esperar pruebas con cargas propias.",
+      "caveat": "No hemos realizado una prueba independiente. Sin prueba independiente, stock español ni precio en euros verificados. Algunas aplicaciones siguen en beta o previstas.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-RTX-Spark-PCs-Available-Today--A-New-Beginning-for-Windows-PCs/default.aspx"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://www.nvidia.com/en-us/products/rtx-spark/"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-broadcast23-file-processing-mcp-20261016",
+      "title": "Broadcast 2.3 permite procesar grabaciones y controlarlas con agentes",
+      "summary": "Las notas de Broadcast 2.3 describen procesamiento de archivos y un servidor MCP local.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "NVIDIA",
+      "company": "NVIDIA",
+      "date": "2026-10-16",
+      "source": "NVIDIA",
+      "sourceTitle": "Broadcast 2.3 permite procesar grabaciones y controlarlas con agentes",
+      "sourceUrl": "https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/release-notes/",
+      "art": "agents",
+      "body": [
+        "Las notas de Broadcast 2.3 describen un modo para aplicar efectos a grabaciones ya hechas y un servidor MCP para que agentes compatibles ajusten opciones o procesen archivos localmente. Amplía el uso más allá de la cámara y el micrófono en directo. Los efectos de vídeo nuevos están en beta y exigen GPU concretas; el procesamiento de archivos no funciona simultáneamente con el directo. La página comercial mezcla una cabecera 2.2.0 con una tabla de descarga 2.3.0. No se ha instalado ni probado el programa."
+      ],
+      "sections": [],
+      "takeaway": "Revisar requisitos antes de probar.",
+      "caveat": "No hemos realizado una prueba independiente. Fecha exacta del primer lanzamiento no consta en las notas. Superresolución: RTX 3060+; generación de fotogramas: RTX 40+. Versiones inconsistentes en la página comercial.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "detected",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/release-notes/"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-RTX-Spark-PCs-Available-Today--A-New-Beginning-for-Windows-PCs/default.aspx"
+        }
+      ]
+    },
+    {
+      "slug": "neon-ai-gateway-model-catalog-20261016",
+      "title": "Neon amplía su pasarela de IA y los controles de permisos para agentes",
+      "summary": "El registro de Neon añade once modelos a AI Gateway y nuevos controles para su servidor MCP.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Neon",
+      "company": "Neon",
+      "date": "2026-10-16",
+      "source": "Neon",
+      "sourceTitle": "Neon amplía su pasarela de IA y los controles de permisos para agentes",
+      "sourceUrl": "https://neon.com/docs/changelog/2026-10-16",
+      "art": "agents",
+      "body": [
+        "Neon incorpora once modelos a AI Gateway, su acceso común a proveedores de IA. La integración requiere planes Launch o Scale y créditos de prepago; no es el lanzamiento simultáneo de once modelos nuevos.",
+        "Su servidor MCP permite elegir un rol de Postgres mediante roleName. También retira run_sql_transaction del modo de solo lectura porque permitía escribir. Los controles de SQL no limitan por sí solos todas las herramientas de gestión."
+      ],
+      "sections": [],
+      "takeaway": "Los equipos pueden revisar modelos disponibles y permisos de sus agentes en el registro de cambios.",
+      "caveat": "No hemos probado las llamadas. Un rol con privilegios amplios conserva esos privilegios; la documentación recomienda desarrollo y pruebas.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Neon",
+          "title": "Documentación original",
+          "url": "https://neon.com/docs/changelog/2026-10-16"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-quantum-circuits-20261016",
+      "title": "Anthropic investiga circuitos cuánticos diseñados con ayuda de Claude",
+      "summary": "Anthropic presenta un experimento en el que Claude Mythos 5 propone circuitos y recibe puntuaciones de un evaluador programado.",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-16",
+      "source": "Anthropic",
+      "sourceTitle": "Anthropic investiga circuitos cuánticos diseñados con ayuda de Claude",
+      "sourceUrl": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "art": "model",
+      "body": [
+        "Anthropic presenta un experimento en el que Claude Mythos 5 propone circuitos y recibe puntuaciones de un evaluador programado. El trabajo aborda ocho tareas y publica un preprint: siete reducen a la vez puertas y cúbits frente a diseños previos; la octava mejora el compromiso entre ambos recursos mediante una arquitectura de inversión modular. El ejemplo de decodificación reduce unas doce veces las puertas, según los autores. Es investigación sobre diseños y costes, no una demostración de que un ordenador cuántico actual resuelva ya esas aplicaciones. Su utilidad inmediata está en explorar métodos de investigación verificables por código."
+      ],
+      "sections": [],
+      "takeaway": "Referencia para investigación computacional, no una herramienta de uso general.",
+      "caveat": "No hemos realizado una prueba independiente. Sin réplica independiente ni prueba propia; paper consultado en ficha y resumen, no sus 46 páginas. El blog reconoce intervenciones humanas ocasionales.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://arxiv.org/abs/2610.22367"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-ecdsa-seed-origins-20261016",
+      "title": "Claude ayuda a reconstruir el origen de parámetros públicos de ECDSA",
+      "summary": "Anthropic publica una explicación reproducible del origen de las semillas de cinco curvas primas del NIST.",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-16",
+      "source": "Anthropic",
+      "sourceTitle": "Claude ayuda a reconstruir el origen de parámetros públicos de ECDSA",
+      "sourceUrl": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "art": "model",
+      "body": [
+        "Anthropic publica una explicación reproducible del origen de las semillas de cinco curvas primas del NIST. Según el equipo, un modelo interno identificó salidas de lrand48 inicializado con marcas de tiempo, en lugar de la frase secreta que se había supuesto. El artículo aporta código y también enumera incógnitas: una semilla binaria y varios puntos base siguen sin explicación, y se desconoce por qué se omitieron ciertos candidatos. El hallazgo trata la procedencia histórica de parámetros públicos. No supone romper ECDSA ni recuperar claves privadas, y tampoco prueba por sí solo la ausencia absoluta de puertas traseras."
+      ],
+      "sections": [],
+      "takeaway": "Material divulgativo sobre verificación y seguridad.",
+      "caveat": "No hemos realizado una prueba independiente. No se ejecutó el código ni se obtuvo réplica independiente. El modelo se describe como interno; no se confirma acceso público a esa capacidad.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://words.filippo.io/seeds-bounty/"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-ai-expectations-survey-20261016",
+      "title": "Una encuesta mide la brecha de expectativas sobre la IA en Estados Unidos",
+      "summary": "Un informe de Anthropic compara expectativas, no capacidades demostradas.",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-16",
+      "source": "Anthropic",
+      "sourceTitle": "Una encuesta mide la brecha de expectativas sobre la IA en Estados Unidos",
+      "sourceUrl": "https://www.anthropic.com/research/ai-expectations-gap",
+      "art": "model",
+      "body": [
+        "Un informe de Anthropic compara expectativas, no capacidades demostradas. En la encuesta de agosto, el 91 % de sus empleados participantes esperaba que la IA pudiera hacer un descubrimiento de nivel Nobel en 2030, frente al 39 % de los adultos estadounidenses. Morning Consult encuestó a 10.980 adultos mediante un panel en línea con ponderación; el sondeo interno reunió 1.334 respuestas sin ponderar. Las preguntas de futuro se repartieron entre 2027 y 2030 para el público. La brecha ayuda a entender discursos diferentes sobre automatización, pero no permite trasladar esos porcentajes a España ni convertirlos en una previsión cierta."
+      ],
+      "sections": [],
+      "takeaway": "Contexto editorial para debatir automatización.",
+      "caveat": "No hemos realizado una prueba independiente. Panel voluntario en línea y selección interna; las respuestas no prueban causalidad, futuros premios, paro ni crecimiento económico. No se revisó el apéndice PDF.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://www.anthropic.com/research/ai-expectations-gap"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-internal-employment-study-20261016",
+      "title": "Anthropic estudia cómo cambia el trabajo en su propia plantilla",
+      "summary": "Anthropic publica un estudio de sus registros internos y 17 entrevistas.",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-16",
+      "source": "Anthropic",
+      "sourceTitle": "Anthropic estudia cómo cambia el trabajo en su propia plantilla",
+      "sourceUrl": "https://www.anthropic.com/research/employment-at-anthropic",
+      "art": "model",
+      "body": [
+        "Anthropic publica un estudio de sus registros internos y 17 entrevistas. La proporción de nuevas contrataciones técnicas júnior pasa del 27 % al 9 %, mientras aumenta el uso de agentes; el empleo técnico total sigue creciendo en términos absolutos. La relación de seis horas de agentes por una humana compara tiempo activo de sesiones con una jornada humana supuesta de cuarenta horas semanales. No mide seis veces más productividad. El análisis reconoce que adoptar herramientas no es aleatorio y que más código no equivale necesariamente a mejor resultado. El estudio apunta al cambio hacia supervisar y verificar trabajo automatizado."
+      ],
+      "sections": [],
+      "takeaway": "Pensar en revisión humana y aprendizaje profesional.",
+      "caveat": "No hemos realizado una prueba independiente. Estudio del propio proveedor, sin causalidad experimental ni representatividad de toda la economía. Horas activas de agentes y humanas usan definiciones distintas.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-code-review-ga-20261015",
+      "title": "Code Review de Anthropic pasa a disponibilidad general",
+      "summary": "Anthropic ha retirado la etiqueta de investigación de Code Review para organizaciones Team y Enterprise.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-15",
+      "source": "Anthropic",
+      "sourceTitle": "Code Review de Anthropic pasa a disponibilidad general",
+      "sourceUrl": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+      "art": "agents",
+      "body": [
+        "Anthropic ha retirado la etiqueta de investigación de Code Review para organizaciones Team y Enterprise. El servicio revisa cambios en GitHub mediante varios agentes, verifica hallazgos y permite elegir niveles de revisión por repositorio. La empresa afirma que la mayoría de revisiones tarda ahora entre seis y diez minutos, frente a unos veinte durante la prueba. La utilidad es detectar fallos antes de integrar código, pero estas cifras proceden del proveedor. La documentación advierte de que puede pasar por alto errores y que un resultado sin hallazgos no certifica que el código sea seguro."
+      ],
+      "sections": [],
+      "takeaway": "Añadir revisión automática manteniendo responsabilidad del equipo.",
+      "caveat": "No hemos realizado una prueba independiente. No aprueba ni bloquea por sí mismo la integración. Restricciones de planes, retención y claves; sin prueba propia.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://claude.com/resources/articles/code-review-is-now-generally-available"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://code.claude.com/docs/en/code-review"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-opus55-fast-ga-20261015",
+      "title": "El modo rápido de Opus 5.5 deja de exigir solicitud de acceso",
+      "summary": "Las notas de Claude Platform del 15 de octubre confirman que el modo rápido de Opus 5.5 sale de la fase de investigación y deja de requerir solicitud de acceso.",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-15",
+      "source": "Anthropic",
+      "sourceTitle": "El modo rápido de Opus 5.5 deja de exigir solicitud de acceso",
+      "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview",
+      "art": "model",
+      "body": [
+        "Las notas de Claude Platform del 15 de octubre confirman que el modo rápido de Opus 5.5 sale de la fase de investigación y deja de requerir solicitud de acceso. La guía indica que utiliza el mismo modelo con una configuración de inferencia más rápida y precio superior. La mejora anunciada se refiere a tokens de salida por segundo, no a garantizar que cualquier tarea termine antes ni a aumentar la inteligencia. Puede interesar a aplicaciones interactivas con respuesta larga. Se mantienen niveles de uso, límites de capacidad y diferencias entre plataformas; no se ha realizado ninguna llamada."
+      ],
+      "sections": [],
+      "takeaway": "Comparar velocidad y coste por tarea antes de cambiar una integración.",
+      "caveat": "No hemos realizado una prueba independiente. Precio superior, límites propios y plataformas excluidas. Ganancia declarada por Anthropic; sin medición independiente.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Documentación original",
+          "url": "https://platform.claude.com/docs/en/build-with-claude/fast-mode"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-tokenhub-minimax27-retirement-notice-20261016",
+      "title": "Tencent TokenHub retirará MiniMax-M2.7 el 17 de noviembre",
+      "summary": "Tencent Cloud ha anunciado que MiniMax-M2.7 dejará de estar disponible en su servicio TokenHub el 17 de noviembre, a las 23:59:59 de Pekín.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Tencent",
+      "company": "Tencent",
+      "date": "2026-10-16",
+      "source": "Tencent",
+      "sourceTitle": "Tencent TokenHub retirará MiniMax-M2.7 el 17 de noviembre",
+      "sourceUrl": "https://intl.cloud.tencent.com/pt/announce/detail/101558",
+      "art": "agents",
+      "body": [
+        "Tencent Cloud ha anunciado que MiniMax-M2.7 dejará de estar disponible en su servicio TokenHub el 17 de noviembre, a las 23:59:59 de Pekín. Recomienda migrar a MiniMax-M3 y describe un cambio automático solo para cuentas que cumplan determinadas condiciones de pago por uso. El aviso importa para quienes mantienen integraciones que podrían fallar o cambiar de comportamiento y facturación al llegar la fecha. Es un anuncio de retirada futura de este proveedor concreto, no una retirada mundial ya consumada del modelo. Conviene probar el reemplazo y revisar las condiciones del servicio antes del cambio."
+      ],
+      "sections": [],
+      "takeaway": "Inventariar integraciones afectadas y evaluar el sustituto.",
+      "caveat": "No hemos realizado una prueba independiente. No extrapolar a MiniMax directo ni a otros proveedores. No se ha probado la API; el aviso no demuestra equivalencia funcional.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Tencent",
+          "title": "Documentación original",
+          "url": "https://intl.cloud.tencent.com/pt/announce/detail/101558"
+        }
+      ]
+    },
+    {
+      "slug": "skywork-matrix-game4-rtx5090-20261015",
+      "title": "Matrix-Game 4.0 publica una optimización para RTX 5090",
+      "summary": "El repositorio de Matrix-Game 4.0 anuncia una optimización disponible para RTX 5090 desde el 15 de octubre.",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "Skywork",
+      "company": "Skywork",
+      "date": "2026-10-15",
+      "source": "Skywork",
+      "sourceTitle": "Matrix-Game 4.0 publica una optimización para RTX 5090",
+      "sourceUrl": "https://github.com/SkyworkAI/Matrix-Game/blob/main/Matrix-Game-4/README.md",
+      "art": "china",
+      "body": [
+        "El repositorio de Matrix-Game 4.0 anuncia una optimización disponible para RTX 5090 desde el 15 de octubre. El sistema combina un motor convencional, que conserva física y controles, con un modelo de vídeo que transforma la escena visual. La ficha pública ofrece tres escenarios y código de inferencia; no equivale a un generador universal de videojuegos terminados. Puede interesar a desarrolladores que experimentan con renderizado neuronal interactivo. La documentación advierte de deformaciones y pérdida de consistencia, especialmente con movimientos rápidos o sesiones largas. No se han ejecutado los modelos ni medido su rendimiento."
+      ],
+      "sections": [],
+      "takeaway": "Evaluar escenas concretas en Linux con el entorno indicado.",
+      "caveat": "No hemos realizado una prueba independiente. Compatibilidad con RTX 5080/5070 anunciada para más adelante, no confirmada. Windows no validado. No se garantiza FPS ni memoria; tres escenas publicadas frente a demostraciones más amplias. Sin datos ni código de entrenamiento. Licencias de componentes y activos deben comprobarse por separado.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Skywork",
+          "title": "Documentación original",
+          "url": "https://github.com/SkyworkAI/Matrix-Game/blob/main/Matrix-Game-4/README.md"
+        },
+        {
+          "name": "Skywork",
+          "title": "Documentación original",
+          "url": "https://huggingface.co/Skywork/Matrix-Game-4.0"
+        },
+        {
+          "name": "Skywork",
+          "title": "Documentación original",
+          "url": "https://huggingface.co/Skywork/Matrix-Game-4.0/tree/main"
+        },
+        {
+          "name": "Skywork",
+          "title": "Documentación original",
+          "url": "https://matrix-game-v4-0.github.io/page/"
+        }
+      ]
+    },
+    {
+      "slug": "multiverse-comet60b-20261015",
+      "title": "Multiverse Computing presenta Comet 60B, derivado de Nemotron Super VL",
+      "summary": "Multiverse Computing anuncia un modelo comprimido a partir de NVIDIA Nemotron 3.5 Super VL.",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "Multiverse Computing",
+      "company": "Multiverse Computing",
+      "date": "2026-10-15",
+      "source": "Multiverse Computing",
+      "sourceTitle": "Multiverse Computing presenta Comet 60B, derivado de Nemotron Super VL",
+      "sourceUrl": "https://multiversecomputing.com/resources/multiverse-computing-launches-comet-60b-in-collaboration-with-nvidia",
+      "art": "model",
+      "body": [
+        "Multiverse Computing anuncia Comet 60B, desarrollado a partir de NVIDIA Nemotron 3.5 Super VL. La empresa reduce aproximadamente a la mitad los parámetros totales y conserva entradas de texto, imagen y vídeo. Su informe técnico explica que los parámetros activos apenas cambian, por lo que no cabe deducir una reducción equivalente del cálculo por token. Afirma mantener resultados cercanos al original, con diferencias según la prueba. La publicación enlaza formatos BF16, FP8 y NVFP4; los repositorios no han sido accesibles para revisar archivos. La compresión anunciada requiere evaluación propia antes de atribuir ahorros reales."
+      ],
+      "sections": [],
+      "takeaway": "Preparar una evaluación técnica posterior.",
+      "caveat": "Los resultados son del proveedor. Se ha consultado parcialmente el listado NVFP4; FP8 sigue pendiente. Menos parámetros totales no significa reducir a la mitad el coste por token.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Multiverse Computing",
+          "title": "Documentación original",
+          "url": "https://multiversecomputing.com/resources/multiverse-computing-launches-comet-60b-in-collaboration-with-nvidia"
+        },
+        {
+          "name": "Multiverse Computing",
+          "title": "Documentación original",
+          "url": "https://huggingface.co/MultiverseComputingCAI/Comet_60B_A12B_NVFP4"
+        },
+        {
+          "name": "Multiverse Computing",
+          "title": "Documentación original",
+          "url": "https://huggingface.co/MultiverseComputingCAI/Comet_60B_A12B_NVFP4/tree/main"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-ai4bharat-indic-pretraining-20261016",
+      "title": "NVIDIA y AI4Bharat anuncian datos para 22 lenguas de la India",
+      "summary": "Un artículo de NVIDIA y AI4Bharat anuncia Nemotron-pretraining-Indic-v1, con aproximadamente dos coma ocho billones de tokens para veintidós lenguas de la India y una receta de generación de datos.",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "NVIDIA",
+      "company": "NVIDIA",
+      "date": "2026-10-16",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA y AI4Bharat anuncian datos para 22 lenguas de la India",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "art": "model",
+      "body": [
+        "Un artículo de NVIDIA y AI4Bharat anuncia Nemotron-pretraining-Indic-v1, con aproximadamente dos coma ocho billones de tokens para veintidós lenguas de la India y una receta de generación de datos. El texto principal dice que el corpus se publicará próximamente, mientras que una página compañera lo describe como ya abierto. Sin un repositorio de datos comprobado, la disponibilidad queda pendiente. La documentación también presenta una suite de evaluación: la traducción no garantiza calidad cultural ni permite atribuir toda mejora del modelo a los datos sintéticos."
+      ],
+      "sections": [],
+      "takeaway": "Examinar procedencia y validación por lengua.",
+      "caveat": "No hemos realizado una prueba independiente. Discrepancia de disponibilidad; repositorio del plugin bloqueado por la herramienta; no descarga ni ejecución.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://ai4bharat.github.io/indic-llm-eval-suite-blog/"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-gfn-dlss45-controls-20261015",
+      "title": "GeForce NOW añade controles de DLSS 4.5",
+      "summary": "NVIDIA documenta nuevos controles de DLSS cuatro coma cinco en GeForce NOW para ajustar funciones de reconstrucción y generación de imágenes en juegos compatibles.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "NVIDIA",
+      "company": "NVIDIA",
+      "date": "2026-10-15",
+      "source": "NVIDIA",
+      "sourceTitle": "GeForce NOW añade controles de DLSS 4.5",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+      "art": "agents",
+      "body": [
+        "NVIDIA documenta nuevos controles de DLSS cuatro coma cinco en GeForce NOW para ajustar funciones de reconstrucción y generación de imágenes en juegos compatibles. La ayuda oficial precisa que las opciones no son iguales en todas las suscripciones o máquinas remotas; la generación dinámica de varios fotogramas exige Ultimate y un equipo remoto compatible. La novedad está en el control del procesamiento gráfico con IA en la nube, no en los juegos añadidos al catálogo. No se ha medido la latencia ni la calidad y no se recomienda contratar un plan a partir del anuncio."
+      ],
+      "sections": [],
+      "takeaway": "Consultar tabla de compatibilidad.",
+      "caveat": "No hemos realizado una prueba independiente. Acceso y resultados dependen de plan, equipo y juego; sin prueba propia.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Documentación original",
+          "url": "https://nvidia.custhelp.com/app/answers/detail/a_id/5876"
+        }
+      ]
+    },
+    {
+      "slug": "xbox-labs-ai-20261016",
+      "title": "Xbox Labs abre un programa de experimentación con videojuegos",
+      "summary": "La nota original de Xbox del 13 de octubre confirma la creación de un pequeño equipo de desarrolladores, ingenieros y científicos para experimentar con ideas emergentes.",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Microsoft",
+      "company": "Microsoft",
+      "date": "2026-10-13",
+      "source": "Microsoft",
+      "sourceTitle": "Xbox Labs abre un programa de experimentación con videojuegos",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/",
+      "art": "agents",
+      "body": [
+        "La nota original de Xbox del 13 de octubre confirma la creación de un pequeño equipo de desarrolladores, ingenieros y científicos para experimentar con ideas emergentes. Relaciona las posibilidades de los agentes de programación con juegos que se reconstruyen o adaptan a otros dispositivos y promete compartir lo aprendido. Esto resuelve la falta de fuente primaria de la referencia incluida por Matt Wolfe el 16 de octubre. La noticia es un programa exploratorio, sin catálogo de herramientas de IA listo para el público ni calendario de lanzamientos. No se infiere que todos los proyectos vayan a emplear IA."
+      ],
+      "sections": [],
+      "takeaway": "Contexto para desarrollo de videojuegos asistido por agentes.",
+      "caveat": "No hemos realizado una prueba independiente. Sin pruebas, productos finales ni fechas; no se interpreta el anuncio como autorización jurídica general para descompilar juegos.",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "sources": [
+        {
+          "name": "Microsoft",
+          "title": "Documentación original",
+          "url": "https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/"
+        },
+        {
+          "name": "Microsoft",
+          "title": "Documentación original",
+          "url": "https://labs.xbox.com/"
+        }
+      ]
+    },
     {
       "slug": "boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017",
       "category": "Boletín",
@@ -30,7 +775,26 @@
       "format": "detailed",
       "verification": "confirmed",
       "dateBasis": "source",
-      "sources": []
+      "sources": [],
+      "webLinks": [
+        {
+          "label": "También en vídeo · resumen",
+          "url": "https://www.youtube.com/shorts/tYcsUY8GRlk"
+        },
+        {
+          "label": "Boletín en X",
+          "url": "https://x.com/IANoticiasNews/status/2111359938903642511"
+        },
+        {
+          "label": "Boletín en TikTok",
+          "url": "https://www.tiktok.com/@noticiasia.news/video/7697535935910661408"
+        },
+        {
+          "label": "Boletín en Instagram",
+          "url": "https://www.instagram.com/reel/DemhGUuEV9G/"
+        }
+      ],
+      "modifiedAt": "2026-10-17T19:31:15Z"
     },
     {
       "slug": "reflection-beam-20261016",
@@ -822,7 +1586,13 @@
       "takeaway": "Nuestra lectura: cuando una IA puede actuar, además de responder, los permisos y los controles merecen tanta atención como la calidad de sus textos.",
       "caveat": "El informe recoge casos concretos. No ofrece una tasa de fallo aplicable a todos los usuarios o tareas. La fuente incluye una corrección del 12 de octubre.",
       "publishedAt": "2026-10-13T17:42:19.523Z",
-      "modifiedAt": "2026-10-13T17:42:19.523Z"
+      "modifiedAt": "2026-10-17T19:31:15Z",
+      "webLinks": [
+        {
+          "label": "Esta noticia en X",
+          "url": "https://x.com/IANoticiasNews/status/2111517880470601852"
+        }
+      ]
     },
     {
       "slug": "qwen-flash-speed",
@@ -2444,6 +3214,25 @@
     }
   ],
   "selectedSlugs": [
+    "deepseek-v41-flash-1017-update-20261017",
+    "openai-chatgpt-slides-space-20261016",
+    "tencent-hy-memory20-stack-20261016",
+    "anthropic-claude-code-21302-20261016",
+    "nvidia-rtx-spark-windows-availability-20261016",
+    "nvidia-broadcast23-file-processing-mcp-20261016",
+    "neon-ai-gateway-model-catalog-20261016",
+    "anthropic-quantum-circuits-20261016",
+    "anthropic-ecdsa-seed-origins-20261016",
+    "anthropic-ai-expectations-survey-20261016",
+    "anthropic-internal-employment-study-20261016",
+    "anthropic-code-review-ga-20261015",
+    "anthropic-opus55-fast-ga-20261015",
+    "tencent-tokenhub-minimax27-retirement-notice-20261016",
+    "skywork-matrix-game4-rtx5090-20261015",
+    "multiverse-comet60b-20261015",
+    "nvidia-ai4bharat-indic-pretraining-20261016",
+    "nvidia-gfn-dlss45-controls-20261015",
+    "xbox-labs-ai-20261016",
     "boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017",
     "nvidia-nemotron-3-5-super-vl-20261015",
     "reflection-beam-20261016",
@@ -2517,6 +3306,11 @@
     "logitech-mx-keypad-control-agentes"
   ],
   "videos": [
+    {
+      "id": "tYcsUY8GRlk",
+      "title": "El resumen de Noticias IA · 17 de octubre de 2026",
+      "publishedAt": "2026-10-17T12:00:00Z"
+    },
     {
       "id": "ExnzuMOHcVg",
       "title": "Google DeepMind y Singapur ajustan Gemma para detectar estafas en el móvil",
