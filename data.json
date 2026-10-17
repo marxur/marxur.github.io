@@ -3,6 +3,36 @@
   "reviewedAt": "2026-10-15T16:20:00.210Z",
   "articles": [
     {
+      "slug": "boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017",
+      "category": "Boletín",
+      "label": "BOLETÍN",
+      "topic": "Noticias IA",
+      "title": "Más de 400 medios ya cobran por alimentar la IA de Google: el boletín de IA del 17/10",
+      "summary": "Google amplía sus pagos a medios, ElevenLabs lanza Instant Soundtracks, Mistral presenta Timestral, IBM Granite Switch 4.1 y más: el boletín de IA en 3 minutos.",
+      "company": "Noticias IA",
+      "date": "2026-10-17",
+      "source": "Noticias IA",
+      "sourceTitle": "Google paga a 400 medios, Timestral, ElevenLabs y más | Noticias IA 17/10 · 8:00",
+      "sourceUrl": "https://www.youtube.com/watch?v=OtmgRexV6LE",
+      "art": "agents",
+      "body": [
+        "Google amplía su programa de pago a medios. Según Google, más de 400 medios ya cobran por aportar contenido a su IA; entre los nuevos socios están CNN, Axios, el Financial Times y Forbes. Les paga por contenido para resúmenes de artículos y boletines de audio, con atribución y enlaces. Es la ampliación de un piloto y se trata de un acuerdo de licencias: no da permiso para reutilizar noticias.",
+        "ElevenLabs lanza Instant Soundtracks. Subes un vídeo y propone música original y efectos sincronizados, en capas separadas. También por API, con hasta 10 minutos y un máximo de 200 MB por petición, según la empresa. Conviene revisar siempre los derechos de uso antes de publicar.",
+        "NVIDIA se suma a la iniciativa europea de IA para la ciencia, ligada a RAISE, con cursos abiertos, colaboraciones y acceso a computación. Cita la fábrica de IA del Barcelona Supercomputing Center, en España. No es acceso automático a GPU para cualquiera.",
+        "ChatGPT quita el límite fijo de número de Sites para Plus y Pro, según las notas de OpenAI. No es ilimitado: siguen los límites de uso y de almacenamiento.",
+        "Adobe y NVIDIA aceleran Photoshop, Premiere y Substance 3D con el chip RTX Spark: hasta el doble de rápido en tareas de IA, según las dos empresas. Su asistente Brand Concierge usará modelos Nemotron, para empresas, más adelante este año. Son cifras de los fabricantes.",
+        "Mistral presentó el día 15 Timestral, modelos para predecir series temporales de 5 a 209 millones de parámetros que, según Mistral, funcionan sin GPU, en un procesador normal. Las comparativas son suyas; el informe técnico llegará más tarde.",
+        "IBM publica Granite Switch 4.1: conversación, decisiones y transcripción de voz desde un único punto de servicio, con versiones de 8.000 y 30.000 millones de parámetros en Hugging Face.",
+        "Volvo y NVIDIA amplían su alianza de conducción automatizada para futuros coches, con Hyperion, Halos OS y Alpamayo.",
+        "Google DeepMind: un investigador y un agente de Antigravity han propuesto un posible péptido antimicrobiano contra bacterias respiratorias, y estrenan un visor 3D compartido entre persona y agente. Es una hipótesis que ya se valida en laboratorio; nada de cura todavía."
+      ],
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "sources": []
+    },
+    {
       "slug": "reflection-beam-20261016",
       "category": "Modelos",
       "label": "ÚLTIMA HORA",
@@ -2414,6 +2444,7 @@
     }
   ],
   "selectedSlugs": [
+    "boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017",
     "nvidia-nemotron-3-5-super-vl-20261015",
     "reflection-beam-20261016",
     "chatgpt-gpt-live-1-1-voces-20261015",

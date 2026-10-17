@@ -2,6 +2,17 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017",
+   "title": "Más de 400 medios ya cobran por alimentar la IA de Google: el boletín de IA del 17/10",
+   "summary": "Google amplía sus pagos a medios, ElevenLabs lanza Instant Soundtracks, Mistral presenta Timestral, IBM Granite Switch 4.1 y más: el boletín de IA en 3 minutos.",
+   "category": "Boletín",
+   "topic": "Noticias IA",
+   "source": "Noticias IA",
+   "date": "2026-10-17",
+   "url": "/noticias/boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017.html",
+   "type": "noticia"
+  },
+  {
    "slug": "reflection-beam-20261016",
    "title": "Noticias de Última Hora: Reflection libera Beam, un modelo abierto de 501.000 millones de parámetros con licencia Apache 2.0",
    "summary": "Reflection publica en Hugging Face los pesos de Beam, su primer modelo abierto: mezcla de expertos con 501.000 millones de parámetros, 23.000 millones activos, para programación, razonamiento y agentes.",
