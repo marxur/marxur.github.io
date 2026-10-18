@@ -3,6 +3,183 @@
   "reviewedAt": "2026-10-17T19:31:15Z",
   "articles": [
     {
+      "slug": "nvidia-dory10-4b-20261016-context",
+      "title": "Dory 1.0: NVIDIA propone ajustar el cálculo sin cambiar de modelo",
+      "summary": "Principal · desarrollo",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "NVIDIA",
+      "company": "NVIDIA",
+      "date": "2026-10-16",
+      "source": "NVIDIA",
+      "sourceTitle": "Dory 1.0: NVIDIA propone ajustar el cálculo sin cambiar de modelo",
+      "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "art": "general",
+      "body": [
+        "Principal · desarrollo",
+        "NVIDIA fecha el 16 de octubre la publicación de Dory 1.0, un modelo de lenguaje de 4.000 millones de parámetros. Su arquitectura reutiliza un bloque de capas varias veces: permite dedicar más cálculo a cada token con los mismos pesos.",
+        "La ficha documenta hasta 256.000 tokens de contexto y varias precisiones numéricas. La utilidad de esta propuesta está en poder comparar distintos presupuestos de cálculo sin cargar otro modelo. Eso no garantiza una respuesta mejor en cualquier tarea: las tablas del proveedor muestran que aumentar las repeticiones no mejora todos los resultados.",
+        "Para probarlo hay una condición importante. La propia guía indica que el soporte de vLLM y llama.cpp pasa por propuestas de integración o código específico; los comandos genéricos de una plataforma no acreditan compatibilidad con sus versiones estables.",
+        "Las evaluaciones proceden de NVIDIA. No hemos instalado el modelo ni reproducido sus pruebas. El idioma declarado en la ficha es inglés; el rendimiento en español queda por evaluar."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-18T23:16:00Z",
+      "modifiedAt": "2026-10-18T23:16:00Z",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Fuente primaria",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16"
+        }
+      ]
+    },
+    {
+      "slug": "openmoss-moss-image-20261016-context",
+      "title": "MOSS-Image publica código y pesos para controlar la composición de imágenes",
+      "summary": "Breve",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "OpenMOSS",
+      "company": "OpenMOSS",
+      "date": "2026-10-16",
+      "source": "OpenMOSS",
+      "sourceTitle": "MOSS-Image publica código y pesos para controlar la composición de imágenes",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-Image",
+      "art": "general",
+      "body": [
+        "Breve",
+        "OpenMOSS anunció el 16 de octubre MOSS-Image-Base y MOSS-Image-SFT, con código y pesos públicos. El proyecto permite controlar la colocación de texto y elementos visuales y ofrece una guía para composiciones estructuradas.",
+        "El repositorio incluye un complemento propio para ComfyUI; sus responsables indican que trabajan en la integración oficial. No hemos generado imágenes ni comprobado la fidelidad de los rótulos en español. El tamaño de su núcleo no basta para deducir la memoria total necesaria."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-18T23:16:00Z",
+      "modifiedAt": "2026-10-18T23:16:00Z",
+      "sources": [
+        {
+          "name": "OpenMOSS",
+          "title": "Fuente primaria",
+          "url": "https://github.com/OpenMOSS/MOSS-Image"
+        }
+      ]
+    },
+    {
+      "slug": "elorian-glimpse-preview-20261016-context",
+      "title": "Elorian presenta Glimpse, una vista previa para razonar sobre imágenes y vídeo",
+      "summary": "Breve",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "Elorian",
+      "company": "Elorian",
+      "date": "2026-10-16",
+      "source": "Elorian",
+      "sourceTitle": "Elorian presenta Glimpse, una vista previa para razonar sobre imágenes y vídeo",
+      "sourceUrl": "https://elorian.ai/blog/introducing-glimpse",
+      "art": "general",
+      "body": [
+        "Breve",
+        "Elorian presentó Glimpse el 16 de octubre como vista previa de investigación y anunció acceso mediante API e interfaz de chat. Según la empresa, el sistema puede volver sobre zonas de una imagen o intervalos de vídeo para revisar su interpretación.",
+        "Sus comparativas son pruebas del propio proveedor y no muestran una ventaja universal frente a otros modelos. No hemos probado el servicio ni calculado el coste de una tarea completa. Puede ser un candidato para evaluar análisis de material audiovisual propio."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-18T23:16:00Z",
+      "modifiedAt": "2026-10-18T23:16:00Z",
+      "sources": [
+        {
+          "name": "Elorian",
+          "title": "Fuente primaria",
+          "url": "https://elorian.ai/blog/introducing-glimpse"
+        }
+      ]
+    },
+    {
+      "slug": "openspec-1143-linked-specs-20261017",
+      "title": "OpenSpec 1.14.3 añade especificaciones enlazadas y controles de rutas",
+      "summary": "Breve",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "OpenSpec",
+      "company": "OpenSpec",
+      "date": "2026-10-17",
+      "source": "OpenSpec",
+      "sourceTitle": "OpenSpec 1.14.3 añade especificaciones enlazadas y controles de rutas",
+      "sourceUrl": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.14.3",
+      "art": "general",
+      "body": [
+        "Breve",
+        "La versión 1.14.3 de OpenSpec, publicada el 17 de octubre, admite especificaciones enlazadas desde otros lugares del mismo proyecto. Las notas también describen controles para impedir que determinadas operaciones escriban fuera del directorio de cambio.",
+        "Los mantenedores retiran una dependencia que generaba avisos de seguridad y corrigen un bloqueo de validación en algunos hooks. Son cambios documentados en la versión original; no hemos instalado la herramienta ni realizado una auditoría de seguridad."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-18T23:16:00Z",
+      "modifiedAt": "2026-10-18T23:16:00Z",
+      "sources": [
+        {
+          "name": "OpenSpec",
+          "title": "Fuente primaria",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.14.3"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-muse-spark-dflash2-20261016-signal",
+      "title": "NVIDIA documenta DFlash2 como modelo auxiliar para Muse Spark Open",
+      "summary": "Breve",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "NVIDIA",
+      "company": "NVIDIA",
+      "date": "2026-10-16",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA documenta DFlash2 como modelo auxiliar para Muse Spark Open",
+      "sourceUrl": "https://huggingface.co/nvidia/Muse-Spark-Open-816B-A42B-DFlash2",
+      "art": "general",
+      "body": [
+        "Breve",
+        "La ficha de NVIDIA describe Muse Spark DFlash2 como un modelo auxiliar de decodificación especulativa para Muse Spark Open. Propone grupos de tokens que después verifica el modelo principal; no sustituye por sí solo a Muse Spark.",
+        "La incorporación editorial aclara una señal del 16 de octubre cuyo acceso estaba pendiente en el radar. La documentación ya puede consultarse, pero no hemos descargado los pesos ni medido aceleración. El rendimiento dependerá del motor, el hardware y la carga de trabajo."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-18T23:16:00Z",
+      "modifiedAt": "2026-10-18T23:16:00Z",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Fuente primaria",
+          "url": "https://huggingface.co/nvidia/Muse-Spark-Open-816B-A42B-DFlash2"
+        }
+      ]
+    },
+    {
       "slug": "deepseek-v41-flash-1017-update-20261017",
       "title": "DeepSeek actualiza V4.1 Flash y abre su buscador por API",
       "summary": "DeepSeek anuncia Flash-1017 en API, web y aplicación y abre el acceso a su motor de búsqueda.",
@@ -23,6 +200,10 @@
         {
           "heading": "Qué conviene comprobar",
           "body": "Un alias que apunta a la versión más reciente puede cambiar el comportamiento sin modificar el código de la aplicación. Comparar tareas habituales y registrar la fecha ayuda a distinguir una actualización del modelo de otros cambios del sistema."
+        },
+        {
+          "heading": "Ampliación de la ficha existente de DeepSeek Flash-1017",
+          "body": "Actualización · añadir sin sustituir el texto previo\n\nLa ficha oficial de pesos de Flash-1017 declara licencia MIT y aclara que el repositorio no incluye una plantilla de chat Jinja. Ofrece un codificador de referencia y remite a deepseek-recipe para convertir solicitudes y analizar respuestas.\n\nLa ejecución del modelo, las herramientas y el transporte HTTP quedan a cargo del integrador. Esta precisión distingue el servicio alojado de una instalación propia: no supone otro lanzamiento de DeepSeek ni acredita una instalación probada por esta redacción."
         }
       ],
       "takeaway": "Quienes integran DeepSeek pueden revisar el nuevo modelo y el servicio de búsqueda desde su documentación oficial.",
@@ -32,12 +213,17 @@
       "verification": "confirmed",
       "dateBasis": "source",
       "publishedAt": "2026-10-17T19:31:15Z",
-      "modifiedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-18T23:16:00Z",
       "sources": [
         {
           "name": "DeepSeek",
           "title": "Documentación original",
           "url": "https://api-docs.deepseek.com/updates/"
+        },
+        {
+          "name": "DeepSeek",
+          "title": "Ficha oficial de pesos Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
         }
       ]
     },
