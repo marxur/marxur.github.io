@@ -3,6 +3,159 @@
   "reviewedAt": "2026-10-17T19:31:15Z",
   "articles": [
     {
+      "slug": "anthropic-public-benefit-fund-20261018",
+      "title": "Anthropic propone destinar un 5 % de sus acciones a un fondo de beneficio público",
+      "summary": "Principal · anuncio corporativo condicionado",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "topic": "Anthropic",
+      "company": "Anthropic",
+      "date": "2026-10-18",
+      "source": "Anthropic",
+      "sourceTitle": "Anthropic propone destinar un 5 % de sus acciones a un fondo de beneficio público",
+      "sourceUrl": "https://www.anthropic.com/news/public-benefit-fund",
+      "art": "general",
+      "body": [
+        "Principal · anuncio corporativo condicionado",
+        "La iniciativa depende de la aprobación de los accionistas. No supone un reparto de dinero ya realizado ni abre por ahora una convocatoria de ayudas.",
+        "Anthropic anunció el 18 de octubre que prevé comprometer inicialmente un 5 % de sus acciones a un fondo de beneficio público, sujeto a aprobación accionarial. El consejo podría añadir otros dos puntos porcentuales por cada aumento del 50 % de la valoración respecto a una base que deberá concretarse.",
+        "La empresa menciona posibles donaciones a entidades y transferencias a colectivos. Los incrementos posteriores serían discrecionales, no automáticos.",
+        "El anuncio plantea financiar actuaciones sociales con participación en la compañía. No modifica el acceso a Claude ni acredita pagos. Anthropic dice que ampliará la información sobre gobernanza y estructura en los próximos meses. Quedan por comprobar la aprobación, la ejecución y los criterios para elegir beneficiarios."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-20T06:48:00Z",
+      "modifiedAt": "2026-10-20T06:48:00Z",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Leer el anuncio original de Anthropic",
+          "url": "https://www.anthropic.com/news/public-benefit-fund"
+        }
+      ]
+    },
+    {
+      "slug": "pilotdeck-20-memoria-proyectos-20261015",
+      "title": "PilotDeck 2.0 organiza los agentes con memoria y archivos por proyecto",
+      "summary": "Breve · herramienta · antecedente incorporado",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "PilotDeck",
+      "company": "PilotDeck",
+      "date": "2026-10-15",
+      "source": "PilotDeck",
+      "sourceTitle": "PilotDeck 2.0 organiza los agentes con memoria y archivos por proyecto",
+      "sourceUrl": "https://github.com/OpenBMB/PilotDeck",
+      "art": "general",
+      "body": [
+        "Breve · herramienta · antecedente incorporado",
+        "PilotDeck 2.0 propone separar los archivos, la memoria y las habilidades de cada proyecto en espacios de trabajo. Su repositorio fecha el anuncio el 15 de octubre; no es un lanzamiento del día 19.",
+        "La documentación describe memoria editable, configuración visual y ejecución de tareas prolongadas. Puede servir como candidato para estudiar flujos persistentes, pero no lo hemos instalado ni auditado. Tampoco hemos reproducido las cifras de ahorro de sus autores. El acceso al código no elimina los posibles costes de los modelos conectados."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-20T06:48:00Z",
+      "modifiedAt": "2026-10-20T06:48:00Z",
+      "sources": [
+        {
+          "name": "PilotDeck",
+          "title": "Consultar el repositorio y la documentación original",
+          "url": "https://github.com/OpenBMB/PilotDeck"
+        }
+      ]
+    },
+    {
+      "slug": "github-copilot-calendario-retiradas-20260918",
+      "title": "Copilot: qué revisar ante las retiradas previstas para el 19 de octubre",
+      "summary": "Breve · aviso operativo · calendario, no ejecución comprobada",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "topic": "GitHub",
+      "company": "GitHub",
+      "date": "2026-09-18",
+      "source": "GitHub",
+      "sourceTitle": "Copilot: qué revisar ante las retiradas previstas para el 19 de octubre",
+      "sourceUrl": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october/",
+      "art": "general",
+      "body": [
+        "Breve · aviso operativo · calendario, no ejecución comprobada",
+        "GitHub fijó para el 19 de octubre la retirada de Gemini 3.7 Flash, GPT-5.5, GPT-5.4, GPT-5.4 mini, GPT-5 mini y Grok 4.5 en Copilot. Propone, respectivamente, Gemini 3.8 Flash, GPT-5.6 Sol, GPT-5.6 Sol, GPT-5.6 Luna, GPT-5.6 Luna y Grok 4.6.",
+        "Conviene revisar el selector y las políticas de modelos del equipo. La tabla general consultada todavía enumera los afectados: no damos por completada la retirada solo por haber llegado la fecha.",
+        "Es un calendario distinto del anunciado el 15 de octubre para el 16 de noviembre. Este último afecta a Opus 4.8, Opus 5 y GPT-5.6 Terra; GitHub mantiene una excepción para Opus 4.8 en suscripciones individuales anuales."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-20T06:48:00Z",
+      "modifiedAt": "2026-10-20T06:48:00Z",
+      "sources": [
+        {
+          "name": "GitHub",
+          "title": "Calendario de octubre",
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october/"
+        },
+        {
+          "name": "GitHub",
+          "title": "Documentación de modelos admitidos",
+          "url": "https://docs.github.com/en/copilot/reference/ai-models/supported-models"
+        },
+        {
+          "name": "GitHub",
+          "title": "Calendario de noviembre y excepción",
+          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-November/"
+        }
+      ]
+    },
+    {
+      "slug": "aa-robotics-v01-limites-20261014",
+      "title": "AA-Robotics mide cómo actúan cinco modelos con un brazo robótico",
+      "summary": "Breve · evaluación externa · antecedente incorporado",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "topic": "Artificial Analysis",
+      "company": "Artificial Analysis",
+      "date": "2026-10-14",
+      "source": "Artificial Analysis",
+      "sourceTitle": "AA-Robotics mide cómo actúan cinco modelos con un brazo robótico",
+      "sourceUrl": "https://artificialanalysis.ai/articles/aa-robotics?aa-robotics-run-task=shape-matching-challenge",
+      "art": "general",
+      "body": [
+        "Breve · evaluación externa · antecedente incorporado",
+        "Artificial Analysis publicó el 14 de octubre una evaluación preliminar con cinco modelos y ocho tareas de sobremesa, desde mover objetos hasta medir una caja. Los agentes controlan un brazo robótico mediante código y reciben una puntuación por el resultado.",
+        "El evaluador documenta tiempos, costes y errores, y advierte de que estos sistemas aún son demasiado lentos y caros para el uso productivo descrito. Las conclusiones se limitan a este entorno: no prueban autonomía general ni seguridad industrial. Hemos consultado el artículo y su metodología, sin visionar los clips ni repetir los experimentos."
+      ],
+      "sections": [],
+      "takeaway": "",
+      "caveat": "",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-20T06:48:00Z",
+      "modifiedAt": "2026-10-20T06:48:00Z",
+      "sources": [
+        {
+          "name": "Artificial Analysis",
+          "title": "Leer el estudio y su metodología",
+          "url": "https://artificialanalysis.ai/articles/aa-robotics?aa-robotics-run-task=shape-matching-challenge"
+        }
+      ]
+    },
+    {
       "slug": "nvidia-dory10-4b-20261016-context",
       "title": "Dory 1.0: NVIDIA propone ajustar el cálculo sin cambiar de modelo",
       "summary": "Principal · desarrollo",
