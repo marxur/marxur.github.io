@@ -1,7 +1,1193 @@
 {
-  "edition": "2026-10-21T15:32:02Z",
-  "reviewedAt": "2026-10-21T15:32:02Z",
+  "edition": "2026-10-21T23:02:24Z",
+  "reviewedAt": "2026-10-21T23:02:24Z",
   "articles": [
+    {
+      "slug": "openai-google-cloud-model-garden-20261021",
+      "title": "OpenAI llevará sus modelos y Codex a Google Cloud",
+      "summary": "El acuerdo incorpora los modelos de OpenAI al catálogo de Google Cloud. La disponibilidad general está prevista para las próximas semanas.",
+      "body": [
+        "OpenAI y Google Cloud anunciaron el 21 de octubre una alianza para integrar los modelos de OpenAI y los flujos de Codex en Model Garden. Los clientes podrán contratarlos a través de Google Cloud Marketplace y utilizar sus compromisos de gasto con esa plataforma.",
+        "La integración combina estos modelos con los controles de acceso y la gestión de datos de Google Cloud. OpenAI también anuncia su futura incorporación a Antigravity y Gemini Agent.",
+        "Para una empresa que ya trabaja en Google Cloud, el cambio puede simplificar la contratación y la evaluación de modelos dentro de su infraestructura habitual. El anuncio no concreta qué modelos, regiones y tarifas estarán disponibles al abrirse el servicio."
+      ],
+      "sections": [],
+      "takeaway": "Una nueva vía empresarial para contratar OpenAI.",
+      "caveat": "El acceso general todavía es futuro; no hemos probado la integración.",
+      "company": "OpenAI",
+      "topic": "Google Cloud",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "OpenAI llevará sus modelos y Codex a Google Cloud",
+      "sourceUrl": "https://openai.com/index/openai-models-google-cloud/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Consultar la fuente original",
+          "url": "https://openai.com/index/openai-models-google-cloud/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "mistral-voxtral3-20261020",
+      "title": "Voxtral 3 reúne escucha, voz y herramientas para crear agentes conversacionales",
+      "summary": "Mistral presenta nuevos modelos de transcripción y síntesis junto a un SDK para conversaciones con acciones conectadas.",
+      "body": [
+        "Voxtral 3 integra escucha, razonamiento, generación de voz y llamadas a herramientas en un mismo flujo. Mistral anuncia disponibilidad mediante su API alojada en la Unión Europea o despliegue en infraestructura propia.",
+        "La familia distingue transcripción en más de 50 idiomas y síntesis en más de 35, con control expresivo. El SDK está orientado a asistentes y atención telefónica capaces de consultar sistemas y completar varios pasos.",
+        "Las comparaciones de precisión y latencia proceden del fabricante. Una demostración no acredita que el sistema entienda cualquier acento o ejecute correctamente todas las acciones."
+      ],
+      "sections": [],
+      "takeaway": "Puede reducir el trabajo de integrar un asistente de voz.",
+      "caveat": "Requiere evaluar reconocimiento, interrupciones y permisos con tareas reales.",
+      "company": "Mistral",
+      "topic": "Voz y teclado",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Mistral",
+      "sourceTitle": "Voxtral 3 reúne escucha, voz y herramientas para crear agentes conversacionales",
+      "sourceUrl": "https://mistral.ai/news/voxtral-3/",
+      "sources": [
+        {
+          "name": "Mistral",
+          "title": "Consultar la fuente original",
+          "url": "https://mistral.ai/news/voxtral-3/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "voice"
+    },
+    {
+      "slug": "perplexity-computer-local-mac-20261020",
+      "title": "Perplexity Computer permite ejecutar tareas enteramente en un Mac",
+      "summary": "El modo local mantiene modelo y ejecución en equipos Apple silicon compatibles. La conexión a la nube es una opción separada.",
+      "body": [
+        "Perplexity anunció el 20 de octubre un modo de Computer que realiza planificación, razonamiento y trabajo con archivos en el propio Mac. Ofrece Qwen 3.6 y PPLX Pro como modelos locales.",
+        "La compañía lo sitúa en las suscripciones Pro, Max y Enterprise y recomienda al menos 36 GB de memoria. El acceso a archivos y aplicaciones requiere permisos del usuario.",
+        "El usuario puede autorizar el salto a servicios en la nube para búsquedas o aplicaciones conectadas. Esa posibilidad debe distinguirse del funcionamiento completamente local. No hemos instalado la aplicación ni medido su rendimiento."
+      ],
+      "sections": [],
+      "takeaway": "Otra opción para trabajar con archivos dentro del ordenador.",
+      "caveat": "La memoria y compatibilidad del Mac condicionan el uso.",
+      "company": "Perplexity",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Perplexity",
+      "sourceTitle": "Perplexity Computer permite ejecutar tareas enteramente en un Mac",
+      "sourceUrl": "https://www.perplexity.ai/en-GB/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
+      "sources": [
+        {
+          "name": "Perplexity",
+          "title": "Consultar la fuente original",
+          "url": "https://www.perplexity.ai/en-GB/hub/blog/perplexity-computer-now-runs-fully-local-on-mac"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "chatgpt-ads-expansion-stack-20261021",
+      "title": "OpenAI amplía ChatGPT Ads a 89 países",
+      "summary": "La compañía anuncia 26 mercados adicionales y mantiene los anuncios limitados a los planes Free y Go.",
+      "body": [
+        "OpenAI comunicó el 21 de octubre que su plataforma publicitaria llega a 89 países tras sumar 26. La ampliación incluye mercados de Latinoamérica, Europa, África y Asia.",
+        "Según la empresa, más de 100.000 anunciantes han utilizado la plataforma. Son cifras corporativas. La compañía mantiene que los anuncios estarán identificados y separados de las respuestas, y que Plus, Pro y Enterprise seguirán sin publicidad.",
+        "Para los negocios supone una ampliación del canal de contratación, pero no demuestra resultados de ventas ni rentabilidad de las campañas."
+      ],
+      "sections": [],
+      "takeaway": "Más mercados pueden contratar publicidad dentro de ChatGPT.",
+      "caveat": "Las cifras y garantías descritas pertenecen al anuncio de OpenAI.",
+      "company": "OpenAI",
+      "topic": "ChatGPT",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "OpenAI amplía ChatGPT Ads a 89 países",
+      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Consultar la fuente original",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "nvidia-nemotron35-retrieval-parse-20261021",
+      "title": "Nemotron 3.5 añade modelos para buscar, ordenar y extraer información de documentos",
+      "summary": "NVIDIA amplía su catálogo de recuperación con modelos que combinan texto e imágenes para alimentar agentes.",
+      "body": [
+        "NVIDIA presentó Nemotron 3.5 Embed, Rerank y Parse. Los primeros representan documentos para buscarlos; Rerank vuelve a ordenar los candidatos y Parse extrae contenido documental.",
+        "La familia permite trabajar con tablas, gráficos e imágenes además de texto. Incluye distintas precisiones y tamaños para adaptar la infraestructura a cada colección.",
+        "Los resultados y los ahorros de consumo que publica NVIDIA proceden de sus evaluaciones. No hemos reproducido las pruebas ni medido su comportamiento con un archivo en español."
+      ],
+      "sections": [],
+      "takeaway": "Facilita evaluar búsquedas sobre documentos visuales.",
+      "caveat": "Encontrar un documento relevante no garantiza una respuesta correcta.",
+      "company": "NVIDIA",
+      "topic": "Documentos",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "Nemotron 3.5 añade modelos para buscar, ordenar y extraer información de documentos",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "tools"
+    },
+    {
+      "slug": "nvidia-openshell-reference-architecture-20261021",
+      "title": "NVIDIA publica una arquitectura OpenShell para controlar agentes empresariales",
+      "summary": "El diseño combina aislamiento, seguimiento de acciones y políticas aplicadas durante la ejecución.",
+      "body": [
+        "La arquitectura de referencia OpenShell, anunciada el 21 de octubre, coordina infraestructura Vera Rubin para modelos, CPU Vera para herramientas y BlueField-4 con Sentry para aplicar políticas.",
+        "NVIDIA la presenta como una base para desplegar agentes en centros de datos y equipos locales. El software OpenShell actúa como límite de ejecución; las integraciones permiten observar acciones y restringir accesos.",
+        "La arquitectura está documentada y disponible, según el anuncio. Esto no certifica la seguridad de cualquier instalación ni sustituye las pruebas de aislamiento y permisos."
+      ],
+      "sections": [],
+      "takeaway": "Ofrece una referencia para separar tareas y permisos.",
+      "caveat": "No hemos auditado el código ni probado intentos de escape.",
+      "company": "NVIDIA",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA publica una arquitectura OpenShell para controlar agentes empresariales",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "nvidia-dsx-pod-platform-20261021",
+      "title": "DSX POD propone centros de IA prefabricados con entregas previstas para 2027",
+      "summary": "NVIDIA presenta contenedores integrados con Vera Rubin para reducir el trabajo de instalación en el destino.",
+      "body": [
+        "DSX POD es un diseño de referencia de fábricas de IA montadas y probadas por socios antes de su entrega. NVIDIA prevé las primeras unidades a comienzos de 2027.",
+        "La empresa afirma que el montaje en un emplazamiento preparado puede pasar de seis meses a un mínimo de 14 días. Esa cifra presupone disponer de energía, refrigeración, red y demás servicios necesarios.",
+        "La propuesta traslada parte de la integración a la fábrica. El plazo anunciado no equivale al tiempo total de construir un centro de datos y no se ha verificado de forma independiente."
+      ],
+      "sections": [],
+      "takeaway": "Puede simplificar la instalación de infraestructura ya preparada.",
+      "caveat": "La disponibilidad y los plazos son previsiones del proveedor.",
+      "company": "NVIDIA",
+      "topic": "Infraestructura",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "DSX POD propone centros de IA prefabricados con entregas previstas para 2027",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "nvidia-agent-knowledge-foundation-kumo-20261021",
+      "title": "NVIDIA amplía Agent Toolkit con conocimiento empresarial y modelos Kumo",
+      "summary": "Agent Knowledge Foundation conecta búsqueda, relaciones entre datos y predicción dentro de los flujos de agentes.",
+      "body": [
+        "NVIDIA anunció el 21 de octubre Agent Knowledge Foundation como parte de Agent Toolkit. Combina bibliotecas CUDA-X, recuperación documental y la familia Kumo para datos estructurados.",
+        "Auto-Ontology traduce datos en conceptos de negocio y relaciones entre ellos. Los modelos Kumo cubren tablas, relaciones y series temporales; las herramientas se complementan con los controles de OpenShell.",
+        "La utilidad propuesta es que un agente responda utilizando información de la organización. Los ejemplos de adopción y sus beneficios son declaraciones del proveedor, sin ensayo propio."
+      ],
+      "sections": [],
+      "takeaway": "Conecta modelos con el significado de los datos empresariales.",
+      "caveat": "La integración y la calidad dependen de cada sistema y sus permisos.",
+      "company": "NVIDIA",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA amplía Agent Toolkit con conocimiento empresarial y modelos Kumo",
+      "sourceUrl": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "nvidia-google-cloud-a5x-vera-rubin-20261021",
+      "title": "Google Cloud prepara A5X con Vera Rubin para noviembre",
+      "summary": "Las nuevas instancias combinan aceleradores, red y refrigeración. El anuncio mantiene la disponibilidad general en el futuro.",
+      "body": [
+        "Google Cloud y NVIDIA anunciaron el 21 de octubre su infraestructura A5X basada en Vera Rubin NVL72. La disponibilidad general está prevista para el mes siguiente, con expansión europea planificada.",
+        "Las instancias incorporan ConnectX-9, la red Virgo de Google y refrigeración líquida. Están orientadas a inferencia de agentes y aprendizaje por refuerzo a gran escala.",
+        "Los planes de capacidad y las mejoras descritas por ambas compañías no acreditan que todas las regiones o configuraciones puedan contratarse ya."
+      ],
+      "sections": [],
+      "takeaway": "Amplía la hoja de ruta de infraestructura para grandes cargas de IA.",
+      "caveat": "No se han comprobado tarifas, acceso por región ni rendimiento independiente.",
+      "company": "NVIDIA",
+      "topic": "Google Cloud",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "Google Cloud prepara A5X con Vera Rubin para noviembre",
+      "sourceUrl": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "nvidia-nokia-ai-ran-commercial-call-20261021",
+      "title": "NVIDIA y Nokia comunican una llamada AI-RAN sobre la red comercial de T-Mobile",
+      "summary": "El anuncio combina un hito en Estados Unidos con pruebas y futuros pilotos europeos.",
+      "body": [
+        "NVIDIA afirma que T-Mobile realizó en Bellevue una llamada sobre red comercial con equipos Aerial RAN Computer y software de Nokia. El comunicado también describe una prueba de Elisa y próximos pilotos de BT y Deutsche Telekom.",
+        "AI-RAN busca ejecutar funciones de radio y cargas de IA sobre infraestructura acelerada compartida. Los socios plantean acercar servicios a usuarios, empresas y máquinas.",
+        "Una llamada y varios pilotos no equivalen a cobertura masiva. No se publican mediciones independientes que permitan concluir un ahorro general o una mejora de calidad frente a redes convencionales."
+      ],
+      "sections": [],
+      "takeaway": "La propuesta avanza desde el laboratorio hacia pruebas sobre redes.",
+      "caveat": "Los hitos y planes están atribuidos a los participantes.",
+      "company": "NVIDIA",
+      "topic": "Telecomunicaciones",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA y Nokia comunican una llamada AI-RAN sobre la red comercial de T-Mobile",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "nvidia-isaac-agile-one-sn-20261021",
+      "title": "Agile ONE SN y las nuevas herramientas Isaac amplían la plataforma robótica de NVIDIA",
+      "summary": "El anuncio reúne un humanoide de referencia, Isaac OS y nuevas herramientas de aprendizaje y simulación.",
+      "body": [
+        "Agile Robots presentó Agile ONE SN como plataforma de investigación basada en Isaac GR00T y Jetson Thor. NVIDIA acompañó el anuncio con Isaac OS, Isaac Lab 3.0 y flujos de generación de datos y evaluación.",
+        "La integración de la pila de seguridad Halos está prevista dentro de la propuesta. El objetivo es reducir el trabajo de conectar simulación, entrenamiento y operación del robot.",
+        "Se trata de una plataforma para desarrollar y validar capacidades. El anuncio no demuestra autonomía general ni seguridad certificada en entornos de trabajo."
+      ],
+      "sections": [],
+      "takeaway": "Integra varias etapas del desarrollo de robots.",
+      "caveat": "Disponibilidad y prestaciones deben comprobarse para cada configuración.",
+      "company": "NVIDIA",
+      "topic": "Robótica",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "Agile ONE SN y las nuevas herramientas Isaac amplían la plataforma robótica de NVIDIA",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "robot"
+    },
+    {
+      "slug": "nvidia-cudss-general-availability-20261021",
+      "title": "cuDSS pasa a disponibilidad general para acelerar simulaciones",
+      "summary": "La biblioteca de NVIDIA traslada a GPU la resolución de grandes sistemas dispersos usados en ingeniería.",
+      "body": [
+        "NVIDIA anunció el 21 de octubre la disponibilidad general de cuDSS. La biblioteca CUDA-X acelera una operación matemática frecuente en simulación de chips, estructuras y otros sistemas físicos.",
+        "Puede integrarse mediante interfaces para C, C++, Python y Fortran, desde estaciones de trabajo hasta clústeres. El comunicado cita integraciones de varios fabricantes de software técnico.",
+        "Las aceleraciones dependen del problema, los equipos y la aplicación. Las cifras publicadas por NVIDIA y sus socios no son una garantía para cualquier simulación."
+      ],
+      "sections": [],
+      "takeaway": "Permite evaluar GPU en una fase costosa de la simulación.",
+      "caveat": "No hemos instalado la biblioteca ni reproducido comparativas.",
+      "company": "NVIDIA",
+      "topic": "Ingeniería",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "cuDSS pasa a disponibilidad general para acelerar simulaciones",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "science"
+    },
+    {
+      "slug": "mistral-nvidia-ai-engineering-20261021",
+      "title": "Mistral y NVIDIA preparan flujos y pruebas abiertas para ingeniería con IA",
+      "summary": "La colaboración conecta modelos, simulación física y herramientas de diseño; los nuevos benchmarks siguen planificados.",
+      "body": [
+        "Mistral y NVIDIA anunciaron el 21 de octubre una colaboración para integrar modelos con CUDA-X, Warp y Omniverse. El objetivo es enlazar simulación, desarrollo de modelos y diseño de productos.",
+        "Las compañías prevén conjuntos de datos abiertos y pruebas públicas para evaluar modelos físicos y agentes que utilizan herramientas de ingeniería. Quieren medir corrección técnica, tiempo y coste de ejecución.",
+        "El anuncio describe trabajo futuro. No acredita todavía que los agentes resuelvan de forma fiable un proyecto industrial ni presenta resultados independientes."
+      ],
+      "sections": [],
+      "takeaway": "Plantea medir agentes con tareas concretas de ingeniería.",
+      "caveat": "Los entregables y los resultados aún deben publicarse.",
+      "company": "Mistral",
+      "topic": "Ingeniería",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Mistral",
+      "sourceTitle": "Mistral y NVIDIA preparan flujos y pruebas abiertas para ingeniería con IA",
+      "sourceUrl": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "sources": [
+        {
+          "name": "Mistral",
+          "title": "Consultar la fuente original",
+          "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-21",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "science"
+    },
+    {
+      "slug": "google-gemini-small-business-hub-20261020",
+      "title": "Gemini prepara un espacio para gestionar tareas de pequeños negocios",
+      "summary": "Google reúne identidad visual, aplicaciones conectadas y análisis de datos en una nueva entrada para empresas pequeñas.",
+      "body": [
+        "Google anunció el 20 de octubre un espacio de Gemini para pequeños negocios. Incluye conexiones con herramientas de Google y servicios como Canva, Dropbox, Shopify y Xero.",
+        "La propuesta permite aportar colores, fuentes y otros materiales de marca para orientar las imágenes. También ofrece ayuda para interpretar hojas de cálculo y organizar información comercial.",
+        "El despliegue se anuncia global y gradual durante los días siguientes. Los casos de clientes y los ahorros descritos por Google no son una evaluación independiente."
+      ],
+      "sections": [],
+      "takeaway": "Reúne varias tareas habituales de un negocio.",
+      "caveat": "Acceso, conectores y permisos deben comprobarse en cada cuenta.",
+      "company": "Google",
+      "topic": "Gemini",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Google",
+      "sourceTitle": "Gemini prepara un espacio para gestionar tareas de pequeños negocios",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Consultar la fuente original",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "google-gdc-sovereign-ai-package-20261020",
+      "title": "Google amplía su oferta de IA para instalaciones aisladas de internet",
+      "summary": "GDC incorpora Gemini 3.5 Flash y amplía modelos e infraestructura; la búsqueda empresarial sigue en prueba.",
+      "body": [
+        "Google anunció el 20 de octubre nuevas capacidades de Distributed Cloud air-gapped. Distingue Gemini 3.5 Flash en disponibilidad general de la búsqueda empresarial con Gemini, todavía en preview.",
+        "El servicio contempla procesar texto, audio y vídeo dentro del perímetro de la instalación, con recuperación documental y soporte para modelos abiertos.",
+        "Se trata de una oferta empresarial desplegada bajo condiciones específicas. Las garantías de aislamiento y el rendimiento deben validarse para cada instalación; no es una nueva aplicación pública para usuarios particulares."
+      ],
+      "sections": [],
+      "takeaway": "Amplía opciones para procesar información en infraestructura aislada.",
+      "caveat": "Los estados de acceso difieren entre componentes.",
+      "company": "Google",
+      "topic": "Infraestructura",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Google",
+      "sourceTitle": "Google amplía su oferta de IA para instalaciones aisladas de internet",
+      "sourceUrl": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Consultar la fuente original",
+          "url": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "spotify-human-artistry-balance-20261020",
+      "title": "Spotify distingue la retirada de spam de la exclusión de recomendaciones",
+      "summary": "Su balance anual informa de más de 50 millones de pistas apartadas de recomendaciones y más de 75 millones eliminadas por infracciones.",
+      "body": [
+        "Spotify publicó el 20 de octubre un balance de sus medidas contra spam, suplantación y engaño. La compañía diferencia las pistas excluidas de recomendaciones de las retiradas por incumplimientos graves o repetidos.",
+        "También describe créditos sobre el uso de IA, identificación de artistas y controles para impedir publicaciones ajenas en un perfil. Admite que la detección automática de audio generado tiene limitaciones.",
+        "Las cifras proceden de Spotify y no equivalen al número de canciones creadas con IA. Tampoco permiten concluir que cualquier uso creativo de IA esté prohibido."
+      ],
+      "sections": [],
+      "takeaway": "Para los músicos importa distinguir transparencia, identidad y spam.",
+      "caveat": "Es un balance corporativo, sin auditoría independiente realizada aquí.",
+      "company": "Spotify",
+      "topic": "Audio",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "source": "Spotify",
+      "sourceTitle": "Spotify distingue la retirada de spam de la exclusión de recomendaciones",
+      "sourceUrl": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/",
+      "sources": [
+        {
+          "name": "Spotify",
+          "title": "Consultar la fuente original",
+          "url": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "voice"
+    },
+    {
+      "slug": "inception-mercury3-20261019",
+      "title": "Mercury 3 lleva los modelos de difusión a tareas con baja latencia",
+      "summary": "Inception anuncia acceso por API y un contexto de un millón de tokens para su nuevo modelo de lenguaje.",
+      "body": [
+        "Inception presentó Mercury 3 el 19 de octubre. El modelo utiliza difusión para generar texto y se orienta a aplicaciones donde importa reducir el tiempo de respuesta.",
+        "El proveedor anuncia acceso mediante su plataforma y distribuidores, con una ventana de contexto de un millón de tokens. Publica comparaciones de velocidad y coste realizadas bajo sus condiciones.",
+        "La longitud de contexto no demuestra que el modelo utilice correctamente toda la información. Para automatizaciones conviene comparar también aciertos y coste por tarea terminada."
+      ],
+      "sections": [],
+      "takeaway": "Añade otra arquitectura para evaluar aplicaciones rápidas.",
+      "caveat": "No hemos reproducido sus resultados ni comprobado promociones vigentes.",
+      "company": "Inception",
+      "topic": "Mercury",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Inception",
+      "sourceTitle": "Mercury 3 lleva los modelos de difusión a tareas con baja latencia",
+      "sourceUrl": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "sources": [
+        {
+          "name": "Inception",
+          "title": "Consultar la fuente original",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "fal-bfl-flux3-max-20261019",
+      "title": "fal y Black Forest Labs presentan FLUX 3 Max para generar vídeo",
+      "summary": "La variante combina ajustes del modelo e inferencia optimizada. Las promesas de velocidad requieren pruebas con cada flujo.",
+      "body": [
+        "fal anunció FLUX 3 Max el 19 de octubre, desarrollado en colaboración con Black Forest Labs. El trabajo incluye posentrenamiento y optimización de inferencia sobre la base FLUX 3.",
+        "El comunicado comunica mejoras de calidad y velocidad en imagen a vídeo y cita una evaluación de preferencias humanas. No hemos consultado directamente esa prueba externa ni generado muestras.",
+        "Para producción interesa medir continuidad, fidelidad a las referencias y número de intentos aprovechables. El tiempo de una generación no representa el de entregar un vídeo completo."
+      ],
+      "sections": [],
+      "takeaway": "Nueva opción para comparar generación de vídeo en fal.",
+      "caveat": "Las comparaciones citadas no se han reproducido aquí.",
+      "company": "fal / Black Forest Labs",
+      "topic": "Vídeo",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "fal / Black Forest Labs",
+      "sourceTitle": "fal y Black Forest Labs presentan FLUX 3 Max para generar vídeo",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/fal-launches-flux-3-max-delivering-1-tier-image-to-video-quality-at-industry-leading-speeds-302913033.html",
+      "sources": [
+        {
+          "name": "fal / Black Forest Labs",
+          "title": "Consultar la fuente original",
+          "url": "https://www.prnewswire.com/news-releases/fal-launches-flux-3-max-delivering-1-tier-image-to-video-quality-at-industry-leading-speeds-302913033.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "video"
+    },
+    {
+      "slug": "gemini-app-export-google-sites-20261019",
+      "title": "Gemini exporta aplicaciones interactivas a borradores privados de Google Sites",
+      "summary": "La exportación conserva la interacción y abre un sitio editable; publicarlo requiere un paso posterior.",
+      "body": [
+        "Google anunció el 19 de octubre que las aplicaciones interactivas creadas en Gemini pueden exportarse directamente a Google Sites. El resultado se incorpora a un borrador privado.",
+        "Desde ese borrador se puede añadir contenido y publicar siguiendo el funcionamiento habitual de Sites. Google indica acceso en web, Android e iOS para cuentas con Gemini habilitado.",
+        "En organizaciones se mantienen las políticas de Drive y los permisos para crear y editar sitios. La función no convierte por sí sola un prototipo en un servicio con backend."
+      ],
+      "sections": [],
+      "takeaway": "Reduce pasos para compartir prototipos interactivos.",
+      "caveat": "El contenido no se hace público solo por exportarlo.",
+      "company": "Google",
+      "topic": "Gemini",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Google",
+      "sourceTitle": "Gemini exporta aplicaciones interactivas a borradores privados de Google Sites",
+      "sourceUrl": "https://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Consultar la fuente original",
+          "url": "https://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "google-gemini-notebook-co-creation-review-20261019",
+      "title": "Gemini Notebook permite revisar el plan antes de generar diapositivas y vídeos",
+      "summary": "El nuevo flujo deja orientar temas, estilo y estructura antes de producir el material final.",
+      "body": [
+        "Google anunció el 19 de octubre un proceso de cocreación para presentaciones y resúmenes en vídeo. El cuaderno propone una estructura a partir de las fuentes y permite ajustarla.",
+        "Con la opción de revisión activada, el usuario examina las notas del esquema o de producción antes de generar el resultado. También puede mantener el flujo rápido y omitir ese paso.",
+        "La distribución es mundial y gradual durante la semana siguiente al anuncio. No hemos comprobado su presencia en todas las cuentas ni la exactitud de sus materiales."
+      ],
+      "sections": [],
+      "takeaway": "Introduce una revisión editorial antes de gastar en la generación.",
+      "caveat": "La salida sigue necesitando comprobarse contra las fuentes.",
+      "company": "Google",
+      "topic": "Gemini Notebook",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Google",
+      "sourceTitle": "Gemini Notebook permite revisar el plan antes de generar diapositivas y vídeos",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Consultar la fuente original",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "video"
+    },
+    {
+      "slug": "openai-low-resource-languages-multilangbench-20261019",
+      "title": "MultiLangBench evalúa programación en veinte lenguajes y migración de COBOL",
+      "summary": "OpenAI publica pruebas que miden funcionamiento del código y coste, con resultados del propio fabricante.",
+      "body": [
+        "OpenAI presentó el 19 de octubre MultiLangBench, una evaluación que pide construir un motor compatible con SQLite en distintos lenguajes. La comprobación utiliza operaciones y archivos de base de datos comunes.",
+        "La publicación también describe una prueba separada de migración de COBOL. La empresa informa de mejoras de sus modelos; no hemos reproducido esas cifras.",
+        "El interés está en evaluar comportamiento funcional en lenguajes menos representados. Una puntuación no autoriza a migrar sistemas críticos sin pruebas específicas y revisión."
+      ],
+      "sections": [],
+      "takeaway": "Aporta tareas concretas para comparar asistentes de programación.",
+      "caveat": "Los resultados son del proveedor y tienen un alcance acotado.",
+      "company": "OpenAI",
+      "topic": "Programación",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "MultiLangBench evalúa programación en veinte lenguajes y migración de COBOL",
+      "sourceUrl": "https://openai.com/index/low-resource-programming-languages/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Consultar la fuente original",
+          "url": "https://openai.com/index/low-resource-programming-languages/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "code"
+    },
+    {
+      "slug": "lighton-slideon-mslideon-20261019",
+      "title": "LightOn publica SlideOn y mSlideOn para búsqueda documental",
+      "summary": "Los modelos generan representaciones dispersas compatibles con índices invertidos, con una variante multilingüe.",
+      "body": [
+        "LightOn presentó el 19 de octubre SlideOn y mSlideOn. Convierten consultas y documentos en representaciones que permiten localizar coincidencias sin recorrer toda la colección.",
+        "SlideOn se centra en inglés y mSlideOn amplía el enfoque a varios idiomas, documentos largos y código. Los autores publican modelos y recursos de entrenamiento y evaluación.",
+        "Las mejoras comparativas son resultados de sus autores. La utilidad real requiere medir recuperación, memoria y tiempo con los documentos y preguntas de cada proyecto."
+      ],
+      "sections": [],
+      "takeaway": "Otra alternativa para construir buscadores sobre archivos propios.",
+      "caveat": "No hemos integrado los modelos ni evaluado una colección en español.",
+      "company": "LightOn",
+      "topic": "Documentos",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "LightOn",
+      "sourceTitle": "LightOn publica SlideOn y mSlideOn para búsqueda documental",
+      "sourceUrl": "https://huggingface.co/blog/lightonai/slideon-mslideon",
+      "sources": [
+        {
+          "name": "LightOn",
+          "title": "Consultar la fuente original",
+          "url": "https://huggingface.co/blog/lightonai/slideon-mslideon"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "tools"
+    },
+    {
+      "slug": "torchneuron-native-backend-announcement-20261019",
+      "title": "TorchNeuron acerca PyTorch y las bibliotecas de Hugging Face a Trainium",
+      "summary": "El anuncio presenta un backend nativo y sitúa su beta pública a partir del 20 de octubre.",
+      "body": [
+        "Hugging Face explicó el 19 de octubre cómo TorchNeuron permite tratar Trainium como dispositivo nativo de PyTorch. Incluye ejecución inmediata, compilación y operaciones distribuidas.",
+        "El enfoque permite utilizar bibliotecas como Transformers y Diffusers con menos adaptaciones específicas. La publicación diferencia esta ruta de la integración anterior apoyada en XLA.",
+        "El anuncio programa la beta pública para el 20 de octubre. No hemos instalado el paquete ni ejecutado modelos en Trainium; la compatibilidad depende de la arquitectura y la configuración."
+      ],
+      "sections": [],
+      "takeaway": "Simplifica la evaluación de modelos sobre aceleradores de AWS.",
+      "caveat": "Los ejemplos y las cifras del anuncio no son pruebas propias.",
+      "company": "Hugging Face",
+      "topic": "Programación",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Hugging Face",
+      "sourceTitle": "TorchNeuron acerca PyTorch y las bibliotecas de Hugging Face a Trainium",
+      "sourceUrl": "https://huggingface.co/blog/hf-torchneuron",
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "title": "Consultar la fuente original",
+          "url": "https://huggingface.co/blog/hf-torchneuron"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "code"
+    },
+    {
+      "slug": "llmd-v100-release-20261020",
+      "title": "llm-d 1.0 añade controles de carga y continuidad para servir modelos",
+      "summary": "La versión incorpora reparto de recursos, cambios coordinados y mejoras para conversaciones de varios turnos.",
+      "body": [
+        "El proyecto llm-d publicó la versión 1.0.0 el 20 de octubre. Sus notas destacan prioridades y equidad en el reparto de solicitudes cuando la infraestructura recibe demasiada carga.",
+        "También documenta alta disponibilidad del enrutador, actualizaciones coordinadas y funciones para conservar afinidad con el contexto de las sesiones. La API de configuración del router pasa a v1.",
+        "Son cambios de infraestructura para desplegar modelos, no un modelo nuevo. No hemos instalado la versión ni comprobado su comportamiento bajo carga."
+      ],
+      "sections": [],
+      "takeaway": "Mejora los controles disponibles para operar inferencia distribuida.",
+      "caveat": "La actualización exige revisar versiones y cambios de compatibilidad.",
+      "company": "llm-d",
+      "topic": "Infraestructura",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "llm-d",
+      "sourceTitle": "llm-d 1.0 añade controles de carga y continuidad para servir modelos",
+      "sourceUrl": "https://github.com/llm-d/llm-d/releases/tag/v1.0.0",
+      "sources": [
+        {
+          "name": "llm-d",
+          "title": "Consultar la fuente original",
+          "url": "https://github.com/llm-d/llm-d/releases/tag/v1.0.0"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "gemini-sheets-ios-publication-20261019",
+      "title": "Gemini empieza a llegar a Google Sheets en iOS",
+      "summary": "La distribución comenzó el 15 de octubre y puede tardar hasta quince días en hacerse visible para cuentas compatibles.",
+      "body": [
+        "Google documentó el 19 de octubre el acceso a Gemini desde Sheets para iOS. Permite preguntar por los datos, obtener explicaciones y crear gráficos desde una hoja compatible.",
+        "El calendario sitúa el comienzo del despliegue en el 15 de octubre. La disponibilidad depende de la edición de Workspace o del plan de Google AI indicado por la compañía.",
+        "No hemos probado la función ni su exactitud. Los análisis generados deben revisarse contra los datos originales antes de tomar decisiones."
+      ],
+      "sections": [],
+      "takeaway": "Lleva consultas sobre hojas de cálculo al móvil.",
+      "caveat": "No es acceso instantáneo para todas las cuentas.",
+      "company": "Google",
+      "topic": "Productividad",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Google",
+      "sourceTitle": "Gemini empieza a llegar a Google Sheets en iOS",
+      "sourceUrl": "https://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Consultar la fuente original",
+          "url": "https://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "tools"
+    },
+    {
+      "slug": "google-chat-meeting-recaps-publication-20261019",
+      "title": "Google Chat incorpora resúmenes con decisiones y tareas después de las reuniones",
+      "summary": "La función depende de las notas de Gemini en Meet. El calendario distingue dominios de lanzamiento rápido y programado.",
+      "body": [
+        "Los resúmenes de reuniones en Chat reúnen asuntos tratados, decisiones, tareas y enlaces a notas o grabaciones. Se generan cuando Meet tiene activada la toma de notas y existe la conversación asociada.",
+        "La distribución rápida empezó el 16 de octubre; para dominios de distribución programada está prevista desde el 27. Las políticas de acceso y de reparto de las notas siguen aplicándose.",
+        "La tarjeta no aparece en el grupo si el anfitrión limita las notas a anfitriones y coanfitriones. No hemos comprobado resultados en una reunión real."
+      ],
+      "sections": [],
+      "takeaway": "Acerca acuerdos y próximos pasos al chat de trabajo.",
+      "caveat": "Un resumen puede contener errores; conviene revisar las tareas asignadas.",
+      "company": "Google",
+      "topic": "Productividad",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Google",
+      "sourceTitle": "Google Chat incorpora resúmenes con decisiones y tareas después de las reuniones",
+      "sourceUrl": "https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Consultar la fuente original",
+          "url": "https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-19",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "tools"
+    },
+    {
+      "slug": "bfl-flux3-image-klein-20261015",
+      "title": "FLUX 3 Image Klein publica pesos para generar y editar con varias referencias",
+      "summary": "Black Forest Labs presenta un modelo de 5.600 millones de parámetros con generación, edición y control de posición.",
+      "body": [
+        "Black Forest Labs lanzó FLUX 3 Image Klein el 15 de octubre. Admite hasta diez referencias e incluye versiones base y destilada, además de formatos optimizados.",
+        "La propuesta incorpora generación en 4K y regiones delimitadas para controlar elementos o ediciones. Los pesos se distribuyen bajo FLUX Kommunity License, con condiciones comerciales según el tamaño de la organización.",
+        "Las comparaciones de calidad, memoria y velocidad pertenecen a BFL y sus socios. No hemos generado imágenes ni comprobado los tiempos anunciados en equipos propios."
+      ],
+      "sections": [],
+      "takeaway": "Amplía las opciones de edición con referencias y despliegue propio.",
+      "caveat": "Pesos disponibles no significa licencia sin condiciones.",
+      "company": "Black Forest Labs",
+      "topic": "Imagen",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Black Forest Labs",
+      "sourceTitle": "FLUX 3 Image Klein publica pesos para generar y editar con varias referencias",
+      "sourceUrl": "https://bfl.ai/blog/flux-3-image-klein",
+      "sources": [
+        {
+          "name": "Black Forest Labs",
+          "title": "Consultar la fuente original",
+          "url": "https://bfl.ai/blog/flux-3-image-klein"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-15",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "image"
+    },
+    {
+      "slug": "kuaishou-kling40-release-20261015",
+      "title": "Kling 4.0 amplía las tomas a treinta segundos y combina más referencias",
+      "summary": "El lanzamiento del 15 de octubre prioriza continuidad, control de cámara y referencias de imagen, vídeo y voz.",
+      "body": [
+        "Kuaishou presentó Kling 4.0 el 15 de octubre. El anuncio describe generación de hasta treinta segundos en una sola pasada y combinaciones de hasta quince referencias.",
+        "Omni Reference permite aportar imágenes, sujetos, vídeos y voces. El proveedor también describe control mediante fotogramas clave y extensión de vídeo, con límites distintos según la función.",
+        "La estabilidad de movimiento y la fidelidad son afirmaciones del fabricante. No hemos generado muestras ni comprobado costes, disponibilidad por cuenta o el número de intentos necesarios."
+      ],
+      "sections": [],
+      "takeaway": "Aporta más controles para planificar piezas audiovisuales.",
+      "caveat": "Las prestaciones anunciadas no garantizan continuidad en cualquier escena.",
+      "company": "Kuaishou",
+      "topic": "Vídeo",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Kuaishou",
+      "sourceTitle": "Kling 4.0 amplía las tomas a treinta segundos y combina más referencias",
+      "sourceUrl": "https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-officially-launches-next-generation-kling-40-raising",
+      "sources": [
+        {
+          "name": "Kuaishou",
+          "title": "Consultar la fuente original",
+          "url": "https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-officially-launches-next-generation-kling-40-raising"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-15",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [
+        "China"
+      ],
+      "illustrationTheme": "video"
+    },
+    {
+      "slug": "ibm-granite-switch41-20261015",
+      "title": "Granite Switch 4.1 combina conversación, decisiones y transcripción",
+      "summary": "IBM presenta modelos modulares que reúnen tareas de texto y voz en un mismo punto de acceso.",
+      "body": [
+        "IBM anunció Granite Switch 4.1 el 15 de octubre en variantes de 8B y 30B. Su diseño combina un modelo base con adaptadores para decisiones y controles especializados, junto a transcripción.",
+        "Los adaptadores pueden reutilizar contexto y componerse según la aplicación. El fabricante publica fichas y recursos para incorporar el enfoque a herramientas de inferencia.",
+        "Las mejoras de velocidad y consumo descritas son evaluaciones de IBM. No hemos instalado los modelos ni auditado el comportamiento de sus adaptadores de seguridad."
+      ],
+      "sections": [],
+      "takeaway": "Permite estudiar varias tareas con una base de modelo compartida.",
+      "caveat": "La ventaja depende de las tareas, adaptadores y configuración.",
+      "company": "IBM",
+      "topic": "Granite",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "IBM",
+      "sourceTitle": "Granite Switch 4.1 combina conversación, decisiones y transcripción",
+      "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "sources": [
+        {
+          "name": "IBM",
+          "title": "Consultar la fuente original",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-15",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
+    {
+      "slug": "cern-mistral-physics-model-intent-20261015",
+      "title": "CERN y Mistral exploran un modelo fundacional para física de partículas",
+      "summary": "La declaración de intención busca una colaboración a largo plazo; todavía no presenta un modelo terminado.",
+      "body": [
+        "CERN y Mistral anunciaron el 15 de octubre una declaración de intención para desarrollar IA científica. El primer foco está en física de altas energías.",
+        "La ambición es entrenar un Large Physics Model con simulaciones de colisiones del LHC para tareas como reconstrucción, identificación de partículas y búsqueda de señales inesperadas.",
+        "El documento expresa una línea de trabajo. No acredita que el modelo exista ya ni que haya producido un descubrimiento científico."
+      ],
+      "sections": [],
+      "takeaway": "Conecta modelos fundacionales con problemas específicos de investigación.",
+      "caveat": "Es un compromiso exploratorio, con resultados futuros.",
+      "company": "CERN / Mistral",
+      "topic": "Ciencia",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "source": "CERN / Mistral",
+      "sourceTitle": "CERN y Mistral exploran un modelo fundacional para física de partículas",
+      "sourceUrl": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "sources": [
+        {
+          "name": "CERN / Mistral",
+          "title": "Consultar la fuente original",
+          "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-15",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "science"
+    },
+    {
+      "slug": "amazon-bee-frontier-eclipse-20261015",
+      "title": "Amazon presenta Bee Frontier y prepara Bee Eclipse para resumir conversaciones",
+      "summary": "El anuncio distingue un dispositivo que se lleva puesto y otro que se fija al teléfono, con disponibilidad diferente.",
+      "body": [
+        "Amazon presentó el 15 de octubre dos dispositivos Bee para convertir conversaciones en resúmenes, recordatorios y tareas. Frontier se lleva en la muñeca o sujeto a la ropa; Eclipse se acopla al teléfono.",
+        "La compañía anuncia Frontier disponible en Amazon.com y sitúa Eclipse para más adelante. También describe conexiones con Alexa+ y otras aplicaciones.",
+        "Las medidas de privacidad y autonomía son afirmaciones de Amazon. No hemos probado los dispositivos ni confirmado su venta y funciones en España."
+      ],
+      "sections": [],
+      "takeaway": "Amplía las propuestas de asistentes personales con hardware dedicado.",
+      "caveat": "La disponibilidad estadounidense no implica acceso en España.",
+      "company": "Amazon",
+      "topic": "Dispositivos",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Amazon",
+      "sourceTitle": "Amazon presenta Bee Frontier y prepara Bee Eclipse para resumir conversaciones",
+      "sourceUrl": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
+      "sources": [
+        {
+          "name": "Amazon",
+          "title": "Consultar la fuente original",
+          "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-15",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "voice"
+    },
+    {
+      "slug": "perplexity-space-open-source-20261015",
+      "title": "SPACE ofrece microVM para ejecutar código de agentes en entornos separados",
+      "summary": "El repositorio de Perplexity documenta una plataforma de aislamiento basada en Firecracker y una API HTTP.",
+      "body": [
+        "SPACE permite crear entornos Linux, lanzar comandos, recoger sus resultados y gestionar el ciclo de vida de las máquinas. Cada entorno dispone de su propia máquina virtual y sistema de archivos escribible.",
+        "La documentación del proyecto explica despliegue, autenticación, observación y compatibilidad con determinados flujos de ejecución de agentes.",
+        "Hemos consultado el repositorio, sin desplegarlo ni auditarlo. El aislamiento propuesto necesita configurarse y probarse; por sí solo no garantiza que un agente actúe correctamente."
+      ],
+      "sections": [],
+      "takeaway": "Aporta una base para separar la ejecución de código.",
+      "caveat": "No hemos comprobado seguridad ni rendimiento en producción.",
+      "company": "Perplexity",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Perplexity",
+      "sourceTitle": "SPACE ofrece microVM para ejecutar código de agentes en entornos separados",
+      "sourceUrl": "https://github.com/perplexityai/SPACE",
+      "sources": [
+        {
+          "name": "Perplexity",
+          "title": "Consultar la fuente original",
+          "url": "https://github.com/perplexityai/SPACE"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-22",
+      "dateBasis": "detected",
+      "publishedAt": "2026-10-21T23:02:24Z",
+      "modifiedAt": "2026-10-21T23:02:24Z",
+      "tags": [],
+      "illustrationTheme": "agents"
+    },
     {
       "slug": "minimax-m31-flash-20261019",
       "title": "MiniMax anuncia M3.1 Flash para agentes; los pesos llegarán más adelante",
@@ -3595,6 +4781,38 @@
     }
   ],
   "selectedSlugs": [
+    "openai-google-cloud-model-garden-20261021",
+    "mistral-voxtral3-20261020",
+    "perplexity-computer-local-mac-20261020",
+    "chatgpt-ads-expansion-stack-20261021",
+    "nvidia-nemotron35-retrieval-parse-20261021",
+    "nvidia-openshell-reference-architecture-20261021",
+    "nvidia-dsx-pod-platform-20261021",
+    "nvidia-agent-knowledge-foundation-kumo-20261021",
+    "nvidia-google-cloud-a5x-vera-rubin-20261021",
+    "nvidia-nokia-ai-ran-commercial-call-20261021",
+    "nvidia-isaac-agile-one-sn-20261021",
+    "nvidia-cudss-general-availability-20261021",
+    "mistral-nvidia-ai-engineering-20261021",
+    "google-gemini-small-business-hub-20261020",
+    "google-gdc-sovereign-ai-package-20261020",
+    "spotify-human-artistry-balance-20261020",
+    "inception-mercury3-20261019",
+    "fal-bfl-flux3-max-20261019",
+    "gemini-app-export-google-sites-20261019",
+    "google-gemini-notebook-co-creation-review-20261019",
+    "openai-low-resource-languages-multilangbench-20261019",
+    "lighton-slideon-mslideon-20261019",
+    "torchneuron-native-backend-announcement-20261019",
+    "llmd-v100-release-20261020",
+    "gemini-sheets-ios-publication-20261019",
+    "google-chat-meeting-recaps-publication-20261019",
+    "bfl-flux3-image-klein-20261015",
+    "kuaishou-kling40-release-20261015",
+    "ibm-granite-switch41-20261015",
+    "cern-mistral-physics-model-intent-20261015",
+    "amazon-bee-frontier-eclipse-20261015",
+    "perplexity-space-open-source-20261015",
     "minimax-m31-flash-20261019",
     "anthropic-public-benefit-fund-20261018",
     "pilotdeck-20-memoria-proyectos-20261015",
