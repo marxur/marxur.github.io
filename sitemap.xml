@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-10-21T15:32:02Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/sobre.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/editorial.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/privacidad.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/contacto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-10-21T15:32:02Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
@@ -117,4 +117,5 @@
   <url><loc>https://www.ianoticias.org/noticias/pilotdeck-20-memoria-proyectos-20261015.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/github-copilot-calendario-retiradas-20260918.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/aa-robotics-v01-limites-20261014.html</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/minimax-m31-flash-20261019.html</loc><lastmod>2026-10-21T15:32:02Z</lastmod></url>
 </urlset>

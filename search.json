@@ -2,6 +2,116 @@
  "generated": "estatizar.py",
  "items": [
   {
+   "slug": "minimax-m31-flash-20261019",
+   "title": "MiniMax anuncia M3.1 Flash para agentes; los pesos llegarán más adelante",
+   "summary": "MiniMax presentó el 19 de octubre M3.1 Flash, orientado a programación, uso del ordenador y tareas con agentes. La compañía anuncia acceso mediante API, M Plan y MiniMax Code. La publicación de pesos queda para más adelante, sin fecha concreta en el anuncio.",
+   "category": "Modelos",
+   "topic": "MiniMax",
+   "source": "MiniMax",
+   "date": "2026-10-19",
+   "url": "/noticias/minimax-m31-flash-20261019.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "anthropic-public-benefit-fund-20261018",
+   "title": "Anthropic propone destinar un 5 % de sus acciones a un fondo de beneficio público",
+   "summary": "Principal · anuncio corporativo condicionado",
+   "category": "Análisis",
+   "topic": "Anthropic",
+   "source": "Anthropic",
+   "date": "2026-10-18",
+   "url": "/noticias/anthropic-public-benefit-fund-20261018.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "pilotdeck-20-memoria-proyectos-20261015",
+   "title": "PilotDeck 2.0 organiza los agentes con memoria y archivos por proyecto",
+   "summary": "Breve · herramienta · antecedente incorporado",
+   "category": "Herramientas",
+   "topic": "PilotDeck",
+   "source": "PilotDeck",
+   "date": "2026-10-15",
+   "url": "/noticias/pilotdeck-20-memoria-proyectos-20261015.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "github-copilot-calendario-retiradas-20260918",
+   "title": "Copilot: qué revisar ante las retiradas previstas para el 19 de octubre",
+   "summary": "Breve · aviso operativo · calendario, no ejecución comprobada",
+   "category": "Herramientas",
+   "topic": "GitHub",
+   "source": "GitHub",
+   "date": "2026-09-18",
+   "url": "/noticias/github-copilot-calendario-retiradas-20260918.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "aa-robotics-v01-limites-20261014",
+   "title": "AA-Robotics mide cómo actúan cinco modelos con un brazo robótico",
+   "summary": "Breve · evaluación externa · antecedente incorporado",
+   "category": "Análisis",
+   "topic": "Artificial Analysis",
+   "source": "Artificial Analysis",
+   "date": "2026-10-14",
+   "url": "/noticias/aa-robotics-v01-limites-20261014.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "nvidia-dory10-4b-20261016-context",
+   "title": "Dory 1.0: NVIDIA propone ajustar el cálculo sin cambiar de modelo",
+   "summary": "Principal · desarrollo",
+   "category": "Modelos",
+   "topic": "NVIDIA",
+   "source": "NVIDIA",
+   "date": "2026-10-16",
+   "url": "/noticias/nvidia-dory10-4b-20261016-context.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "openmoss-moss-image-20261016-context",
+   "title": "MOSS-Image publica código y pesos para controlar la composición de imágenes",
+   "summary": "Breve",
+   "category": "Herramientas",
+   "topic": "OpenMOSS",
+   "source": "OpenMOSS",
+   "date": "2026-10-16",
+   "url": "/noticias/openmoss-moss-image-20261016-context.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "elorian-glimpse-preview-20261016-context",
+   "title": "Elorian presenta Glimpse, una vista previa para razonar sobre imágenes y vídeo",
+   "summary": "Breve",
+   "category": "Herramientas",
+   "topic": "Elorian",
+   "source": "Elorian",
+   "date": "2026-10-16",
+   "url": "/noticias/elorian-glimpse-preview-20261016-context.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "openspec-1143-linked-specs-20261017",
+   "title": "OpenSpec 1.14.3 añade especificaciones enlazadas y controles de rutas",
+   "summary": "Breve",
+   "category": "Herramientas",
+   "topic": "OpenSpec",
+   "source": "OpenSpec",
+   "date": "2026-10-17",
+   "url": "/noticias/openspec-1143-linked-specs-20261017.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "nvidia-muse-spark-dflash2-20261016-signal",
+   "title": "NVIDIA documenta DFlash2 como modelo auxiliar para Muse Spark Open",
+   "summary": "Breve",
+   "category": "Herramientas",
+   "topic": "NVIDIA",
+   "source": "NVIDIA",
+   "date": "2026-10-16",
+   "url": "/noticias/nvidia-muse-spark-dflash2-20261016-signal.html",
+   "type": "noticia"
+  },
+  {
    "slug": "deepseek-v41-flash-1017-update-20261017",
    "title": "DeepSeek actualiza V4.1 Flash y abre su buscador por API",
    "summary": "DeepSeek anuncia Flash-1017 en API, web y aplicación y abre el acceso a su motor de búsqueda.",

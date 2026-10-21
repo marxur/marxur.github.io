@@ -1,7 +1,49 @@
 {
-  "edition": "2026-10-17T19:31:15Z",
-  "reviewedAt": "2026-10-17T19:31:15Z",
+  "edition": "2026-10-21T15:32:02Z",
+  "reviewedAt": "2026-10-21T15:32:02Z",
   "articles": [
+    {
+      "slug": "minimax-m31-flash-20261019",
+      "title": "MiniMax anuncia M3.1 Flash para agentes; los pesos llegarán más adelante",
+      "summary": "MiniMax presentó el 19 de octubre M3.1 Flash, orientado a programación, uso del ordenador y tareas con agentes. La compañía anuncia acceso mediante API, M Plan y MiniMax Code. La publicación de pesos queda para más adelante, sin fecha concreta en el anuncio.",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "topic": "MiniMax",
+      "company": "MiniMax",
+      "date": "2026-10-19",
+      "source": "MiniMax",
+      "sourceTitle": "Anuncio oficial M3.1 Flash",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-m31f",
+      "art": "general",
+      "body": [
+        "MiniMax presentó el 19 de octubre M3.1 Flash, orientado a programación, uso del ordenador y tareas con agentes. La compañía anuncia acceso mediante API, M Plan y MiniMax Code. La publicación de pesos queda para más adelante, sin fecha concreta en el anuncio.",
+        "Las tarifas publicadas son 0,15 dólares por millón de tokens de entrada, 0,60 por millón de salida y 0,015 para entrada en caché. Son precios por volumen de texto: no indican cuánto cuesta completar una tarea ni incluyen necesariamente otros servicios del flujo.",
+        "El fabricante atribuye al modelo mejoras de velocidad, coste y resultados frente a su versión anterior. No hemos reproducido esas comparaciones ni probado su fiabilidad. La versión anónima Space Bunny era un anticipo, según MiniMax.",
+        "Para equipos que automatizan tareas, ofrece otra opción que evaluar con casos reales, permisos limitados y revisión de resultados. El anuncio acredita una oferta del proveedor; no demuestra un ahorro universal ni que los agentes puedan operar sin supervisión."
+      ],
+      "sections": [],
+      "takeaway": "Para equipos que automatizan tareas, ofrece otra opción que evaluar con casos reales, permisos limitados y revisión de resultados.",
+      "caveat": "El fabricante atribuye al modelo mejoras de velocidad, coste y resultados frente a su versión anterior. No hemos reproducido esas comparaciones ni probado su fiabilidad.",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-21T15:32:02Z",
+      "modifiedAt": "2026-10-21T15:32:02Z",
+      "sources": [
+        {
+          "name": "MiniMax",
+          "title": "Fuente original",
+          "url": "https://www.minimax.io/blog/minimax-m31f"
+        }
+      ],
+      "webLinks": [
+        {
+          "label": "Vídeo en YouTube",
+          "url": "https://youtube.com/shorts/Y0kIx51e9jI"
+        }
+      ]
+    },
     {
       "slug": "anthropic-public-benefit-fund-20261018",
       "title": "Anthropic propone destinar un 5 % de sus acciones a un fondo de beneficio público",
@@ -3553,6 +3595,16 @@
     }
   ],
   "selectedSlugs": [
+    "minimax-m31-flash-20261019",
+    "anthropic-public-benefit-fund-20261018",
+    "pilotdeck-20-memoria-proyectos-20261015",
+    "github-copilot-calendario-retiradas-20260918",
+    "aa-robotics-v01-limites-20261014",
+    "nvidia-dory10-4b-20261016-context",
+    "openmoss-moss-image-20261016-context",
+    "elorian-glimpse-preview-20261016-context",
+    "openspec-1143-linked-specs-20261017",
+    "nvidia-muse-spark-dflash2-20261016-signal",
     "deepseek-v41-flash-1017-update-20261017",
     "openai-chatgpt-slides-space-20261016",
     "tencent-hy-memory20-stack-20261016",
