@@ -13,6 +13,28 @@
    "type": "noticia"
   },
   {
+   "slug": "yelp-assistant-check-for-me-20261020",
+   "title": "Yelp prepara un agente que llama a restaurantes para consultar la espera",
+   "summary": "Check for Me llegará a negocios elegibles de Estados Unidos en iOS. Yelp también incorpora reservas con OpenTable.",
+   "category": "Herramientas",
+   "topic": "Agentes IA",
+   "source": "Yelp · Business Wire",
+   "date": "2026-10-20",
+   "url": "/noticias/yelp-assistant-check-for-me-20261020.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "jiangning-iwm-generator-maxwell-20261020",
+   "title": "Jiangning reúne simulación industrial y robótica con IWM Generator y Maxwell",
+   "summary": "La presentación del 20 de octubre conecta modelos del mundo con aplicaciones industriales. Maxwell ya estaba documentado en septiembre.",
+   "category": "Modelos",
+   "topic": "IA industrial",
+   "source": "CAS / People’s Daily",
+   "date": "2026-10-20",
+   "url": "/noticias/jiangning-iwm-generator-maxwell-20261020.html",
+   "type": "noticia"
+  },
+  {
    "slug": "mistral-voxtral3-20261020",
    "title": "Voxtral 3 reúne escucha, voz y herramientas para crear agentes conversacionales",
    "summary": "Mistral presenta nuevos modelos de transcripción y síntesis junto a un SDK para conversaciones con acciones conectadas.",
@@ -794,28 +816,6 @@
    "type": "noticia"
   },
   {
-   "slug": "jon-20261013-openai-daily-updates",
-   "title": "En seguimiento: Calendario de novedades de ChatGPT",
-   "summary": "Pendiente de confirmar. Tema identificado en el índice del episodio; la publicación enlazada de X no pudo leerse directamente. No confirmar calendario, duración ni funciones.",
-   "category": "Análisis",
-   "topic": "OpenAI",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/jon-20261013-openai-daily-updates.html",
-   "type": "noticia"
-  },
-  {
-   "slug": "jon-20261013-chatgpt-meetings",
-   "title": "En seguimiento: Captura y resumen de reuniones",
-   "summary": "Pendiente de confirmar. Tema identificado en los capítulos. Falta documentación primaria que confirme nombre, disponibilidad y fecha; no confundir con funciones previas de grabación.",
-   "category": "Análisis",
-   "topic": "Investigación",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/jon-20261013-chatgpt-meetings.html",
-   "type": "noticia"
-  },
-  {
    "slug": "jon-20261013-openai-text-watermark",
    "title": "Procedencia de textos generados con OpenAI",
    "summary": "OpenAI anuncia señales invisibles para salidas elegibles en la UE y una opción voluntaria de API.",
@@ -857,17 +857,6 @@
    "source": "Anthropic",
    "date": "2026-10-08",
    "url": "/noticias/anthropic-politica-uso-2026.html",
-   "type": "noticia"
-  },
-  {
-   "slug": "jon-20261013-acemoglu-ai-employment",
-   "title": "En seguimiento: Advertencias sobre el efecto de IA en el empleo",
-   "summary": "Pendiente de confirmar. Capítulos sobre Acemoglu y mercado laboral. Su post de X no pudo leerse. No convertir una opinión o predicción en despidos observados ni inventar porcentajes.",
-   "category": "Análisis",
-   "topic": "Investigación",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/jon-20261013-acemoglu-ai-employment.html",
    "type": "noticia"
   },
   {
@@ -959,17 +948,6 @@
    "type": "noticia"
   },
   {
-   "slug": "qwen-flash-speed",
-   "title": "En seguimiento: Qwen destaca una ejecución de 685 tokens por segundo",
-   "summary": "Pendiente de confirmar. La cuenta oficial de Qwen destaca resultados de TokenSpeed para Qwen3.8-Flash-Next y cita 685 tokens de salida por segundo por usuario. Se recuperó un fragmento indexado de la publicación, no una lectura completa de su cronología. El dato puede ser relevante para latencia y costes en agentes, pero hay que consultar hardware, longitud de contexto, concurrencia y método antes de comparar modelos. Se conserva como afirmación promocional at",
-   "category": "Análisis",
-   "topic": "Qwen",
-   "source": "Radar editorial",
-   "date": "2026-10-13",
-   "url": "/noticias/qwen-flash-speed.html",
-   "type": "noticia"
-  },
-  {
    "slug": "ai-explained-race-security",
    "title": "AI Explained analiza la carrera entre laboratorios y seguridad",
    "summary": "El episodio trata presiones competitivas entre laboratorios, capacidad de ingeniería inversa de software y control de agentes.",
@@ -978,17 +956,6 @@
    "source": "Investigación",
    "date": "2026-10-12",
    "url": "/noticias/ai-explained-race-security.html",
-   "type": "noticia"
-  },
-  {
-   "slug": "plant-dna-signal",
-   "title": "En seguimiento: IA, ADN vegetal y materiales semiconductores",
-   "summary": "Dos asuntos localizados en un resumen externo, pendientes de identificar sus estudios originales.",
-   "category": "Análisis",
-   "topic": "Investigación",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/plant-dna-signal.html",
    "type": "noticia"
   },
   {
@@ -1077,39 +1044,6 @@
    "source": "Alibaba",
    "date": "2026-10-14",
    "url": "/noticias/qwenwork-commerce-20261014-signal.html",
-   "type": "noticia"
-  },
-  {
-   "slug": "ofcom-x-grok-20261014-signal",
-   "title": "En seguimiento: Reuters sobre una investigación de Ofcom a X",
-   "summary": "Pendiente de confirmar. Resultado de prensa; sin resolución o comunicado regulatorio leído. No se presenta como hecho jurídico verificado.",
-   "category": "Análisis",
-   "topic": "Investigación",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/ofcom-x-grok-20261014-signal.html",
-   "type": "noticia"
-  },
-  {
-   "slug": "hassabis-dublin-20261014-signal",
-   "title": "En seguimiento: Declaraciones sobre incidentes de IA atribuidas a Demis Hassabis",
-   "summary": "Pendiente de confirmar. Señal de Reuters; falta grabación o declaración original y verificación del cargo vigente.",
-   "category": "Análisis",
-   "topic": "Investigación",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/hassabis-dublin-20261014-signal.html",
-   "type": "noticia"
-  },
-  {
-   "slug": "uk-ai-hearing-20261014-signal",
-   "title": "En seguimiento: comparecencia de OpenAI y Anthropic ante legisladores británicos",
-   "summary": "Pendiente de confirmar. Referencia periodística; no se ha leído un acta parlamentaria.",
-   "category": "Análisis",
-   "topic": "Investigación",
-   "source": "Radar editorial",
-   "date": "2026-10-14",
-   "url": "/noticias/uk-ai-hearing-20261014-signal.html",
    "type": "noticia"
   },
   {
@@ -1451,6 +1385,28 @@
    "source": "Cohere",
    "date": "2026-10-15",
    "url": "/noticias/cohere-aisle-letter-intent-20261015.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "rumor-anthropic-cuentas-s1-20261020",
+   "title": "RUMOR: Reuters atribuye a Anthropic pérdidas contables de 80.700 millones de dólares",
+   "summary": "La agencia dice haber leído un borrador de salida a bolsa. Las cuentas no se han comprobado aquí en un prospecto público.",
+   "category": "Análisis",
+   "topic": "Financiación",
+   "source": "Reuters · reproducción en StreetInsider",
+   "date": "2026-10-20",
+   "url": "/noticias/rumor-anthropic-cuentas-s1-20261020.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "rumor-mia-redaccion-ia-20261020",
+   "title": "RUMOR: cambios en Mía y posible uso de IA en la redacción",
+   "summary": "Confidencial Digital informa de salidas de periodistas. La relación con una sustitución por IA sigue sin confirmar.",
+   "category": "Análisis",
+   "topic": "IA y empleo",
+   "source": "Confidencial Digital",
+   "date": "2026-10-20",
+   "url": "/noticias/rumor-mia-redaccion-ia-20261020.html",
    "type": "noticia"
   },
   {

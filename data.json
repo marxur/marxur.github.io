@@ -1,6 +1,6 @@
 {
-  "edition": "2026-10-21T23:02:24Z",
-  "reviewedAt": "2026-10-21T23:02:24Z",
+  "edition": "2026-10-22T12:55:50Z",
+  "reviewedAt": "2026-10-22T12:55:50Z",
   "articles": [
     {
       "slug": "openai-google-cloud-model-garden-20261021",
@@ -38,6 +38,92 @@
       "modifiedAt": "2026-10-21T23:02:24Z",
       "tags": [],
       "illustrationTheme": "infra"
+    },
+    {
+      "slug": "yelp-assistant-check-for-me-20261020",
+      "title": "Yelp prepara un agente que llama a restaurantes para consultar la espera",
+      "summary": "Check for Me llegará a negocios elegibles de Estados Unidos en iOS. Yelp también incorpora reservas con OpenTable.",
+      "body": [
+        "Yelp anunció el 20 de octubre su actualización de otoño. Check for Me llamará al restaurante por el usuario y le enviará por mensaje el tiempo de espera. Su despliegue está previsto para los próximos meses.",
+        "El paquete también añade reservas con OpenTable a Yelp Assistant y anuncia Smart Lead Reply para responder y clasificar consultas de clientes de negocios de servicios."
+      ],
+      "sections": [],
+      "takeaway": "Los asistentes empiezan a conectar búsquedas con gestiones concretas.",
+      "caveat": "Es un anuncio de Yelp; no hemos probado las funciones ni confirmado disponibilidad en España.",
+      "company": "Yelp",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Yelp · Business Wire",
+      "sourceTitle": "Anuncio y documentación",
+      "sourceUrl": "https://www.businesswire.com/news/home/20261020237779/en/Yelp-Announces-More-Personalized-Yelp-Assistant-Agent-that-Checks-Restaurant-Wait-Times-and-AI-Tools-for-Service-Professionals",
+      "sources": [
+        {
+          "name": "Yelp · Business Wire",
+          "title": "Consultar el anuncio",
+          "url": "https://www.businesswire.com/news/home/20261020237779/en/Yelp-Announces-More-Personalized-Yelp-Assistant-Agent-that-Checks-Restaurant-Wait-Times-and-AI-Tools-for-Service-Professionals"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-22T12:55:50Z",
+      "modifiedAt": "2026-10-22T12:55:50Z",
+      "tags": [
+        "Agentes IA"
+      ],
+      "illustrationTheme": "voice"
+    },
+    {
+      "slug": "jiangning-iwm-generator-maxwell-20261020",
+      "title": "Jiangning reúne simulación industrial y robótica con IWM Generator y Maxwell",
+      "summary": "La presentación del 20 de octubre conecta modelos del mundo con aplicaciones industriales. Maxwell ya estaba documentado en septiembre.",
+      "body": [
+        "La Academia China de Ciencias anunció la presentación de Maxwell e IWM Generator en Nankín. La crónica de People’s Daily, accesible en su cuenta de Tencent, informa de que se celebró el 20 de octubre.",
+        "IWM Generator se orienta a trasladar ensayos industriales a entornos digitales. Maxwell aborda tareas de robots. La novedad es la presentación conjunta y su aplicación industrial; existe documentación pública de Maxwell desde septiembre."
+      ],
+      "sections": [],
+      "takeaway": "La IA industrial busca probar y planificar antes de actuar.",
+      "caveat": "Sin pruebas propias, precios ni acceso público confirmado. Las promesas de capacidad se atribuyen a sus responsables.",
+      "company": "CAS / Nanjing Tianfu",
+      "topic": "IA industrial",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "CAS / People’s Daily",
+      "sourceTitle": "Anuncio y documentación",
+      "sourceUrl": "https://iaii.cas.cn/kxyj/kydt/202610/t20261015_8292696.html",
+      "sources": [
+        {
+          "name": "CAS",
+          "title": "Programa original, 15 de octubre",
+          "url": "https://iaii.cas.cn/kxyj/kydt/202610/t20261015_8292696.html"
+        },
+        {
+          "name": "People’s Daily · Tencent",
+          "title": "Crónica del 20 de octubre; una misma línea de evidencia",
+          "url": "https://news.qq.com/rain/a/20261020A0FN1600"
+        },
+        {
+          "name": "Parque Qilin de Nankín",
+          "title": "Antecedente de Maxwell en septiembre",
+          "url": "https://qilinpark.nanjing.gov.cn/ztlm/kjc/202609/t20260930_5920776.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-22T12:55:50Z",
+      "modifiedAt": "2026-10-22T12:55:50Z",
+      "tags": [
+        "China"
+      ],
+      "illustrationTheme": "robot"
     },
     {
       "slug": "mistral-voxtral3-20261020",
@@ -2753,60 +2839,6 @@
       "modifiedAt": "2026-10-14T15:32:00.677Z"
     },
     {
-      "slug": "jon-20261013-openai-daily-updates",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "OpenAI",
-      "title": "En seguimiento: Calendario de novedades de ChatGPT",
-      "summary": "Pendiente de confirmar. Tema identificado en el índice del episodio; la publicación enlazada de X no pudo leerse directamente. No confirmar calendario, duración ni funciones.",
-      "company": "OpenAI",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Calendario de novedades de ChatGPT",
-      "sourceUrl": "https://x.com/thsottiaux/status/2106845241357824205",
-      "art": "agents",
-      "body": [
-        "Tema identificado en el índice del episodio; la publicación enlazada de X no pudo leerse directamente. No confirmar calendario, duración ni funciones.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "detected",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:00.677Z",
-      "modifiedAt": "2026-10-14T15:32:00.677Z"
-    },
-    {
-      "slug": "jon-20261013-chatgpt-meetings",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Investigación",
-      "title": "En seguimiento: Captura y resumen de reuniones",
-      "summary": "Pendiente de confirmar. Tema identificado en los capítulos. Falta documentación primaria que confirme nombre, disponibilidad y fecha; no confundir con funciones previas de grabación.",
-      "company": "Investigación",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Captura y resumen de reuniones",
-      "sourceUrl": "https://www.jonhernandez.education/video-noticias/muse-wonder-meta-openai-opus-5-5/",
-      "art": "agents",
-      "body": [
-        "Tema identificado en los capítulos. Falta documentación primaria que confirme nombre, disponibilidad y fecha; no confundir con funciones previas de grabación.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "detected",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:00.677Z",
-      "modifiedAt": "2026-10-14T15:32:00.677Z"
-    },
-    {
       "slug": "jon-20261013-openai-text-watermark",
       "category": "Modelos",
       "label": "BREVE",
@@ -2899,33 +2931,6 @@
       "caveat": "Este resumen es informativo. La política completa enlazada por Anthropic es la referencia para conocer sus condiciones.",
       "publishedAt": "2026-10-13T17:42:19.523Z",
       "modifiedAt": "2026-10-13T17:42:19.523Z"
-    },
-    {
-      "slug": "jon-20261013-acemoglu-ai-employment",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Investigación",
-      "title": "En seguimiento: Advertencias sobre el efecto de IA en el empleo",
-      "summary": "Pendiente de confirmar. Capítulos sobre Acemoglu y mercado laboral. Su post de X no pudo leerse. No convertir una opinión o predicción en despidos observados ni inventar porcentajes.",
-      "company": "Investigación",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Advertencias sobre el efecto de IA en el empleo",
-      "sourceUrl": "https://x.com/DAcemogluMIT/status/2107058852986310945",
-      "art": "agents",
-      "body": [
-        "Capítulos sobre Acemoglu y mercado laboral. Su post de X no pudo leerse. No convertir una opinión o predicción en despidos observados ni inventar porcentajes.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "detected",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:00.677Z",
-      "modifiedAt": "2026-10-14T15:32:00.677Z"
     },
     {
       "slug": "jon-20261013-utah-ai-prescribing",
@@ -3162,33 +3167,6 @@
       ]
     },
     {
-      "slug": "qwen-flash-speed",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Qwen",
-      "title": "En seguimiento: Qwen destaca una ejecución de 685 tokens por segundo",
-      "summary": "Pendiente de confirmar. La cuenta oficial de Qwen destaca resultados de TokenSpeed para Qwen3.8-Flash-Next y cita 685 tokens de salida por segundo por usuario. Se recuperó un fragmento indexado de la publicación, no una lectura completa de su cronología. El dato puede ser relevante para latencia y costes en agentes, pero hay que consultar hardware, longitud de contexto, concurrencia y método antes de comparar modelos. Se conserva como afirmación promocional at",
-      "company": "Qwen",
-      "date": "2026-10-13",
-      "source": "Radar editorial",
-      "sourceTitle": "Qwen destaca una ejecución de 685 tokens por segundo",
-      "sourceUrl": "https://x.com/Alibaba_Qwen/status/2110214931559899630",
-      "art": "agents",
-      "body": [
-        "La cuenta oficial de Qwen destaca resultados de TokenSpeed para Qwen3.8-Flash-Next y cita 685 tokens de salida por segundo por usuario. Se recuperó un fragmento indexado de la publicación, no una lectura completa de su cronología. El dato puede ser relevante para latencia y costes en agentes, pero hay que consultar hardware, longitud de contexto, concurrencia y método antes de comparar modelos. Se conserva como afirmación promocional atribuida y pendiente de revisar el ensayo completo, sin extrapolarlo al equipo de Marcos.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "source",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:00.677Z",
-      "modifiedAt": "2026-10-14T15:32:00.677Z"
-    },
-    {
       "slug": "ai-explained-race-security",
       "category": "Análisis",
       "label": "ANÁLISIS",
@@ -3217,32 +3195,6 @@
           "title": "Documento o cobertura del asunto"
         }
       ],
-      "publishedAt": "2026-10-14T15:32:00.677Z",
-      "modifiedAt": "2026-10-14T15:32:00.677Z"
-    },
-    {
-      "slug": "plant-dna-signal",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Investigación",
-      "title": "En seguimiento: IA, ADN vegetal y materiales semiconductores",
-      "summary": "Dos asuntos localizados en un resumen externo, pendientes de identificar sus estudios originales.",
-      "company": "Investigación",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Señal sobre IA y mutaciones de ADN vegetal",
-      "sourceUrl": "https://frontiermodels.cc/video/new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconductors-ai-news/",
-      "art": "agents",
-      "body": [
-        "El radar ha localizado referencias a IA y mutaciones de ADN vegetal, y a candidatos a materiales semiconductores magnéticos. Falta identificar los estudios, autores, métodos y resultados originales. No se trata de una confirmación de superconductividad a temperatura ambiente."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "detected",
-      "sources": [],
       "publishedAt": "2026-10-14T15:32:00.677Z",
       "modifiedAt": "2026-10-14T15:32:00.677Z"
     },
@@ -3476,87 +3428,6 @@
         "Agentes IA",
         "China"
       ]
-    },
-    {
-      "slug": "ofcom-x-grok-20261014-signal",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Investigación",
-      "title": "En seguimiento: Reuters sobre una investigación de Ofcom a X",
-      "summary": "Pendiente de confirmar. Resultado de prensa; sin resolución o comunicado regulatorio leído. No se presenta como hecho jurídico verificado.",
-      "company": "Investigación",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Señal de Reuters sobre una investigación de Ofcom a X",
-      "sourceUrl": "https://www.reuters.com/world/uk-media-watchdog-probe-x-focus-response-hate-content-2026-10-14/",
-      "art": "agents",
-      "body": [
-        "Resultado de prensa; sin resolución o comunicado regulatorio leído. No se presenta como hecho jurídico verificado.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "source",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:13.354Z",
-      "modifiedAt": "2026-10-14T15:32:13.354Z"
-    },
-    {
-      "slug": "hassabis-dublin-20261014-signal",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Investigación",
-      "title": "En seguimiento: Declaraciones sobre incidentes de IA atribuidas a Demis Hassabis",
-      "summary": "Pendiente de confirmar. Señal de Reuters; falta grabación o declaración original y verificación del cargo vigente.",
-      "company": "Investigación",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Declaraciones sobre incidentes de IA atribuidas a Demis Hassabis",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-2026-10-14/",
-      "art": "agents",
-      "body": [
-        "Señal de Reuters; falta grabación o declaración original y verificación del cargo vigente.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "source",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:13.354Z",
-      "modifiedAt": "2026-10-14T15:32:13.354Z"
-    },
-    {
-      "slug": "uk-ai-hearing-20261014-signal",
-      "category": "Análisis",
-      "label": "SEGUIMIENTO",
-      "topic": "Investigación",
-      "title": "En seguimiento: comparecencia de OpenAI y Anthropic ante legisladores británicos",
-      "summary": "Pendiente de confirmar. Referencia periodística; no se ha leído un acta parlamentaria.",
-      "company": "Investigación",
-      "date": "2026-10-14",
-      "source": "Radar editorial",
-      "sourceTitle": "Señal sobre comparecencia de OpenAI y Anthropic ante legisladores británicos",
-      "sourceUrl": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
-      "art": "agents",
-      "body": [
-        "Referencia periodística; no se ha leído un acta parlamentaria.",
-        "Este registro documenta un asunto localizado por el radar. No confirma el anuncio, las cifras ni su alcance; se actualizará cuando se disponga de la fuente completa."
-      ],
-      "takeaway": "Seguimiento abierto; todavía no hay base para recomendar acciones.",
-      "caveat": "Falta confirmación suficiente. La fecha puede corresponder al registro o a la señal, no al hecho.",
-      "kind": "news",
-      "format": "brief",
-      "verification": "pending",
-      "dateBasis": "detected",
-      "sources": [],
-      "publishedAt": "2026-10-14T15:32:13.354Z",
-      "modifiedAt": "2026-10-14T15:32:13.354Z"
     },
     {
       "slug": "liquid-lfm2-5-agentes-locales",
@@ -4544,6 +4415,87 @@
       "tags": [
         "Ciberseguridad"
       ]
+    },
+    {
+      "slug": "rumor-anthropic-cuentas-s1-20261020",
+      "title": "RUMOR: Reuters atribuye a Anthropic pérdidas contables de 80.700 millones de dólares",
+      "summary": "La agencia dice haber leído un borrador de salida a bolsa. Las cuentas no se han comprobado aquí en un prospecto público.",
+      "body": [
+        "Reuters informa de una pérdida neta de 80.700 millones de dólares en el primer semestre de 2026. Según su lectura del borrador, 72.000 millones corresponden a un ajuste contable de instrumentos convertibles.",
+        "La cifra no equivale a dinero consumido en operaciones. Publicamos esta versión atribuida como RUMOR, a la espera de documentación pública suficiente."
+      ],
+      "sections": [],
+      "takeaway": "Conviene separar pérdidas contables y gasto operativo.",
+      "caveat": "El despacho íntegro se leyó en StreetInsider. Es la misma información de Reuters, no una segunda confirmación independiente.",
+      "company": "Anthropic",
+      "topic": "Financiación",
+      "category": "Análisis",
+      "label": "RUMOR",
+      "source": "Reuters · reproducción en StreetInsider",
+      "sourceTitle": "Información citada y límites",
+      "sourceUrl": "https://www.streetinsider.com/Reuters/Anthropic%2Blogged%2Bnet%2Bloss%2Bof%2Bover%2B%2480%2Bbillion%2Bin%2Bfirst%2Bhalf%2Bof%2B2026/27210198.html",
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Despacho original; acceso directo fallido",
+          "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/"
+        },
+        {
+          "name": "StreetInsider",
+          "title": "Reproducción íntegra del mismo despacho de Reuters",
+          "url": "https://www.streetinsider.com/Reuters/Anthropic%2Blogged%2Bnet%2Bloss%2Bof%2Bover%2B%2480%2Bbillion%2Bin%2Bfirst%2Bhalf%2Bof%2B2026/27210198.html"
+        }
+      ],
+      "art": "general",
+      "kind": "rumor",
+      "format": "brief",
+      "verification": "pending",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-22T12:55:50Z",
+      "modifiedAt": "2026-10-22T12:55:50Z",
+      "tags": [
+        "Rumor"
+      ],
+      "illustrationTheme": "infra"
+    },
+    {
+      "slug": "rumor-mia-redaccion-ia-20261020",
+      "title": "RUMOR: cambios en Mía y posible uso de IA en la redacción",
+      "summary": "Confidencial Digital informa de salidas de periodistas. La relación con una sustitución por IA sigue sin confirmar.",
+      "body": [
+        "Un artículo del 20 de octubre de Confidencial Digital sitúa cambios en Mía, de Zinet Media Global, junto al debate sobre automatización editorial.",
+        "El propio texto reconoce que no está confirmado qué funciones se automatizaron ni si las salidas guardan relación directa con la IA. Esa posible relación se publica como RUMOR atribuido al medio."
+      ],
+      "sections": [],
+      "takeaway": "El vínculo entre recortes y automatización requiere pruebas concretas.",
+      "caveat": "No hemos localizado confirmación empresarial o sindical. No afirmamos que una IA haya sustituido a periodistas.",
+      "company": "Mía / Zinet",
+      "topic": "IA y empleo",
+      "category": "Análisis",
+      "label": "RUMOR",
+      "source": "Confidencial Digital",
+      "sourceTitle": "Información citada y límites",
+      "sourceUrl": "https://www.elconfidencialdigital.com/articulo/medios/revisa-mia-despide-periodistas-redactar-noticias-inteligencia-artificial/202610201900001495388.html",
+      "sources": [
+        {
+          "name": "Confidencial Digital",
+          "title": "Consultar el anuncio",
+          "url": "https://www.elconfidencialdigital.com/articulo/medios/revisa-mia-despide-periodistas-redactar-noticias-inteligencia-artificial/202610201900001495388.html"
+        }
+      ],
+      "art": "general",
+      "kind": "rumor",
+      "format": "brief",
+      "verification": "pending",
+      "date": "2026-10-20",
+      "dateBasis": "source",
+      "publishedAt": "2026-10-22T12:55:50Z",
+      "modifiedAt": "2026-10-22T12:55:50Z",
+      "tags": [
+        "Rumor"
+      ],
+      "illustrationTheme": "tools"
     }
   ],
   "xPosts": [
@@ -4762,6 +4714,8 @@
   ],
   "selectedSlugs": [
     "openai-google-cloud-model-garden-20261021",
+    "yelp-assistant-check-for-me-20261020",
+    "jiangning-iwm-generator-maxwell-20261020",
     "mistral-voxtral3-20261020",
     "perplexity-computer-local-mac-20261020",
     "chatgpt-ads-expansion-stack-20261021",
@@ -4823,37 +4777,20 @@
     "nvidia-gfn-dlss45-controls-20261015",
     "xbox-labs-ai-20261016",
     "boletin-ia-google-medios-elevenlabs-mistral-timestral-20261017",
-    "nvidia-nemotron-3-5-super-vl-20261015",
     "reflection-beam-20261016",
     "chatgpt-gpt-live-1-1-voces-20261015",
     "chatgpt-chrome-pestanas-20261015",
     "meta-muse-spark-open-20261015",
     "openai-bajo-presion-demandas-detencion-20261015",
-    "grok-voice-3-release-20261014",
-    "youtube-music-ai-labels-20261014",
-    "google-deep-review-public-20261014",
-    "anthropic-managed-agents-aws-schedules-20261014",
-    "anthropic-opentelemetry-beta-20261014",
-    "qwenwork-commerce-20261014-signal",
-    "cohere-coding-agent-teams-study-20261014",
-    "firstproof-batch3-results-20261014",
-    "microsoft-pbc-weather-20261014",
-    "huggingface-llama-windows-20261013",
-    "figma-config-india-agent-context-20261015",
-    "google-earth-ai-early-access-20261014",
-    "cohere-aisle-letter-intent-20261015",
-    "mejores-herramientas-ia-2026",
+    "nvidia-nemotron-3-5-super-vl-20261015",
     "openai-gpt4-api-retirement-20261014",
     "jon-20261013-meta-muse-wonder",
     "jon-20261013-openai-math-release",
     "jon-20261013-ahm-math-debate",
-    "jon-20261013-openai-daily-updates",
-    "jon-20261013-chatgpt-meetings",
     "jon-20261013-openai-text-watermark",
     "jon-20261013-subscriptions-value-comparison",
     "claude-haiku-5-5-tareas-breves",
     "anthropic-politica-uso-2026",
-    "jon-20261013-acemoglu-ai-employment",
     "jon-20261013-utah-ai-prescribing",
     "google-gemini-agent-trabajo-empresas",
     "kandinsky-6",
@@ -4862,9 +4799,7 @@
     "qwengyre",
     "anthropic-distillation-defenses",
     "anthropic-acciones-no-previstas-claude",
-    "qwen-flash-speed",
     "ai-explained-race-security",
-    "plant-dna-signal",
     "nvidia-uk-safety-compute-20261014",
     "huggingface-tensor-viewer-20261014",
     "meta-facebook-your-algorithm-20261013",
@@ -4872,12 +4807,11 @@
     "bytedance-seed-alignment-team-20261014",
     "anthropic-singapore-office-mou-20261014",
     "google-gemini-4-argon-app-tareas",
-    "ofcom-x-grok-20261014-signal",
-    "hassabis-dublin-20261014-signal",
-    "uk-ai-hearing-20261014-signal",
+    "qwenwork-commerce-20261014-signal",
     "liquid-lfm2-5-agentes-locales",
     "nvidia-runai-codigo-abierto",
     "claude-code-modernization-contexto",
+    "mejores-herramientas-ia-2026",
     "kimi-work-documentos-agente-escritorio",
     "grok-x-subscription-cursor-plan",
     "grok-bot-busqueda-x-correo-propio",
@@ -4892,7 +4826,21 @@
     "wispr-flow-canto-dictado-voz-texto",
     "notebooklm-gemini-notebook-estudio-voz-video",
     "deepseek-v4-1-flash-vision-agentes",
-    "logitech-mx-keypad-control-agentes"
+    "logitech-mx-keypad-control-agentes",
+    "grok-voice-3-release-20261014",
+    "youtube-music-ai-labels-20261014",
+    "google-deep-review-public-20261014",
+    "anthropic-managed-agents-aws-schedules-20261014",
+    "anthropic-opentelemetry-beta-20261014",
+    "cohere-coding-agent-teams-study-20261014",
+    "firstproof-batch3-results-20261014",
+    "microsoft-pbc-weather-20261014",
+    "huggingface-llama-windows-20261013",
+    "figma-config-india-agent-context-20261015",
+    "google-earth-ai-early-access-20261014",
+    "cohere-aisle-letter-intent-20261015",
+    "rumor-anthropic-cuentas-s1-20261020",
+    "rumor-mia-redaccion-ia-20261020"
   ],
   "videos": [
     {

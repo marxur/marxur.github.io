@@ -1,0 +1,23 @@
+{
+  "reviewedAt": "2026-10-22T12:55:50Z",
+  "scope": "Depuración y revisión de pendientes desde 20/10/2026",
+  "sourceReport": "Reporte_IA_2026-10-22_14-55_depuracion.json",
+  "newSlugs": [
+    "yelp-assistant-check-for-me-20261020",
+    "jiangning-iwm-generator-maxwell-20261020",
+    "rumor-anthropic-cuentas-s1-20261020",
+    "rumor-mia-redaccion-ia-20261020"
+  ],
+  "removedPendingSlugs": [
+    "jon-20261013-openai-daily-updates",
+    "jon-20261013-chatgpt-meetings",
+    "jon-20261013-acemoglu-ai-employment",
+    "qwen-flash-speed",
+    "plant-dna-signal",
+    "ofcom-x-grok-20261014-signal",
+    "hassabis-dublin-20261014-signal",
+    "uk-ai-hearing-20261014-signal"
+  ],
+  "preservedHistoricalPages": true,
+  "rumorRule": "Publicar rumores relevantes con etiqueta RUMOR visible, fuente identificable leída y límites junto a la afirmación; no elevar títulos inaccesibles a hechos. Esta decisión sustituye la prohibición anterior de publicar rumores."
+}
