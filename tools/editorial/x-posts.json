@@ -9,7 +9,7 @@
     "sourceUrl": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
     "date": "2026-10-23",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-24T09:34:26.384Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -22,7 +22,7 @@
     "sourceUrl": "https://huggingface.co/tencent/Hy-Nomas",
     "date": "2026-10-23",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-24T09:34:26.384Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -35,7 +35,7 @@
     "sourceUrl": "https://ideogram.ai/models/vector/",
     "date": "2026-10-22",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -48,7 +48,7 @@
     "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
     "date": "2026-10-22",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -61,7 +61,7 @@
     "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
     "date": "2026-10-22",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -74,32 +74,33 @@
     "sourceUrl": "https://openai.com/index/openai-models-google-cloud/",
     "date": "2026-10-21",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
-    "name": "Google DeepMind",
-    "handle": "@GoogleDeepMind",
-    "title": "Una demostración de Gemini con datos y visualización 3D",
-    "summary": "El fragmento indexado describe una visualización interactiva que combina tres conjuntos de datos abiertos. El vídeo no se ha visualizado completo ni se ha reproducido el ejercicio.",
-    "url": "https://x.com/GoogleDeepMind/status/2112974723659247896",
-    "type": "Demostración",
-    "date": "2026-10-21",
+    "name": "Google Chrome",
+    "handle": "@googlechrome",
+    "title": "Chrome amplía la detección de estafas con Gemini",
+    "summary": "El fragmento indexado anuncia una protección reforzada frente a estafas. La documentación oficial separada explica que Protección mejorada usa un modelo Gemini en servidor junto con reputación de dominio y otras señales; las garantías de eficacia y privacidad pertenecen a Google.",
+    "url": "https://x.com/googlechrome/status/2112594913003176182",
+    "type": "Anuncio",
+    "sourceUrl": "https://blog.google/security/our-latest-defenses-against-evolving-web-scams/",
+    "date": "2026-10-20",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
     "name": "NVIDIA AI",
     "handle": "@NVIDIAAI",
-    "title": "Simulación y robótica en GTC Berlín",
-    "summary": "El fragmento indexado destaca aplicaciones industriales de CUDA-X, Omniverse y modelos abiertos. La fuente oficial separada recoge ejemplos de proveedores, no evaluaciones independientes.",
-    "url": "https://x.com/NVIDIAAI/status/2112859682415243776",
-    "type": "Demostración",
-    "sourceUrl": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-    "date": "2026-10-21",
+    "title": "NVIDIA publica Nemotron 3.5 Bolt E4B para agentes locales",
+    "summary": "El fragmento indexado anuncia Nemotron 3.5 Bolt E4B 4GB. La ficha oficial separada confirma su disponibilidad para asistentes, personajes y robótica local; las comparaciones de calidad y eficiencia son resultados de NVIDIA.",
+    "url": "https://x.com/NVIDIAAI/status/2113657112408785153",
+    "type": "Anuncio",
+    "sourceUrl": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/",
+    "date": "2026-10-23",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -112,7 +113,7 @@
     "sourceUrl": "https://mistral.ai/news/voxtral-3/",
     "date": "2026-10-20",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -125,7 +126,7 @@
     "sourceUrl": "https://www.perplexity.ai/en-GB/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
     "date": "2026-10-20",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -138,7 +139,7 @@
     "sourceUrl": "https://research.nvidia.com/labs/gear/flora/",
     "date": "2026-10-20",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   },
   {
@@ -151,7 +152,7 @@
     "sourceUrl": "https://github.com/deepseek-ai/DeepInfer",
     "date": "2026-10-20",
     "dateBasis": "post_id_timestamp",
-    "checkedAt": "2026-10-23T19:22:40Z",
+    "checkedAt": "2026-10-24T19:18:06.000Z",
     "access": "Fragmento indexado · acceso directo bloqueado (403)"
   }
 ]
