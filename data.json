@@ -4509,7 +4509,7 @@
       "sourceUrl": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4522,7 +4522,7 @@
       "sourceUrl": "https://huggingface.co/tencent/Hy-Nomas",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4535,7 +4535,7 @@
       "sourceUrl": "https://ideogram.ai/models/vector/",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4548,7 +4548,7 @@
       "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4561,7 +4561,7 @@
       "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4574,7 +4574,7 @@
       "sourceUrl": "https://openai.com/index/openai-models-google-cloud/",
       "date": "2026-10-21",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4587,7 +4587,7 @@
       "sourceUrl": "https://blog.google/security/our-latest-defenses-against-evolving-web-scams/",
       "date": "2026-10-20",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4600,7 +4600,7 @@
       "sourceUrl": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4613,7 +4613,7 @@
       "sourceUrl": "https://mistral.ai/news/voxtral-3/",
       "date": "2026-10-20",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4626,7 +4626,7 @@
       "sourceUrl": "https://www.perplexity.ai/en-GB/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
       "date": "2026-10-20",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4639,7 +4639,7 @@
       "sourceUrl": "https://research.nvidia.com/labs/gear/flora/",
       "date": "2026-10-20",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4652,7 +4652,7 @@
       "sourceUrl": "https://github.com/deepseek-ai/DeepInfer",
       "date": "2026-10-20",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-24T19:18:06.000Z",
+      "checkedAt": "2026-10-25T20:20:25.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     }
   ],
@@ -4941,7 +4941,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-10-24T19:18:06.000Z",
-    "coverage": "Revisión parcial de siete días: 12 publicaciones de 12 cuentas. Se incorpora el anuncio oficial de NVIDIA Nemotron 3.5 Bolt E4B y se sustituye una demostración de Google DeepMind por la publicación oficial de Chrome sobre detección de estafas con Gemini; se conservan 10 tarjetas útiles. Los 12 accesos directos a X devolvieron 403. Se usaron únicamente fragmentos indexados y documentación oficial separada. No se leyeron cronologías ni se visualizaron vídeos completos."
+    "checkedAt": "2026-10-25T20:20:25.000Z",
+    "coverage": "Revisión parcial de siete días: se conservan 12 publicaciones útiles de 12 cuentas; no se encontró una novedad adicional mejor verificada. En la comprobación actual, 11 accesos directos a X devolvieron 403 y uno quedó bloqueado por la capa de consulta tras la petición directa; todos los resúmenes se mantienen limitados a fragmentos indexados y documentación oficial separada. No se leyeron cronologías ni se visualizaron vídeos completos."
   }
 }
