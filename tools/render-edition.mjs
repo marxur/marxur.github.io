@@ -8,6 +8,6 @@ const bySlug=new Map(data.articles.map(a=>[a.slug,a]));
 const selected=(data.selectedSlugs||data.articles.map(a=>a.slug)).map(s=>bySlug.get(s)).filter(Boolean);
 const paths=['/','/archivo.html',...fs.readdirSync('temas').filter(f=>f.endsWith('.html')).map(f=>'/temas/'+f),...changed.map(s=>'/noticias/'+s+'.html')];
 for(const path of paths){let view={...data,articles:path==='/'?selected:data.articles};let target=path==='/'?'index.html':path.slice(1);fs.writeFileSync(target,renderSite(view,path,'https://www.ianoticias.org'));}
-for(const slug of changed)fs.writeFileSync('ilustraciones/'+slug+'.svg',articleArt(bySlug.get(slug)));
+for(const slug of changed)if(!bySlug.get(slug).illustrationSlug)fs.writeFileSync('ilustraciones/'+slug+'.svg',articleArt(bySlug.get(slug)));
 updateSitemap(paths,data.reviewedAt);
 console.log('Rendered',paths.length,'pages;',changed.length,'new/corrected articles');

@@ -1,7 +1,184 @@
 {
-  "edition": "2026-10-22T12:55:50Z",
-  "reviewedAt": "2026-10-22T12:55:50Z",
+  "edition": "2026-10-26T10:44:36Z",
+  "reviewedAt": "2026-10-26T10:44:36Z",
   "articles": [
+    {
+      "slug": "qwen-code-v0261-20261024",
+      "title": "Qwen Code 0.26.1: servidores MCP sin recrear sesiones y compresión manual de contexto",
+      "summary": "Según las notas de Qwen, gestiona servidores MCP sin recrear sesiones, permite comprimir a mano el contexto de las sesiones inactivas y añade controles previos a las tareas programadas. Incluye un cambio incompatible en el bot de QQ.",
+      "body": [],
+      "sections": [],
+      "takeaway": "Según las notas de Qwen, gestiona servidores MCP sin recrear sesiones, permite comprimir a mano el contexto de las sesiones inactivas y añade controles previos a las tareas programadas.",
+      "caveat": "Incluye un cambio incompatible en el bot de QQ.",
+      "company": "Qwen",
+      "topic": "Qwen Code",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Qwen",
+      "sourceTitle": "Qwen Code 0.26.1: servidores MCP sin recrear sesiones y compresión manual de contexto",
+      "sourceUrl": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.1",
+      "sources": [
+        {
+          "name": "Qwen",
+          "title": "Consultar la fuente original",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.1"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-24",
+      "dateBasis": "source",
+      "tags": [],
+      "illustrationTheme": "code",
+      "illustrationSlug": "qwengyre",
+      "publishedAt": "2026-10-26T10:44:36Z",
+      "modifiedAt": "2026-10-26T10:44:36Z"
+    },
+    {
+      "slug": "deeprobotics-brain-five-research-20261024",
+      "title": "DEEP Robotics reúne cinco líneas de investigación para DEEPRobotics-Brain",
+      "summary": "Según DEEP Robotics, su robot LYNX M20 pasó del 25 % al 65 % de éxito en pruebas reales de navegación con DR-APO, una de sus cinco líneas de investigación. Son resultados de la empresa, sin verificación independiente.",
+      "body": [],
+      "sections": [],
+      "takeaway": "Según DEEP Robotics, su robot LYNX M20 pasó del 25 % al 65 % de éxito en pruebas reales de navegación con DR-APO, una de sus cinco líneas de investigación.",
+      "caveat": "Son resultados de la empresa, sin verificación independiente.",
+      "company": "DEEP Robotics",
+      "topic": "Robótica",
+      "category": "Investigación",
+      "label": "ACTUALIDAD",
+      "source": "DEEP Robotics",
+      "sourceTitle": "DEEP Robotics reúne cinco líneas de investigación para DEEPRobotics-Brain",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/24/3387678/0/en/deep-robotics-unveils-five-research-advances-in-embodied-ai.html",
+      "sources": [
+        {
+          "name": "DEEP Robotics",
+          "title": "Consultar la fuente original",
+          "url": "https://www.globenewswire.com/news-release/2026/10/24/3387678/0/en/deep-robotics-unveils-five-research-advances-in-embodied-ai.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-24",
+      "dateBasis": "source",
+      "tags": [],
+      "illustrationTheme": "robotics",
+      "illustrationSlug": "noticias-ia-editorial",
+      "publishedAt": "2026-10-26T10:44:36Z",
+      "modifiedAt": "2026-10-26T10:44:36Z",
+      "illustrationPath": "/assets/logo.png"
+    },
+    {
+      "slug": "nvidia-bolt-e4b4gb-release-20261023",
+      "title": "NVIDIA presenta Nemotron 3.5 Bolt E4B 4GB para asistentes locales",
+      "summary": "Modelo abierto pequeño con uso de herramientas y 64K de contexto. La cifra de unos 4 GB depende del equipo y la carga (el GGUF ocupa 6,18 GB). El rendimiento es el que da NVIDIA.",
+      "body": [],
+      "sections": [],
+      "takeaway": "Modelo abierto pequeño con uso de herramientas y 64K de contexto. La cifra de unos 4 GB depende del equipo y la carga (el GGUF ocupa 6,18 GB).",
+      "caveat": "El rendimiento es el que da NVIDIA.",
+      "company": "NVIDIA",
+      "topic": "Modelos locales",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA",
+      "sourceTitle": "NVIDIA presenta Nemotron 3.5 Bolt E4B 4GB para asistentes locales",
+      "sourceUrl": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Consultar la fuente original",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-23",
+      "dateBasis": "source",
+      "tags": [],
+      "illustrationTheme": "models",
+      "illustrationSlug": "nvidia-nemotron-3-5-super-vl-20261015",
+      "publishedAt": "2026-10-26T10:44:36Z",
+      "modifiedAt": "2026-10-26T10:44:36Z"
+    },
+    {
+      "slug": "aws-mms-cve115812-115813-20261023",
+      "title": "AWS recomienda abandonar Multi Model Server tras dos vulnerabilidades sin parche",
+      "summary": "Según el boletín de AWS, hay dos vulnerabilidades en todas las versiones (hasta la 1.1.11) y no habrá parche porque MMS está fuera de soporte. El boletín no da puntuación CVSS ni menciona ataques.",
+      "body": [],
+      "sections": [],
+      "takeaway": "Según el boletín de AWS, hay dos vulnerabilidades en todas las versiones (hasta la 1.1.11) y no habrá parche porque MMS está fuera de soporte.",
+      "caveat": "El boletín no da puntuación CVSS ni menciona ataques.",
+      "company": "AWS",
+      "topic": "Seguridad",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "AWS",
+      "sourceTitle": "AWS recomienda abandonar Multi Model Server tras dos vulnerabilidades sin parche",
+      "sourceUrl": "https://aws.amazon.com/security/security-bulletins/2026-148-aws/",
+      "sources": [
+        {
+          "name": "AWS",
+          "title": "Consultar la fuente original",
+          "url": "https://aws.amazon.com/security/security-bulletins/2026-148-aws/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-23",
+      "dateBasis": "source",
+      "tags": [],
+      "illustrationTheme": "infra",
+      "illustrationSlug": "noticias-ia-editorial",
+      "publishedAt": "2026-10-26T10:44:36Z",
+      "modifiedAt": "2026-10-26T10:44:36Z",
+      "illustrationPath": "/assets/logo.png"
+    },
+    {
+      "slug": "claude-code-v21310-20261023",
+      "title": "Claude Code 2.1.310 llega con Monitor en Bedrock, Vertex y Foundry",
+      "summary": "Anthropic anuncia correcciones de permisos en Windows y de la aprobación de planes en VS Code. No hay prueba independiente.",
+      "body": [],
+      "sections": [],
+      "takeaway": "Anthropic anuncia correcciones de permisos en Windows y de la aprobación de planes en VS Code.",
+      "caveat": "No hay prueba independiente.",
+      "company": "Anthropic",
+      "topic": "Claude Code",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Anthropic",
+      "sourceTitle": "Claude Code 2.1.310 llega con Monitor en Bedrock, Vertex y Foundry",
+      "sourceUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Consultar la fuente original",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-23",
+      "dateBasis": "source",
+      "tags": [],
+      "illustrationTheme": "code",
+      "illustrationSlug": "anthropic-claude-code-21302-20261016",
+      "publishedAt": "2026-10-26T10:44:36Z",
+      "modifiedAt": "2026-10-26T10:44:36Z"
+    },
     {
       "slug": "openai-google-cloud-model-garden-20261021",
       "title": "OpenAI llevará sus modelos y Codex a Google Cloud",
@@ -4779,6 +4956,11 @@
     }
   ],
   "selectedSlugs": [
+    "qwen-code-v0261-20261024",
+    "deeprobotics-brain-five-research-20261024",
+    "nvidia-bolt-e4b4gb-release-20261023",
+    "aws-mms-cve115812-115813-20261023",
+    "claude-code-v21310-20261023",
     "openai-google-cloud-model-garden-20261021",
     "yelp-assistant-check-for-me-20261020",
     "jiangning-iwm-generator-maxwell-20261020",
