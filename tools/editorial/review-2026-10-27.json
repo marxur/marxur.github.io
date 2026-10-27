@@ -1,0 +1,34 @@
+{
+  "reviewedAt": "2026-10-27T22:17:01Z",
+  "authorization": "Petición directa de Marcos del 27/10/2026: actualización y publicación web diaria. La tarea ya no depende de OK_CALIDAD ni publicación previa en redes.",
+  "newArticles": [
+    "deepmind-genie4-20261027",
+    "apple-m6-macs-20261027",
+    "liquid-lfm3-20261027",
+    "microsoft-mai-image27-20261027",
+    "chatgpt-icloud-mail-calendar-20261027",
+    "baidu-unlimited-ocr-2-20261027",
+    "apple-creator-studio-ai-mcp-20261027",
+    "nvidia-oracle-rubin-vera-20261027",
+    "openai-gpt61-terra-20261026",
+    "runway-app-studio-20261026",
+    "siri-ai-espanol-20261026",
+    "cadence-maestro-20261026",
+    "oracle-fusion-claw-20261026",
+    "cisco-agenticops-20261026",
+    "openai-signals-work-20261026",
+    "coderabbit-gpt61-sol-security-20261026",
+    "openai-scientific-communities-20261026",
+    "agility-gxo-digit-expansion-20261026"
+  ],
+  "updatedArticles": [
+    "claude-code-v21310-20261023"
+  ],
+  "reports": [
+    "Reporte_IA_2026-10-27_17-16.json",
+    "Reporte_IA_2026-10-27_22-10.json",
+    "Acumulado_IA_2026-10-27_22-10.json"
+  ],
+  "retained": "Fuera de la selección quedan salud, finanzas, asuntos jurídicos y alegaciones sin contraste; no bloquean el resto. Otras detecciones antiguas quedan registradas en los informes para seguimiento.",
+  "sourcesRead": "Fuentes primarias leídas por HTTP y/o consulta web. Cisco y Oracle respondieron con contenido mínimo por HTTP directo; sus textos se comprobaron mediante consulta web. No se probaron productos ni se reprodujeron benchmarks."
+}

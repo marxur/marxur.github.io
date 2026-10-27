@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-10-27T22:17:01Z",
+  "authorizedBy": "Marcos Valencia",
+  "authorizationDate": "2026-10-27",
+  "destination": "https://www.ianoticias.org",
+  "repository": "marxur/marxur.github.io",
+  "branch": "main",
+  "dailyPublicationAuthorized": true,
+  "timezone": "Europe/Madrid",
+  "scheduledReview": "21:15",
+  "automationId": "Automation_b6f01cb0a3c08191aa78ee91dcce584f",
+  "ordinaryArticlesRequireNinoApproval": false,
+  "ordinaryArticlesRequirePriorSocialPublication": false,
+  "required": "Verificar fuentes primarias, deduplicar por acontecimiento, atribuir resultados, preservar fechas y comprobar despliegue público.",
+  "excludedFromOrdinaryPublication": [
+    "salud",
+    "asuntos jurídicos",
+    "finanzas"
+  ],
+  "socialPostingAuthorizedByThisTask": false,
+  "preserveExistingContent": true
+}

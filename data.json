@@ -1,7 +1,704 @@
 {
-  "edition": "2026-10-26T10:44:36Z",
-  "reviewedAt": "2026-10-26T10:44:36Z",
+  "edition": "2026-10-27T22:17:01Z",
+  "reviewedAt": "2026-10-27T22:17:01Z",
   "articles": [
+    {
+      "slug": "deepmind-genie4-20261027",
+      "title": "Genie 4 genera mundos interactivos con sonido y diálogo, todavía en pruebas",
+      "summary": "Google DeepMind presenta una vista previa de su modelo de mundos, que permite explorar escenas y modificarlas con instrucciones. El acceso inicial queda restringido a colaboradores de prueba.",
+      "body": [
+        "Genie 4 genera imagen y audio mientras responde a los movimientos del usuario. DeepMind muestra cambios de tiempo, cámara y personajes mediante texto, además de conversaciones dentro de las escenas. Las demostraciones son del laboratorio; Noticias IA no ha probado el modelo.",
+        "La empresa vincula la simulación con modelos Gemini para sostener apariencia y continuidad. Prevé llevarla posteriormente a suscriptores de Google AI Ultra en Project Genie y a socios con acceso anticipado a la API. Ese anuncio no equivale a disponibilidad general."
+      ],
+      "sections": [],
+      "takeaway": "La vista previa apunta a prototipos interactivos y previsualización; sus resultados requieren revisión.",
+      "caveat": "DeepMind reconoce errores de física, permanencia de objetos, audio y continuidad. Sigue siendo un modelo experimental.",
+      "company": "Google DeepMind",
+      "topic": "Genie",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Google DeepMind",
+      "sourceTitle": "Genie 4: A new generation of world simulation",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [
+        "Google"
+      ],
+      "illustrationTheme": "video",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "deepmind-genie4-20261027"
+    },
+    {
+      "slug": "apple-m6-macs-20261027",
+      "title": "Apple anuncia MacBook Pro e iMac con M6 y mejoras para IA local",
+      "summary": "El MacBook Pro de 14 pulgadas y el iMac incorporan M6. Apple sitúa las reservas el 28 de octubre y la disponibilidad el 6 de noviembre; sus comparaciones de rendimiento proceden de pruebas propias.",
+      "body": [
+        "En el portátil, Apple anuncia hasta 170 GB/s de ancho de banda y un Neural Engine dual de 16 núcleos. Para el tiempo hasta el primer token de un modelo de lenguaje, comunica mejoras de hasta trece veces frente al MacBook Pro con M1 y 1,3 veces frente al M5. Son tareas y configuraciones concretas."
+      ],
+      "sections": [],
+      "takeaway": "El anuncio amplía las opciones de hardware para ejecutar modelos en el propio equipo.",
+      "caveat": "No se ha medido su rendimiento de forma independiente ni se generalizan estas cifras a cualquier aplicación.",
+      "company": "Apple",
+      "topic": "IA local",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Apple",
+      "sourceTitle": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "sources": [
+        {
+          "name": "Apple",
+          "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+        },
+        {
+          "name": "Apple",
+          "title": "Apple unveils new iMac with M6",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "infra",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "apple-m6-macs-20261027"
+    },
+    {
+      "slug": "liquid-lfm3-20261027",
+      "title": "Liquid AI publica LFM3: modelos compactos de texto, visión, audio y decisiones",
+      "summary": "La familia reúne seis variantes de la clase de dos mil millones de parámetros sobre una base común. Liquid AI orienta sus modelos a adaptación especializada y ejecución en dispositivos.",
+      "body": [
+        "El anuncio enlaza pesos y recursos para texto, imágenes, vídeo y audio. La variante textual ofrece un contexto anunciado de 256.000 tokens. La arquitectura combina convoluciones y distintas formas de atención, con configuraciones para ajustar los modelos en una sola GPU."
+      ],
+      "sections": [],
+      "takeaway": "Ofrece una nueva base compacta para asistentes especializados; el tamaño no garantiza encaje en cualquier dispositivo.",
+      "caveat": "Velocidad y calidad son resultados del proveedor. Hay que comprobar la licencia y los requisitos de cada variante.",
+      "company": "Liquid AI",
+      "topic": "Modelos locales",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Liquid AI",
+      "sourceTitle": "Build specialized multimodal models with LFM3",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "sources": [
+        {
+          "name": "Liquid AI",
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "model",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "liquid-lfm3-20261027"
+    },
+    {
+      "slug": "microsoft-mai-image27-20261027",
+      "title": "Microsoft presenta MAI Image 2.7 en vista previa para editar imágenes",
+      "summary": "El nuevo modelo se centra en cambios de escena e iluminación, texto, símbolos y restauración. Microsoft lo ofrece para pruebas en MAI Playground, Arena y Artificial Analysis.",
+      "body": [
+        "El lanzamiento comienza con edición de imágenes existentes; la generación solo a partir de texto se anuncia para después. Microsoft comunica mejoras frente a MAI Image 2.6 y posiciones destacadas en evaluaciones externas, pero Noticias IA no ha reproducido esas comparaciones."
+      ],
+      "sections": [],
+      "takeaway": "Permite evaluar ediciones sobre materiales propios, revisando la conservación de detalles e identidad.",
+      "caveat": "Es una vista previa. Una clasificación de preferencias no garantiza el mejor resultado para cada imagen.",
+      "company": "Microsoft AI",
+      "topic": "Imagen",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Microsoft AI",
+      "sourceTitle": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis and #3 on Arena",
+      "sourceUrl": "https://microsoft.ai/news/mai-image-2-7-debut/",
+      "sources": [
+        {
+          "name": "Microsoft AI",
+          "title": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis and #3 on Arena",
+          "url": "https://microsoft.ai/news/mai-image-2-7-debut/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "image",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "microsoft-mai-image27-20261027"
+    },
+    {
+      "slug": "chatgpt-icloud-mail-calendar-20261027",
+      "title": "ChatGPT añade conexiones con iCloud Mail y Calendar",
+      "summary": "OpenAI anuncia plugins para buscar correos, repasar la bandeja, consultar la agenda y actualizar eventos. Las notas sitúan el acceso en todos los planes, en web, escritorio e iOS.",
+      "body": [
+        "La novedad figura en las notas de ChatGPT del 27 de octubre. Su funcionamiento depende de conectar la cuenta y conceder los permisos correspondientes. Noticias IA no ha conectado una cuenta ni probado acciones sobre correos o calendarios."
+      ],
+      "sections": [],
+      "takeaway": "La integración amplía las fuentes personales con las que ChatGPT puede consultar información y ejecutar acciones autorizadas.",
+      "caveat": "La disponibilidad anunciada debe comprobarse en cada cuenta; conectar un servicio no sustituye la revisión de sus permisos.",
+      "company": "OpenAI",
+      "topic": "ChatGPT",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "ChatGPT release notes · iCloud Mail and Calendar plugins",
+      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "ChatGPT release notes · iCloud Mail and Calendar plugins",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "tools",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "chatgpt-icloud-mail-calendar-20261027"
+    },
+    {
+      "slug": "baidu-unlimited-ocr-2-20261027",
+      "title": "Baidu publica Unlimited OCR 2 para interpretar documentos largos",
+      "summary": "La ficha oficial anuncia la segunda versión el 27 de octubre y publica recursos de inferencia. Su mecanismo SR-SWA busca contener el coste de atención al procesar secuencias documentales extensas.",
+      "body": [
+        "Baidu describe una representación de referencias de tamaño acotado para analizar documentos de muchas páginas. La ficha ofrece ejemplos con Transformers y SGLang y resultados de sus autores en pruebas de documentos largos. El nombre «Unlimited» no demuestra precisión o capacidad ilimitadas en cualquier equipo."
+      ],
+      "sections": [],
+      "takeaway": "Añade una opción para extraer estructura de documentos extensos, con revisión necesaria de la transcripción y las tablas.",
+      "caveat": "No se han reproducido los benchmarks. Las configuraciones publicadas requieren recursos concretos y pueden perder contexto entre ventanas.",
+      "company": "Baidu",
+      "topic": "Documentos",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Baidu",
+      "sourceTitle": "Unlimited OCR Works 2 · Model card",
+      "sourceUrl": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "sources": [
+        {
+          "name": "Baidu",
+          "title": "Unlimited OCR Works 2 · Model card",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR-2"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [
+        "China",
+        "Baidu"
+      ],
+      "illustrationTheme": "tools",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "baidu-unlimited-ocr-2-20261027"
+    },
+    {
+      "slug": "apple-creator-studio-ai-mcp-20261027",
+      "title": "Apple Creator Studio anuncia asistentes, relleno generativo y conexión MCP",
+      "summary": "Las novedades previstas para noviembre añaden asistentes en Logic Pro, Keynote, Pages y Numbers, además de relleno generativo en Pixelmator Pro. Parte de las funciones llegará en beta.",
+      "body": [
+        "Apple anuncia soporte MCP para que agentes externos lean y editen contenidos o ejecuten acciones en Keynote, Pages y Numbers. Los asistentes combinan modelos de Apple y OpenAI. Logic incorpora mejoras para clasificar sonidos y separar partes de batería."
+      ],
+      "sections": [],
+      "takeaway": "El anuncio acerca la edición creativa y ofimática a flujos con agentes. Las prestaciones todavía no se han probado aquí.",
+      "caveat": "Los asistentes requieren dispositivos compatibles y se anuncian inicialmente en inglés de EE. UU.; MCP exige macOS 27.",
+      "company": "Apple",
+      "topic": "Creación",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Apple",
+      "sourceTitle": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "sources": [
+        {
+          "name": "Apple",
+          "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "tools",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "apple-creator-studio-ai-mcp-20261027"
+    },
+    {
+      "slug": "nvidia-oracle-rubin-vera-20261027",
+      "title": "NVIDIA y Oracle anuncian Vera Rubin y Vera CPU en OCI",
+      "summary": "Los proveedores anuncian disponibilidad general de Vera Rubin NVL72 y Vera CPU en Oracle Cloud Infrastructure. La ampliación de superclústeres a varios gigavatios sigue siendo un plan.",
+      "body": [
+        "La colaboración distingue el trabajo de entrenamiento e inferencia en GPU de las tareas de CPU que ejecutan los agentes: usar herramientas, probar código y recuperar datos. OCI permite ajustar ambos recursos por separado. HGX Rubin NVL8 aparece como una incorporación futura."
+      ],
+      "sections": [],
+      "takeaway": "La separación de CPU y GPU busca adaptar la infraestructura a las distintas fases del trabajo de un agente.",
+      "caveat": "No se ha contratado ni medido el servicio. Las ventajas de utilización y rendimiento proceden de los proveedores.",
+      "company": "NVIDIA / Oracle",
+      "topic": "Infraestructura",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "NVIDIA / Oracle",
+      "sourceTitle": "NVIDIA and Oracle expand NVIDIA Vera Rubin and Vera CPU on OCI",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "sources": [
+        {
+          "name": "NVIDIA / Oracle",
+          "title": "NVIDIA and Oracle expand NVIDIA Vera Rubin and Vera CPU on OCI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-27",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "infra",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "nvidia-oracle-rubin-vera-20261027"
+    },
+    {
+      "slug": "openai-gpt61-terra-20261026",
+      "title": "OpenAI lanza GPT-6.1 Terra para tareas visuales, escritura y uso del ordenador",
+      "summary": "OpenAI anuncia GPT-6.1 Terra en ChatGPT Work, Codex y API. La compañía comunica mejoras en razonamiento visual, programación y precisión frente a GPT-5.6 Terra.",
+      "body": [
+        "La tarifa estándar publicada para la API es de un dólar por millón de tokens de entrada, 0,05 por entrada en caché y cinco por salida. Las notas describen un despliegue cuya disponibilidad efectiva depende del plan y la configuración de la cuenta."
+      ],
+      "sections": [],
+      "takeaway": "Amplía la oferta para trabajo visual y automatización. Conviene comprobar el resultado con tareas propias.",
+      "caveat": "Las mejoras son evaluaciones de OpenAI. No se han reproducido ni implican ausencia de errores.",
+      "company": "OpenAI",
+      "topic": "GPT",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "Introducing GPT-6.1 Terra",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Introducing GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        },
+        {
+          "name": "OpenAI",
+          "title": "Notas de disponibilidad de GPT-6.1 Terra",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "model",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "openai-gpt61-terra-20261026"
+    },
+    {
+      "slug": "runway-app-studio-20261026",
+      "title": "Runway lanza App Studio para crear aplicaciones de imagen, vídeo y audio",
+      "summary": "App Studio convierte instrucciones y flujos creativos en herramientas con interfaz propia. Las aplicaciones pueden utilizar modelos de Runway, referencias y Brand Kits, y compartirse con otros usuarios.",
+      "body": [
+        "Runway permite transformar un flujo existente en una aplicación o construirla mediante lenguaje natural. La creación está incluida en los planes de pago, pero construir, ejecutar y alojar consume créditos. Los usuarios gratuitos pueden utilizar aplicaciones integradas o compartidas."
+      ],
+      "sections": [],
+      "takeaway": "Facilita reutilizar un proceso creativo mediante entradas sencillas, sin repetir manualmente toda la cadena de modelos.",
+      "caveat": "No se ha probado la calidad ni el coste real de uso. La inclusión en el plan no significa ejecuciones gratuitas.",
+      "company": "Runway",
+      "topic": "Creación audiovisual",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Runway",
+      "sourceTitle": "Introducing Runway App Studio",
+      "sourceUrl": "https://runway.com/news/company-news/introducing-runway-app-studio",
+      "sources": [
+        {
+          "name": "Runway",
+          "title": "Introducing Runway App Studio",
+          "url": "https://runway.com/news/company-news/introducing-runway-app-studio"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "video",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "runway-app-studio-20261026"
+    },
+    {
+      "slug": "siri-ai-espanol-20261026",
+      "title": "Siri AI incorpora español, con restricciones de acceso en la Unión Europea",
+      "summary": "Apple añade español y otros cuatro idiomas a Siri AI con las versiones 27.2. La beta requiere un dispositivo compatible con Apple Intelligence y un idioma admitido.",
+      "body": [
+        "El anuncio describe contexto personal, acciones entre aplicaciones y comprensión de lo que aparece en pantalla. Apple mantiene Siri AI fuera de la UE en iOS, iPadOS y watchOS. Esa restricción no debe confundirse con la lista general de idiomas de Apple Intelligence."
+      ],
+      "sections": [],
+      "takeaway": "Antes de actualizar por esta función, hay que comprobar plataforma, región y compatibilidad.",
+      "caveat": "La llegada del español no significa acceso en todos los dispositivos de España. No se han probado estas funciones.",
+      "company": "Apple",
+      "topic": "Asistentes",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Apple",
+      "sourceTitle": "Siri AI is available in more languages starting today",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "sources": [
+        {
+          "name": "Apple",
+          "title": "Siri AI is available in more languages starting today",
+          "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "voice",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "siri-ai-espanol-20261026"
+    },
+    {
+      "slug": "cadence-maestro-20261026",
+      "title": "Cadence presenta Maestro para especializar agentes en diseño de chips",
+      "summary": "La cartera combina modelos de lenguaje, modelos de decisión y habilidades para diseño electrónico. Los primeros modelos se ofrecen en acceso anticipado a clientes seleccionados durante el cuarto trimestre de 2026.",
+      "body": [
+        "Maestro se integra con las herramientas y AI Super Agents de Cadence e incluye colaboración tecnológica con NVIDIA. La empresa anuncia mejoras iniciales de hasta un 30 % en calidad de resultados y cinco veces en eficiencia de tokens frente a modelos generales."
+      ],
+      "sections": [],
+      "takeaway": "La propuesta lleva modelos especializados al mismo entorno que evalúa los diseños y sus restricciones.",
+      "caveat": "Son pruebas del proveedor, sin reproducción de Noticias IA. Acceso anticipado no equivale a una descarga pública.",
+      "company": "Cadence",
+      "topic": "Diseño de chips",
+      "category": "Modelos",
+      "label": "ACTUALIDAD",
+      "source": "Cadence",
+      "sourceTitle": "Cadence introduces Maestro, a domain-specialized AI model portfolio",
+      "sourceUrl": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-introduces-maestro-a-domain-specialized-ai-model.html",
+      "sources": [
+        {
+          "name": "Cadence",
+          "title": "Cadence introduces Maestro, a domain-specialized AI model portfolio",
+          "url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-introduces-maestro-a-domain-specialized-ai-model.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "infra",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "cadence-maestro-20261026"
+    },
+    {
+      "slug": "oracle-fusion-claw-20261026",
+      "title": "Oracle amplía sus aplicaciones de agentes y prepara integraciones con ChatGPT",
+      "summary": "Oracle anuncia 25 aplicaciones impulsadas por Fusion Claw. Una ampliación del 27 de octubre añade planes de Oracle AI Workspace en ChatGPT y herramientas construidas con modelos de OpenAI.",
+      "body": [
+        "Fusion Companion y Agentic Home permiten expresar objetivos y seguir tareas dentro de la autoridad definida por la organización. El anuncio de OpenAI distingue proyectos en desarrollo: AI Workspace, AI Security Mesh y App Composer. No se presenta toda la cartera como disponible de forma general."
+      ],
+      "sections": [],
+      "takeaway": "Las integraciones buscan coordinar datos y acciones empresariales sin perder los permisos y aprobaciones de la organización.",
+      "caveat": "Son anuncios de los proveedores. Acceso, plazos, contratos y costes de cada función requieren comprobación específica.",
+      "company": "Oracle / OpenAI",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Oracle / OpenAI",
+      "sourceTitle": "Oracle advances outcome-driven AI across Fusion Applications",
+      "sourceUrl": "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/",
+      "sources": [
+        {
+          "name": "Oracle / OpenAI",
+          "title": "Oracle advances outcome-driven AI across Fusion Applications",
+          "url": "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/"
+        },
+        {
+          "name": "OpenAI",
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [
+        "OpenAI",
+        "Agentes IA"
+      ],
+      "illustrationTheme": "agents",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "oracle-fusion-claw-20261026"
+    },
+    {
+      "slug": "cisco-agenticops-20261026",
+      "title": "Cisco amplía AgenticOps con acciones controladas y conexiones a datos de red",
+      "summary": "Cisco anuncia funciones para investigar incidencias y proponer acciones dentro de políticas de la organización. Agentic Actions se ofrece en disponibilidad controlada, con supervisión humana.",
+      "body": [
+        "La ampliación incluye servidores MCP para conectar agentes con información de red y pruebas de experiencia de ThousandEyes en puntos de acceso compatibles. La inclusión de estas pruebas en licencias elegibles se sitúa a finales del cuarto trimestre de 2026; no todas las funciones comparten calendario."
+      ],
+      "sections": [],
+      "takeaway": "Las novedades acercan los agentes a operaciones de red con datos y límites definidos por el administrador.",
+      "caveat": "No se ha probado recuperación automática de incidencias. Hay que distinguir acceso controlado y disponibilidad futura.",
+      "company": "Cisco",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Cisco",
+      "sourceTitle": "Powering partner potential in a world of agentic AI",
+      "sourceUrl": "https://blogs.cisco.com/news/powering-partner-potential-in-a-world-of-agentic-ai",
+      "sources": [
+        {
+          "name": "Cisco",
+          "title": "Powering partner potential in a world of agentic AI",
+          "url": "https://blogs.cisco.com/news/powering-partner-potential-in-a-world-of-agentic-ai"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "agents",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "cisco-agenticops-20261026"
+    },
+    {
+      "slug": "openai-signals-work-20261026",
+      "title": "OpenAI publica datos agregados sobre el uso laboral de ChatGPT",
+      "summary": "OpenAI Signals relaciona mensajes laborales con 165 categorías de actividades de O*NET en casi cien países. Los datos trimestrales abarcan desde principios de 2025 hasta el tercer trimestre de 2026.",
+      "body": [
+        "El recurso permite explorar diferencias entre países y cambios de uso. Se centra en planes individuales y excluye conversaciones empresariales y Codex. OpenAI describe medidas de agregación y protección de la información antes de publicar los datos."
+      ],
+      "sections": [],
+      "takeaway": "Ofrece una base para estudiar qué tareas llevan los usuarios a ChatGPT, con límites de muestra y clasificación.",
+      "caveat": "El conjunto refleja actividad dentro del producto. No mide directamente productividad, empleo perdido ni todo el trabajo de un país.",
+      "company": "OpenAI",
+      "topic": "Investigación",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "ChatGPT’s expanding world of work",
+      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "science",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "openai-signals-work-20261026"
+    },
+    {
+      "slug": "coderabbit-gpt61-sol-security-20261026",
+      "title": "CodeRabbit utiliza GPT-6.1 Sol para revisar riesgos entre repositorios",
+      "summary": "OpenAI documenta el uso de GPT-6.1 Sol como modelo principal del agente de seguridad de CodeRabbit. El sistema combina otros modelos y herramientas para analizar cambios y dependencias.",
+      "body": [
+        "La revisión puede extenderse a componentes compartidos y repositorios conectados. Para hallazgos elegidos por el usuario, CodeRabbit puede intentar una verificación en un entorno aislado y preparar una corrección para revisión humana. La descripción corresponde al caso publicado por los proveedores."
+      ],
+      "sections": [],
+      "takeaway": "La propuesta conecta investigación de riesgos y correcciones revisables dentro del flujo de desarrollo.",
+      "caveat": "No se ha medido la cobertura ni la tasa de falsos positivos. Detectar un posible problema exige validar su contexto.",
+      "company": "OpenAI / CodeRabbit",
+      "topic": "Programación",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI / CodeRabbit",
+      "sourceTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security/",
+      "sources": [
+        {
+          "name": "OpenAI / CodeRabbit",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security/"
+        },
+        {
+          "name": "CodeRabbit",
+          "title": "CodeRabbit Secure",
+          "url": "https://www.coderabbit.ai/security"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [
+        "OpenAI"
+      ],
+      "illustrationTheme": "code",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "coderabbit-gpt61-sol-security-20261026"
+    },
+    {
+      "slug": "openai-scientific-communities-20261026",
+      "title": "OpenAI entrega resultados científicos a colaboraciones académicas para su estudio",
+      "summary": "OpenAI anuncia resultados de modelos en matemáticas, complejidad y física, con distintos procedimientos de publicación. La empresa los presenta como materiales que deben convertirse en comprensión científica.",
+      "body": [
+        "Para matemáticas publica materiales; para complejidad abre una colaboración externa y documentación, incluida formalización en Lean; para física deja la publicación de los materiales al grupo académico. Estas diferencias forman parte del anuncio y no acreditan por sí solas consenso científico."
+      ],
+      "sections": [],
+      "takeaway": "La revisión y explicación por especialistas siguen siendo necesarias para valorar el alcance de las afirmaciones.",
+      "caveat": "No se han auditado los manuscritos ni ejecutado los verificadores. Se informa de resultados anunciados y su proceso de estudio.",
+      "company": "OpenAI",
+      "topic": "Investigación",
+      "category": "Análisis",
+      "label": "ACTUALIDAD",
+      "source": "OpenAI",
+      "sourceTitle": "Working with academic communities to build scientific understanding",
+      "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "science",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "openai-scientific-communities-20261026"
+    },
+    {
+      "slug": "agility-gxo-digit-expansion-20261026",
+      "title": "GXO ampliará el despliegue de Digit a otros dos almacenes",
+      "summary": "Agility Robotics anuncia la ampliación de su relación con GXO a instalaciones de Carolina del Norte y Tennessee. Los despliegues se prevén para principios de 2027.",
+      "body": [
+        "El plan comienza con Digit 4 y contempla una transición a Digit 5 cuando esté disponible. La empresa lo presenta como ampliación del trabajo iniciado en Georgia en 2024, donde atribuye al robot más de cien mil contenedores movidos."
+      ],
+      "sections": [],
+      "takeaway": "La ampliación permite seguir el paso de pruebas iniciales a implantaciones en varias instalaciones.",
+      "caveat": "Son planes y cifras del proveedor. No se ha auditado el rendimiento de las instalaciones ni el cumplimiento del despliegue futuro.",
+      "company": "Agility Robotics",
+      "topic": "Robótica",
+      "category": "Herramientas",
+      "label": "ACTUALIDAD",
+      "source": "Agility Robotics",
+      "sourceTitle": "Agility Robotics highlights commercial momentum and growing enterprise demand for Digit humanoid robot",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/26/3388115/0/en/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot.html",
+      "sources": [
+        {
+          "name": "Agility Robotics",
+          "title": "Agility Robotics highlights commercial momentum and growing enterprise demand for Digit humanoid robot",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388115/0/en/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot.html"
+        }
+      ],
+      "art": "general",
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "date": "2026-10-26",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-27",
+      "tags": [],
+      "illustrationTheme": "robot",
+      "publishedAt": "2026-10-27T22:17:01Z",
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "dedup_key": "agility-gxo-digit-expansion-20261026"
+    },
     {
       "slug": "qwen-code-v0261-20261024",
       "title": "Qwen Code 0.26.1: servidores MCP sin recrear sesiones y compresión manual de contexto",
@@ -147,12 +844,14 @@
     },
     {
       "slug": "claude-code-v21310-20261023",
-      "title": "Claude Code 2.1.310 llega con Monitor en Bedrock, Vertex y Foundry",
-      "summary": "Anthropic anuncia correcciones de permisos en Windows y de la aprobación de planes en VS Code. No hay prueba independiente.",
-      "body": [],
+      "title": "Claude Code: de 2.1.310 a 2.1.312, con correcciones de políticas y archivos grandes",
+      "summary": "Actualización del 27 de octubre: Anthropic documenta correcciones en la carga de políticas, el manejo de archivos grandes y la detección de skills. La ficha conserva su fecha original del 23 de octubre.",
+      "body": [
+        "La versión 2.1.312 corrige casos en los que las políticas de la organización dejaban de recuperarse tras iniciar sesión en VS Code. También cambia el manejo de archivos grandes leídos parcialmente y repara la detección de skills después de entrar en subdirectorios. Se mantiene el registro anterior de 2.1.310 como antecedente."
+      ],
       "sections": [],
-      "takeaway": "Anthropic anuncia correcciones de permisos en Windows y de la aprobación de planes en VS Code.",
-      "caveat": "No hay prueba independiente.",
+      "takeaway": "La actualización incorpora correcciones concretas de fiabilidad y control del entorno de desarrollo.",
+      "caveat": "Notas del proveedor, sin reproducción independiente. La fecha de detección de 2.1.312 no se presenta como fecha de lanzamiento confirmada.",
       "company": "Anthropic",
       "topic": "Claude Code",
       "category": "Herramientas",
@@ -165,6 +864,11 @@
           "name": "Anthropic",
           "title": "Consultar la fuente original",
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Claude Code changelog · 2.1.312",
+          "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md"
         }
       ],
       "art": "general",
@@ -177,7 +881,16 @@
       "illustrationTheme": "code",
       "illustrationSlug": "anthropic-claude-code-21302-20261016",
       "publishedAt": "2026-10-26T10:44:36Z",
-      "modifiedAt": "2026-10-26T10:44:36Z"
+      "modifiedAt": "2026-10-27T22:17:01Z",
+      "updatedAt": "2026-10-27T22:17:01Z",
+      "updateDetectedAt": "2026-10-27",
+      "updateHistory": [
+        {
+          "date": "2026-10-27",
+          "version": "2.1.312",
+          "change": "Políticas, archivos grandes y detección de skills; versión comprobada en el changelog."
+        }
+      ]
     },
     {
       "slug": "openai-google-cloud-model-garden-20261021",
@@ -4956,6 +5669,24 @@
     }
   ],
   "selectedSlugs": [
+    "deepmind-genie4-20261027",
+    "apple-m6-macs-20261027",
+    "liquid-lfm3-20261027",
+    "microsoft-mai-image27-20261027",
+    "chatgpt-icloud-mail-calendar-20261027",
+    "baidu-unlimited-ocr-2-20261027",
+    "apple-creator-studio-ai-mcp-20261027",
+    "nvidia-oracle-rubin-vera-20261027",
+    "openai-gpt61-terra-20261026",
+    "runway-app-studio-20261026",
+    "siri-ai-espanol-20261026",
+    "cadence-maestro-20261026",
+    "oracle-fusion-claw-20261026",
+    "cisco-agenticops-20261026",
+    "openai-signals-work-20261026",
+    "coderabbit-gpt61-sol-security-20261026",
+    "openai-scientific-communities-20261026",
+    "agility-gxo-digit-expansion-20261026",
     "qwen-code-v0261-20261024",
     "deeprobotics-brain-five-research-20261024",
     "nvidia-bolt-e4b4gb-release-20261023",
