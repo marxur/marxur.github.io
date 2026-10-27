@@ -4686,7 +4686,7 @@
       "sourceUrl": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4699,7 +4699,7 @@
       "sourceUrl": "https://huggingface.co/tencent/Hy-Nomas",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4712,20 +4712,7 @@
       "sourceUrl": "https://ideogram.ai/models/vector/",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
-      "access": "Fragmento indexado · acceso directo bloqueado (403)"
-    },
-    {
-      "name": "Claude Developers",
-      "handle": "@ClaudeDevs",
-      "title": "Agent Skills pasa a la Agentic AI Foundation",
-      "summary": "El fragmento indexado anuncia la cesión de Agent Skills a AAIF. El comunicado oficial separado confirma el traspaso del nombre, el logotipo, la organización de GitHub y el dominio; las cifras de adopción pertenecen a Anthropic.",
-      "url": "https://x.com/ClaudeDevs/status/2113328526413996100",
-      "type": "Anuncio",
-      "sourceUrl": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "date": "2026-10-22",
-      "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4738,33 +4725,7 @@
       "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
-      "access": "Fragmento indexado · acceso directo bloqueado (403)"
-    },
-    {
-      "name": "OpenAI",
-      "handle": "@OpenAI",
-      "title": "Modelos de OpenAI y Codex en Google Cloud",
-      "summary": "El fragmento indexado anuncia la llegada de los modelos de OpenAI y los flujos de Codex a Model Garden. La fuente oficial separada sitúa la disponibilidad general en las próximas semanas.",
-      "url": "https://x.com/OpenAI/status/2112988118471295323",
-      "type": "Anuncio",
-      "sourceUrl": "https://openai.com/index/openai-models-google-cloud/",
-      "date": "2026-10-21",
-      "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
-      "access": "Fragmento indexado · acceso directo bloqueado (403)"
-    },
-    {
-      "name": "Google Chrome",
-      "handle": "@googlechrome",
-      "title": "Chrome amplía la detección de estafas con Gemini",
-      "summary": "El fragmento indexado anuncia una protección reforzada frente a estafas. La documentación oficial separada explica que Protección mejorada usa un modelo Gemini en servidor junto con reputación de dominio y otras señales; las garantías de eficacia y privacidad pertenecen a Google.",
-      "url": "https://x.com/googlechrome/status/2112594913003176182",
-      "type": "Anuncio",
-      "sourceUrl": "https://blog.google/security/our-latest-defenses-against-evolving-web-scams/",
-      "date": "2026-10-20",
-      "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4777,33 +4738,7 @@
       "sourceUrl": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
-      "access": "Fragmento indexado · acceso directo bloqueado (403)"
-    },
-    {
-      "name": "Mistral AI",
-      "handle": "@MistralAI",
-      "title": "Voxtral 3 y los nuevos agentes de voz",
-      "summary": "El fragmento indexado presenta Voxtral 3 y sus agentes de voz. La fuente oficial separada documenta transcripción, síntesis y herramientas; sus comparaciones pertenecen al fabricante.",
-      "url": "https://x.com/MistralAI/status/2112574615318876178",
-      "type": "Vídeo",
-      "sourceUrl": "https://mistral.ai/news/voxtral-3/",
-      "date": "2026-10-20",
-      "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
-      "access": "Fragmento indexado · acceso directo bloqueado (403)"
-    },
-    {
-      "name": "Jim Fan",
-      "handle": "@DrJimFan",
-      "title": "Flora convierte vídeos de robótica en datos de entrenamiento",
-      "summary": "El fragmento indexado presenta una familia abierta que anota acciones en vídeos de robots y personas. La comparación de coste y rendimiento es una afirmación del equipo; la página oficial separada documenta modelos y pruebas.",
-      "url": "https://x.com/DrJimFan/status/2112597587987689912",
-      "type": "Demostración",
-      "sourceUrl": "https://research.nvidia.com/labs/gear/flora/",
-      "date": "2026-10-20",
-      "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4816,7 +4751,7 @@
       "sourceUrl": "https://www.anthropic.com/news/s1-sec",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -4829,7 +4764,72 @@
       "sourceUrl": "https://frontier-cs.org/task/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-26T20:22:52.000Z",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "access": "Fragmento indexado · acceso directo bloqueado (403)"
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "title": "GPT-6.1 Terra llega a ChatGPT Work, Codex y API",
+      "summary": "El fragmento indexado anuncia el despliegue de GPT-6.1 Terra. La fuente oficial separada confirma disponibilidad en ChatGPT Work, Codex y API, además de uso visual y del ordenador; sus comparaciones de rendimiento pertenecen a OpenAI.",
+      "url": "https://x.com/OpenAI/status/2114780711664398349",
+      "type": "Anuncio",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "date": "2026-10-26",
+      "dateBasis": "post_id_timestamp",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "access": "Fragmento indexado · acceso directo bloqueado (403)"
+    },
+    {
+      "name": "Runway",
+      "handle": "@runwayml",
+      "title": "Runway App Studio crea herramientas creativas mediante lenguaje natural",
+      "summary": "El fragmento indexado anuncia App Studio. La documentación oficial separada confirma que permite construir y compartir aplicaciones de imagen, vídeo y audio sin escribir código; el servicio y sus costes no se han probado.",
+      "url": "https://x.com/runwayml/status/2114805465658036425",
+      "type": "Anuncio",
+      "sourceUrl": "https://runway.com/news/company-news/introducing-runway-app-studio",
+      "date": "2026-10-26",
+      "dateBasis": "post_id_timestamp",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "access": "Fragmento indexado · acceso directo bloqueado (403)"
+    },
+    {
+      "name": "Cadence",
+      "handle": "@Cadence",
+      "title": "Maestro lleva modelos especializados al diseño de chips y sistemas",
+      "summary": "El fragmento indexado presenta la cartera Maestro. El comunicado oficial separado confirma modelos especializados e integración con agentes de diseño; las mejoras de calidad y eficiencia son resultados iniciales de Cadence y el acceso comienza con clientes seleccionados.",
+      "url": "https://x.com/Cadence/status/2114718997677572564",
+      "type": "Anuncio",
+      "sourceUrl": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-introduces-maestro-a-domain-specialized-ai-model.html",
+      "date": "2026-10-26",
+      "dateBasis": "post_id_timestamp",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "access": "Fragmento indexado · acceso directo bloqueado (403)"
+    },
+    {
+      "name": "Cloudflare",
+      "handle": "@Cloudflare",
+      "title": "Cloudflare describe una exposición cruzada en GLM-5.3 de Workers AI",
+      "summary": "El fragmento indexado atribuye el incidente a una diferencia de configuración que activó un fallo de SGLang y expuso páginas de caché KV entre solicitudes. La página oficial separada no fue accesible en esta revisión, por lo que no se amplían alcance, cifras ni remediación.",
+      "url": "https://x.com/Cloudflare/status/2114848043853873286",
+      "type": "Incidente",
+      "sourceUrl": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "date": "2026-10-26",
+      "dateBasis": "post_id_timestamp",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "access": "Fragmento indexado · acceso directo bloqueado (403)"
+    },
+    {
+      "name": "Oracle",
+      "handle": "@Oracle",
+      "title": "Fusion Claw amplía las aplicaciones de agentes empresariales",
+      "summary": "El fragmento indexado presenta Fusion Claw para ventas y servicio. El comunicado oficial separado confirma 25 aplicaciones disponibles en Fusion y nuevas interfaces con objetivos, permisos, aprobaciones y seguimiento; no se ha probado su despliegue.",
+      "url": "https://x.com/Oracle/status/2114808284062380445",
+      "type": "Anuncio",
+      "sourceUrl": "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/",
+      "date": "2026-10-26",
+      "dateBasis": "post_id_timestamp",
+      "checkedAt": "2026-10-27T20:20:23.000Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     }
   ],
@@ -5123,7 +5123,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-10-26T20:22:52.000Z",
-    "coverage": "Revisión parcial de siete días: 12 publicaciones de 12 cuentas. Se incorporan Anthropic S-1 y Kaggle FrontierCS 2; se retiran dos tarjetas del 20/10 (Perplexity y DeepSeek) para mantener el límite. En la comprobación actual, 11 accesos directos a X devolvieron 403 y Google Chrome quedó bloqueado por la capa de consulta (DisabledError); los resúmenes se limitan a fragmentos indexados y documentación oficial separada. No se leyeron cronologías ni se visualizaron vídeos completos."
+    "checkedAt": "2026-10-27T20:20:23.000Z",
+    "coverage": "Revisión parcial de siete días: 12 publicaciones de 12 cuentas. Se incorporan OpenAI, Runway, Cadence, Cloudflare y Oracle; se conservan siete tarjetas anteriores útiles. En la comprobación actual, 11 accesos directos a X devolvieron 403 y Ai2 quedó bloqueado por la capa de consulta (DisabledError). Los resúmenes se limitan a fragmentos indexados y documentación oficial separada; la fuente web de Cloudflare no fue accesible y no se amplió su fragmento. No se leyeron cronologías ni se visualizaron vídeos completos."
   }
 }
