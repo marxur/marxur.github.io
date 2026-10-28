@@ -1,6 +1,6 @@
 {
-  "edition": "2026-10-27T22:17:01Z",
-  "reviewedAt": "2026-10-27T22:17:01Z",
+  "edition": "2026-10-28T20:17:02Z",
+  "reviewedAt": "2026-10-28T20:17:02Z",
   "articles": [
     {
       "slug": "deepmind-genie4-20261027",
@@ -2717,7 +2717,7 @@
     {
       "slug": "nvidia-rtx-spark-windows-availability-20261016",
       "title": "NVIDIA anuncia la disponibilidad de los portátiles RTX Spark",
-      "summary": "NVIDIA anuncia la comercialización de portátiles RTX Spark con Windows mediante seis fabricantes.",
+      "summary": "NVIDIA amplía la ficha de los portátiles RTX Spark con controles para repartir recursos entre aplicaciones y agentes locales.",
       "category": "Herramientas",
       "label": "ACTUALIDAD",
       "topic": "NVIDIA",
@@ -2728,17 +2728,18 @@
       "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-RTX-Spark-PCs-Available-Today--A-New-Beginning-for-Windows-PCs/default.aspx",
       "art": "agents",
       "body": [
-        "NVIDIA anuncia la comercialización de portátiles RTX Spark con Windows mediante seis fabricantes. La ficha combina CPU Grace y GPU Blackwell RTX con hasta 128 GB de memoria unificada, una configuración pensada también para modelos y agentes locales. Es una familia distinta de DGX Spark: conviene no intercambiar sus características. La disponibilidad está declarada por el proveedor, no comprobada en tiendas españolas. Las cifras máximas de cómputo tampoco sustituyen pruebas de velocidad, compatibilidad y consumo con los modelos que interese ejecutar."
+        "NVIDIA mantiene como disponible la familia de portátiles RTX Spark con Windows mediante seis fabricantes. La configuración combina CPU Grace, GPU Blackwell RTX y hasta 128 GB de memoria unificada para ejecutar modelos y agentes locales.",
+        "La documentación ampliada añade controles en NVIDIA App para priorizar una aplicación o reservar recursos para agentes en segundo plano. Es una función declarada por el proveedor: siguen pendientes pruebas independientes, stock español y precios en euros."
       ],
       "sections": [],
-      "takeaway": "Esperar pruebas con cargas propias.",
-      "caveat": "No hemos realizado una prueba independiente. Sin prueba independiente, stock español ni precio en euros verificados. Algunas aplicaciones siguen en beta o previstas.",
+      "takeaway": "Los nuevos controles pueden facilitar que un agente siga trabajando sin monopolizar la GPU.",
+      "caveat": "Disponibilidad y capacidades declaradas por NVIDIA; no se han probado modelos, consumo ni stock en España.",
       "kind": "news",
       "format": "brief",
       "verification": "confirmed",
       "dateBasis": "source",
       "publishedAt": "2026-10-17T19:31:15Z",
-      "modifiedAt": "2026-10-17T19:31:15Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
       "sources": [
         {
           "name": "NVIDIA",
@@ -2749,8 +2750,14 @@
           "name": "NVIDIA",
           "title": "Documentación original",
           "url": "https://www.nvidia.com/en-us/products/rtx-spark/"
+        },
+        {
+          "name": "NVIDIA",
+          "title": "Local AI updates for RTX Spark laptops",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/"
         }
-      ]
+      ],
+      "dedup_key": "nvidia-rtx-spark-windows-availability-20261016"
     },
     {
       "slug": "nvidia-broadcast23-file-processing-mcp-20261016",
@@ -5386,6 +5393,547 @@
         "Rumor"
       ],
       "illustrationTheme": "tools"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ÚLTIMA HORA",
+      "art": "general",
+      "slug": "firefox-smart-window-formularios-vigilancia-20261027",
+      "dedup_key": "mozilla-smart-window-20261027",
+      "title": "Firefox Smart Window rellena formularios y vigila cambios en páginas",
+      "summary": "Mozilla amplía su experiencia opcional de navegación con IA: usa pestañas elegidas para proponer respuestas en formularios y puede avisar de cambios concretos mientras el navegador está abierto.",
+      "body": [
+        "Smart Window puede tomar datos de las pestañas que el usuario seleccione y sugerir texto para formularios. Las propuestas se revisan antes de insertarse y Firefox no envía el formulario. Mozilla indica que esa función comparte el contenido elegido con Gemini 3.1 Flash Lite para detectar campos y extraer información.",
+        "La segunda novedad permite vigilar hasta cinco páginas por tarea, con comprobaciones diarias o semanales. Funciona solo con Firefox abierto, admite hasta quince tareas activas y usa un modelo Qwen para detectar cambios que coincidan con la petición."
+      ],
+      "takeaway": "Puede ahorrar tareas repetitivas, siempre que el usuario revise qué pestañas comparte y cada respuesta antes de enviarla.",
+      "caveat": "Es una beta de escritorio limitada inicialmente al inglés en Estados Unidos y Canadá. La vigilancia no funciona con el navegador cerrado.",
+      "company": "Mozilla",
+      "topic": "Firefox",
+      "category": "Herramientas",
+      "source": "Mozilla",
+      "sourceTitle": "Skip the busywork with Smart Window",
+      "sourceUrl": "https://blog.mozilla.org/en/firefox/skip-the-busywork-with-smart-window/",
+      "sources": [
+        {
+          "name": "Mozilla",
+          "title": "Skip the busywork with Smart Window",
+          "url": "https://blog.mozilla.org/en/firefox/skip-the-busywork-with-smart-window/"
+        }
+      ],
+      "illustrationTheme": "tools",
+      "tags": [
+        "Mozilla",
+        "Navegadores"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "opera-webai-ia-local-navegador-20261027",
+      "dedup_key": "opera-webai-20261027",
+      "title": "Opera abre WebAI para ejecutar modelos locales desde webs y extensiones",
+      "summary": "La vista previa permite generar texto, clasificar y crear representaciones semánticas dentro del navegador, sin API externa ni servidor local.",
+      "body": [
+        "WebAI expone a webs y extensiones modelos compatibles que se ejecutan en el dispositivo. Opera lo presenta como una implementación temprana de un estándar propuesto, con APIs para texto, decisiones y representaciones semánticas.",
+        "La función es opcional y no descarga modelos hasta activarse. La vista previa funciona en Opera One, Opera GX y Opera Neon para Windows x64 y Mac con Apple silicon."
+      ],
+      "takeaway": "Abre una vía para extensiones privadas y sin coste por petición en la nube.",
+      "caveat": "Sigue en vista previa y no está disponible en Linux, Mac Intel ni Windows sobre Arm.",
+      "company": "Opera",
+      "topic": "Navegadores",
+      "category": "Herramientas",
+      "source": "Opera",
+      "sourceTitle": "WebAI: Local AI for the web, now in Opera",
+      "sourceUrl": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/",
+      "sources": [
+        {
+          "name": "Opera",
+          "title": "WebAI: Local AI for the web, now in Opera",
+          "url": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/"
+        }
+      ],
+      "illustrationTheme": "code",
+      "tags": [
+        "Opera",
+        "IA local"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "tencent-hy-simulmt-traduccion-simultanea-20261026",
+      "dedup_key": "tencent-hy-simulmt-20261026",
+      "title": "Tencent publica Hy-SimulMT para traducción simultánea entre chino e inglés",
+      "summary": "El modelo abierto recibe audio de forma continua y devuelve texto y voz mientras habla el interlocutor, con herramientas de inferencia y entrenamiento.",
+      "body": [
+        "Tencent Hunyuan ha publicado el repositorio de Hy-SimulMT, diseñado para traducción bidireccional y simultánea entre chino e inglés. Incluye SimulInfer para servir el modelo y SimulTrain para entrenarlo.",
+        "La voz sintetizada y la clonación vocal necesitan un servicio TTS configurado. Las comparaciones de latencia y calidad publicadas proceden del propio equipo y no han sido reproducidas por Noticias IA."
+      ],
+      "takeaway": "Es una base útil para reuniones y entrevistas bilingües, especialmente para equipos capaces de desplegar el servicio.",
+      "caveat": "Solo cubre chino e inglés; la salida de voz depende de componentes adicionales y los resultados son del proveedor.",
+      "company": "Tencent Hunyuan",
+      "topic": "Voz",
+      "category": "Modelos",
+      "source": "Tencent Hunyuan",
+      "sourceTitle": "Hy-SimulMT",
+      "sourceUrl": "https://github.com/Tencent-Hunyuan/Hy-SimulMT",
+      "sources": [
+        {
+          "name": "Tencent Hunyuan",
+          "title": "Hy-SimulMT",
+          "url": "https://github.com/Tencent-Hunyuan/Hy-SimulMT"
+        }
+      ],
+      "illustrationTheme": "voice",
+      "tags": [
+        "China",
+        "Tencent",
+        "Voz"
+      ],
+      "date": "2026-10-26"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "gemini-robotics-er2-google-cloud-preview-20261027",
+      "dedup_key": "google-robotics-er2-cloud-preview-20261027",
+      "title": "Gemini Robotics ER 2 llega en vista previa pública a Google Cloud",
+      "summary": "Google ofrece su modelo de razonamiento corporizado para coordinar robots, interpretar vídeo continuo y orquestar herramientas de control.",
+      "body": [
+        "Gemini Robotics Embodied Reasoning 2 ya figura en vista previa pública en la plataforma Gemini. Los desarrolladores pueden declarar modelos de acción, navegación o funciones propias como herramientas y enviar vídeo, audio o texto al modelo.",
+        "Google atribuye al sistema planificación de tareas prolongadas, autocorrección y coordinación entre robots. Las cifras de precisión y velocidad publicadas son resultados del proveedor y no una evaluación independiente."
+      ],
+      "takeaway": "Facilita probar una capa de razonamiento común sobre distintos robots sin convertir el anuncio en una certificación de seguridad física.",
+      "caveat": "Es una vista previa. Cada despliegue físico exige controles, simulación y validación específicos.",
+      "company": "Google DeepMind / Google Cloud",
+      "topic": "Robótica",
+      "category": "Modelos",
+      "source": "Google Cloud",
+      "sourceTitle": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+      "sources": [
+        {
+          "name": "Google Cloud",
+          "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/"
+        }
+      ],
+      "illustrationTheme": "robot",
+      "tags": [
+        "Google",
+        "Robótica"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "replit-cloud-agents-repositorios-equipos-20261027",
+      "dedup_key": "replit-cloud-agents-repositories-20261027",
+      "title": "Replit amplía Cloud Agents para trabajar sobre repositorios de equipos",
+      "summary": "Los agentes pueden preparar cambios, probarlos en entornos aislados y abrir solicitudes de integración en GitHub o GitLab.",
+      "body": [
+        "Replit permite que miembros no técnicos describan cambios sobre un repositorio existente. Cloud Agents localiza el código, ejecuta la aplicación en un entorno aislado y adjunta capturas o vídeo al cambio propuesto.",
+        "La publicación final sigue bajo control del equipo de ingeniería. La función principal está disponible para clientes Pro y Enterprise; la memoria que convierte comentarios de revisión en instrucciones reutilizables permanece en acceso temprano."
+      ],
+      "takeaway": "Convierte peticiones internas en cambios revisables, pero no elimina la responsabilidad de revisar código, permisos y pruebas.",
+      "caveat": "Disponibilidad por plan y resultados declarados por Replit; la revisión humana continúa siendo necesaria.",
+      "company": "Replit",
+      "topic": "Programación",
+      "category": "Herramientas",
+      "source": "Replit",
+      "sourceTitle": "Anyone can now bring their ideas into the company codebase",
+      "sourceUrl": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "sources": [
+        {
+          "name": "Replit",
+          "title": "Anyone can now bring their ideas into the company codebase",
+          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase"
+        }
+      ],
+      "illustrationTheme": "code",
+      "tags": [
+        "Agentes",
+        "Programación"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "ant-lingguang-2-agente-personal-persistente-20261027",
+      "dedup_key": "ant-lingguang2-20261027",
+      "title": "Ant Group convierte LingGuang 2.0 en un agente personal persistente",
+      "summary": "La actualización mantiene tareas entre sesiones, consulta servicios conectados con autorización y avisa cuando detecta cambios relevantes.",
+      "body": [
+        "Ant Group presenta LingGuang 2.0 como un asistente capaz de continuar tareas más allá de una conversación. La empresa cita memoria entre sesiones, programación de largo recorrido y uso de herramientas sobre instancias de nube separadas.",
+        "Entre los ejemplos figura revisar suscripciones o vigilar precios después de una reserva cuando el usuario autoriza el acceso. Son casos descritos por el proveedor; Noticias IA no ha probado el servicio ni su disponibilidad fuera de China."
+      ],
+      "takeaway": "Representa el paso del chat puntual al seguimiento continuado, con más utilidad y también más exigencia de permisos claros.",
+      "caveat": "Las capacidades, la seguridad y la cobertura regional no tienen validación independiente.",
+      "company": "Ant Group",
+      "topic": "Agentes",
+      "category": "Herramientas",
+      "source": "Ant Group / Business Wire",
+      "sourceTitle": "Ant Group Upgrades LingGuang to 2.0",
+      "sourceUrl": "https://www.sttinfo.fi/tiedote/72447603/ant-group-upgrades-lingguang-to-20-turning-its-ai-assistant-into-a-proactive-personal-agent?publisherId=58763726",
+      "sources": [
+        {
+          "name": "Ant Group / Business Wire",
+          "title": "Ant Group Upgrades LingGuang to 2.0",
+          "url": "https://www.sttinfo.fi/tiedote/72447603/ant-group-upgrades-lingguang-to-20-turning-its-ai-assistant-into-a-proactive-personal-agent?publisherId=58763726"
+        }
+      ],
+      "illustrationTheme": "agents",
+      "tags": [
+        "China",
+        "Agentes"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "google-embeddinggemma2-multimodal-20261027",
+      "dedup_key": "google-embeddinggemma2-20261027",
+      "title": "EmbeddingGemma 2 reúne texto, imagen, audio y vídeo en un mismo espacio",
+      "summary": "Google publica un modelo abierto de representaciones multimodales con artefactos en Hugging Face y licencia Apache 2.0.",
+      "body": [
+        "EmbeddingGemma 2 representa texto, imágenes, audio, vídeo y combinaciones de estas modalidades en un espacio común. Su objetivo práctico es facilitar búsqueda semántica, recuperación cruzada y clasificación sin depender de un modelo diferente para cada tipo de contenido.",
+        "El artículo técnico y la ficha del modelo están disponibles, pero las comparaciones de rendimiento pertenecen a los autores. La licencia Apache 2.0 no sustituye la revisión de datos, dependencias y requisitos de despliegue."
+      ],
+      "takeaway": "Puede simplificar buscadores y sistemas RAG multimodales al compartir una única representación.",
+      "caveat": "Es un lanzamiento técnico reciente y no cuenta todavía con evaluación independiente amplia.",
+      "company": "Google DeepMind",
+      "topic": "Modelos abiertos",
+      "category": "Modelos",
+      "source": "Google / arXiv",
+      "sourceTitle": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+      "sourceUrl": "https://arxiv.org/abs/2610.37364",
+      "sources": [
+        {
+          "name": "arXiv",
+          "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+          "url": "https://arxiv.org/abs/2610.37364"
+        },
+        {
+          "name": "Google",
+          "title": "EmbeddingGemma 2 model card",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        }
+      ],
+      "illustrationTheme": "model",
+      "tags": [
+        "Google",
+        "Código abierto"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "amd-eagle31-minimax-mi350x-20261027",
+      "dedup_key": "amd-eagle3-minimax-m3-20261027",
+      "title": "AMD publica un modelo auxiliar EAGLE3.1 entrenado sobre MI350X",
+      "summary": "El equipo de ROCm documenta un flujo para acelerar la inferencia especulativa de MiniMax M3 y comparte recetas reproducibles.",
+      "body": [
+        "AMD describe cómo entrenó desde cero un modelo auxiliar EAGLE3.1 para MiniMax M3 usando un nodo con ocho GPU Instinct MI350X. El flujo combina ROCm, vLLM, FSDP2 y herramientas de AMD Quark.",
+        "La inferencia especulativa propone tokens que el modelo principal debe verificar. Puede reducir tiempo de respuesta sin cambiar la salida aceptada, pero el beneficio depende del modelo, el hardware y la configuración."
+      ],
+      "takeaway": "Aporta una ruta técnica reutilizable para equipos que sirven modelos grandes sobre hardware AMD.",
+      "caveat": "Los resultados y la configuración proceden de AMD; no se han reproducido de forma independiente.",
+      "company": "AMD",
+      "topic": "Hardware",
+      "category": "Herramientas",
+      "source": "AMD ROCm",
+      "sourceTitle": "Training EAGLE3 Speculative Decoding Draft Models on AMD Instinct MI350X",
+      "sourceUrl": "https://rocm.blogs.amd.com/artificial-intelligence/eagle3-training/README.html",
+      "sources": [
+        {
+          "name": "AMD ROCm",
+          "title": "Training EAGLE3 Speculative Decoding Draft Models on AMD Instinct MI350X",
+          "url": "https://rocm.blogs.amd.com/artificial-intelligence/eagle3-training/README.html"
+        }
+      ],
+      "illustrationTheme": "infra",
+      "tags": [
+        "AMD",
+        "Hardware"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "attributed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ANÁLISIS",
+      "art": "general",
+      "slug": "ai2-novelty-bench-jueces-ia-20261027",
+      "dedup_key": "allenai-novelty-judge-bench-20261027",
+      "title": "Ai2 detecta una fuerte inestabilidad al usar modelos para juzgar novedad científica",
+      "summary": "El instituto publica estudio, datos, código y un banco de pruebas para medir cuánto cambia el veredicto con el modelo, la instrucción o el entorno.",
+      "body": [
+        "Ai2 evaluó seis modelos como jueces de novedad científica y encontró que pequeños cambios en la configuración pueden alterar mucho el resultado. En una prueba descrita por los autores, modificar unas palabras de la instrucción desplazó más de cincuenta puntos la precisión relativa.",
+        "El trabajo también advierte que añadir recuperación de documentos o más razonamiento no mejora de forma constante los juicios. Es un resultado del equipo autor y debe leerse junto con su método y sus conjuntos de datos."
+      ],
+      "takeaway": "Un segundo modelo no convierte automáticamente la evaluación de ideas en una medida fiable.",
+      "caveat": "El benchmark usa decisiones y etiquetas construidas por los autores; falta réplica independiente.",
+      "company": "Allen Institute for AI",
+      "topic": "Investigación",
+      "category": "Análisis",
+      "source": "Ai2",
+      "sourceTitle": "Can we trust LLMs to judge whether a research idea is novel?",
+      "sourceUrl": "https://huggingface.co/blog/allenai/novelty-bench",
+      "sources": [
+        {
+          "name": "Ai2",
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench"
+        }
+      ],
+      "illustrationTheme": "science",
+      "tags": [
+        "Ai2",
+        "Investigación"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "attributed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ANÁLISIS",
+      "art": "general",
+      "slug": "lociart-estilizacion-local-video-20261027",
+      "dedup_key": "lociart-2610-36456",
+      "title": "LociArt propone cambiar el estilo de regiones concretas de un vídeo",
+      "summary": "El preprint de investigadores de Xiaomi busca aplicar estilos distintos por zona y conservar el resto de la escena a lo largo del tiempo.",
+      "body": [
+        "LociArt introduce un método para indicar dónde estilizar y qué apariencia aplicar, manteniendo sin cambios el contenido que queda fuera de la máscara. El trabajo combina información de estilo, geometría y contexto temporal.",
+        "La publicación es una prepublicación en arXiv. Noticias IA ha revisado el resumen y el registro, no ha reproducido los experimentos ni auditado los datos usados."
+      ],
+      "takeaway": "Apunta a una edición de vídeo más selectiva que los filtros aplicados a toda la escena.",
+      "caveat": "Preprint sin revisión por pares ni réplica independiente.",
+      "company": "Xiaomi Research / autores",
+      "topic": "Vídeo",
+      "category": "Investigación",
+      "source": "arXiv",
+      "sourceTitle": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
+      "sourceUrl": "https://arxiv.org/abs/2610.36456",
+      "sources": [
+        {
+          "name": "arXiv",
+          "title": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
+          "url": "https://arxiv.org/abs/2610.36456"
+        }
+      ],
+      "illustrationTheme": "video",
+      "tags": [
+        "China",
+        "Vídeo",
+        "Investigación"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "attributed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ANÁLISIS",
+      "art": "general",
+      "slug": "vibevideobench-agentes-video-codigo-20261026",
+      "dedup_key": "paper-2610.35864",
+      "title": "VibeVideoBench evalúa agentes que crean vídeos completos mediante código",
+      "summary": "El banco de pruebas reúne 239 tareas en inglés y chino para producir MP4 con sonido sin recurrir a un generador de imagen o vídeo.",
+      "body": [
+        "VibeVideoBench mide agentes multimodales que escriben código para renderizar cada fotograma y sintetizar el audio. Las tareas abarcan gráficos, lecciones, piezas musicales y explicaciones de artículos.",
+        "Cada prueba se ejecuta en un entorno aislado y limita la entrega a una hora. El trabajo es una prepublicación: los resultados pertenecen a los autores y aún no constituyen un estándar consolidado."
+      ],
+      "takeaway": "Ofrece una forma de medir vídeos donde importan la exactitud de fórmulas, gráficos y sincronización, no solo la apariencia.",
+      "caveat": "Preprint revisado solo a nivel de resumen; sin réplica externa.",
+      "company": "Autores de VibeVideoBench",
+      "topic": "Vídeo",
+      "category": "Investigación",
+      "source": "arXiv",
+      "sourceTitle": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+      "sourceUrl": "https://arxiv.org/abs/2610.35864",
+      "sources": [
+        {
+          "name": "arXiv",
+          "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+          "url": "https://arxiv.org/abs/2610.35864"
+        }
+      ],
+      "illustrationTheme": "video",
+      "tags": [
+        "Vídeo",
+        "Agentes",
+        "Investigación"
+      ],
+      "date": "2026-10-26"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "sap-teched-joule-agentes-tabular-20261027",
+      "dedup_key": "sap-teched-joule-rpt-20261027",
+      "title": "SAP amplía Joule con más control de agentes y modelos tabulares",
+      "summary": "TechEd incorpora nuevas funciones para construir, contextualizar y gobernar agentes, además de un programa inicial para ejecutar flujos de n8n.",
+      "body": [
+        "SAP anuncia mejoras en Joule Studio, Joule Work y Business AI Platform. La empresa destaca acceso a más de setenta modelos, conexión con datos empresariales y un nuevo gateway para autenticación, políticas, rutas, seguimiento y auditoría.",
+        "Los clientes del programa inicial pueden diseñar y ejecutar flujos de n8n dentro de Joule Studio. La disponibilidad general llegará después; los beneficios y garantías descritos proceden de SAP."
+      ],
+      "takeaway": "La novedad se centra tanto en construir agentes como en gobernar lo que hacen y cuánto consumen.",
+      "caveat": "Parte de las funciones está limitada a programas iniciales o clientes seleccionados.",
+      "company": "SAP",
+      "topic": "Empresa",
+      "category": "Herramientas",
+      "source": "SAP",
+      "sourceTitle": "SAP Empowers AI Developers to Build What Matters",
+      "sourceUrl": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
+      "sources": [
+        {
+          "name": "SAP",
+          "title": "SAP Empowers AI Developers to Build What Matters",
+          "url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/"
+        }
+      ],
+      "illustrationTheme": "agents",
+      "tags": [
+        "SAP",
+        "Agentes"
+      ],
+      "date": "2026-10-27"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-28",
+      "publishedAt": "2026-10-28T20:17:02Z",
+      "modifiedAt": "2026-10-28T20:17:02Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "akamai-inference-agent-sandbox-beta-20261027",
+      "dedup_key": "akamai-inference-agent-sandbox-20261027",
+      "title": "Akamai abre en beta inferencia gestionada y un entorno aislado para agentes",
+      "summary": "Akamai Inference ofrece modelos mediante APIs compatibles con OpenAI y Agent Sandbox separa el código generado del entorno del agente.",
+      "body": [
+        "Akamai Inference permite elegir despliegues sin servidor o dedicados y arranca con un catálogo de modelos abiertos. Agent Sandbox ejecuta el código de los agentes en un entorno separado mediante WebAssembly y aplica límites de cómputo, memoria, conexiones y capacidades.",
+        "Los dos productos están en beta. La lista de modelos, el alcance de la red y las ventajas de rendimiento son afirmaciones del proveedor; Noticias IA no ha probado el servicio."
+      ],
+      "takeaway": "La propuesta intenta reunir inferencia, datos y ejecución controlada en la misma plataforma.",
+      "caveat": "Beta comercial sin evaluación independiente de aislamiento, rendimiento ni costes reales.",
+      "company": "Akamai",
+      "topic": "Infraestructura",
+      "category": "Herramientas",
+      "source": "Akamai",
+      "sourceTitle": "Akamai Launches AI Inference Service and Agent Execution Environment",
+      "sourceUrl": "https://www.akamai.com/newsroom/press-release/akamai-launches-ai-inference-service-and-agent-execution-environment",
+      "sources": [
+        {
+          "name": "Akamai",
+          "title": "Akamai Launches AI Inference Service and Agent Execution Environment",
+          "url": "https://www.akamai.com/newsroom/press-release/akamai-launches-ai-inference-service-and-agent-execution-environment"
+        }
+      ],
+      "illustrationTheme": "infra",
+      "tags": [
+        "Akamai",
+        "Agentes"
+      ],
+      "date": "2026-10-27"
     }
   ],
   "xPosts": [
@@ -5399,7 +5947,7 @@
       "sourceUrl": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5412,7 +5960,7 @@
       "sourceUrl": "https://huggingface.co/tencent/Hy-Nomas",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5425,7 +5973,7 @@
       "sourceUrl": "https://ideogram.ai/models/vector/",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5438,7 +5986,7 @@
       "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5451,7 +5999,7 @@
       "sourceUrl": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5464,7 +6012,7 @@
       "sourceUrl": "https://www.anthropic.com/news/s1-sec",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5477,7 +6025,7 @@
       "sourceUrl": "https://frontier-cs.org/task/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5490,7 +6038,7 @@
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5503,7 +6051,7 @@
       "sourceUrl": "https://runway.com/news/company-news/introducing-runway-app-studio",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5516,7 +6064,7 @@
       "sourceUrl": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-introduces-maestro-a-domain-specialized-ai-model.html",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5529,7 +6077,7 @@
       "sourceUrl": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5542,7 +6090,7 @@
       "sourceUrl": "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-27T20:20:23.000Z",
+      "checkedAt": "2026-10-28T20:17:02Z",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     }
   ],
@@ -5669,6 +6217,20 @@
     }
   ],
   "selectedSlugs": [
+    "firefox-smart-window-formularios-vigilancia-20261027",
+    "opera-webai-ia-local-navegador-20261027",
+    "tencent-hy-simulmt-traduccion-simultanea-20261026",
+    "gemini-robotics-er2-google-cloud-preview-20261027",
+    "replit-cloud-agents-repositorios-equipos-20261027",
+    "ant-lingguang-2-agente-personal-persistente-20261027",
+    "google-embeddinggemma2-multimodal-20261027",
+    "amd-eagle31-minimax-mi350x-20261027",
+    "ai2-novelty-bench-jueces-ia-20261027",
+    "lociart-estilizacion-local-video-20261027",
+    "vibevideobench-agentes-video-codigo-20261026",
+    "sap-teched-joule-agentes-tabular-20261027",
+    "akamai-inference-agent-sandbox-beta-20261027",
+    "nvidia-rtx-spark-windows-availability-20261016",
     "deepmind-genie4-20261027",
     "apple-m6-macs-20261027",
     "liquid-lfm3-20261027",
@@ -5740,7 +6302,6 @@
     "openai-chatgpt-slides-space-20261016",
     "tencent-hy-memory20-stack-20261016",
     "anthropic-claude-code-21302-20261016",
-    "nvidia-rtx-spark-windows-availability-20261016",
     "nvidia-broadcast23-file-processing-mcp-20261016",
     "neon-ai-gateway-model-catalog-20261016",
     "anthropic-quantum-circuits-20261016",
@@ -5854,7 +6415,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-10-27T20:20:23.000Z",
-    "coverage": "Revisión parcial de siete días: 12 publicaciones de 12 cuentas. Se incorporan OpenAI, Runway, Cadence, Cloudflare y Oracle; se conservan siete tarjetas anteriores útiles. En la comprobación actual, 11 accesos directos a X devolvieron 403 y Ai2 quedó bloqueado por la capa de consulta (DisabledError). Los resúmenes se limitan a fragmentos indexados y documentación oficial separada; la fuente web de Cloudflare no fue accesible y no se amplió su fragmento. No se leyeron cronologías ni se visualizaron vídeos completos."
+    "checkedAt": "2026-10-28T20:17:02Z",
+    "coverage": "Revisión parcial de siete días: se conservan 12 publicaciones de 12 cuentas porque no se localizaron sustitutas mejor verificadas. Los 12 accesos directos a X devolvieron 403. Los resúmenes se mantienen limitados a fragmentos indexados y documentación oficial complementaria ya leída; no se leyeron cronologías ni se visualizaron vídeos completos."
   }
 }

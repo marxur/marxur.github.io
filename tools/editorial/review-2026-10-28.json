@@ -1,0 +1,35 @@
+{
+  "reviewedAt": "2026-10-28T20:17:02Z",
+  "reports": [
+    "Reporte_IA_2026-10-28_02-04.json",
+    "Reporte_IA_2026-10-28_07-09.json",
+    "Reporte_IA_2026-10-28_12-10.json",
+    "Reporte_IA_2026-10-28_17-10.json"
+  ],
+  "published": [
+    "firefox-smart-window-formularios-vigilancia-20261027",
+    "opera-webai-ia-local-navegador-20261027",
+    "tencent-hy-simulmt-traduccion-simultanea-20261026",
+    "gemini-robotics-er2-google-cloud-preview-20261027",
+    "replit-cloud-agents-repositorios-equipos-20261027",
+    "ant-lingguang-2-agente-personal-persistente-20261027",
+    "google-embeddinggemma2-multimodal-20261027",
+    "amd-eagle31-minimax-mi350x-20261027",
+    "ai2-novelty-bench-jueces-ia-20261027",
+    "lociart-estilizacion-local-video-20261027",
+    "vibevideobench-agentes-video-codigo-20261026",
+    "sap-teched-joule-agentes-tabular-20261027",
+    "akamai-inference-agent-sandbox-beta-20261027"
+  ],
+  "updated": [
+    "nvidia-rtx-spark-windows-availability-20261016"
+  ],
+  "retained": [
+    "health",
+    "legal",
+    "finance",
+    "unverified",
+    "recirculations"
+  ],
+  "notes": "Fuentes primarias abiertas y leídas; benchmarks atribuidos; preprints identificados; X revisado por separado."
+}

@@ -785,7 +785,7 @@
   {
    "slug": "nvidia-rtx-spark-windows-availability-20261016",
    "title": "NVIDIA anuncia la disponibilidad de los portátiles RTX Spark",
-   "summary": "NVIDIA anuncia la comercialización de portátiles RTX Spark con Windows mediante seis fabricantes.",
+   "summary": "NVIDIA amplía la ficha de los portátiles RTX Spark con controles para repartir recursos entre aplicaciones y agentes locales.",
    "category": "Herramientas",
    "topic": "NVIDIA",
    "source": "NVIDIA",
@@ -1660,6 +1660,149 @@
    "source": "Confidencial Digital",
    "date": "2026-10-20",
    "url": "/noticias/rumor-mia-redaccion-ia-20261020.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "firefox-smart-window-formularios-vigilancia-20261027",
+   "title": "Firefox Smart Window rellena formularios y vigila cambios en páginas",
+   "summary": "Mozilla amplía su experiencia opcional de navegación con IA: usa pestañas elegidas para proponer respuestas en formularios y puede avisar de cambios concretos mientras el navegador está abierto.",
+   "category": "Herramientas",
+   "topic": "Firefox",
+   "source": "Mozilla",
+   "date": "2026-10-27",
+   "url": "/noticias/firefox-smart-window-formularios-vigilancia-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "opera-webai-ia-local-navegador-20261027",
+   "title": "Opera abre WebAI para ejecutar modelos locales desde webs y extensiones",
+   "summary": "La vista previa permite generar texto, clasificar y crear representaciones semánticas dentro del navegador, sin API externa ni servidor local.",
+   "category": "Herramientas",
+   "topic": "Navegadores",
+   "source": "Opera",
+   "date": "2026-10-27",
+   "url": "/noticias/opera-webai-ia-local-navegador-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "tencent-hy-simulmt-traduccion-simultanea-20261026",
+   "title": "Tencent publica Hy-SimulMT para traducción simultánea entre chino e inglés",
+   "summary": "El modelo abierto recibe audio de forma continua y devuelve texto y voz mientras habla el interlocutor, con herramientas de inferencia y entrenamiento.",
+   "category": "Modelos",
+   "topic": "Voz",
+   "source": "Tencent Hunyuan",
+   "date": "2026-10-26",
+   "url": "/noticias/tencent-hy-simulmt-traduccion-simultanea-20261026.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "gemini-robotics-er2-google-cloud-preview-20261027",
+   "title": "Gemini Robotics ER 2 llega en vista previa pública a Google Cloud",
+   "summary": "Google ofrece su modelo de razonamiento corporizado para coordinar robots, interpretar vídeo continuo y orquestar herramientas de control.",
+   "category": "Modelos",
+   "topic": "Robótica",
+   "source": "Google Cloud",
+   "date": "2026-10-27",
+   "url": "/noticias/gemini-robotics-er2-google-cloud-preview-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "replit-cloud-agents-repositorios-equipos-20261027",
+   "title": "Replit amplía Cloud Agents para trabajar sobre repositorios de equipos",
+   "summary": "Los agentes pueden preparar cambios, probarlos en entornos aislados y abrir solicitudes de integración en GitHub o GitLab.",
+   "category": "Herramientas",
+   "topic": "Programación",
+   "source": "Replit",
+   "date": "2026-10-27",
+   "url": "/noticias/replit-cloud-agents-repositorios-equipos-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "ant-lingguang-2-agente-personal-persistente-20261027",
+   "title": "Ant Group convierte LingGuang 2.0 en un agente personal persistente",
+   "summary": "La actualización mantiene tareas entre sesiones, consulta servicios conectados con autorización y avisa cuando detecta cambios relevantes.",
+   "category": "Herramientas",
+   "topic": "Agentes",
+   "source": "Ant Group / Business Wire",
+   "date": "2026-10-27",
+   "url": "/noticias/ant-lingguang-2-agente-personal-persistente-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "google-embeddinggemma2-multimodal-20261027",
+   "title": "EmbeddingGemma 2 reúne texto, imagen, audio y vídeo en un mismo espacio",
+   "summary": "Google publica un modelo abierto de representaciones multimodales con artefactos en Hugging Face y licencia Apache 2.0.",
+   "category": "Modelos",
+   "topic": "Modelos abiertos",
+   "source": "Google / arXiv",
+   "date": "2026-10-27",
+   "url": "/noticias/google-embeddinggemma2-multimodal-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "amd-eagle31-minimax-mi350x-20261027",
+   "title": "AMD publica un modelo auxiliar EAGLE3.1 entrenado sobre MI350X",
+   "summary": "El equipo de ROCm documenta un flujo para acelerar la inferencia especulativa de MiniMax M3 y comparte recetas reproducibles.",
+   "category": "Herramientas",
+   "topic": "Hardware",
+   "source": "AMD ROCm",
+   "date": "2026-10-27",
+   "url": "/noticias/amd-eagle31-minimax-mi350x-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "ai2-novelty-bench-jueces-ia-20261027",
+   "title": "Ai2 detecta una fuerte inestabilidad al usar modelos para juzgar novedad científica",
+   "summary": "El instituto publica estudio, datos, código y un banco de pruebas para medir cuánto cambia el veredicto con el modelo, la instrucción o el entorno.",
+   "category": "Análisis",
+   "topic": "Investigación",
+   "source": "Ai2",
+   "date": "2026-10-27",
+   "url": "/noticias/ai2-novelty-bench-jueces-ia-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "lociart-estilizacion-local-video-20261027",
+   "title": "LociArt propone cambiar el estilo de regiones concretas de un vídeo",
+   "summary": "El preprint de investigadores de Xiaomi busca aplicar estilos distintos por zona y conservar el resto de la escena a lo largo del tiempo.",
+   "category": "Investigación",
+   "topic": "Vídeo",
+   "source": "arXiv",
+   "date": "2026-10-27",
+   "url": "/noticias/lociart-estilizacion-local-video-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "vibevideobench-agentes-video-codigo-20261026",
+   "title": "VibeVideoBench evalúa agentes que crean vídeos completos mediante código",
+   "summary": "El banco de pruebas reúne 239 tareas en inglés y chino para producir MP4 con sonido sin recurrir a un generador de imagen o vídeo.",
+   "category": "Investigación",
+   "topic": "Vídeo",
+   "source": "arXiv",
+   "date": "2026-10-26",
+   "url": "/noticias/vibevideobench-agentes-video-codigo-20261026.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "sap-teched-joule-agentes-tabular-20261027",
+   "title": "SAP amplía Joule con más control de agentes y modelos tabulares",
+   "summary": "TechEd incorpora nuevas funciones para construir, contextualizar y gobernar agentes, además de un programa inicial para ejecutar flujos de n8n.",
+   "category": "Herramientas",
+   "topic": "Empresa",
+   "source": "SAP",
+   "date": "2026-10-27",
+   "url": "/noticias/sap-teched-joule-agentes-tabular-20261027.html",
+   "type": "noticia"
+  },
+  {
+   "slug": "akamai-inference-agent-sandbox-beta-20261027",
+   "title": "Akamai abre en beta inferencia gestionada y un entorno aislado para agentes",
+   "summary": "Akamai Inference ofrece modelos mediante APIs compatibles con OpenAI y Agent Sandbox separa el código generado del entorno del agente.",
+   "category": "Herramientas",
+   "topic": "Infraestructura",
+   "source": "Akamai",
+   "date": "2026-10-27",
+   "url": "/noticias/akamai-inference-agent-sandbox-beta-20261027.html",
    "type": "noticia"
   },
   {
