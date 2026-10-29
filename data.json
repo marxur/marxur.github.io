@@ -1,6 +1,6 @@
 {
-  "edition": "2026-10-28T20:17:02Z",
-  "reviewedAt": "2026-10-28T20:17:02Z",
+  "edition": "2026-10-29T21:21:37+01:00",
+  "reviewedAt": "2026-10-29T21:21:37+01:00",
   "articles": [
     {
       "slug": "deepmind-genie4-20261027",
@@ -4723,19 +4723,25 @@
       "art": "agents",
       "body": [
         "OpenAI ha presentado dots, agentes impulsados por GPT-6 Astra con ordenador propio en la nube. Pueden continuar proyectos entre conversaciones, trabajar con las aplicaciones conectadas y aprender de las indicaciones y correcciones del usuario.",
-        "La ayuda oficial excluye al Espacio Económico Europeo, Suiza y Reino Unido del despliegue para Pro. Business Premium está contemplado en las regiones compatibles; Enterprise necesita que un administrador active la beta. En España, por tanto, el plan contratado cambia las posibilidades de acceso."
+        "La ayuda oficial excluye al Espacio Económico Europeo, Suiza y Reino Unido del despliegue para Pro. Business Premium está contemplado en las regiones compatibles; Enterprise necesita que un administrador active la beta. En España, por tanto, el plan contratado cambia las posibilidades de acceso.",
+        "Actualización del 29 de octubre: OpenAI ha abierto en Estados Unidos una beta para que usuarios Pro escriban a su dot mediante iMessage o RCS. El dot solo puede iniciar mensajes con su propietario, utiliza el servicio externo Linq para el transporte y comparte memoria y complementos con la experiencia de ChatGPT."
       ],
-      "takeaway": "Un dot puede mantener un proyecto en marcha, pero no basta con tener cualquier suscripción a ChatGPT.",
-      "caveat": "El despliegue es gradual. OpenAI advierte que los agentes pueden equivocarse y que deben revisarse los trabajos importantes.",
+      "takeaway": "Un dot puede mantener un proyecto en marcha y, en la nueva beta estadounidense, continuar por mensajería; esa vía todavía no está disponible en España.",
+      "caveat": "El despliegue es gradual. La mensajería está limitada a Pro en Estados Unidos y usa un proveedor externo; los trabajos importantes deben revisarse.",
       "sources": [
         {
           "name": "Ayuda de OpenAI",
           "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
           "title": "Getting started with your dot: planes, regiones y controles"
+        },
+        {
+          "name": "OpenAI",
+          "title": "ChatGPT release notes: Text your dot",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
         }
       ],
       "publishedAt": "2026-10-13T18:54:27.757Z",
-      "modifiedAt": "2026-10-13T18:54:27.757Z"
+      "modifiedAt": "2026-10-29T21:21:37+01:00"
     },
     {
       "slug": "grok-team-bots-agentes-compartidos",
@@ -5934,6 +5940,626 @@
         "Agentes"
       ],
       "date": "2026-10-27"
+    },
+    {
+      "sections": [
+        {
+          "heading": "Qué cambia",
+          "body": "Carbon está diseñado para sostener flujos de ingeniería más largos, trabajar sobre repositorios y encadenar detección, validación y corrección de vulnerabilidades."
+        },
+        {
+          "heading": "Acceso y precio",
+          "body": "El precio introductorio anunciado es de 2 dólares por millón de tokens de entrada y 10 por millón de salida. Esa tarifa será relevante cuando exista acceso comercial; hoy el modelo sigue en una fase controlada."
+        }
+      ],
+      "kind": "news",
+      "format": "detailed",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "google-gemini4-carbon-acceso-limitado-20261028",
+      "dedup_key": "google-gemini4-carbon-20261028",
+      "title": "Gemini 4 Carbon apunta a tareas largas y ciberseguridad, pero aún no está abierto",
+      "summary": "Google presenta su nuevo modelo de frontera con acceso inicial limitado a un grupo de defensores y socios de confianza.",
+      "body": [
+        "Google ha anunciado Gemini 4 Carbon como evolución de Argon para programación, razonamiento y trabajos de larga duración. La empresa afirma que sus equipos lo han mantenido activo durante días para investigar y corregir fallos complejos; Noticias IA no ha probado el modelo.",
+        "Los resultados publicados —incluidos SEC-bench Pro, ExploitGym y CWE-bench— proceden de Google o de evaluaciones que la compañía selecciona. Sirven para entender el objetivo del modelo, no para concluir por sí solos que sea superior en todos los entornos.",
+        "El despliegue comienza con un subconjunto de defensores de ciberseguridad y se ampliará gradualmente mediante el programa Fairwind. Google promete llevarlo después a desarrolladores, empresas y consumidores, pero no ha fijado una fecha de disponibilidad general."
+      ],
+      "takeaway": "La novedad relevante es la combinación de autonomía prolongada y seguridad de código, todavía bajo un despliegue deliberadamente restringido.",
+      "caveat": "Anuncio del proveedor con benchmarks atribuidos; no hay acceso general ni evaluación independiente de uso cotidiano.",
+      "company": "Google",
+      "topic": "Modelos",
+      "category": "Modelos",
+      "source": "Google",
+      "sourceTitle": "Gemini 4 Carbon: our next frontier model",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Gemini 4 Carbon: our next frontier model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        }
+      ],
+      "illustrationTheme": "code",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Programación",
+        "Ciberseguridad"
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "mistral-large4-pesos-abiertos-20261029",
+      "dedup_key": "mistral-large4-1t-a52b-release",
+      "title": "Mistral publica los pesos de Large 4, un modelo multimodal de un billón de parámetros",
+      "summary": "El modelo activa unos 52.000 millones de parámetros por token, admite contexto de hasta un millón y se distribuye con una licencia abierta específica.",
+      "body": [
+        "Mistral Large 4 combina texto e imagen, llamada a herramientas y soporte multilingüe. Su arquitectura de mezcla de expertos suma un billón de parámetros y activa aproximadamente 52.000 millones por token, contando las capas de entrada y salida.",
+        "Los pesos pueden descargarse desde Hugging Face y ejecutarse con herramientas como vLLM o SGLang. La licencia Mistral Ecosystem Open-Weight permite modificación y despliegue, pero los servicios de modelo como servicio requieren una licencia comercial separada."
+      ],
+      "takeaway": "Los equipos pueden inspeccionar y alojar el modelo, siempre que dispongan de infraestructura suficiente y revisen la licencia.",
+      "caveat": "El tamaño exige hardware especializado; las cifras de rendimiento del model card son del proveedor.",
+      "company": "Mistral AI",
+      "topic": "Modelos abiertos",
+      "category": "Modelos",
+      "source": "Mistral AI",
+      "sourceTitle": "Mistral-Large-4-1T-A52B",
+      "sourceUrl": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "title": "Mistral-Large-4-1T-A52B",
+          "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+        }
+      ],
+      "illustrationTheme": "model",
+      "tags": [
+        "Mistral",
+        "Pesos abiertos",
+        "Multimodal"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "github-copilot-fusion-workflows-imagen-20261028",
+      "dedup_key": "github-universe-copilot-fusion-agentic-workflows-image-20261028",
+      "title": "GitHub reúne orquestación de modelos, flujos de agentes e imagen dentro de Copilot",
+      "summary": "Copilot Fusion decide cómo combinar modelos, Agentic Workflows llega a disponibilidad general y el editor incorpora generación de imágenes.",
+      "body": [
+        "Copilot Fusion puede enrutar una petición a distintos modelos y orquestar sus resultados con varios niveles de esfuerzo. GitHub lo ofrece en todos los planes de Copilot y aplica el consumo correspondiente al trabajo realizado.",
+        "En paralelo, Agentic Workflows pasa a disponibilidad general con permisos de solo lectura por defecto, ejecución aislada y controles de red. La herramienta de imagen, basada en GPT Image 2.5 Flare, permite generar o editar recursos y guardarlos directamente en el proyecto."
+      ],
+      "takeaway": "Copilot deja de ser una única conversación: puede coordinar modelos, automatizar tareas del repositorio y crear recursos visuales.",
+      "caveat": "Las tres funciones tienen consumos y superficies de riesgo distintos; los flujos deben revisar permisos y cambios antes de escribir.",
+      "company": "GitHub",
+      "topic": "Programación",
+      "category": "Herramientas",
+      "source": "GitHub",
+      "sourceTitle": "Route and orchestrate models with GitHub Copilot Fusion",
+      "sourceUrl": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+      "sources": [
+        {
+          "name": "GitHub",
+          "title": "Route and orchestrate models with GitHub Copilot Fusion",
+          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/"
+        },
+        {
+          "name": "GitHub",
+          "title": "GitHub Agentic Workflows generally available",
+          "url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/"
+        },
+        {
+          "name": "GitHub",
+          "title": "Generate and edit images directly in Copilot",
+          "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot/"
+        }
+      ],
+      "illustrationTheme": "code",
+      "tags": [
+        "GitHub",
+        "Copilot",
+        "Agentes"
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "android-studio-agentes-cli-nano4-20261029",
+      "dedup_key": "android-dev-summit-agent-tools-rabbit2-cli-nano4",
+      "title": "Android abre su entorno a agentes externos y lleva Gemini Nano 4 a nuevas API",
+      "summary": "Android Studio Rabbit 2 admite asistentes compatibles con ACP, Google publica extensiones para Claude Code y Codex y estrena API agénticas locales.",
+      "body": [
+        "La versión estable Android Studio Rabbit 2 permite conectar agentes compatibles con Agent Client Protocol. Google también ha publicado complementos de línea de comandos para Claude Code y Codex que exponen documentación y herramientas de desarrollo Android.",
+        "ML Kit suma en alfa unas Agentic APIs basadas en Gemini Nano 4 para ejecutar funciones, mantener historial y aplicar controles en el dispositivo. La disponibilidad y capacidades dependen de versiones compatibles de Android y del hardware."
+      ],
+      "takeaway": "Los desarrolladores pueden elegir el agente y acercar parte de la automatización al dispositivo, sin quedar limitados al asistente integrado.",
+      "caveat": "Las API agénticas siguen en alfa; la compatibilidad local y el rendimiento varían por dispositivo.",
+      "company": "Google",
+      "topic": "Programación",
+      "category": "Herramientas",
+      "source": "Android Developers",
+      "sourceTitle": "Your favorite agents are now integrated in Android Studio",
+      "sourceUrl": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration",
+      "sources": [
+        {
+          "name": "Android Developers",
+          "title": "Your favorite agents are now integrated in Android Studio",
+          "url": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration"
+        },
+        {
+          "name": "Android Developers",
+          "title": "What’s new in Android developer tools and performance",
+          "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance"
+        },
+        {
+          "name": "Android Developers",
+          "title": "Agentic and Flexible: A next era of Android development",
+          "url": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development"
+        }
+      ],
+      "illustrationTheme": "code",
+      "tags": [
+        "Android",
+        "Agentes",
+        "Codex",
+        "Claude"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "chrome-autorrelleno-gmail-gemini-20261028",
+      "dedup_key": "chrome-enhanced-autofill-gmail-personal-intelligence",
+      "title": "Chrome puede usar datos de Gmail para completar formularios con Gemini",
+      "summary": "El autorrelleno mejorado propone datos de pedidos, viajes y reservas extraídos del correo cuando el usuario concede acceso.",
+      "body": [
+        "Chrome amplía Enhanced Autofill con Personal Intelligence para sugerir en formularios información presente en Gmail, como números de seguimiento, detalles de vuelos o reservas. El navegador muestra la propuesta antes de insertarla.",
+        "La función requiere activar la conexión con Gmail y permite retirar el permiso. Google afirma que aplica sus controles de privacidad; Noticias IA no ha auditado el tratamiento ni la precisión de los datos."
+      ],
+      "takeaway": "Reduce el copiar y pegar entre correo y formularios, a cambio de dar al navegador acceso contextual a Gmail.",
+      "caveat": "El usuario debe revisar cada sugerencia y valorar si la comodidad compensa ampliar los permisos sobre su correo.",
+      "company": "Google",
+      "topic": "Navegadores",
+      "category": "Herramientas",
+      "source": "Google",
+      "sourceTitle": "Chrome enhanced autofill now pulls data from Gmail",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Chrome enhanced autofill now pulls data from Gmail",
+          "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/"
+        }
+      ],
+      "illustrationTheme": "tools",
+      "tags": [
+        "Chrome",
+        "Gmail",
+        "Gemini"
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "rime-prism-voz-a-voz-texto-inspeccionable-20261028",
+      "dedup_key": "rime-prism-speech-to-speech-enterprise",
+      "title": "Rime Prism propone voz a voz con una capa de texto que se puede inspeccionar",
+      "summary": "El sistema conserva una transcripción intermedia para aplicar controles y auditoría sin abandonar una conversación de baja latencia.",
+      "body": [
+        "Prism recibe voz y devuelve voz, pero mantiene una representación textual accesible entre ambos extremos. Esa capa permite aplicar reglas, registrar decisiones o integrar herramientas empresariales.",
+        "Rime anuncia una latencia aproximada de 300 milisegundos. Es una medición del proveedor y Noticias IA no ha evaluado calidad, idiomas, costes ni comportamiento en condiciones reales."
+      ],
+      "takeaway": "La capa visible de texto facilita controlar un agente de voz y entender qué información utiliza antes de responder.",
+      "caveat": "La velocidad y naturalidad descritas son afirmaciones de Rime, no una prueba independiente.",
+      "company": "Rime",
+      "topic": "Voz",
+      "category": "Herramientas",
+      "source": "Rime",
+      "sourceTitle": "Prism: Speech-to-speech for enterprise",
+      "sourceUrl": "https://www.rime.ai/resources/prism-first-speech-to-speech-for-enterprise",
+      "sources": [
+        {
+          "name": "Rime",
+          "title": "Prism: Speech-to-speech for enterprise",
+          "url": "https://www.rime.ai/resources/prism-first-speech-to-speech-for-enterprise"
+        }
+      ],
+      "illustrationTheme": "voice",
+      "tags": [
+        "Voz",
+        "Agentes",
+        "Empresa"
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "particle1-vercel-ai-gateway-codigo-20261028",
+      "dedup_key": "particle1-vercel-ai-gateway-release",
+      "title": "Particle-1 llega a Vercel AI Gateway para agentes de programación",
+      "summary": "El modelo postentrenado a partir de DeepSeek V4.1 Flash ofrece contexto de un millón de tokens y conexión con herramientas de código.",
+      "body": [
+        "Vercel ha incorporado Particle-1 a AI Gateway. El modelo está orientado a programación y puede utilizarse desde Claude Code, Codex, Cursor y otras herramientas compatibles con la pasarela.",
+        "El proveedor afirma que resuelve tareas con menos tokens que alternativas comparadas. Esa conclusión depende de sus evaluaciones; Vercel indica que no añade un recargo de plataforma al precio del modelo."
+      ],
+      "takeaway": "Añade otra opción de gran contexto para equipos que ya centralizan proveedores mediante AI Gateway.",
+      "caveat": "No se han contrastado de forma independiente la calidad, el consumo real ni la estabilidad en repositorios grandes.",
+      "company": "Vercel",
+      "topic": "Programación",
+      "category": "Modelos",
+      "source": "Vercel",
+      "sourceTitle": "Particle-1 is now available on AI Gateway",
+      "sourceUrl": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway",
+      "sources": [
+        {
+          "name": "Vercel",
+          "title": "Particle-1 is now available on AI Gateway",
+          "url": "https://vercel.com/changelog/particle-1-is-now-available-on-ai-gateway"
+        }
+      ],
+      "illustrationTheme": "code",
+      "tags": [
+        "Vercel",
+        "Programación",
+        "Agentes"
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "inclusionai-ling31-flash-pesos-mit-20261029",
+      "dedup_key": "inclusionai-ling31-flash-1019-weights",
+      "title": "inclusionAI publica Ling 3.1 Flash con pesos bajo licencia MIT",
+      "summary": "El fabricante chino distribuye un modelo para razonamiento y herramientas, junto con archivos y recetas de despliegue.",
+      "body": [
+        "Ling 3.1 Flash está disponible en Hugging Face en formato safetensors y declara licencia MIT. La ficha incluye razonamiento, llamada a herramientas y ejemplos de ejecución con entornos abiertos.",
+        "Las recetas de alto rendimiento citan configuraciones de ocho H200 o cuatro GB300, una señal de que el despliegue completo no está pensado para equipos modestos. Las comparaciones de rendimiento pertenecen al autor del modelo."
+      ],
+      "takeaway": "Amplía el catálogo chino de pesos descargables para agentes y permite inspección o adaptación con una licencia permisiva.",
+      "caveat": "La disponibilidad de pesos no elimina el coste de infraestructura ni valida por sí sola sus resultados.",
+      "company": "inclusionAI",
+      "topic": "China",
+      "category": "Modelos",
+      "source": "inclusionAI",
+      "sourceTitle": "Ling-3.1-flash-1019",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019",
+      "sources": [
+        {
+          "name": "inclusionAI",
+          "title": "Ling-3.1-flash-1019",
+          "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019"
+        }
+      ],
+      "illustrationTheme": "china",
+      "tags": [
+        "China",
+        "Pesos abiertos",
+        "Agentes"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "xreal-aura-android-xr-gemini-20261029",
+      "dedup_key": "xreal-aura-android-xr-launch",
+      "title": "XREAL AURA estrena Android XR con Gemini en unas gafas conectadas a un módulo de cómputo",
+      "summary": "Las gafas pesan menos de 95 gramos y separan parte del procesamiento en una unidad externa; los pedidos empiezan fuera de España.",
+      "body": [
+        "XREAL AURA combina unas gafas transparentes con un módulo de cómputo y Android XR. Integra Gemini para consultas contextuales y permite ejecutar aplicaciones y experiencias espaciales compatibles.",
+        "Google confirma pedidos iniciales en Estados Unidos, Canadá y Corea del Sur, con Japón a partir del 2 de noviembre. No se ha anunciado disponibilidad en España."
+      ],
+      "takeaway": "El diseño reparte peso y batería entre las gafas y un módulo externo para acercar Android XR a un formato portátil.",
+      "caveat": "Es un lanzamiento regional; autonomía, comodidad y catálogo deben comprobarse en uso real.",
+      "company": "XREAL",
+      "topic": "Realidad extendida",
+      "category": "Hardware",
+      "source": "Google",
+      "sourceTitle": "XREAL AURA launches as first Android XR glasses",
+      "sourceUrl": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "XREAL AURA launches as first Android XR glasses",
+          "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+        }
+      ],
+      "illustrationTheme": "infra",
+      "tags": [
+        "XREAL",
+        "Android XR",
+        "Gemini"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "google-connected-apps-platform-preview-20261029",
+      "dedup_key": "google-connected-apps-platform-preview",
+      "title": "Google presenta una plataforma para conectar una aplicación una vez y usarla en Search y Gemini",
+      "summary": "Connected Apps Platform ofrece una capa común basada en MCP o AppFunctions, todavía con acceso por fases.",
+      "body": [
+        "Connected Apps Platform busca evitar integraciones separadas para cada superficie de Google. Los desarrolladores conectan datos y acciones mediante Model Context Protocol o AppFunctions y pueden habilitarlos en productos compatibles.",
+        "El acceso se despliega por fases y no todas las superficies ni capacidades estarán disponibles desde el principio. Google mantiene controles de revisión y permisos para cada conexión."
+      ],
+      "takeaway": "Una misma integración podría llegar a Search y Gemini sin duplicar toda la lógica del conector.",
+      "caveat": "Es una vista previa con acceso gradual; faltan pruebas de portabilidad, costes y alcance efectivo.",
+      "company": "Google",
+      "topic": "Agentes",
+      "category": "Herramientas",
+      "source": "Google",
+      "sourceTitle": "New Connected Apps Platform launches for developers",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "New Connected Apps Platform launches for developers",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"
+        }
+      ],
+      "illustrationTheme": "agents",
+      "tags": [
+        "Google",
+        "MCP",
+        "Conectores"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "google-litert-gpu-play-services-20261028",
+      "dedup_key": "google-litert-gpu-play-services-compiledmodel",
+      "title": "LiteRT reduce el tamaño de las aplicaciones y acelera la inferencia en GPU desde Play services",
+      "summary": "Google actualiza su entorno local con la API CompiledModel y distribuye parte del runtime sin incluirlo en cada aplicación.",
+      "body": [
+        "LiteRT en Google Play services permite descargar y actualizar componentes del runtime de inferencia por separado. La nueva API CompiledModel simplifica la selección y ejecución de aceleradores en dispositivos compatibles.",
+        "Google afirma que la ruta de GPU es 1,4 veces más rápida que su delegado anterior. Es una cifra del proveedor y puede variar según el modelo y el teléfono."
+      ],
+      "takeaway": "Los desarrolladores pueden reducir binarios y aprovechar mejoras de inferencia local sin redistribuir todo el runtime.",
+      "caveat": "La ganancia publicada no representa todos los dispositivos, modelos ni cargas de trabajo.",
+      "company": "Google",
+      "topic": "IA local",
+      "category": "Herramientas",
+      "source": "Google Developers",
+      "sourceTitle": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+      "sourceUrl": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+      "sources": [
+        {
+          "name": "Google Developers",
+          "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+          "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/"
+        }
+      ],
+      "illustrationTheme": "infra",
+      "tags": [
+        "LiteRT",
+        "Android",
+        "GPU"
+      ],
+      "date": "2026-10-28"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "nace-drex-busqueda-agentes-20261029",
+      "dedup_key": "nace-drex-for-search-ga",
+      "title": "Nace lanza Drex para reducir los pasos de búsqueda de los agentes",
+      "summary": "El modelo genera consultas y estructura resultados para flujos de investigación, con disponibilidad general mediante API.",
+      "body": [
+        "Drex for Search está diseñado para que un agente formule búsquedas, interprete resultados y decida el siguiente paso con menos llamadas intermedias. Nace lo ofrece ya mediante su API.",
+        "La empresa publica comparaciones de exactitud, pasos y tokens frente a otros enfoques. Son benchmarks del proveedor y no se han reproducido de forma independiente."
+      ],
+      "takeaway": "Puede simplificar agentes que hoy encadenan un modelo general y varias herramientas de búsqueda.",
+      "caveat": "La utilidad depende de la cobertura del índice, la trazabilidad de fuentes y el coste por tarea real.",
+      "company": "Nace.AI",
+      "topic": "Búsqueda",
+      "category": "Modelos",
+      "source": "Nace.AI",
+      "sourceTitle": "Introducing Drex for Search: supercharge your agentic search",
+      "sourceUrl": "https://www.nace.ai/blog/introducing-drex-for-search",
+      "sources": [
+        {
+          "name": "Nace.AI",
+          "title": "Introducing Drex for Search: supercharge your agentic search",
+          "url": "https://www.nace.ai/blog/introducing-drex-for-search"
+        }
+      ],
+      "illustrationTheme": "agents",
+      "tags": [
+        "Búsqueda",
+        "Agentes",
+        "API"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "ceva-neupro-npu-cartera-20261029",
+      "dedup_key": "ceva-next-generation-neupro-npu-portfolio",
+      "title": "Ceva amplía NeuPro con cuatro NPU para dispositivos e infraestructura",
+      "summary": "La nueva cartera cubre desde procesamiento en el borde hasta centros de datos; el acceso inicial precede a una disponibilidad prevista para 2027.",
+      "body": [
+        "Ceva ha presentado cuatro diseños NeuPro para integrar aceleración de IA en sistemas de distinta escala. La compañía describe variantes para electrónica de consumo, automoción, borde e infraestructura.",
+        "El programa está en acceso anticipado y Ceva prevé disponibilidad general en el segundo trimestre de 2027. Las cifras de rendimiento y eficiencia proceden del fabricante."
+      ],
+      "takeaway": "Los fabricantes de chips ganan otra familia de bloques licenciables para añadir inferencia sin diseñar una NPU desde cero.",
+      "caveat": "No es silicio comercial disponible hoy; faltan implementaciones de clientes y mediciones independientes.",
+      "company": "Ceva",
+      "topic": "Chips",
+      "category": "Hardware",
+      "source": "Ceva",
+      "sourceTitle": "Ceva unveils next-generation NeuPro NPU portfolio",
+      "sourceUrl": "https://www.ceva-ip.com/press/ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/",
+      "sources": [
+        {
+          "name": "Ceva",
+          "title": "Ceva unveils next-generation NeuPro NPU portfolio",
+          "url": "https://www.ceva-ip.com/press/ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/"
+        }
+      ],
+      "illustrationTheme": "infra",
+      "tags": [
+        "Ceva",
+        "NPU",
+        "Chips"
+      ],
+      "date": "2026-10-29"
+    },
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-10-29",
+      "publishedAt": "2026-10-29T21:21:37+01:00",
+      "modifiedAt": "2026-10-29T21:21:37+01:00",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "anthropic-ai-for-science-20-organizaciones-20261029",
+      "dedup_key": "anthropic-ai-for-science-expansion-20-organizations",
+      "title": "Anthropic amplía AI for Science a veinte organizaciones de investigación",
+      "summary": "El programa ofrece créditos de Claude a fundaciones e instituciones que trabajan en ciencia, con casos de uso descritos por sus participantes.",
+      "body": [
+        "Anthropic ha extendido AI for Science a veinte organizaciones. El apoyo consiste en créditos gratuitos de Claude para tareas como análisis, programación, síntesis documental y preparación de experimentos.",
+        "Los ejemplos y beneficios publicados son relatos de Anthropic y de las entidades participantes, no ensayos controlados sobre productividad científica. El programa no convierte las respuestas del modelo en evidencia científica."
+      ],
+      "takeaway": "El programa facilita probar asistentes en investigación sin que cada institución asuma desde el inicio todo el coste de uso.",
+      "caveat": "Los resultados deben someterse a revisión experta, reproducibilidad y controles de datos propios de cada disciplina.",
+      "company": "Anthropic",
+      "topic": "Ciencia",
+      "category": "Investigación",
+      "source": "Anthropic",
+      "sourceTitle": "AI for Science expands to foundations and institutions",
+      "sourceUrl": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "AI for Science expands to foundations and institutions",
+          "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+        }
+      ],
+      "illustrationTheme": "science",
+      "tags": [
+        "Anthropic",
+        "Ciencia",
+        "Investigación"
+      ],
+      "date": "2026-10-29"
     }
   ],
   "xPosts": [
@@ -5947,7 +6573,7 @@
       "sourceUrl": "https://www.kimi.com/en/blog/kimi-k3-1-pro",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5960,7 +6586,7 @@
       "sourceUrl": "https://huggingface.co/tencent/Hy-Nomas",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5973,7 +6599,7 @@
       "sourceUrl": "https://ideogram.ai/models/vector/",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5986,7 +6612,7 @@
       "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "date": "2026-10-22",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -5999,20 +6625,7 @@
       "sourceUrl": "https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-E4B-4GB/",
       "date": "2026-10-23",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
-      "access": "Fragmento indexado · acceso directo bloqueado (403)"
-    },
-    {
-      "name": "Anthropic",
-      "handle": "@AnthropicAI",
-      "title": "Anthropic presenta un S-1 público para su propuesta de salida a bolsa",
-      "summary": "El fragmento indexado anuncia la presentación pública del formulario S-1. El comunicado oficial separado confirma que se refiere a una propuesta de oferta pública; no equivale a que la operación se haya completado.",
-      "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-      "type": "Anuncio",
-      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
-      "date": "2026-10-26",
-      "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -6025,7 +6638,7 @@
       "sourceUrl": "https://frontier-cs.org/task/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -6038,7 +6651,7 @@
       "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -6051,7 +6664,7 @@
       "sourceUrl": "https://runway.com/news/company-news/introducing-runway-app-studio",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -6064,7 +6677,7 @@
       "sourceUrl": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-introduces-maestro-a-domain-specialized-ai-model.html",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -6077,7 +6690,7 @@
       "sourceUrl": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     },
     {
@@ -6090,7 +6703,7 @@
       "sourceUrl": "https://www.oracle.com/news/announcement/ai-world-oracle-advances-outcome-driven-ai-across-fusion-applications-2026-10-26/",
       "date": "2026-10-26",
       "dateBasis": "post_id_timestamp",
-      "checkedAt": "2026-10-28T20:17:02Z",
+      "checkedAt": "2026-10-29T21:21:37+01:00",
       "access": "Fragmento indexado · acceso directo bloqueado (403)"
     }
   ],
@@ -6217,6 +6830,21 @@
     }
   ],
   "selectedSlugs": [
+    "google-gemini4-carbon-acceso-limitado-20261028",
+    "mistral-large4-pesos-abiertos-20261029",
+    "github-copilot-fusion-workflows-imagen-20261028",
+    "android-studio-agentes-cli-nano4-20261029",
+    "chrome-autorrelleno-gmail-gemini-20261028",
+    "rime-prism-voz-a-voz-texto-inspeccionable-20261028",
+    "particle1-vercel-ai-gateway-codigo-20261028",
+    "inclusionai-ling31-flash-pesos-mit-20261029",
+    "xreal-aura-android-xr-gemini-20261029",
+    "google-connected-apps-platform-preview-20261029",
+    "google-litert-gpu-play-services-20261028",
+    "nace-drex-busqueda-agentes-20261029",
+    "ceva-neupro-npu-cartera-20261029",
+    "anthropic-ai-for-science-20-organizaciones-20261029",
+    "openai-dots-agentes-persistentes-espana",
     "firefox-smart-window-formularios-vigilancia-20261027",
     "opera-webai-ia-local-navegador-20261027",
     "tencent-hy-simulmt-traduccion-simultanea-20261026",
@@ -6359,7 +6987,6 @@
     "chatgpt-gpt-6-interfaces-interactivas",
     "superwhisper-dictado-microfono-sonido",
     "google-gemini-balance-septiembre-2026",
-    "openai-dots-agentes-persistentes-espana",
     "grok-team-bots-agentes-compartidos",
     "grok-4-7-programacion-trabajos-largos",
     "qwen-image-2-1-imagenes-transparentes",
@@ -6415,7 +7042,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-10-28T20:17:02Z",
-    "coverage": "Revisión parcial de siete días: se conservan 12 publicaciones de 12 cuentas porque no se localizaron sustitutas mejor verificadas. Los 12 accesos directos a X devolvieron 403. Los resúmenes se mantienen limitados a fragmentos indexados y documentación oficial complementaria ya leída; no se leyeron cronologías ni se visualizaron vídeos completos."
+    "checkedAt": "2026-10-29T21:21:37+01:00",
+    "coverage": "Revisión parcial de siete días: se conservan 11 publicaciones útiles de 11 cuentas porque no se localizaron sustitutas mejor verificadas; se retiró una tarjeta financiera. Los 11 accesos directos a X devolvieron 403. Los resúmenes se limitan a fragmentos indexados y documentación oficial complementaria ya leída; no se leyeron cronologías ni se visualizaron vídeos completos."
   }
 }

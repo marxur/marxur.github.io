@@ -1,0 +1,39 @@
+{
+  "reviewedAt": "2026-10-29T21:21:37+01:00",
+  "reports": [
+    "Reporte_IA_2026-10-28_22-02.json",
+    "Acumulado_IA_2026-10-28_22-02.json",
+    "Reporte_IA_2026-10-29_02-11.json",
+    "Reporte_IA_2026-10-29_07-07.json",
+    "Reporte_IA_2026-10-29_12-01.json",
+    "Reporte_IA_2026-10-29_17-05.json"
+  ],
+  "published": [
+    "google-gemini4-carbon-acceso-limitado-20261028",
+    "mistral-large4-pesos-abiertos-20261029",
+    "github-copilot-fusion-workflows-imagen-20261028",
+    "android-studio-agentes-cli-nano4-20261029",
+    "chrome-autorrelleno-gmail-gemini-20261028",
+    "rime-prism-voz-a-voz-texto-inspeccionable-20261028",
+    "particle1-vercel-ai-gateway-codigo-20261028",
+    "inclusionai-ling31-flash-pesos-mit-20261029",
+    "xreal-aura-android-xr-gemini-20261029",
+    "google-connected-apps-platform-preview-20261029",
+    "google-litert-gpu-play-services-20261028",
+    "nace-drex-busqueda-agentes-20261029",
+    "ceva-neupro-npu-cartera-20261029",
+    "anthropic-ai-for-science-20-organizaciones-20261029"
+  ],
+  "updated": [
+    "openai-dots-agentes-persistentes-espana"
+  ],
+  "retained": [
+    "health",
+    "legal",
+    "finance",
+    "unverified-primary",
+    "recirculations",
+    "unresolved-dates"
+  ],
+  "notes": "Fuentes primarias abiertas y leídas; benchmarks y demostraciones atribuidos; disponibilidad y licencias comprobadas. Tencent Buddy One retenido por no poder abrir la fuente primaria concreta."
+}
