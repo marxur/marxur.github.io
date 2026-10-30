@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
+  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/sobre.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/editorial.html</loc><lastmod>2026-10-27T22:17:01Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/privacidad.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/contacto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/xai.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/agentes-ia.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/china.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/deepseek.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/qwen.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/kimi.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/voz-y-teclado.html</loc><lastmod>2026-10-29T21:21:37+01:00</lastmod></url>
+  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/xai.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/agentes-ia.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/china.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/deepseek.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/qwen.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/kimi.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/voz-y-teclado.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/claude-code-modernization-contexto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/uk-ai-hearing-20261014-signal.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/hassabis-dublin-20261014-signal.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
@@ -109,10 +109,10 @@
   <url><loc>https://www.ianoticias.org/condiciones.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/rumores-claude-fable-5-5-gemini-4-carbon-grok-4-8.html</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/nvidia-dory10-4b-20261016-context.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.ianoticias.org/noticias/openmoss-moss-image-20261016-context.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.ianoticias.org/noticias/elorian-glimpse-preview-20261016-context.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.ianoticias.org/noticias/openspec-1143-linked-specs-20261017.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.ianoticias.org/noticias/nvidia-muse-spark-dflash2-20261016-signal.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/openmoss-moss-image-20261016-context.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/elorian-glimpse-preview-20261016-context.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/openspec-1143-linked-specs-20261017.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/nvidia-muse-spark-dflash2-20261016-signal.html</loc><lastmod>2026-10-30T14:57:25.031Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/anthropic-public-benefit-fund-20261018.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/pilotdeck-20-memoria-proyectos-20261015.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/github-copilot-calendario-retiradas-20260918.html</loc><lastmod>2026-10-20</lastmod></url>

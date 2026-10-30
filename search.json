@@ -697,7 +697,7 @@
   {
    "slug": "openmoss-moss-image-20261016-context",
    "title": "MOSS-Image publica código y pesos para controlar la composición de imágenes",
-   "summary": "Breve",
+   "summary": "OpenMOSS anunció el 16 de octubre MOSS-Image-Base y MOSS-Image-SFT, con código y pesos públicos. El proyecto permite controlar la colocación de texto y…",
    "category": "Herramientas",
    "topic": "OpenMOSS",
    "source": "OpenMOSS",
@@ -708,7 +708,7 @@
   {
    "slug": "elorian-glimpse-preview-20261016-context",
    "title": "Elorian presenta Glimpse, una vista previa para razonar sobre imágenes y vídeo",
-   "summary": "Breve",
+   "summary": "Elorian presentó Glimpse el 16 de octubre como vista previa de investigación y anunció acceso mediante API e interfaz de chat. Según la empresa, el…",
    "category": "Herramientas",
    "topic": "Elorian",
    "source": "Elorian",
@@ -719,7 +719,7 @@
   {
    "slug": "openspec-1143-linked-specs-20261017",
    "title": "OpenSpec 1.14.3 añade especificaciones enlazadas y controles de rutas",
-   "summary": "Breve",
+   "summary": "La versión 1.14.3 de OpenSpec, publicada el 17 de octubre, admite especificaciones enlazadas desde otros lugares del mismo proyecto. Las notas también…",
    "category": "Herramientas",
    "topic": "OpenSpec",
    "source": "OpenSpec",
@@ -730,7 +730,7 @@
   {
    "slug": "nvidia-muse-spark-dflash2-20261016-signal",
    "title": "NVIDIA documenta DFlash2 como modelo auxiliar para Muse Spark Open",
-   "summary": "Breve",
+   "summary": "La ficha de NVIDIA describe Muse Spark DFlash2 como un modelo auxiliar de decodificación especulativa para Muse Spark Open. Propone grupos de tokens que…",
    "category": "Herramientas",
    "topic": "NVIDIA",
    "source": "NVIDIA",
@@ -1962,7 +1962,7 @@
   {
    "slug": "tema-agentes-ia",
    "title": "Noticias de Agentes IA",
-   "summary": "De responder a hacer: novedades de dots, Grok Bot, Gemini agent y otros agentes de inteligencia artificial.",
+   "summary": "Noticias de agentes de inteligencia artificial: automatización, programación y tareas, con funciones documentadas, límites y fuentes originales.",
    "category": "Tema",
    "topic": "agentes ia",
    "source": "Noticias IA",
@@ -1973,7 +1973,7 @@
   {
    "slug": "tema-anthropic",
    "title": "Noticias de Anthropic",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de Anthropic y Claude: modelos, programación, agentes y actualizaciones, con contexto y enlaces a los documentos y anuncios originales.",
    "category": "Tema",
    "topic": "anthropic",
    "source": "Noticias IA",
@@ -1984,7 +1984,7 @@
   {
    "slug": "tema-china",
    "title": "Noticias de China",
-   "summary": "DeepSeek, Qwen y Kimi: los modelos, agentes y herramientas que llegan de China.",
+   "summary": "DeepSeek, Qwen y Kimi: los modelos, agentes y herramientas de inteligencia artificial que llegan de China, con contexto y fuentes originales.",
    "category": "Tema",
    "topic": "china",
    "source": "Noticias IA",
@@ -1995,7 +1995,7 @@
   {
    "slug": "tema-deepseek",
    "title": "Noticias de DeepSeek",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de DeepSeek en español: modelos, código, disponibilidad y novedades, con fechas, contexto y enlaces a las publicaciones originales.",
    "category": "Tema",
    "topic": "deepseek",
    "source": "Noticias IA",
@@ -2006,7 +2006,7 @@
   {
    "slug": "tema-google",
    "title": "Noticias de Google",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de inteligencia artificial de Google: Gemini, búsqueda, herramientas y agentes, con fechas, contexto y acceso a sus fuentes originales.",
    "category": "Tema",
    "topic": "google",
    "source": "Noticias IA",
@@ -2017,7 +2017,7 @@
   {
    "slug": "tema-kimi",
    "title": "Noticias de Kimi",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de Kimi y Moonshot AI: modelos, agentes y nuevas funciones, con fechas, contexto y enlaces a la documentación y los anuncios originales.",
    "category": "Tema",
    "topic": "kimi",
    "source": "Noticias IA",
@@ -2028,7 +2028,7 @@
   {
    "slug": "tema-openai",
    "title": "Noticias de OpenAI",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de OpenAI y ChatGPT en español: modelos, funciones, agentes y cambios de acceso, con fechas, contexto y enlaces a los anuncios originales.",
    "category": "Tema",
    "topic": "openai",
    "source": "Noticias IA",
@@ -2039,7 +2039,7 @@
   {
    "slug": "tema-qwen",
    "title": "Noticias de Qwen",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de Qwen y Alibaba: modelos de inteligencia artificial, herramientas y disponibilidad, con contexto y enlaces a las fuentes originales.",
    "category": "Tema",
    "topic": "qwen",
    "source": "Noticias IA",
@@ -2050,7 +2050,7 @@
   {
    "slug": "tema-voz-y-teclado",
    "title": "Noticias de Voz y teclado",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Herramientas y noticias de IA para dictar, transcribir y trabajar con la voz: funciones, disponibilidad y límites, con fuentes originales.",
    "category": "Tema",
    "topic": "voz y teclado",
    "source": "Noticias IA",
@@ -2061,7 +2061,7 @@
   {
    "slug": "tema-xai",
    "title": "Noticias de xAI",
-   "summary": "Anuncios, novedades y contexto con enlaces a las fuentes originales.",
+   "summary": "Noticias de xAI y Grok en español: modelos, agentes y nuevas funciones, con el contexto de cada anuncio y enlaces a sus fuentes originales.",
    "category": "Tema",
    "topic": "xai",
    "source": "Noticias IA",

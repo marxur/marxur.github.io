@@ -301,6 +301,10 @@ def update_videos_json():
         data = json.load(open(path, encoding='utf-8'))
     except (OSError, json.JSONDecodeError):
         data = {}
+    # A recovered historical shortlist must never replace the current published channel feed.
+    if data.get('videos'):
+        print('videos.json: feed existente conservado')
+        return
     order = ['d5t_kJGXTPU', 'pZUmmmgcNjI', 'IPrTGAj-AFY', 'ExnzuMOHcVg', '5S5_EbJ6BtM']
     # Solo los que tienen oEmbed OK; Exnzu y 5S5 son públicos aunque sin noticia
     meta_extra = {
@@ -357,6 +361,12 @@ update_videos_json()
 
 arts = json.load(open('data.json', encoding='utf-8'))['articles']
 items = [{k: a.get(k, '') for k in ('slug', 'title', 'summary', 'category', 'topic', 'source', 'date')} | {'url': f"/noticias/{a['slug']}.html", 'type': 'noticia'} for a in arts]
+for item in items:
+    if item['summary'].strip() == 'Breve':
+        with open(item['url'].lstrip('/'), encoding='utf-8') as page:
+            match = re.search(r'<meta name="description" content="([^"]+)"', page.read())
+        if match:
+            item['summary'] = html.unescape(match[1])
 for f in sorted(glob.glob('temas/*.html')):
     s = open(f, encoding='utf-8').read()
     g = lambda p: html.unescape((re.search(p, s, re.S) or [None, ''])[1]).strip()
