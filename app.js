@@ -69,3 +69,7 @@
 })();
 
 document.querySelectorAll('[data-x-author]').forEach(button=>button.addEventListener('click',()=>{const name=button.dataset.xAuthor;document.querySelectorAll('[data-x-name]').forEach(card=>card.hidden=name!=='Todas'&&card.dataset.xName!==name);document.querySelectorAll('[data-x-author]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));}));
+
+
+// The masthead date is today in Madrid; article/review dates remain their recorded dates.
+ document.querySelectorAll(".paper-date").forEach(el=>{el.textContent=new Intl.DateTimeFormat("es-ES",{weekday:"long",day:"numeric",month:"long",year:"numeric",timeZone:"Europe/Madrid"}).format(new Date());});
