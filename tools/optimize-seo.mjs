@@ -13,3 +13,5 @@ for(const path of paths){
 }
 if(changed.length)updateSitemap(changed,new Date().toISOString());
 console.log(JSON.stringify({generated:paths.length,changed,articlesPreserved:data.articles.length,edition:data.edition}));
+
+await import('./review-archived-pages.mjs');

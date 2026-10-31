@@ -11,3 +11,5 @@ for(const path of paths){let view={...data,articles:path==='/'?selected:data.art
 for(const slug of changed)if(!bySlug.get(slug).illustrationSlug)fs.writeFileSync('ilustraciones/'+slug+'.svg',articleArt(bySlug.get(slug)));
 updateSitemap(paths,data.reviewedAt);
 console.log('Rendered',paths.length,'pages;',changed.length,'new/corrected articles');
+
+await import('./review-archived-pages.mjs');
