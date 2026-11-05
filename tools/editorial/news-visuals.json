@@ -1,0 +1,112 @@
+{
+  "tool": "image_gen (herramienta integrada)",
+  "created": "2026-11-05",
+  "notice": "Ilustraciones conceptuales generadas con IA. No son fotografías de los anuncios ni capturas de los productos.",
+  "entries": [
+    {
+      "slug": "mistral-large4-pesos-abiertos-20261029",
+      "key": "open-model",
+      "src": "/assets/news-visuals/open-model.webp",
+      "prompt": "An open-source AI model. An intricate sculptural sphere built from many interlocking ivory and copper layers, floating opened like a mechanical seed over a charcoal studio surface. Architectural precision, warm amber light, luxury editorial still life, realistic materials, no symbols or writing.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "android-studio-agentes-cli-nano4-20261029",
+      "key": "android-code",
+      "src": "/assets/news-visuals/android-code.webp",
+      "prompt": "An Android development environment and AI agents, represented by an unbranded modern smartphone propped upright on a mint-green workbench, tiny modular green robot-like mechanisms assembling a flowing translucent circuit ribbon beside it. Realistic product photography, fresh green and bright soft daylight, no characters resembling copyrighted mascots, no text on screen.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "inclusionai-ling31-flash-pesos-mit-20261029",
+      "key": "china-model",
+      "src": "/assets/news-visuals/china-model.webp",
+      "prompt": "Generate ONE landscape 3:2 high-end editorial conceptual photograph for a news article: a Chinese AI lab releases the open weights of an AI reasoning model. Main subject: a complex spherical neural network of hundreds of tiny metallic nodes linked by glowing red and cyan filaments, visible inside a transparent protective glass housing that has been opened on a precise laboratory workbench. A soft, distant contemporary Shanghai skyline through the window only as subtle background context; the AI neural-network object must dominate the frame, not the city. Realistic microelectronics, dark lacquer, warm red reflections and soft blue evening light, sophisticated beautiful magazine photograph. No text, letters, logos, headlines, readable screens, watermarks or diagram labels. Safe central crop for web news cards. Clearly a conceptual illustration of an open AI model, not a documentary photo or an actual company product.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "xreal-aura-android-xr-gemini-20261029",
+      "key": "xr-glasses",
+      "src": "/assets/news-visuals/xr-glasses.webp",
+      "prompt": "Extended reality glasses. Beautiful unbranded lightweight black translucent smart glasses resting on a limestone plinth, lenses reflecting a vivid lavender and turquoise virtual landscape. Realistic high-end product still life, pale pink studio background, side lighting. Conceptual glasses, not a representation of the actual product.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "google-connected-apps-platform-preview-20261029",
+      "key": "connected-apps",
+      "src": "/assets/news-visuals/connected-apps.webp",
+      "prompt": "Connected applications and AI agents. An elegant hovering cluster of translucent amber, teal and cobalt glass cubes linked by delicate luminous threads in a dark physical studio. A believable sculptural three-dimensional editorial composition, depth and rich shadows, one cube near the camera, no icons, words or logos.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "nace-drex-busqueda-agentes-20261029",
+      "key": "search-agents",
+      "src": "/assets/news-visuals/search-agents.webp",
+      "prompt": "AI search and discovery. A solitary human explorer seen small from behind in a monumental midnight-blue archive, long rows of luminous glass drawers opening into a warm golden corridor. Cinematic photograph-inspired editorial artwork, atmospheric depth, curious and hopeful. No writing, labels or book text.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "ceva-neupro-npu-cartera-20261029",
+      "key": "neural-chip",
+      "src": "/assets/news-visuals/neural-chip.webp",
+      "prompt": "Neural processing chips. Extreme macro photographic still life of an unbranded iridescent silicon processor wafer, intricate gold circuit pathways and sapphire surfaces, a precise tiny square chip in focus, shallow depth of field, tactile microelectronics, violet and electric-blue light. No markings, numbers or text.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "anthropic-ai-for-science-20-organizaciones-20261029",
+      "key": "ai-science",
+      "src": "/assets/news-visuals/ai-science.webp",
+      "prompt": "AI supporting scientific research. A beautiful real-world laboratory scene with a gloved hand gently holding a glass vial against a soft-focus background of scientific equipment, delicate cyan and coral molecular light forms suspended beside it as a conceptual accent. High-end scientific editorial photograph, humane, morning daylight, no text or labels.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "google-gemini4-carbon-acceso-limitado-20261028",
+      "key": "carbon-model",
+      "src": "/assets/news-visuals/carbon-model.webp",
+      "prompt": "A powerful frontier AI model with restricted access. Close-up sculptural black carbon lattice woven around a radiant white-blue crystalline core, light escaping through precise gaps, dramatic high contrast, subtle teal reflections, photoreal premium conceptual macro artwork. No letters, numbers, locks or text.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "github-copilot-fusion-workflows-imagen-20261028",
+      "key": "coding-workflow",
+      "src": "/assets/news-visuals/coding-workflow.webp",
+      "prompt": "AI coding and image creation workflows. A real designer-programmer's desk photographed from above: an unbranded laptop with abstract luminous color shapes on its blank dark screen, a ceramic espresso, a sketchbook showing only flowing geometric strokes, warm wooden surface, late afternoon sunlight, human fingers near the trackpad. No readable code or text.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "chrome-autorrelleno-gmail-gemini-20261028",
+      "key": "browser-forms",
+      "src": "/assets/news-visuals/browser-forms.webp",
+      "prompt": "AI assistance with email and browser forms. Close-up conceptual still life of clean white translucent paper envelopes and thin glass browser-like panels floating diagonally over a pale sky-blue desk. The panels contain only broad abstract color fields, no interface text. Bright editorial photography, soft natural shadows, airy composition, no logos.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "rime-prism-voz-a-voz-texto-inspeccionable-20261028",
+      "key": "voice-prism",
+      "src": "/assets/news-visuals/voice-prism.webp",
+      "prompt": "Voice to voice AI called Prism, visually represented by an exquisite triangular optical glass prism splitting a gentle ribbon of sound-like light into coral, green and blue waves. Dark midnight studio, dramatic macro product photography, beautiful caustics on black stone, minimal poetic composition, no words or numbers.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "particle1-vercel-ai-gateway-codigo-20261028",
+      "key": "code-gateway",
+      "src": "/assets/news-visuals/code-gateway.webp",
+      "prompt": "Programming AI gateway: developer hands at an unbranded laptop connected to a miniature network of illuminated processing nodes, navy and copper studio light, realistic editorial photography, no readable text or logos.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "google-litert-gpu-play-services-20261028",
+      "key": "local-ai-phone",
+      "src": "/assets/news-visuals/local-ai-phone.webp",
+      "prompt": "AI running locally on a mobile phone. Close-up unbranded smartphone lying on a dark forest-green moss-covered rock, a tiny luminous emerald three-dimensional neural lattice hovering just above its screen, misty green woodland background, sunlight through leaves, premium naturalistic product photograph. No interface, letters or logos.",
+      "position": "50% 50%"
+    },
+    {
+      "slug": "firefox-smart-window-formularios-vigilancia-20261027",
+      "key": "smart-browser",
+      "src": "/assets/news-visuals/smart-browser.webp",
+      "prompt": "An intelligent browser window. A warm orange fox in a sunlit woodland clearing, looking toward a delicate rectangular frame of clear glass standing among ferns, a rich indigo reflection inside the glass, realistic wildlife-inspired editorial photography with a subtle conceptual element, cinematic detail. No logos, mascot styling, letters or symbols.",
+      "position": "50% 50%"
+    }
+  ]
+}
