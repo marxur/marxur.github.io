@@ -2,6 +2,8 @@
 
 Harness prepara la edición; Codex facilita ilustraciones y publica mediante su conexión de GitHub. No se transfieren credenciales entre aplicaciones. El agente principal sigue siendo la sesión dedicada de DeepSeek Harness.
 
+En el entorno de Harness, Node está incluido en su runtime aunque no figure en PATH. Resolverlo con `load_workspace_dependencies` y utilizar la ruta devuelta para ejecutar los scripts. No instalar programas ni buscar credenciales para preparar una propuesta.
+
 ## Entrega de Harness
 
 Cada día, a las 21:15 Europe/Madrid, investiga siguiendo EDITOR.md y deposita una propuesta en `tools/maintenance/drafts/AAAA-MM-DD/edition.json`. No cambies `data.json`, HTML ni el manifiesto publicado durante esta fase. Formato:

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:17:01Z",
+  "updatedAt": "2026-11-05T17:21:09.123Z",
   "authorizedBy": "Marcos Valencia",
   "authorizationDate": "2026-10-27",
   "destination": "https://www.ianoticias.org",
@@ -8,7 +8,8 @@
   "dailyPublicationAuthorized": true,
   "timezone": "Europe/Madrid",
   "scheduledReview": "21:15",
-  "automationId": "Automation_b6f01cb0a3c08191aa78ee91dcce584f",
+  "automationId": "schedule-d122aec3-e76a-4ead-8c12-e89fb465ff02",
+  "legacyAutomationReference": "Automation_b6f01cb0a3c08191aa78ee91dcce584f",
   "ordinaryArticlesRequireNinoApproval": false,
   "ordinaryArticlesRequirePriorSocialPublication": false,
   "required": "Verificar fuentes primarias, deduplicar por acontecimiento, atribuir resultados, preservar fechas y comprobar despliegue público.",
