@@ -2,6 +2,8 @@
 
 Encargo de Marcos Valencia, 5 de noviembre de 2026. Agente dedicado en DeepSeek Harness. Revisión diaria a las 21:15, zona Europe/Madrid; se conserva la hora de la política editorial existente.
 
+Modalidad operativa: lee también BRIDGE.md. Harness entrega propuestas y solicitudes de imagen; el apoyo de Codex valida, genera los recursos pendientes y publica a las 21:45. En esta modalidad los pasos 7–8 se realizan sobre una propuesta separada: no modificar directamente los datos o HTML publicados ni buscar credenciales de otras aplicaciones. La falta de Git no impide investigar y entregar una propuesta usando las herramientas web y la API pública del repositorio.
+
 ## Edición diaria
 
 1. Comprueba fecha real, estado de Git y publicación. Actualiza el checkout antes de editar; si hay cambios ajenos sin publicar, prepara una propuesta separada y no los sobreescribas. Lee `data.json`, `tools/editorial/sources.json` y las revisiones recientes.

@@ -1,5 +1,18 @@
 [
   {
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "title": "OpenAI anuncia ChatGPT Images 2.6 con GIFs e imágenes de referencia",
+    "summary": "La cuenta oficial presenta nuevas funciones de imagen y anuncia dos modelos para la API. La mejora de velocidad mencionada corresponde al anuncio del proveedor; no es una prueba independiente.",
+    "url": "https://x.com/OpenAI/status/2118124944928432327",
+    "type": "Anuncio",
+    "sourceUrl": "https://x.com/OpenAI/status/2118124944928432327",
+    "date": "2026-11-04",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-05T17:21:09.123Z",
+    "access": "Autor, contenido y fecha verificados con el oEmbed oficial de X; cronología completa no disponible."
+  },
+  {
     "name": "Kimi.ai",
     "handle": "@Kimi_Moonshot",
     "title": "Kimi K3.1 Pro anuncia mejoras en programación y creación 3D",

@@ -1,7 +1,50 @@
 {
-  "edition": "2026-10-29T21:21:37+01:00",
-  "reviewedAt": "2026-10-29T21:21:37+01:00",
+  "edition": "2026-11-05T17:21:09.123Z",
+  "reviewedAt": "2026-11-05T17:21:09.123Z",
   "articles": [
+    {
+      "sections": [],
+      "kind": "news",
+      "format": "brief",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "detectedAt": "2026-11-05",
+      "publishedAt": "2026-11-05T17:21:09.123Z",
+      "modifiedAt": "2026-11-05T17:21:09.123Z",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "slug": "anthropic-claude-ip-allowlist-20261105",
+      "dedup_key": "anthropic-claude-ip-allowlist-20261105",
+      "title": "Claude Console estrena listas de IP para limitar el acceso a su API",
+      "summary": "La función, en beta, permite restringir las peticiones a los servicios cubiertos a direcciones de red autorizadas por cada organización.",
+      "body": [
+        "Anthropic anunció el 5 de noviembre una lista de IP permitidas para organizaciones en Claude Console. Admite direcciones IPv4 e IPv6 y rangos CIDR, con hasta 1.000 entradas por organización.",
+        "Las peticiones a los servicios cubiertos desde direcciones fuera de la lista se rechazan. Según el proveedor, esto limita desde dónde puede utilizarse una clave de API filtrada.",
+        "La novedad sigue en beta. Antes de activarla conviene revisar qué servicios cubre y qué redes necesita la organización; no se ha probado su funcionamiento en Noticias IA."
+      ],
+      "takeaway": "Las organizaciones pueden acotar las redes desde las que se utiliza su API.",
+      "caveat": "Función en beta; su alcance debe comprobarse en la documentación oficial.",
+      "company": "Anthropic",
+      "topic": "Seguridad",
+      "category": "Herramientas",
+      "source": "Anthropic",
+      "sourceTitle": "Claude Platform release notes",
+      "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Claude Platform release notes",
+          "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        }
+      ],
+      "illustrationTheme": "security",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Seguridad"
+      ],
+      "date": "2026-11-05"
+    },
     {
       "slug": "deepmind-genie4-20261027",
       "title": "Genie 4 genera mundos interactivos con sonido y diálogo, todavía en pruebas",
@@ -6564,6 +6607,19 @@
   ],
   "xPosts": [
     {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "title": "OpenAI anuncia ChatGPT Images 2.6 con GIFs e imágenes de referencia",
+      "summary": "La cuenta oficial presenta nuevas funciones de imagen y anuncia dos modelos para la API. La mejora de velocidad mencionada corresponde al anuncio del proveedor; no es una prueba independiente.",
+      "url": "https://x.com/OpenAI/status/2118124944928432327",
+      "type": "Anuncio",
+      "sourceUrl": "https://x.com/OpenAI/status/2118124944928432327",
+      "date": "2026-11-04",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-05T17:21:09.123Z",
+      "access": "Autor, contenido y fecha verificados con el oEmbed oficial de X; cronología completa no disponible."
+    },
+    {
       "name": "Kimi.ai",
       "handle": "@Kimi_Moonshot",
       "title": "Kimi K3.1 Pro anuncia mejoras en programación y creación 3D",
@@ -6830,6 +6886,7 @@
     }
   ],
   "selectedSlugs": [
+    "anthropic-claude-ip-allowlist-20261105",
     "google-gemini4-carbon-acceso-limitado-20261028",
     "mistral-large4-pesos-abiertos-20261029",
     "github-copilot-fusion-workflows-imagen-20261028",
@@ -7042,7 +7099,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-10-29T21:21:37+01:00",
-    "coverage": "Revisión parcial de siete días: se conservan 11 publicaciones útiles de 11 cuentas porque no se localizaron sustitutas mejor verificadas; se retiró una tarjeta financiera. Los 11 accesos directos a X devolvieron 403. Los resúmenes se limitan a fragmentos indexados y documentación oficial complementaria ya leída; no se leyeron cronologías ni se visualizaron vídeos completos."
+    "checkedAt": "2026-11-05T17:21:09.123Z",
+    "coverage": "Revisión parcial: una publicación reciente de OpenAI comprobada mediante el servicio oficial oEmbed de X. Se conservan las selecciones anteriores con sus fechas; no se han revisado cronologías completas."
   }
 }

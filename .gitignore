@@ -1,0 +1,5 @@
+# Local agent drafts and execution records are not website content.
+/tools/maintenance/drafts/
+/tools/maintenance/image-requests/
+/tools/maintenance/runs/
+/tools/maintenance/_imgtest.*

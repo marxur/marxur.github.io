@@ -179,6 +179,13 @@
       "key": "ai-tools-guide",
       "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. A curated guide to AI tools for researching, designing, coding, making videos and dictating with your voice. Beautiful overhead flat-lay of a creative workspace with a studio microphone, headphones, open notebook, drawing tablet with stylus and a laptop at the edge showing a non-readable colorful creative interface. Warm honey desk, greenery, bright natural light, no readable text, no logos, no floating AI sphere. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
       "src": "/assets/news-visuals/ai-tools-guide.webp"
+    },
+    {
+      "slug": "anthropic-claude-ip-allowlist-20261105",
+      "key": "claude-ip-allowlist",
+      "src": "/assets/news-visuals/claude-ip-allowlist.webp",
+      "prompt": "Generate one landscape 3:2 premium editorial conceptual photograph for the exact news: Claude Console adds organization IP allowlists in beta, restricting API requests to approved network addresses. Show a precision miniature server enclosure protected by a thin transparent rectangular security gate on a real dark circuit-board surface. Two luminous green network paths pass through distinct approved gateways; several coral-red light paths stop clearly at the perimeter. Recognizable network access control, elegant cobalt and violet light, realistic brushed metal and glass, crisp high-end magazine composition, central safe crop. No generic AI spheres, no robot, no words, IP numbers, logos, readable labels or headlines. This is a conceptual illustration, not a documentary photo of an actual Anthropic product.",
+      "position": "50% 50%"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

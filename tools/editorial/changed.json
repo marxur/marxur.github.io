@@ -1,17 +1,3 @@
 [
-  "google-gemini4-carbon-acceso-limitado-20261028",
-  "mistral-large4-pesos-abiertos-20261029",
-  "github-copilot-fusion-workflows-imagen-20261028",
-  "android-studio-agentes-cli-nano4-20261029",
-  "chrome-autorrelleno-gmail-gemini-20261028",
-  "rime-prism-voz-a-voz-texto-inspeccionable-20261028",
-  "particle1-vercel-ai-gateway-codigo-20261028",
-  "inclusionai-ling31-flash-pesos-mit-20261029",
-  "xreal-aura-android-xr-gemini-20261029",
-  "google-connected-apps-platform-preview-20261029",
-  "google-litert-gpu-play-services-20261028",
-  "nace-drex-busqueda-agentes-20261029",
-  "ceva-neupro-npu-cartera-20261029",
-  "anthropic-ai-for-science-20-organizaciones-20261029",
-  "openai-dots-agentes-persistentes-espana"
+  "anthropic-claude-ip-allowlist-20261105"
 ]

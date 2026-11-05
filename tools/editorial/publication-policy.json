@@ -18,5 +18,16 @@
     "finanzas"
   ],
   "socialPostingAuthorizedByThisTask": false,
-  "preserveExistingContent": true
+  "preserveExistingContent": true,
+  "maintenance": {
+    "editor": "DeepSeek Harness",
+    "editorScheduleId": "schedule-d122aec3-e76a-4ead-8c12-e89fb465ff02",
+    "editorTime": "21:15",
+    "publicationBridge": "Codex",
+    "publicationAutomationId": "noticias-ia-im-genes-y-publicaci-n",
+    "publicationTime": "21:45",
+    "timezone": "Europe/Madrid",
+    "imagePolicy": "Exact article-specific assignment; no category fallback",
+    "localHostsRequired": true
+  }
 }
