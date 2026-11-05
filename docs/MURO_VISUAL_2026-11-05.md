@@ -1,21 +1,15 @@
 # Muro visual de Noticias IA
 
-Integración solicitada por Marcos a partir de una grabación de «Moments» de Motion. Implementación propia con las ilustraciones editoriales ya publicadas; no se importan código ni imágenes de la referencia.
+Integración solicitada por Marcos a partir de «Moments» de Motion. La versión actual amplía imágenes al pasar el cursor, dentro del propio mosaico. No abre una ventana ni un diálogo. Se conservan los enlaces nativos: el clic abre el artículo y en móvil basta un toque.
 
-El módulo `tools/editorial/mosaic.mjs` toma las quince noticias más recientes de la selección de portada, excluyendo rumores y pendientes. Se inserta después de los destacados y antes del radar. La cabecera de la portada ofrece un enlace directo a `/#muro-ia`. Cada tarjeta conserva un enlace HTML al artículo, además de su fecha de fuente. JavaScript añade una ampliación con resumen, enlace al artículo y fuente original; sin JavaScript se navega directamente al artículo.
+El módulo tools/editorial/mosaic.mjs toma las quince noticias más recientes de la selección de portada, excluyendo rumores y pendientes. Usa las ilustraciones editoriales locales ya publicadas. No importa código ni recursos de la referencia. Las fechas son las originales de las fuentes.
 
-`mosaico.css` y `mosaico.js` se cargan solo en la portada. El diseño responde al ancho disponible, mantiene navegación de teclado, diálogo nativo con cierre por Escape y devolución del foco, y respeta reducción de movimiento. Utiliza las ilustraciones locales de cada noticia, sin dependencias nuevas ni cookies.
+mosaico.js crea una única ampliación visual dentro del muro. Tiene pointer-events:none para poder alcanzar las imágenes vecinas aun cuando quedan parcialmente cubiertas; la ampliación cambia de imagen y posición sin cerrar nada. El teclado ofrece la misma vista al enfocar las tarjetas. La vista ampliada es decorativa para tecnologías de asistencia y los enlaces originales siguen siendo accesibles. Al salir del muro se repliega; Escape también la oculta. No se bloquea el desplazamiento de la página.
 
-Para actualizaciones editoriales: el generador habitual `tools/render-edition.mjs` ya incorpora el muro mediante `renderSite`. No mantener manualmente las quince tarjetas. Para regenerar exclusivamente la portada sin modificar datos ni revisión, ejecutar `node tools/render-mosaic-home.mjs` desde la raíz del repositorio.
+Las animaciones usan transformaciones y opacidad, sin desenfoques. El desplazamiento leve del conjunto se detiene al asentarse, al salir de pantalla y al ocultar la pestaña. Respeta reducción de movimiento. En móvil conserva títulos legibles y enlaces directos, sin ampliación flotante.
 
-La integración no modifica datos, artículos, archivo, sitemap, canonicals, dominio, horarios ni políticas de publicación. La versión activa se publica en GitHub Pages, repositorio `marxur/marxur.github.io`, rama `main`; no desplegar la copia antigua de Sites.
+El generador habitual tools/render-edition.mjs incorpora el muro mediante renderSite. No mantener manualmente sus tarjetas. Para regenerar únicamente esta sección de portada sin tocar metadatos o revisión: node tools/render-mosaic-home.mjs. mosaico.css y mosaico.js se cargan solo en portada.
 
-Verificación: quince enlaces y recursos locales válidos; una H1 y canonical original; enlaces existentes conservados; datos y sitemap idénticos al estado anterior. Navegador: apertura, cierre con Escape, retorno de foco y enlace al artículo comprobados; vista móvil de 390 píxeles sin desbordamiento horizontal, incluido el diálogo.
+Publicación: GitHub Pages, marxur/marxur.github.io, main. No desplegar la copia antigua de Sites. No modificar DNS, horarios, datos de noticias ni políticas editoriales por esta integración.
 
-## Revisión de movimiento
-
-Tras comparar de nuevo la grabación, la vista de escritorio utiliza un mosaico compacto de tamaños distintos. La tarjeta bajo el cursor aumenta de tamaño y descubre su titular, con un desplazamiento inercial leve del conjunto. Se detiene al salir de pantalla o al ocultar la pestaña. No hay un bucle de animación permanente.
-
-La ampliación de escritorio comparte la imagen entre su posición en el muro y la ventana de lectura, y vuelve al origen al cerrar. Las animaciones usan transformaciones y opacidad; se eliminan los desenfoques de fondo. Las ilustraciones se decodifican con antelación al detectar intención de abrirlas. El cierre durante la apertura parte de la posición visible en ese momento. La anchura de la página conserva el espacio de la barra de desplazamiento.
-
-En móvil se utiliza una entrada y salida breve, sin el recorrido entre posiciones. Se respeta la preferencia de reducir movimiento. Las noticias, metadatos y enlaces no cambian en esta revisión.
+Verificado: cambio entre tarjetas por foco y entrada del cursor; ampliación sin interceptar el puntero; clic al artículo correcto; cero diálogos en el muro; desplazamiento libre; móvil de 390 píxeles sin desbordamiento horizontal y acceso directo al artículo. Se conservan datos, artículos, canonical y datos estructurados.
