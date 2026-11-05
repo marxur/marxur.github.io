@@ -7,6 +7,7 @@ const articles=new Map(data.articles.map(a=>[a.slug,a]));
 let pages=0,images=0;
 function replacePicture(fragment,article) {
   if(!article)return fragment;
+  if(!newsImage(article))return fragment;
   return fragment.replace(/(<img\b[^>]*\bsrc=")[^"]+("[^>]*>)/,(_,start,end)=>{
     images++; return start+newsImage(article)+end.replace(' style="object-fit:contain"','');
   });
@@ -18,19 +19,23 @@ function walk(folder) {
     if(entry.isDirectory()){walk(file);continue;}
     if(!file.endsWith('.html'))continue;
     const before=fs.readFileSync(file,'utf8');let html=before;
-    html=html.replace(/<article class="story-card"[\s\S]*?<\/article>/g,card=>{
-      const slug=card.match(/data-slug="([^"]+)"/)?.[1];return replacePicture(card,articles.get(slug));
+    html=html.replace(/<article class="story-card(?: story-card--text)?"[\s\S]*?<\/article>/g,card=>{
+      const slug=card.match(/data-slug="([^"]+)"/)?.[1];const article=articles.get(slug);
+      if(article&&!newsImage(article))return card.replace(/<a class="card-picture"[\s\S]*?<\/a>/,'').replace('class="story-card"','class="story-card story-card--text"');
+      return replacePicture(card,article);
     });
     html=html.replace(/<article class="featured">[\s\S]*?<\/article>/g,feature=>{
       const slug=feature.match(/href="\/noticias\/([^"/]+)\.html"/)?.[1];return replacePicture(feature,articles.get(slug));
     });
     const article=folder.replaceAll('\\','/').endsWith('noticias')?articles.get(path.basename(file,'.html')):null;
     if(article) {
-      html=html.replace(/<div class="article-cover">[\s\S]*?<\/div>/,cover=>replacePicture(cover,article));
-      html=html.replace(/(<meta property="og:image" content=")[^"]+("\s*\/?>)/,`$1https://www.ianoticias.org${newsImage(article)}$2`);
+      const image=newsImage(article);
+      html=html.replace(/<div class="article-cover">[\s\S]*?<\/div>/,cover=>image?replacePicture(cover,article):'');
+      if(!image)html=html.replace(/<p class="image-caption">[\s\S]*?<\/p>/,'');
+      html=html.replace(/(<meta property="og:image" content=")[^"]+("\s*\/?>)/,`$1https://www.ianoticias.org${image??'/assets/logo.png'}$2`);
       html=html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g,(tag,json)=>{
         const value=JSON.parse(json);
-        if(['Article','NewsArticle'].includes(value['@type']))value.image='https://www.ianoticias.org'+newsImage(article);
+        if(['Article','NewsArticle'].includes(value['@type'])){if(image)value.image='https://www.ianoticias.org'+image;else delete value.image;}
         return '<script type="application/ld+json">'+JSON.stringify(value).replace(/</g,'\\u003c')+'</script>';
       });
     }

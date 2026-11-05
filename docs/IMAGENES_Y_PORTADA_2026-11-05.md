@@ -1,6 +1,6 @@
 # Imágenes editoriales y portada interactiva
 
-Se han generado quince ilustraciones editoriales con la herramienta integrada image_gen y se han optimizado en WebP de 1000 píxeles de ancho. Cada una de las quince noticias del muro tiene una imagen asignada expresamente a su asunto. Las páginas del archivo y sus tarjetas reutilizan estas imágenes por temática; las noticias futuras utilizan la misma selección temática hasta recibir una imagen específica.
+Las ilustraciones se generan con la herramienta integrada image_gen y se optimizan en WebP. Cada imagen se asigna a un artículo concreto mediante su identificador. Se ha eliminado la reutilización automática por categoría: las noticias sin una imagen específica revisada se presentan como tarjetas de texto hasta disponer de ella. El muro incluye únicamente artículos con imagen propia asignada.
 
 Los archivos finales están en `assets/news-visuals/`. El conjunto de prompts, la correspondencia entre noticia y recurso y el aviso sobre su naturaleza conceptual están en `tools/editorial/news-visuals.json`. Son ilustraciones conceptuales, no fotografías documentales de los productos anunciados. La selección automática está en `tools/editorial/news-visuals.mjs`.
 

@@ -3,7 +3,7 @@ const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;',
 const date = value => new Intl.DateTimeFormat('es-ES', {day:'numeric',month:'short',year:'numeric',timeZone:'Europe/Madrid'}).format(new Date(value+'T12:00:00Z'));
 
 export function renderMosaic(articles) {
-  const items = articles.filter(a => a.kind !== 'rumor' && a.verification !== 'pending').slice(0, 15);
+  const items = articles.filter(a => a.kind !== 'rumor' && a.verification !== 'pending' && newsImage(a)).slice(0, 15);
   if (!items.length) return '';
   return `<section class="ia-mosaic" id="muro-ia" aria-labelledby="mosaic-title">
     <div class="mosaic-heading"><div><p class="mosaic-kicker">EXPLORA LA ACTUALIDAD</p><h2 id="mosaic-title">La IA, <em>de un vistazo.</em></h2><p>Un muro de ideas, avances y preguntas. Recorre las imágenes y pulsa para leer la noticia.</p></div><div class="mosaic-guide"><span class="mosaic-count">${String(items.length).padStart(2,'0')}</span><span>historias con contexto<br><span class="mosaic-hint">Pasa el ratón para ampliar ↗</span></span></div></div>

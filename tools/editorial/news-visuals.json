@@ -107,6 +107,79 @@
       "src": "/assets/news-visuals/smart-browser.webp",
       "prompt": "An intelligent browser window. A warm orange fox in a sunlit woodland clearing, looking toward a delicate rectangular frame of clear glass standing among ferns, a rich indigo reflection inside the glass, realistic wildlife-inspired editorial photography with a subtle conceptual element, cinematic detail. No logos, mascot styling, letters or symbols.",
       "position": "50% 50%"
+    },
+    {
+      "slug": "rumor-anthropic-cuentas-s1-20261020",
+      "key": "anthropic-finance",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. A finance investigation about large reported accounting losses at an AI company. A documentary-style editorial still life of paper financial reports with columns and a descending red accounting chart, calculator and eyeglasses on a CFO desk. Warm terracotta desk, sober natural morning light, macro paper textures. No readable amounts, no company logo, no spheres, no robots. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/anthropic-finance.webp"
+    },
+    {
+      "slug": "rumor-mia-redaccion-ia-20261020",
+      "key": "mia-newsroom",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. A report about changes in a magazine newsroom and potential AI-assisted journalism. A contemporary magazine newsroom with two empty journalist desks, printed magazine page proofs covered with handwritten editorial marks, an audio recorder, coffee and a desktop monitor showing a non-readable magazine layout. Cinematic daylight, authentic editorial office, warm blue-grey palette. No readable text, no company logos, no robot, no AI orb. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/mia-newsroom.webp"
+    },
+    {
+      "slug": "opera-webai-ia-local-navegador-20261027",
+      "key": "opera-local-browser",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. Web browsers running AI locally without sending work to a cloud server. A close realistic editorial photograph of a thin laptop on a quiet wooden table, a browser window on screen containing a local neural network visualization, and a tiny glowing processor physically beside the keyboard, no cloud, no unrelated floating cubes. Green garden outside, crisp natural daylight. No readable text or logos. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/opera-local-browser.webp"
+    },
+    {
+      "slug": "gemini-robotics-er2-google-cloud-preview-20261027",
+      "key": "gemini-robotics",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. AI reasoning for robotics. A practical industrial dual-arm robotic manipulator delicately sorting differently shaped everyday objects into trays on a clean robotics laboratory workbench. Depth camera, visible grippers and colored wooden blocks, technician only softly blurred in background. Realistic university robotics lab photography, cobalt blue and white, no humanoid face, no readable text or logo. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/gemini-robotics.webp"
+    },
+    {
+      "slug": "replit-cloud-agents-repositorios-equipos-20261027",
+      "key": "replit-team-repositories",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. AI coding agents working on a company's code repositories. A small software team of three adults around a large desktop monitor displaying an abstract non-readable version-control branching graph, laptop and sticky notes on a collaborative office desk. Candid modern developer workplace photograph, burnt orange accent, no logo, no readable words. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/replit-team-repositories.webp"
+    },
+    {
+      "slug": "ant-lingguang-2-agente-personal-persistente-20261027",
+      "key": "lingguang-personal-agent",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. An AI personal assistant retaining context and proactively coordinating everyday tasks. Realistic smartphone standing upright on a home-office desk beside an open daily planner, keys, travel ticket and small calendar, screen shows a clean abstract assistant interface connecting task cards without readable text. Soft teal and warm cream daylight, inviting realistic product editorial photograph. No robot, no sphere, no branding. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/lingguang-personal-agent.webp"
+    },
+    {
+      "slug": "google-embeddinggemma2-multimodal-20261027",
+      "key": "embeddinggemma-multimodal",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. A multimodal AI embedding model bringing text, photos, sound and video into one shared representation. High-end editorial still-life photograph of a camera lens, microphone, filmstrip and a small blank open book carefully arranged around a luminous transparent rectangular crystal on a dark purple tabletop, fine light connections unifying them. Concrete recognizable media objects, no spheres, no readable text, no logos. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/embeddinggemma-multimodal.webp"
+    },
+    {
+      "slug": "amd-eagle31-minimax-mi350x-20261027",
+      "key": "amd-model-training",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. An auxiliary language model trained on AMD MI350X accelerators. Photorealistic macro of a modern datacenter GPU accelerator board with multiple square compute chiplets and dense metallic traces, a rack of red-lit server equipment softly blurred behind it. Cool metal, restrained red accents, technically credible hardware editorial photography. No logos or readable part numbers, no generic spherical object. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/amd-model-training.webp"
+    },
+    {
+      "slug": "ai2-novelty-bench-jueces-ia-20261027",
+      "key": "ai2-science-review",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. Research measuring inconsistency in AI judging scientific novelty. An overhead realistic editorial photograph of a scientist's desk with several research-paper printouts showing non-readable plots, two conflicting red and blue evaluation charts, magnifying glass and pencil, one hand comparing two pages side by side. Pale cream paper with strong blue-red visual contrast, not a financial desk, no readable text or company logo. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/ai2-science-review.webp"
+    },
+    {
+      "slug": "lociart-estilizacion-local-video-20261027",
+      "key": "lociart-video-styles",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. A research method changing the artistic style of selected regions of a video. A premium editorial visualization of a cinematic video-editing screen: the same dancer in three adjacent frames in a continuous sequence, with only the dancer's jacket changing into vivid watercolor brushwork while the realistic surrounding street stays unchanged. Clear visible local mask boundary, richly colored, no readable interface text, no logos. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/lociart-video-styles.webp"
+    },
+    {
+      "slug": "sap-teched-joule-agentes-tabular-20261027",
+      "key": "sap-business-agents",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. Enterprise AI agents and tabular business-data models. A realistic overhead editorial photograph of a modern operations desk with a large widescreen monitor displaying a sophisticated abstract table-based business dashboard with rows, columns and small workflow nodes, a hand moving one task across a touch tablet beside a warehouse floor plan. Navy and light blue corporate palette, no readable words or logos, no generic spheres. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/sap-business-agents.webp"
+    },
+    {
+      "slug": "mejores-herramientas-ia-2026",
+      "key": "ai-tools-guide",
+      "prompt": "Generate ONE distinct landscape 3:2 editorial conceptual photograph for this exact news topic. A curated guide to AI tools for researching, designing, coding, making videos and dictating with your voice. Beautiful overhead flat-lay of a creative workspace with a studio microphone, headphones, open notebook, drawing tablet with stylus and a laptop at the edge showing a non-readable colorful creative interface. Warm honey desk, greenery, bright natural light, no readable text, no logos, no floating AI sphere. High visual quality, strong composition for a news card. This is an editorial illustration, not a documentary representation of the actual company or actual event. No headline, watermark, readable labels or embedded typography.",
+      "src": "/assets/news-visuals/ai-tools-guide.webp"
     }
-  ]
+  ],
+  "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."
 }

@@ -1,0 +1,10 @@
+{
+  "slug": "identificador-exacto-del-articulo",
+  "title": "Titular verificado",
+  "sourceUrl": "https://fuente-primaria.example/anuncio",
+  "visualSubject": "Describe el sujeto concreto del anuncio y por qué lo representa",
+  "prompt": "Ilustración editorial moderna apaisada 3:2, un sujeto concreto ligado al anuncio, sin titulares ni texto incrustado",
+  "avoid": ["esferas de IA genéricas", "logotipos inventados", "cifras falsas", "imagen compartida con otra noticia"],
+  "requestedAt": "FECHA_REAL_ISO",
+  "status": "pending"
+}
