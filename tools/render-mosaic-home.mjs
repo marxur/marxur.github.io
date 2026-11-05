@@ -13,7 +13,7 @@ else {
   if (!html.includes(anchor)) throw new Error('Homepage insertion point not found');
   html = html.replace(anchor, '</div>'+mosaic+'<div class="wrap"><section class="news-briefing"');
 }
-if (!html.includes('href="/mosaico.css"')) html = html.replace('</head>', '<link rel="stylesheet" href="/mosaico.css"><script defer src="/mosaico.js"></script></head>');
+if (!html.includes('href="/mosaico.css?v=20261105-2"')) html = html.replace('</head>', '<link rel="stylesheet" href="/mosaico.css?v=20261105-2"><script defer src="/mosaico.js?v=20261105-2"></script></head>');
 if (!html.includes('class="mosaic-entry"')) html = html.replace('Actualidad, herramientas y contexto en español.</p>', 'Actualidad, herramientas y contexto en español.</p><a class="mosaic-entry" href="#muro-ia">Explorar el muro visual <span aria-hidden="true">↗</span></a>');
 fs.writeFileSync('index.html', html);
 console.log('Homepage rebuilt; article data and review date preserved.');

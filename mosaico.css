@@ -25,3 +25,43 @@
 @media(max-width:760px){.ia-mosaic{padding:36px 22px 24px;margin-top:32px}.mosaic-wall{columns:3;column-gap:10px}.mosaic-tile{margin-bottom:10px}.mosaic-heading{margin-bottom:24px}.mosaic-heading h2{font-size:42px}.mosaic-tile-caption h3{font-size:16px}.mosaic-dialog[open]{grid-template-columns:1fr}.mosaic-detail-art{min-height:0;height:220px}.mosaic-detail-copy{padding:26px}.mosaic-detail-art img{object-position:center 42%}.mosaic-keyboard-hint{display:none}}
 @media(max-width:520px){.ia-mosaic{padding-left:16px;padding-right:16px}.mosaic-wall{columns:2}.mosaic-open{min-height:220px}.mosaic-shape-1 .mosaic-open{min-height:270px}.mosaic-shape-3 .mosaic-open{min-height:250px}.mosaic-tile-caption{padding:24px 10px 13px}.mosaic-tile-caption h3{font-size:16px}.mosaic-tile-top{padding:9px 8px;font-size:8px}.mosaic-heading h2{font-size:36px}.mosaic-foot{flex-direction:column;gap:12px}.mosaic-dialog{width:calc(100% - 24px);max-height:calc(100dvh - 32px)}.mosaic-detail-copy h2{font-size:28px}}
 @media(prefers-reduced-motion:reduce){.mosaic-dialog[open]{animation:none}.mosaic-tile,.mosaic-open>img{transition:none}.mosaic-tile:hover,.mosaic-tile:focus-within{transform:none}}
+
+/* Pictures rise from the wall; only transforms and opacity move per frame. */
+html:has(.ia-mosaic){scrollbar-gutter:stable}
+.mosaic-open>img{filter:none;transition:transform .65s cubic-bezier(.22,1,.36,1)}
+.mosaic-open:hover>img,.mosaic-open:focus-visible>img{filter:none}
+.mosaic-tile-top>span:first-child{backdrop-filter:none}
+.mosaic-dialog[open]{animation:none;overflow:visible;background:transparent;border-color:transparent;box-shadow:none}
+.mosaic-dialog::before{content:"";position:absolute;inset:0;z-index:-1;border:1px solid #ffffff30;border-radius:6px;background:#111b29;box-shadow:0 24px 80px #0007;opacity:1;transition:opacity .28s ease}
+.mosaic-dialog::backdrop{backdrop-filter:none;background:#050b15c7;transition:background .35s ease}
+@starting-style{.mosaic-dialog::backdrop{background:#050b1500}}
+.mosaic-detail-art{border-radius:5px 0 0 5px}
+.mosaic-dialog[data-phase="closing"]::before,.mosaic-dialog[data-phase="opening"]::before{opacity:0}
+.mosaic-dialog[data-phase="closing"]::backdrop{background:#050b1500}
+.mosaic-dialog[data-phase="closing"] .mosaic-detail-copy,.mosaic-dialog[data-phase="closing"] .mosaic-close{opacity:0;transition:opacity .14s ease}
+.mosaic-dialog.mosaic-in-flight .mosaic-detail-art{visibility:hidden}
+.mosaic-flight{position:fixed;z-index:5;display:block;max-width:none;object-fit:cover;object-position:65% center;transform-origin:0 0;pointer-events:none;will-change:transform}
+@media(min-width:761px){
+ .ia-mosaic{padding-top:48px;padding-bottom:24px}
+ .mosaic-heading{margin-bottom:24px}.mosaic-heading h2{font-size:clamp(38px,4.5vw,62px)}
+ .mosaic-wall{display:grid;columns:unset;grid-template-columns:repeat(12,minmax(0,1fr));grid-template-rows:repeat(6,75px);gap:12px;padding:16px 10px 22px;margin:0 -10px;will-change:transform}
+ .mosaic-tile{margin:0;break-inside:auto;overflow:visible;transition:transform .48s cubic-bezier(.22,1,.36,1),opacity .35s ease,border-color .3s ease;box-shadow:none;transform-origin:center}
+ .mosaic-tile:nth-child(1){grid-area:1/1/3/3}.mosaic-tile:nth-child(2){grid-area:1/3/3/6}.mosaic-tile:nth-child(3){grid-area:1/6/2/8}.mosaic-tile:nth-child(4){grid-area:1/8/3/11}.mosaic-tile:nth-child(5){grid-area:1/11/3/13}
+ .mosaic-tile:nth-child(6){grid-area:3/1/5/4}.mosaic-tile:nth-child(7){grid-area:3/4/5/6}.mosaic-tile:nth-child(8){grid-area:2/6/4/8}.mosaic-tile:nth-child(9){grid-area:3/8/5/10}.mosaic-tile:nth-child(10){grid-area:3/10/5/13}
+ .mosaic-tile:nth-child(11){grid-area:5/1/7/3}.mosaic-tile:nth-child(12){grid-area:5/3/7/6}.mosaic-tile:nth-child(13){grid-area:4/6/7/8}.mosaic-tile:nth-child(14){grid-area:5/8/7/11}.mosaic-tile:nth-child(15){grid-area:5/11/7/13}
+ .mosaic-open,.mosaic-tile[class*="mosaic-shape-"] .mosaic-open{min-height:0;height:100%;border-radius:3px}
+ .mosaic-tile-top{opacity:0;transition:opacity .25s;padding:9px}.mosaic-tile-caption{padding:10px;opacity:0;transform:translate3d(0,6px,0);transition:opacity .25s,transform .4s cubic-bezier(.22,1,.36,1)}
+ .mosaic-tile-caption h3{font-size:14px;line-height:1.2;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}.mosaic-date{font-size:8px;margin-bottom:5px}
+ .mosaic-tile:nth-child(3) .mosaic-date{display:none}.mosaic-tile:nth-child(3) .mosaic-tile-caption h3{-webkit-line-clamp:2}
+ .mosaic-open:after{background:linear-gradient(180deg,#0a121e15 10%,#0a121e00 45%,#0a121ecc 100%);opacity:.2;transition:opacity .3s}
+ .mosaic-tile:hover,.mosaic-tile:focus-within,.mosaic-tile.mosaic-return-target{z-index:4;transform:translate3d(0,-3px,0) scale(1.22);box-shadow:none;border-color:#e3bb7699}
+ .mosaic-tile:nth-child(5n+1){transform-origin:left center}.mosaic-tile:nth-child(5),.mosaic-tile:nth-child(10),.mosaic-tile:nth-child(15){transform-origin:right center}
+ .mosaic-tile:hover .mosaic-tile-top,.mosaic-tile:focus-within .mosaic-tile-top,.mosaic-tile:hover .mosaic-tile-caption,.mosaic-tile:focus-within .mosaic-tile-caption{opacity:1;transform:none}
+ .mosaic-tile:hover .mosaic-open:after,.mosaic-tile:focus-within .mosaic-open:after{opacity:1}.mosaic-open:hover>img,.mosaic-open:focus-visible>img{transform:scale(1.025);filter:none}
+ .ia-mosaic:not(.mosaic-engaged) .mosaic-wall:has(.mosaic-open:hover) .mosaic-tile:not(:hover){opacity:.65}
+ .mosaic-engaged .mosaic-tile{transition:none}
+}
+@media(min-width:761px) and (max-width:1000px){.mosaic-wall{grid-template-rows:repeat(6,85px);gap:9px}.mosaic-tile-caption h3{font-size:13px}.mosaic-tile:hover,.mosaic-tile:focus-within,.mosaic-tile.mosaic-return-target{transform:scale(1.16)}}
+@media(max-width:760px){.mosaic-dialog[open]{overflow:auto;overscroll-behavior:contain}.mosaic-detail-art{border-radius:5px 5px 0 0}.mosaic-wall{will-change:auto}.mosaic-flight{object-position:center 42%}}
+@media(prefers-reduced-motion:reduce){.mosaic-tile,.mosaic-tile-caption,.mosaic-tile-top,.mosaic-open:after,.mosaic-dialog::before,.mosaic-dialog::backdrop{transition:none!important}.mosaic-tile:hover,.mosaic-tile:focus-within,.mosaic-open:hover>img,.mosaic-open:focus-visible>img{transform:none!important}}
+@media(min-width:761px) and (hover:none){.mosaic-tile-top,.mosaic-tile-caption{opacity:1;transform:none}.mosaic-open:after{opacity:1}}
