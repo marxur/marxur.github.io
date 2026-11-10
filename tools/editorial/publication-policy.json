@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:21:09.123Z",
+  "updatedAt": "2026-11-10T14:37:05.9110369Z",
   "authorizedBy": "Marcos Valencia",
   "authorizationDate": "2026-10-27",
   "destination": "https://www.ianoticias.org",
@@ -7,8 +7,8 @@
   "branch": "main",
   "dailyPublicationAuthorized": true,
   "timezone": "Europe/Madrid",
-  "scheduledReview": "21:15",
-  "automationId": "schedule-d122aec3-e76a-4ead-8c12-e89fb465ff02",
+  "scheduledReview": "21:45",
+  "automationId": "noticias-ia-im-genes-y-publicaci-n",
   "legacyAutomationReference": "Automation_b6f01cb0a3c08191aa78ee91dcce584f",
   "ordinaryArticlesRequireNinoApproval": false,
   "ordinaryArticlesRequirePriorSocialPublication": false,
@@ -21,12 +21,9 @@
   "socialPostingAuthorizedByThisTask": false,
   "preserveExistingContent": true,
   "maintenance": {
-    "editor": "DeepSeek Harness",
-    "editorScheduleId": "schedule-d122aec3-e76a-4ead-8c12-e89fb465ff02",
-    "editorTime": "21:15",
-    "publicationBridge": "Codex",
-    "publicationAutomationId": "noticias-ia-im-genes-y-publicaci-n",
-    "publicationTime": "21:45",
+    "editor": "Codex",
+    "editorScheduleId": "noticias-ia-im-genes-y-publicaci-n",
+    "editorTime": "21:45",
     "timezone": "Europe/Madrid",
     "imagePolicy": "Exact article-specific assignment; no category fallback",
     "localHostsRequired": true

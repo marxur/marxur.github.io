@@ -1,7 +1,263 @@
 {
-  "edition": "2026-11-05T17:21:09.123Z",
-  "reviewedAt": "2026-11-05T17:21:09.123Z",
+  "edition": "2026-11-10T14:40:02.215Z",
+  "reviewedAt": "2026-11-10T14:40:02.215Z",
   "articles": [
+    {
+      "slug": "google-gemini-omni12-flash-20261105",
+      "dedup_key": "google:gemini-omni:1.2-flash",
+      "title": "Google Vids incorpora Gemini Omni 1.2 Flash y amplía los clips a 15 segundos",
+      "summary": "Google anunció hasta tres clips mensuales sin coste para usuarios con cuenta de Google o Workspace en su herramienta de vídeo.",
+      "body": [
+        "Google anunció el 5 de noviembre que Vids pasa a usar Omni 1.2 Flash para generar clips de hasta 15 segundos. La modalidad sin coste contempla hasta tres clips al mes.",
+        "La herramienta admite imágenes de referencia para generar vídeo. Google también anuncia mejoras en la narración y en la continuidad visual entre fotogramas.",
+        "La incorporación permite probar planos más largos dentro de Vids, por ejemplo para una demostración de producto o una explicación breve."
+      ],
+      "sections": [],
+      "takeaway": "La novedad amplía el margen para generar un plano completo dentro de Vids.",
+      "caveat": "El cupo descrito corresponde a Vids. La disponibilidad y la facturación de la API se rigen por condiciones separadas.",
+      "source": "Google",
+      "sourceTitle": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+          "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/"
+        }
+      ],
+      "company": "Google",
+      "category": "Herramientas",
+      "topic": "Vídeo",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-10T14:40:02.215Z",
+      "modifiedAt": "2026-11-10T14:40:02.215Z",
+      "detectedAt": "2026-11-10",
+      "dateBasis": "source",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Google",
+        "Vídeo"
+      ]
+    },
+    {
+      "slug": "deepmind-rsa1024-agents-two-working-papers-20261106",
+      "dedup_key": "deepmind-rsa1024-agents-two-working-papers-20261106",
+      "title": "DeepMind presenta investigación con agentes sobre RSA de 1024 bits",
+      "summary": "Dos documentos de trabajo estudian problemas distintos, el cálculo de firmas en condiciones específicas y el coste teórico de factorizar varios números.",
+      "body": [
+        "Google DeepMind comunicó el 6 de noviembre dos trabajos sobre RSA de 1024 bits realizados con agentes de IA y supervisión humana.",
+        "Uno estudia el cálculo de firmas bajo condiciones específicas. El otro analiza cuánto trabajo puede reutilizarse al factorizar varios números del mismo tamaño, una vez hecho un precálculo.",
+        "El segundo trabajo presenta una estimación teórica basada en las hipótesis habituales de su método. Los autores circunscriben sus conclusiones a los escenarios estudiados."
+      ],
+      "sections": [],
+      "takeaway": "Conviene distinguir los resultados sobre firmas de las estimaciones de coste para factorización por lotes.",
+      "caveat": "Los autores del trabajo sobre factorización indican que su resultado no amenaza los sistemas desplegados que usan RSA de 2048 bits o más.",
+      "source": "Google DeepMind",
+      "sourceTitle": "Google DeepMind presenta sus investigaciones sobre RSA de 1024 bits",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "title": "Google DeepMind presenta sus investigaciones sobre RSA de 1024 bits",
+          "url": "https://x.com/GoogleDeepMind/status/2118755418675765656"
+        },
+        {
+          "name": "Autores del documento",
+          "title": "Fan Factories: Multiple Number Fields in Factorization Factories and Batch NFS",
+          "url": "https://storage.googleapis.com/deepmind-media/papers/Fan_Factories_Multiple_Number_Fields_in_Factorization_Factories_and_Batch_NFS.pdf"
+        }
+      ],
+      "company": "Google DeepMind",
+      "category": "Análisis",
+      "topic": "Seguridad",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-10T14:40:02.215Z",
+      "modifiedAt": "2026-11-10T14:40:02.215Z",
+      "detectedAt": "2026-11-10",
+      "dateBasis": "source",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Google DeepMind",
+        "Seguridad"
+      ]
+    },
+    {
+      "slug": "robbyant-lingbot-touch-arxiv-2611-12806",
+      "dedup_key": "robbyant-lingbot-touch-arxiv-2611-12806",
+      "title": "LingBot-Touch propone un lenguaje común para el tacto de los robots",
+      "summary": "El modelo convierte señales de tres tipos de sensores táctiles en una representación compartida que distintas políticas robóticas pueden utilizar.",
+      "body": [
+        "Una prepublicación del 9 de noviembre presenta LingBot-Touch, un modelo para aprovechar datos de tacto captados con sensores piezorresistivos, magnéticos y visuotáctiles.",
+        "Los autores integran la representación resultante en políticas de difusión y en modelos que combinan visión, lenguaje y acción. Documentan pruebas en simulación y con varios robots físicos.",
+        "Una representación compartida puede facilitar que un equipo aproveche datos de distintos sensores sin rehacer todo el procesamiento para cada plataforma."
+      ],
+      "sections": [],
+      "takeaway": "El trabajo ofrece un punto de partida para medir la transferencia entre sensores y tareas de manipulación.",
+      "caveat": "Los resultados proceden de los autores de una prepublicación. La transferencia requiere comprobarse en cada combinación de robot, sensor y tarea.",
+      "source": "Bing Han y colaboradores",
+      "sourceTitle": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "sourceUrl": "https://arxiv.org/abs/2611.12806",
+      "sources": [
+        {
+          "name": "Bing Han y colaboradores",
+          "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+          "url": "https://arxiv.org/abs/2611.12806"
+        },
+        {
+          "name": "Robbyant",
+          "title": "Código de LingBot-Touch",
+          "url": "https://github.com/Robbyant/lingbot-touch"
+        }
+      ],
+      "company": "Bing Han y colaboradores",
+      "category": "Modelos",
+      "topic": "Robótica",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-10T14:40:02.215Z",
+      "modifiedAt": "2026-11-10T14:40:02.215Z",
+      "detectedAt": "2026-11-10",
+      "dateBasis": "source",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Bing Han y colaboradores",
+        "Robótica"
+      ]
+    },
+    {
+      "slug": "google-tpu-8tx-8i-max-20261109",
+      "dedup_key": "google-tpu-8tx-8i-max-20261109",
+      "title": "Google presenta dos sistemas TPU para inferencia confidencial y contextos largos",
+      "summary": "TPU 8tx protege datos en uso por hardware. TPU 8i Max reúne dos chips en un encapsulado para aumentar el ancho de banda de memoria.",
+      "body": [
+        "Google amplió el 9 de noviembre su octava generación de TPU con dos configuraciones de cómputo. Cada una está diseñada para resolver un cuello de botella distinto.",
+        "TPU 8tx combina el silicio de TPU 8t con procesadores anfitriones AMD EPYC. Google indica que su diseño permite aislar datos y pesos de modelos mientras se procesan.",
+        "TPU 8i Max reúne dos chips 8i y, según Google, duplica el cómputo, la memoria SRAM y el ancho de banda HBM respecto a TPU 8i. El objetivo son cargas que mantienen contextos extensos."
+      ],
+      "sections": [],
+      "takeaway": "Los nuevos sistemas permiten separar los requisitos de aislamiento de los de memoria al planificar un despliegue.",
+      "caveat": "Las comparativas son del fabricante. El anuncio no confirma fechas de acceso en todas las regiones.",
+      "source": "Google",
+      "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+        }
+      ],
+      "company": "Google",
+      "category": "Herramientas",
+      "topic": "Infraestructura",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-10T14:40:02.215Z",
+      "modifiedAt": "2026-11-10T14:40:02.215Z",
+      "detectedAt": "2026-11-10",
+      "dateBasis": "source",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Google",
+        "Infraestructura"
+      ]
+    },
+    {
+      "slug": "anthropic-claude-fable-mythos-52-20261109",
+      "dedup_key": "anthropic-claude-fable-mythos-52-20261109",
+      "title": "Anthropic lanza Claude Fable 5.2 y reserva Mythos 5.2 para acceso verificado",
+      "summary": "Ambas variantes comparten un modelo base. Fable está disponible con salvaguardas específicas y Mythos requiere acceso a los programas de verificación de Anthropic.",
+      "body": [
+        "Anthropic actualizó el 9 de noviembre sus dos variantes para tareas técnicas complejas. La empresa comunica mejoras en programación, razonamiento y visión respecto a versiones anteriores.",
+        "Fable 5.2 incorpora salvaguardas adicionales para ciberseguridad y biología. Mythos 5.2 puede solicitarse a través de los programas de verificación para organizaciones que trabajen en esas áreas.",
+        "La actualización incorpora un modo rápido opcional con tarifa separada. La disponibilidad de ese modo depende de la plataforma y del tipo de acceso."
+      ],
+      "sections": [],
+      "takeaway": "La variante y el modo de ejecución condicionan qué tareas pueden probar los equipos.",
+      "caveat": "Las mejoras comunicadas por Anthropic proceden de sus propias pruebas y dependen de la tarea y del modo utilizado.",
+      "source": "Anthropic",
+      "sourceTitle": "Claude Fable 5.2 and Mythos 5.2",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ],
+      "company": "Anthropic",
+      "category": "Modelos",
+      "topic": "Claude",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-10T14:40:02.215Z",
+      "modifiedAt": "2026-11-10T14:40:02.215Z",
+      "detectedAt": "2026-11-10",
+      "dateBasis": "source",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "slug": "openai-emea-education-guidance-report-20261110",
+      "dedup_key": "openai-emea-education-guidance-report-20261110",
+      "title": "OpenAI publica un balance sobre cómo enseñar a usar la IA en las aulas",
+      "summary": "El informe reúne experiencias de Estonia, Grecia y Eslovaquia y propone medir la retención y el razonamiento autónomo, además de la adopción.",
+      "body": [
+        "OpenAI ha reunido las primeras observaciones de sus colaboraciones educativas en Europa, Oriente Medio y África. Los ejemplos de Estonia, Grecia y Eslovaquia muestran distintas formas de formar al profesorado y ajustar los recursos al currículo.",
+        "El informe distingue entre usar IA en tareas escolares y recibir orientación para hacerlo. Propone combinar objetivos pedagógicos, formación docente, colaboración local y evaluación.",
+        "La adopción y el ahorro de tiempo declarado sirven para evaluar la implantación. Medir qué recuerdan los alumnos o cómo razonan sin ayuda requiere otras pruebas."
+      ],
+      "sections": [],
+      "takeaway": "El informe ofrece criterios para evaluar programas de IA en educación.",
+      "caveat": "El documento recoge experiencias iniciales de programas en los que participa OpenAI y no establece efectos causales sobre el aprendizaje.",
+      "source": "OpenAI",
+      "sourceTitle": "Closing the AI guidance gap in education",
+      "sourceUrl": "https://openai.com/index/closing-ai-guidance-gap-education/",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education/"
+        }
+      ],
+      "company": "OpenAI",
+      "category": "Análisis",
+      "topic": "Educación",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T14:40:02.215Z",
+      "modifiedAt": "2026-11-10T14:40:02.215Z",
+      "detectedAt": "2026-11-10",
+      "dateBasis": "source",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "OpenAI",
+        "Educación"
+      ]
+    },
     {
       "sections": [],
       "kind": "news",
@@ -6607,6 +6863,32 @@
   ],
   "xPosts": [
     {
+      "name": "Nuance Labs",
+      "handle": "@nuance_ai",
+      "title": "Nuance Labs presenta a Emma, un personaje de IA audiovisual",
+      "summary": "La cuenta muestra a su primer personaje de conversación con voz y expresión facial. La evaluación citada en el anuncio es del propio equipo.",
+      "url": "https://x.com/nuance_ai/status/2119961538928996839",
+      "type": "Anuncio",
+      "sourceUrl": "https://x.com/nuance_ai/status/2119961538928996839",
+      "date": "2026-11-10",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-10T14:36:30.162Z",
+      "access": "Cuenta, contenido y fecha comprobados con el oEmbed oficial de X."
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "title": "Google DeepMind difunde sus trabajos sobre RSA de 1024 bits",
+      "summary": "El equipo explica cómo usó agentes supervisados por investigadores para estudiar dos escenarios de criptoanálisis.",
+      "url": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+      "type": "Anuncio",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+      "date": "2026-11-06",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-10T14:36:29.718Z",
+      "access": "Cuenta, contenido y fecha comprobados con el oEmbed oficial de X."
+    },
+    {
       "name": "OpenAI",
       "handle": "@OpenAI",
       "title": "OpenAI anuncia ChatGPT Images 2.6 con GIFs e imágenes de referencia",
@@ -6886,6 +7168,12 @@
     }
   ],
   "selectedSlugs": [
+    "openai-emea-education-guidance-report-20261110",
+    "anthropic-claude-fable-mythos-52-20261109",
+    "google-tpu-8tx-8i-max-20261109",
+    "robbyant-lingbot-touch-arxiv-2611-12806",
+    "deepmind-rsa1024-agents-two-working-papers-20261106",
+    "google-gemini-omni12-flash-20261105",
     "anthropic-claude-ip-allowlist-20261105",
     "google-gemini4-carbon-acceso-limitado-20261028",
     "mistral-large4-pesos-abiertos-20261029",
@@ -7099,7 +7387,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-05T17:21:09.123Z",
-    "coverage": "Revisión parcial: una publicación reciente de OpenAI comprobada mediante el servicio oficial oEmbed de X. Se conservan las selecciones anteriores con sus fechas; no se han revisado cronologías completas."
+    "checkedAt": "2026-11-10T14:36:30.162Z",
+    "coverage": "Cobertura parcial. Se verificaron dos publicaciones originales mediante el oEmbed oficial de X. Las entradas anteriores conservan su fecha."
   }
 }

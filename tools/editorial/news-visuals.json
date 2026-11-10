@@ -186,6 +186,54 @@
       "src": "/assets/news-visuals/claude-ip-allowlist.webp",
       "prompt": "Generate one landscape 3:2 premium editorial conceptual photograph for the exact news: Claude Console adds organization IP allowlists in beta, restricting API requests to approved network addresses. Show a precision miniature server enclosure protected by a thin transparent rectangular security gate on a real dark circuit-board surface. Two luminous green network paths pass through distinct approved gateways; several coral-red light paths stop clearly at the perimeter. Recognizable network access control, elegant cobalt and violet light, realistic brushed metal and glass, crisp high-end magazine composition, central safe crop. No generic AI spheres, no robot, no words, IP numbers, logos, readable labels or headlines. This is a conceptual illustration, not a documentary photo of an actual Anthropic product.",
       "position": "50% 50%"
+    },
+    {
+      "key": "edition-20261110-fable",
+      "slug": "anthropic-claude-fable-mythos-52-20261109",
+      "prompt": "A contemporary high-end editorial still life: a pale peach synthetic neural mesh rendered as one shared trunk that branches into two clearly distinct translucent optical gates, one open to a wide lit corridor, the other guarded by a precise shutter. Coral, parchment and oxblood. Visual metaphor for two access configurations of the same AI model. Wide 3:2 composition with subject centered for responsive crops. Modern magazine cover image, credible concept illustration, no labels, no letters, no typography, no brand logos or watermarks.",
+      "src": "/assets/news-visuals/edition-20261110-fable.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261110-tpu",
+      "slug": "google-tpu-8tx-8i-max-20261109",
+      "prompt": "Photoreal editorial hardware concept: top-down macro of two distinct silicon accelerator packages on a graphite rack tray, one under a sealed brushed-steel shield and one showing twin violet dies encircled by square high bandwidth memory stacks. Cool indigo light, technical detail, composed like a modern design magazine. Wide 3:2 composition with subject centered for responsive crops. Modern magazine cover image, credible concept illustration, no labels, no letters, no typography, no brand logos or watermarks.",
+      "src": "/assets/news-visuals/edition-20261110-tpu.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261110-touch",
+      "slug": "robbyant-lingbot-touch-arxiv-2611-12806",
+      "prompt": "Documentary-style editorial concept of a dexterous matte white laboratory robot gripper with three visibly different tactile pads gently holding a small translucent green ribbed object, real lab workbench, deep jade and ivory, tactile texture, close-up diagonal composition. Wide 3:2 composition with subject centered for responsive crops. Modern magazine cover image, credible concept illustration, no labels, no letters, no typography, no brand logos or watermarks.",
+      "src": "/assets/news-visuals/edition-20261110-touch.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261110-rsa",
+      "slug": "deepmind-rsa1024-agents-two-working-papers-20261106",
+      "prompt": "Editorial conceptual macro still life: an antique brass lock cylinder opened on a clean bench, precisely machined pins, fine graphite lattice engraved onto dark slate underneath, hand-held magnifier picking out one alignment, contrast of aged gold and quiet burgundy. Metaphor for specialized cryptanalysis research. Wide 3:2 composition with subject centered for responsive crops. Modern magazine cover image, credible concept illustration, no labels, no letters, no typography, no brand logos or watermarks.",
+      "src": "/assets/news-visuals/edition-20261110-rsa.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261110-video",
+      "slug": "google-gemini-omni12-flash-20261105",
+      "prompt": "Modern cinematic editorial photograph for a generative video model: three separate thin film frames physically suspended in a dark studio, each catches a different phase of the same cobalt fabric unfurling around a dancer's silhouette; tungsten sidelight, cyan and midnight blue, crisp analog texture. No graphic timeline or text. Wide 3:2 composition with subject centered for responsive crops. Modern magazine cover image, credible concept illustration, no labels, no letters, no typography, no brand logos or watermarks.",
+      "src": "/assets/news-visuals/edition-20261110-video.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261110-school",
+      "slug": "openai-emea-education-guidance-report-20261110",
+      "prompt": "Contemporary editorial photograph style for an article about teaching students to use AI critically. In a sunny European classroom, a teacher at a shared table points to a paper diagram with three teenage learners, an open unbranded laptop off to one side with its screen out of view. Natural candid posture, lilac notebooks, daylight, soft green backdrop, subtle film grain, wide landscape 3:2 composition suitable for a magazine image, no text or logos. Fictional conceptual illustration.",
+      "src": "/assets/news-visuals/edition-20261110-school.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

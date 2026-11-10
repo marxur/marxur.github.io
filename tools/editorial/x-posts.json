@@ -1,5 +1,31 @@
 [
   {
+    "name": "Nuance Labs",
+    "handle": "@nuance_ai",
+    "title": "Nuance Labs presenta a Emma, un personaje de IA audiovisual",
+    "summary": "La cuenta muestra a su primer personaje de conversación con voz y expresión facial. La evaluación citada en el anuncio es del propio equipo.",
+    "url": "https://x.com/nuance_ai/status/2119961538928996839",
+    "type": "Anuncio",
+    "sourceUrl": "https://x.com/nuance_ai/status/2119961538928996839",
+    "date": "2026-11-10",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-10T14:36:30.162Z",
+    "access": "Cuenta, contenido y fecha comprobados con el oEmbed oficial de X."
+  },
+  {
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "title": "Google DeepMind difunde sus trabajos sobre RSA de 1024 bits",
+    "summary": "El equipo explica cómo usó agentes supervisados por investigadores para estudiar dos escenarios de criptoanálisis.",
+    "url": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+    "type": "Anuncio",
+    "sourceUrl": "https://x.com/GoogleDeepMind/status/2118755418675765656",
+    "date": "2026-11-06",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-10T14:36:29.718Z",
+    "access": "Cuenta, contenido y fecha comprobados con el oEmbed oficial de X."
+  },
+  {
     "name": "OpenAI",
     "handle": "@OpenAI",
     "title": "OpenAI anuncia ChatGPT Images 2.6 con GIFs e imágenes de referencia",

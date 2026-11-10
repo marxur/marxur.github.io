@@ -1,6 +1,72 @@
 {
-  "generated": "2026-11-05T17:21:09.123Z",
+  "generated": "2026-11-10T14:40:02.215Z",
   "items": [
+    {
+      "title": "Google Vids incorpora Gemini Omni 1.2 Flash y amplía los clips a 15 segundos",
+      "summary": "Google anunció hasta tres clips mensuales sin coste para usuarios con cuenta de Google o Workspace en su herramienta de vídeo.",
+      "url": "/noticias/google-gemini-omni12-flash-20261105.html",
+      "category": "Herramientas",
+      "topic": "Vídeo",
+      "date": "2026-11-05",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-gemini-omni12-flash-20261105"
+    },
+    {
+      "title": "DeepMind presenta investigación con agentes sobre RSA de 1024 bits",
+      "summary": "Dos documentos de trabajo estudian problemas distintos, el cálculo de firmas en condiciones específicas y el coste teórico de factorizar varios números.",
+      "url": "/noticias/deepmind-rsa1024-agents-two-working-papers-20261106.html",
+      "category": "Análisis",
+      "topic": "Seguridad",
+      "date": "2026-11-06",
+      "type": "noticia",
+      "source": "Google DeepMind",
+      "slug": "deepmind-rsa1024-agents-two-working-papers-20261106"
+    },
+    {
+      "title": "LingBot-Touch propone un lenguaje común para el tacto de los robots",
+      "summary": "El modelo convierte señales de tres tipos de sensores táctiles en una representación compartida que distintas políticas robóticas pueden utilizar.",
+      "url": "/noticias/robbyant-lingbot-touch-arxiv-2611-12806.html",
+      "category": "Modelos",
+      "topic": "Robótica",
+      "date": "2026-11-09",
+      "type": "noticia",
+      "source": "Bing Han y colaboradores",
+      "slug": "robbyant-lingbot-touch-arxiv-2611-12806"
+    },
+    {
+      "title": "Google presenta dos sistemas TPU para inferencia confidencial y contextos largos",
+      "summary": "TPU 8tx protege datos en uso por hardware. TPU 8i Max reúne dos chips en un encapsulado para aumentar el ancho de banda de memoria.",
+      "url": "/noticias/google-tpu-8tx-8i-max-20261109.html",
+      "category": "Herramientas",
+      "topic": "Infraestructura",
+      "date": "2026-11-09",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-tpu-8tx-8i-max-20261109"
+    },
+    {
+      "title": "Anthropic lanza Claude Fable 5.2 y reserva Mythos 5.2 para acceso verificado",
+      "summary": "Ambas variantes comparten un modelo base. Fable está disponible con salvaguardas específicas y Mythos requiere acceso a los programas de verificación de Anthropic.",
+      "url": "/noticias/anthropic-claude-fable-mythos-52-20261109.html",
+      "category": "Modelos",
+      "topic": "Claude",
+      "date": "2026-11-09",
+      "type": "noticia",
+      "source": "Anthropic",
+      "slug": "anthropic-claude-fable-mythos-52-20261109"
+    },
+    {
+      "title": "OpenAI publica un balance sobre cómo enseñar a usar la IA en las aulas",
+      "summary": "El informe reúne experiencias de Estonia, Grecia y Eslovaquia y propone medir la retención y el razonamiento autónomo, además de la adopción.",
+      "url": "/noticias/openai-emea-education-guidance-report-20261110.html",
+      "category": "Análisis",
+      "topic": "Educación",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-emea-education-guidance-report-20261110"
+    },
     {
       "title": "Claude Console estrena listas de IP para limitar el acceso a su API",
       "summary": "La función, en beta, permite restringir las peticiones a los servicios cubiertos a direcciones de red autorizadas por cada organización.",
