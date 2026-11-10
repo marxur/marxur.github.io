@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-10T14:40:02.215Z",
+  "generated": "2026-11-10T20:51:50.621Z",
   "items": [
+    {
+      "title": "OpenAI y Upwork estudian cómo se reconfiguran los encargos freelance con la IA",
+      "summary": "El estudio compara usos de ChatGPT con encargos en Upwork y observa que los proyectos relacionados con IA reúnen más tipos de trabajo.",
+      "url": "/noticias/openai-upwork-freelance-work-frontier-20261110.html",
+      "category": "Análisis",
+      "topic": "Trabajo",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "OpenAI y Upwork",
+      "slug": "openai-upwork-freelance-work-frontier-20261110"
+    },
+    {
+      "title": "AWS abre una API de búsqueda web para aplicaciones y agentes",
+      "summary": "InvokeWebSearch permite consultar el índice web de Amazon desde código, con filtros por dominio y fecha de publicación.",
+      "url": "/noticias/aws-bedrock-agentcore-invokewebsearch-ga-20261110.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "AWS",
+      "slug": "aws-bedrock-agentcore-invokewebsearch-ga-20261110"
+    },
+    {
+      "title": "DeepMind usa agentes de IA para verificar propiedades del código criptográfico de Signal",
+      "summary": "AlphaProof Code traduce objetivos de seguridad a especificaciones revisadas por especialistas y genera demostraciones que comprueba Lean.",
+      "url": "/noticias/deepmind-alphaproof-code-signal-20261110.html",
+      "category": "Análisis",
+      "topic": "Seguridad",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "Google DeepMind",
+      "slug": "deepmind-alphaproof-code-signal-20261110"
+    },
     {
       "title": "Google Vids incorpora Gemini Omni 1.2 Flash y amplía los clips a 15 segundos",
       "summary": "Google anunció hasta tres clips mensuales sin coste para usuarios con cuenta de Google o Workspace en su herramienta de vídeo.",

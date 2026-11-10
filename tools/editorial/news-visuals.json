@@ -234,6 +234,30 @@
       "src": "/assets/news-visuals/edition-20261110-school.webp",
       "position": "50% 50%",
       "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "night-20261110-signal",
+      "slug": "deepmind-alphaproof-code-signal-20261110",
+      "prompt": "Conceptual editorial photograph of formal verification of an encrypted messaging protocol: a modern unbranded smartphone with two simple translucent message bubbles hovering above, next to three precision-cut glass plates etched with tiny non-letter geometric proof diagrams that align exactly with a green laser through the center. Matte ultramarine backdrop and warm citrus highlights, cinematic high-end editorial product photography, no logos, no text, no padlocks. Wide horizontal 3:2 with crop-safe centered subject.",
+      "src": "/assets/news-visuals/night-20261110-signal.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "night-20261110-aws",
+      "slug": "aws-bedrock-agentcore-invokewebsearch-ga-20261110",
+      "prompt": "Contemporary editorial macro still life of a web-search API delivering ranked sources to an agent: a precision optical sorter directing pale amber fibre-optic filaments into ordered rows of thin translucent document cards, selected cards clearly in focus, cool deep teal with white paper and amber, realistic materials, graphic clarity, cinematic 3:2 landscape, no typography, no labels, no logos.",
+      "src": "/assets/news-visuals/night-20261110-aws.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "night-20261110-freelance",
+      "slug": "openai-upwork-freelance-work-frontier-20261110",
+      "prompt": "Contemporary candid editorial scene about changing freelance work: an independent motion designer working at a sunlit shared studio table with a compact video camera, a sculptural color swatch, rough nonverbal storyboard cards and an unbranded laptop, seen obliquely from above. Natural warm late-afternoon sunlight, dusty rose and forest green accents, modern magazine photography with authentic detail, landscape 3:2, no legible text or logos. Fictional illustration.",
+      "src": "/assets/news-visuals/night-20261110-freelance.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

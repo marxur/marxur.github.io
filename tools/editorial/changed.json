@@ -1,8 +1,5 @@
 [
-  "openai-emea-education-guidance-report-20261110",
-  "anthropic-claude-fable-mythos-52-20261109",
-  "google-tpu-8tx-8i-max-20261109",
-  "robbyant-lingbot-touch-arxiv-2611-12806",
-  "deepmind-rsa1024-agents-two-working-papers-20261106",
-  "google-gemini-omni12-flash-20261105"
+  "deepmind-alphaproof-code-signal-20261110",
+  "aws-bedrock-agentcore-invokewebsearch-ga-20261110",
+  "openai-upwork-freelance-work-frontier-20261110"
 ]

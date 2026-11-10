@@ -1,7 +1,140 @@
 {
-  "edition": "2026-11-10T14:40:02.215Z",
-  "reviewedAt": "2026-11-10T14:40:02.215Z",
+  "edition": "2026-11-10T20:51:50.621Z",
+  "reviewedAt": "2026-11-10T20:51:50.621Z",
   "articles": [
+    {
+      "slug": "openai-upwork-freelance-work-frontier-20261110",
+      "dedup_key": "openai-upwork-freelance-work-frontier-20261110",
+      "title": "OpenAI y Upwork estudian cómo se reconfiguran los encargos freelance con la IA",
+      "summary": "El estudio compara usos de ChatGPT con encargos en Upwork y observa que los proyectos relacionados con IA reúnen más tipos de trabajo.",
+      "body": [
+        "OpenAI y Upwork publicaron el 10 de noviembre un estudio que compara las tareas realizadas con ChatGPT con los encargos publicados en la plataforma de trabajo autónomo.",
+        "Varias actividades frecuentes en ChatGPT perdieron peso relativo entre las ofertas de Upwork durante los periodos estudiados. La relación varía según el tipo de actividad.",
+        "En las categorías y periodos que compara el estudio, los proyectos relacionados con IA abarcaron más tipos de tareas y se asociaron con mayores presupuestos a precio fijo y más horas."
+      ],
+      "sections": [],
+      "takeaway": "El estudio permite observar cómo se agrupan las habilidades en los encargos relacionados con IA.",
+      "caveat": "Es un análisis observacional de dos plataformas. Los cambios de cuota no permiten atribuir causalidad ni estimar el efecto sobre el empleo en general.",
+      "source": "OpenAI y Upwork",
+      "sourceTitle": "How AI is changing freelance work",
+      "sourceUrl": "https://openai.com/index/ai-effect-on-freelance-work/",
+      "sources": [
+        {
+          "name": "OpenAI y Upwork",
+          "title": "How AI is changing freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work/"
+        },
+        {
+          "name": "OpenAI y Upwork",
+          "title": "Informe completo",
+          "url": "https://cdn.openai.com/pdf/openai-upwork-full-report.pdf"
+        }
+      ],
+      "company": "OpenAI y Upwork",
+      "category": "Análisis",
+      "topic": "Trabajo",
+      "date": "2026-11-10",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-10T20:51:50.621Z",
+      "modifiedAt": "2026-11-10T20:51:50.621Z",
+      "detectedAt": "2026-11-10",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "OpenAI y Upwork",
+        "Trabajo"
+      ]
+    },
+    {
+      "slug": "aws-bedrock-agentcore-invokewebsearch-ga-20261110",
+      "dedup_key": "aws-bedrock-agentcore-invokewebsearch-ga-20261110",
+      "title": "AWS abre una API de búsqueda web para aplicaciones y agentes",
+      "summary": "InvokeWebSearch permite consultar el índice web de Amazon desde código, con filtros por dominio y fecha de publicación.",
+      "body": [
+        "AWS anunció el 10 de noviembre la disponibilidad general de InvokeWebSearch en Bedrock AgentCore. El servicio de búsqueda ya se ofrecía como herramienta MCP a través de AgentCore Gateway. La nueva API permite llamarlo desde los SDK de AWS o su interfaz de línea de comandos.",
+        "La API devuelve resultados ordenados con un fragmento de texto y, cuando constan, el título, la URL y la fecha de publicación. Cada petición puede limitar los dominios y el intervalo temporal.",
+        "AWS documenta autorización mediante IAM, acceso privado mediante PrivateLink y la opción de registrar peticiones como eventos de datos de CloudTrail."
+      ],
+      "sections": [],
+      "takeaway": "Una aplicación puede invocar la búsqueda web directamente desde su propio flujo de ejecución.",
+      "caveat": "Los resultados dependen del índice de Amazon. El anuncio no compara su cobertura ni la calidad de sus resultados con otros índices.",
+      "source": "AWS",
+      "sourceTitle": "Amazon Bedrock AgentCore now offers a Web Search API",
+      "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
+      "sources": [
+        {
+          "name": "AWS",
+          "title": "Amazon Bedrock AgentCore now offers a Web Search API",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/"
+        }
+      ],
+      "company": "AWS",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-10",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-10T20:51:50.621Z",
+      "modifiedAt": "2026-11-10T20:51:50.621Z",
+      "detectedAt": "2026-11-10",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "AWS",
+        "Agentes IA"
+      ]
+    },
+    {
+      "slug": "deepmind-alphaproof-code-signal-20261110",
+      "dedup_key": "deepmind-alphaproof-code-signal-20261110",
+      "title": "DeepMind usa agentes de IA para verificar propiedades del código criptográfico de Signal",
+      "summary": "AlphaProof Code traduce objetivos de seguridad a especificaciones revisadas por especialistas y genera demostraciones que comprueba Lean.",
+      "body": [
+        "Google DeepMind presentó AlphaProof Code el 10 de noviembre. El equipo definió con ayuda de modelos qué propiedades debía cumplir la implementación criptográfica estudiada y especialistas revisaron cada especificación.",
+        "Agentes basados en Gemini Carbon generaron las demostraciones. Lean comprobó que las pruebas se ajustaban a las especificaciones. Los autores también volvieron a introducir dos errores ya corregidos en una copia aislada y demostraron que esa versión incumplía propiedades de seguridad.",
+        "Los autores publicaron artefactos para examinar el trabajo. El enfoque permite revisar qué se demostró y con qué hipótesis."
+      ],
+      "sections": [],
+      "takeaway": "El experimento lleva la verificación formal a una implementación criptográfica en uso.",
+      "caveat": "La demostración abarca las propiedades y los componentes analizados. No cubre toda la aplicación de Signal.",
+      "source": "Google DeepMind",
+      "sourceTitle": "Introducing AlphaProof Code",
+      "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "title": "Introducing AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        },
+        {
+          "name": "Google DeepMind",
+          "title": "AlphaProof Code · Research artifacts",
+          "url": "https://google-deepmind.github.io/code-verification/"
+        }
+      ],
+      "company": "Google DeepMind",
+      "category": "Análisis",
+      "topic": "Seguridad",
+      "date": "2026-11-10",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-10T20:51:50.621Z",
+      "modifiedAt": "2026-11-10T20:51:50.621Z",
+      "detectedAt": "2026-11-10",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Google DeepMind",
+        "Seguridad"
+      ]
+    },
     {
       "slug": "google-gemini-omni12-flash-20261105",
       "dedup_key": "google:gemini-omni:1.2-flash",
@@ -7168,6 +7301,9 @@
     }
   ],
   "selectedSlugs": [
+    "deepmind-alphaproof-code-signal-20261110",
+    "aws-bedrock-agentcore-invokewebsearch-ga-20261110",
+    "openai-upwork-freelance-work-frontier-20261110",
     "openai-emea-education-guidance-report-20261110",
     "anthropic-claude-fable-mythos-52-20261109",
     "google-tpu-8tx-8i-max-20261109",
