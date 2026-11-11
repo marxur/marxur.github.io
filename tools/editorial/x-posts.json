@@ -1,5 +1,18 @@
 [
   {
+    "name": "Qwen",
+    "handle": "@Alibaba_Qwen",
+    "title": "Qwen anuncia la vista previa de Qwen4-Max",
+    "summary": "La cuenta oficial de Qwen presenta la nueva versión en vista previa en el plan de Alibaba.",
+    "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315",
+    "sourceUrl": "https://x.com/Alibaba_Qwen/status/2120335993643684315",
+    "type": "Anuncio",
+    "date": "2026-11-11",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-11T16:44:19.919Z",
+    "access": "Autor, fecha y contenido comprobados mediante el oEmbed oficial."
+  },
+  {
     "name": "Nuance Labs",
     "handle": "@nuance_ai",
     "title": "Nuance Labs presenta a Emma, un personaje de IA audiovisual",

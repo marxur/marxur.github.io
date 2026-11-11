@@ -1,7 +1,169 @@
 {
-  "edition": "2026-11-10T20:51:50.621Z",
-  "reviewedAt": "2026-11-10T20:51:50.621Z",
+  "edition": "2026-11-11T16:46:38.814Z",
+  "reviewedAt": "2026-11-11T16:46:38.814Z",
   "articles": [
+    {
+      "slug": "anthropic-interactive-connectors-apps-20261110",
+      "dedup_key": "anthropic-interactive-connectors-apps-20261110",
+      "title": "Claude permite abrir aplicaciones compatibles junto al chat y trabajar en ellas",
+      "summary": "Los conectores interactivos que admiten la función pueden mostrar una aplicación junto a la conversación o a pantalla completa.",
+      "body": [
+        "Anthropic anunció el 10 de noviembre una ampliación de sus conectores interactivos. Las aplicaciones compatibles pueden abrir su interfaz junto al chat de Claude y ampliarla a pantalla completa.",
+        "El usuario puede trabajar directamente en la aplicación abierta y pedir a Claude que actúe sobre el mismo documento o diseño. La actualización se apoya en MCP y amplía las vistas pequeñas que ya ofrecían algunos conectores.",
+        "Anthropic describe un despliegue gradual en la web y en la aplicación de escritorio como parte de su nueva experiencia de Claude."
+      ],
+      "sections": [],
+      "takeaway": "La interfaz compartida reduce la necesidad de cambiar de pestaña para revisar lo que hace Claude.",
+      "caveat": "Las acciones disponibles dependen del conector, los permisos y la configuración de cada organización.",
+      "source": "Anthropic",
+      "sourceTitle": "Your apps can now open in Claude",
+      "sourceUrl": "https://claude.com/de/resources/articles/interactive-connectors-full-tool",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Your apps can now open in Claude",
+          "url": "https://claude.com/de/resources/articles/interactive-connectors-full-tool"
+        }
+      ],
+      "company": "Anthropic",
+      "category": "Herramientas",
+      "topic": "Claude",
+      "date": "2026-11-10",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-11T16:46:38.814Z",
+      "modifiedAt": "2026-11-11T16:46:38.814Z",
+      "detectedAt": "2026-11-11",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "slug": "elevenlabs-scribe-v3-live-20261110",
+      "dedup_key": "elevenlabs-scribe-v3-live-20261110",
+      "title": "ElevenLabs renueva Scribe para transcribir grabaciones y conversaciones en directo",
+      "summary": "Scribe v3 cubre audio grabado. La variante Live identifica interlocutores y admite conversaciones que alternan idiomas.",
+      "body": [
+        "ElevenLabs lanzó el 10 de noviembre Scribe v3 para grabaciones y Scribe v3 Live para audio en directo. Ambas variantes están en ElevenAPI y Live también está disponible en ElevenAgents.",
+        "Live incorpora identificación de interlocutores y un modo para conversaciones que cambian de idioma. También permite incorporar vocabulario propio para reconocer términos que pueden aparecer en el audio.",
+        "En sus pruebas multilingües con audio grabado, ElevenLabs atribuye a Scribe v3 un 27 % menos de errores de palabra que a Scribe v2."
+      ],
+      "sections": [],
+      "takeaway": "Los equipos que transcriben reuniones pueden evaluar tanto el texto como la identificación de quién habla.",
+      "caveat": "Las cifras son del proveedor y dependen del conjunto de audio y de la métrica utilizada.",
+      "source": "ElevenLabs",
+      "sourceTitle": "Introducing Scribe v3 and v3 Live",
+      "sourceUrl": "https://elevenlabs.io/blog/scribe-v3",
+      "sources": [
+        {
+          "name": "ElevenLabs",
+          "title": "Introducing Scribe v3 and v3 Live",
+          "url": "https://elevenlabs.io/blog/scribe-v3"
+        }
+      ],
+      "company": "ElevenLabs",
+      "category": "Modelos",
+      "topic": "Voz y teclado",
+      "date": "2026-11-10",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-11T16:46:38.814Z",
+      "modifiedAt": "2026-11-11T16:46:38.814Z",
+      "detectedAt": "2026-11-11",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "ElevenLabs",
+        "Voz y teclado"
+      ]
+    },
+    {
+      "slug": "alibaba-qwen4-max-preview-20261111",
+      "dedup_key": "alibaba-qwen4-max-preview-20261111",
+      "title": "Alibaba abre una vista previa temporal de Qwen4-Max",
+      "summary": "La prueba admite texto, imágenes y vídeo, y está limitada a los clientes de Token Plan.",
+      "body": [
+        "Alibaba Cloud abrió la vista previa de Qwen4-Max el 11 de noviembre a las 10:00 en China, las 03:00 en Madrid. La documentación indica que terminará al cierre del 25 de noviembre en China.",
+        "El modelo admite texto, imágenes y vídeo como entrada y genera texto. La ficha documenta llamadas a herramientas y salidas estructuradas para integrarlo en aplicaciones."
+      ],
+      "sections": [],
+      "takeaway": "La ventana publicada permite planificar una evaluación con fechas y condiciones de acceso concretas.",
+      "caveat": "La vista previa se ofrece mediante Token Plan. Alibaba indica que retirará este identificador al cerrar la prueba.",
+      "source": "Alibaba Cloud",
+      "sourceTitle": "Qwen4-Max Preview en Alibaba Cloud",
+      "sourceUrl": "https://help.aliyun.com/en/model-studio/qwen4-max-preview",
+      "sources": [
+        {
+          "name": "Alibaba Cloud",
+          "title": "Qwen4-Max Preview en Alibaba Cloud",
+          "url": "https://help.aliyun.com/en/model-studio/qwen4-max-preview"
+        }
+      ],
+      "company": "Alibaba Cloud",
+      "category": "Modelos",
+      "topic": "Qwen",
+      "date": "2026-11-11",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-11T16:46:38.814Z",
+      "modifiedAt": "2026-11-11T16:46:38.814Z",
+      "detectedAt": "2026-11-11",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "Alibaba Cloud",
+        "Qwen"
+      ]
+    },
+    {
+      "slug": "deepl-aure-voice-20261111",
+      "dedup_key": "deepl-aure-voice-20261111",
+      "title": "DeepL incorpora Aure para trasladar el tono y el ritmo a la traducción en directo",
+      "summary": "El modelo adapta la voz traducida a cambios de énfasis, ritmo y entonación durante la conversación.",
+      "body": [
+        "DeepL presentó Aure el 11 de noviembre para su servicio de traducción oral en tiempo real. El modelo busca reflejar cómo cambia la manera de hablar de una persona a lo largo de una intervención.",
+        "La novedad amplía la función que ya conservaba una voz reconocible al traducir. Según la empresa, la actualización llega a DeepL Voice para reuniones, conversaciones presenciales y la API."
+      ],
+      "sections": [],
+      "takeaway": "Además de traducir palabras, el servicio intenta conservar señales que ayudan a interpretar lo que se dice.",
+      "caveat": "Las mejoras de expresividad proceden de la descripción del fabricante. Su comportamiento con ruido o interrupciones depende del entorno.",
+      "source": "DeepL",
+      "sourceTitle": "DeepL unveils Aure",
+      "sourceUrl": "https://www.deepl.com/nl/press-release?id=397QopmfYOKHAF2TRDyk0G",
+      "sources": [
+        {
+          "name": "DeepL",
+          "title": "DeepL unveils Aure",
+          "url": "https://www.deepl.com/nl/press-release?id=397QopmfYOKHAF2TRDyk0G"
+        }
+      ],
+      "company": "DeepL",
+      "category": "Herramientas",
+      "topic": "Voz y teclado",
+      "date": "2026-11-11",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-11T16:46:38.814Z",
+      "modifiedAt": "2026-11-11T16:46:38.814Z",
+      "detectedAt": "2026-11-11",
+      "format": "brief",
+      "kind": "news",
+      "verification": "confirmed",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "tags": [
+        "DeepL",
+        "Voz y teclado"
+      ]
+    },
     {
       "slug": "openai-upwork-freelance-work-frontier-20261110",
       "dedup_key": "openai-upwork-freelance-work-frontier-20261110",
@@ -6996,6 +7158,19 @@
   ],
   "xPosts": [
     {
+      "name": "Qwen",
+      "handle": "@Alibaba_Qwen",
+      "title": "Qwen anuncia la vista previa de Qwen4-Max",
+      "summary": "La cuenta oficial de Qwen presenta la nueva versión en vista previa en el plan de Alibaba.",
+      "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315",
+      "sourceUrl": "https://x.com/Alibaba_Qwen/status/2120335993643684315",
+      "type": "Anuncio",
+      "date": "2026-11-11",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-11T16:44:19.919Z",
+      "access": "Autor, fecha y contenido comprobados mediante el oEmbed oficial."
+    },
+    {
       "name": "Nuance Labs",
       "handle": "@nuance_ai",
       "title": "Nuance Labs presenta a Emma, un personaje de IA audiovisual",
@@ -7301,6 +7476,10 @@
     }
   ],
   "selectedSlugs": [
+    "deepl-aure-voice-20261111",
+    "alibaba-qwen4-max-preview-20261111",
+    "elevenlabs-scribe-v3-live-20261110",
+    "anthropic-interactive-connectors-apps-20261110",
     "deepmind-alphaproof-code-signal-20261110",
     "aws-bedrock-agentcore-invokewebsearch-ga-20261110",
     "openai-upwork-freelance-work-frontier-20261110",
@@ -7523,7 +7702,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-10T14:36:30.162Z",
-    "coverage": "Cobertura parcial. Se verificaron dos publicaciones originales mediante el oEmbed oficial de X. Las entradas anteriores conservan su fecha."
+    "checkedAt": "2026-11-11T16:44:19.919Z",
+    "coverage": "Revisión parcial. Un anuncio original de Qwen comprobado mediante el oEmbed oficial. Se conservan las publicaciones anteriores con sus fechas."
   }
 }

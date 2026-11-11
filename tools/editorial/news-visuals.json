@@ -258,6 +258,38 @@
       "src": "/assets/news-visuals/night-20261110-freelance.webp",
       "position": "50% 50%",
       "provenance": "Ilustración conceptual creada con la herramienta integrada image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261111-deepl",
+      "slug": "deepl-aure-voice-20261111",
+      "prompt": "Photoreal editorial close-up of two colleagues across a walnut conference table speaking across languages, one wears a subtle earpiece, a thin translucent sound ribbon between their gestures changes shape but keeps its rhythm, warm daylight and cobalt details. Wide horizontal 3:2, centered crop-safe subject, magazine illustration, no legible text, no logos.",
+      "src": "/assets/news-visuals/edition-20261111-deepl.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261111-qwen",
+      "slug": "alibaba-qwen4-max-preview-20261111",
+      "prompt": "Modern editorial concept photograph for a multimodal AI preview: angular black optical camera, film strip, and white document sheets converging on a small emerald-lit glass prism on a sleek dark studio table, saturated jade highlights, no letters or branding. Wide horizontal 3:2, centered crop-safe subject, magazine illustration, no legible text, no logos.",
+      "src": "/assets/news-visuals/edition-20261111-qwen.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261111-scribe",
+      "slug": "elevenlabs-scribe-v3-live-20261110",
+      "prompt": "Editorial macro photography of three tabletop microphones at different depths in a sound studio, their three teal and coral waveforms resolve into separate abstract lines on a recording monitor with no letters, premium studio lighting. Wide horizontal 3:2, centered crop-safe subject, magazine illustration, no legible text, no logos.",
+      "src": "/assets/news-visuals/edition-20261111-scribe.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "edition-20261111-claude",
+      "slug": "anthropic-interactive-connectors-apps-20261110",
+      "prompt": "Modern editorial photography of a laptop on pale lilac workspace with overlapping translucent windows containing a small image crop, document layout, and color swatches, one hand interacting with a trackpad. Gold sunlight, vivid lilac and cream, no branding. Wide horizontal 3:2, centered crop-safe subject, magazine illustration, no legible text, no logos.",
+      "src": "/assets/news-visuals/edition-20261111-claude.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

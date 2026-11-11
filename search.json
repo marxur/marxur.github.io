@@ -1,6 +1,50 @@
 {
-  "generated": "2026-11-10T20:51:50.621Z",
+  "generated": "2026-11-11T16:46:38.814Z",
   "items": [
+    {
+      "title": "Claude permite abrir aplicaciones compatibles junto al chat y trabajar en ellas",
+      "summary": "Los conectores interactivos que admiten la función pueden mostrar una aplicación junto a la conversación o a pantalla completa.",
+      "url": "/noticias/anthropic-interactive-connectors-apps-20261110.html",
+      "category": "Herramientas",
+      "topic": "Claude",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "Anthropic",
+      "slug": "anthropic-interactive-connectors-apps-20261110"
+    },
+    {
+      "title": "ElevenLabs renueva Scribe para transcribir grabaciones y conversaciones en directo",
+      "summary": "Scribe v3 cubre audio grabado. La variante Live identifica interlocutores y admite conversaciones que alternan idiomas.",
+      "url": "/noticias/elevenlabs-scribe-v3-live-20261110.html",
+      "category": "Modelos",
+      "topic": "Voz y teclado",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "ElevenLabs",
+      "slug": "elevenlabs-scribe-v3-live-20261110"
+    },
+    {
+      "title": "Alibaba abre una vista previa temporal de Qwen4-Max",
+      "summary": "La prueba admite texto, imágenes y vídeo, y está limitada a los clientes de Token Plan.",
+      "url": "/noticias/alibaba-qwen4-max-preview-20261111.html",
+      "category": "Modelos",
+      "topic": "Qwen",
+      "date": "2026-11-11",
+      "type": "noticia",
+      "source": "Alibaba Cloud",
+      "slug": "alibaba-qwen4-max-preview-20261111"
+    },
+    {
+      "title": "DeepL incorpora Aure para trasladar el tono y el ritmo a la traducción en directo",
+      "summary": "El modelo adapta la voz traducida a cambios de énfasis, ritmo y entonación durante la conversación.",
+      "url": "/noticias/deepl-aure-voice-20261111.html",
+      "category": "Herramientas",
+      "topic": "Voz y teclado",
+      "date": "2026-11-11",
+      "type": "noticia",
+      "source": "DeepL",
+      "slug": "deepl-aure-voice-20261111"
+    },
     {
       "title": "OpenAI y Upwork estudian cómo se reconfiguran los encargos freelance con la IA",
       "summary": "El estudio compara usos de ChatGPT con encargos en Upwork y observa que los proyectos relacionados con IA reúnen más tipos de trabajo.",
