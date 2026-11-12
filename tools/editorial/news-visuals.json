@@ -314,6 +314,30 @@
       "src": "/assets/news-visuals/minimax-h3-20261111.webp",
       "position": "50% 50%",
       "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "nvidia-board-20261112",
+      "slug": "nvidia-kress-ceo-interina-20261112",
+      "prompt": "Wide 3:2 editorial conceptual photo: vacant dark boardroom chair facing expansive window with soft green lights and a distant data center exterior, photographic, crisp, no person, no text or logos",
+      "src": "/assets/news-visuals/nvidia-board-20261112.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "genie-agent-20261112",
+      "slug": "databricks-genie-one-workspace-20261111",
+      "prompt": "Wide 3:2 editorial photo illustration: overhead corporate worktable with an unbranded tablet, a physical network of branching transparent acrylic tiles interconnecting a spreadsheet motif and document motif, cobalt and amber, no text",
+      "src": "/assets/news-visuals/genie-agent-20261112.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "stanford-ai100-20261112",
+      "slug": "stanford-ai100-2026-mainstream-report",
+      "prompt": "Wide 3:2 editorial photo: three report volumes on a Stanford-like university library reading desk, bright late sun, on open report an abstract timeline in ink with no numbers or writing, documentary editorial colors, no logos",
+      "src": "/assets/news-visuals/stanford-ai100-20261112.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

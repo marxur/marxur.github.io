@@ -1,7 +1,132 @@
 {
-  "edition": "2026-11-12T07:28:04.896Z",
-  "reviewedAt": "2026-11-12T07:28:04.896Z",
+  "edition": "2026-11-12T20:50:53.075Z",
+  "reviewedAt": "2026-11-12T20:50:53.075Z",
   "articles": [
+    {
+      "slug": "stanford-ai100-2026-mainstream-report",
+      "dedup_key": "stanford-ai100-2026-mainstream-report",
+      "title": "El estudio AI100 de Stanford revisa cinco años de expansión de la IA generativa",
+      "summary": "El tercer informe examina avances técnicos, adopción y gobernanza desde la revisión de 2021.",
+      "source": "Stanford HAI",
+      "sourceTitle": "The World Has Changed: Insights From the New AI100 Report",
+      "sourceUrl": "https://hai.stanford.edu/news/the-world-has-changed-insights-from-the-new-ai100-report",
+      "body": [
+        "Stanford HAI presentó el 10 de noviembre el tercer informe del estudio longitudinal AI100. El panel retoma preguntas de la edición de 2021 y revisa qué ha cambiado con la expansión de la IA generativa.",
+        "La revisión sitúa el progreso de los modelos junto a sus usos y límites. Examina cuestiones como la evaluación de capacidades, los efectos sobre el trabajo y las dificultades de adaptar la gobernanza al ritmo de adopción."
+      ],
+      "takeaway": "La comparación con 2021 permite poner los lanzamientos recientes en una perspectiva de varios años.",
+      "caveat": "Es una síntesis de un panel de especialistas. Sus conclusiones dependen de la evidencia revisada y del alcance de cada capítulo.",
+      "company": "Stanford HAI",
+      "category": "Análisis",
+      "topic": "Investigación",
+      "kind": "news",
+      "verification": "confirmed",
+      "date": "2026-11-10",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-12T20:50:53.075Z",
+      "modifiedAt": "2026-11-12T20:50:53.075Z",
+      "detectedAt": "2026-11-12",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Stanford HAI",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "Stanford HAI",
+          "title": "The World Has Changed: Insights From the New AI100 Report",
+          "url": "https://hai.stanford.edu/news/the-world-has-changed-insights-from-the-new-ai100-report"
+        },
+        {
+          "name": "AI100",
+          "title": "Conclusiones del informe",
+          "url": "https://ai100.stanford.edu/reports/2026-report/key-takeaways"
+        }
+      ]
+    },
+    {
+      "slug": "databricks-genie-one-workspace-20261111",
+      "dedup_key": "databricks-genie-one-workspace-20261111",
+      "title": "Databricks presenta un Genie que puede seguir tareas empresariales durante días",
+      "summary": "El nuevo agente está anunciado para vista previa. Genie Ontology ya está disponible de forma general.",
+      "source": "Databricks",
+      "sourceTitle": "The new Genie: autonomous AI for complex enterprise work",
+      "sourceUrl": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
+      "body": [
+        "Databricks anunció el 11 de noviembre una segunda generación de Genie para seguir tareas de larga duración y retomar el trabajo cuando llega información nueva. El proveedor describe avisos por correo y una bandeja para decisiones pendientes.",
+        "Genie Ontology reúne las definiciones y relaciones que usa el agente para interpretar datos empresariales. Los administradores pueden aplicar límites al uso de herramientas y consultar las acciones mediante Unity Gateway."
+      ],
+      "takeaway": "La novedad extiende Genie desde las consultas sobre datos hacia el seguimiento de trabajos con varios pasos.",
+      "caveat": "El nuevo agente permanente y Genie Search se anunciaron para próximas vistas previas. Genie y Genie Ontology sí tienen disponibilidad general.",
+      "company": "Databricks",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "kind": "news",
+      "verification": "confirmed",
+      "date": "2026-11-11",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-12T20:50:53.075Z",
+      "modifiedAt": "2026-11-12T20:50:53.075Z",
+      "detectedAt": "2026-11-12",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Databricks",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Databricks",
+          "title": "The new Genie: autonomous AI for complex enterprise work",
+          "url": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-kress-ceo-interina-20261112",
+      "dedup_key": "nvidia-kress-ceo-interina-20261112",
+      "title": "NVIDIA nombra consejera delegada interina a Colette Kress tras la salida de Jensen Huang",
+      "summary": "Kress mantiene su puesto de directora financiera mientras el consejo busca un sucesor permanente.",
+      "source": "NVIDIA",
+      "sourceTitle": "Formulario 8-K de NVIDIA y comunicado adjunto",
+      "sourceUrl": "https://br.advfn.com/noticias/EDGAR2/2026/artigo/99692819",
+      "body": [
+        "NVIDIA anunció el 12 de noviembre la dimisión de Jensen Huang como presidente, consejero delegado y miembro del consejo. El formulario 8-K indica que el consejo aceptó la dimisión el día 11 con efecto inmediato.",
+        "Colette Kress, directora financiera desde 2013, asume la dirección de forma interina y mantiene sus funciones financieras. Harvey C. Jones pasa a presidir el consejo, que ha iniciado la búsqueda de un sucesor permanente."
+      ],
+      "takeaway": "El consejo afirma que espera mantener las operaciones, los compromisos con clientes y la hoja de ruta de productos.",
+      "caveat": "El documento confirma el relevo y el carácter interino del nombramiento.",
+      "company": "NVIDIA",
+      "category": "Análisis",
+      "topic": "Infraestructura",
+      "kind": "news",
+      "verification": "confirmed",
+      "date": "2026-11-12",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-12T20:50:53.075Z",
+      "modifiedAt": "2026-11-12T20:50:53.075Z",
+      "detectedAt": "2026-11-12",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "NVIDIA",
+        "Infraestructura"
+      ],
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "title": "Formulario 8-K de NVIDIA y comunicado adjunto",
+          "url": "https://br.advfn.com/noticias/EDGAR2/2026/artigo/99692819"
+        }
+      ]
+    },
     {
       "slug": "minimax-h3-image-open-weights-20261111",
       "dedup_key": "minimax-h3-image-open-weights-20261111",
@@ -7703,6 +7828,9 @@
     }
   ],
   "selectedSlugs": [
+    "nvidia-kress-ceo-interina-20261112",
+    "databricks-genie-one-workspace-20261111",
+    "stanford-ai100-2026-mainstream-report",
     "claude-fable-52-analisis-pruebas-y-opiniones-20261112",
     "google-gemini-decision-1-api-20261111",
     "minimax-h3-image-open-weights-20261111",

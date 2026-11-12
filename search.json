@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-12T07:28:04.896Z",
+  "generated": "2026-11-12T20:50:53.075Z",
   "items": [
+    {
+      "title": "El estudio AI100 de Stanford revisa cinco años de expansión de la IA generativa",
+      "summary": "El tercer informe examina avances técnicos, adopción y gobernanza desde la revisión de 2021.",
+      "url": "/noticias/stanford-ai100-2026-mainstream-report.html",
+      "category": "Análisis",
+      "topic": "Investigación",
+      "date": "2026-11-10",
+      "type": "noticia",
+      "source": "Stanford HAI",
+      "slug": "stanford-ai100-2026-mainstream-report"
+    },
+    {
+      "title": "Databricks presenta un Genie que puede seguir tareas empresariales durante días",
+      "summary": "El nuevo agente está anunciado para vista previa. Genie Ontology ya está disponible de forma general.",
+      "url": "/noticias/databricks-genie-one-workspace-20261111.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-11",
+      "type": "noticia",
+      "source": "Databricks",
+      "slug": "databricks-genie-one-workspace-20261111"
+    },
+    {
+      "title": "NVIDIA nombra consejera delegada interina a Colette Kress tras la salida de Jensen Huang",
+      "summary": "Kress mantiene su puesto de directora financiera mientras el consejo busca un sucesor permanente.",
+      "url": "/noticias/nvidia-kress-ceo-interina-20261112.html",
+      "category": "Análisis",
+      "topic": "Infraestructura",
+      "date": "2026-11-12",
+      "type": "noticia",
+      "source": "NVIDIA",
+      "slug": "nvidia-kress-ceo-interina-20261112"
+    },
     {
       "title": "MiniMax publica los pesos de H3-Image para generar y editar imágenes",
       "summary": "El modelo de la familia H3 admite generación desde texto, edición y composición con imágenes de referencia.",
