@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-11T16:46:38.814Z",
+  "generated": "2026-11-12T07:28:04.896Z",
   "items": [
+    {
+      "title": "MiniMax publica los pesos de H3-Image para generar y editar imágenes",
+      "summary": "El modelo de la familia H3 admite generación desde texto, edición y composición con imágenes de referencia.",
+      "url": "/noticias/minimax-h3-image-open-weights-20261111.html",
+      "category": "Modelos",
+      "topic": "Imagen",
+      "date": "2026-11-11",
+      "type": "noticia",
+      "source": "MiniMax",
+      "slug": "minimax-h3-image-open-weights-20261111"
+    },
+    {
+      "title": "Google lanza una API de Gemini para evaluar preguntas con opciones cerradas",
+      "summary": "Gemini Decision 1 puntúa opciones a partir de una entrada que puede incluir texto, imágenes, audio, vídeo o PDF.",
+      "url": "/noticias/google-gemini-decision-1-api-20261111.html",
+      "category": "Modelos",
+      "topic": "Gemini",
+      "date": "2026-11-11",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-gemini-decision-1-api-20261111"
+    },
+    {
+      "title": "Claude Fable 5.2 lidera el índice de Artificial Analysis. ¿Qué aporta en el trabajo real?",
+      "summary": "Las demos de Matthew Berman y AI Search, una prueba fallida de Simon Willison y la evaluación de Artificial Analysis muestran cuándo compensa usar el Claude más capaz de Anthropic.",
+      "url": "/noticias/claude-fable-52-analisis-pruebas-y-opiniones-20261112.html",
+      "category": "Análisis",
+      "topic": "Claude",
+      "date": "2026-11-12",
+      "type": "noticia",
+      "source": "Artificial Analysis",
+      "slug": "claude-fable-52-analisis-pruebas-y-opiniones-20261112"
+    },
     {
       "title": "Claude permite abrir aplicaciones compatibles junto al chat y trabajar en ellas",
       "summary": "Los conectores interactivos que admiten la función pueden mostrar una aplicación junto a la conversación o a pantalla completa.",

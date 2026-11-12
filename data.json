@@ -1,7 +1,207 @@
 {
-  "edition": "2026-11-11T16:46:38.814Z",
-  "reviewedAt": "2026-11-11T16:46:38.814Z",
+  "edition": "2026-11-12T07:28:04.896Z",
+  "reviewedAt": "2026-11-12T07:28:04.896Z",
   "articles": [
+    {
+      "slug": "minimax-h3-image-open-weights-20261111",
+      "dedup_key": "minimax-h3-image-open-weights-20261111",
+      "title": "MiniMax publica los pesos de H3-Image para generar y editar imágenes",
+      "summary": "El modelo de la familia H3 admite generación desde texto, edición y composición con imágenes de referencia.",
+      "source": "MiniMax",
+      "sourceTitle": "MiniMax H3-Image",
+      "sourceUrl": "https://www.minimax.io/blog/minimax-h3-image",
+      "body": [
+        "MiniMax anunció H3-Image el 11 de noviembre en su blog internacional y publicó sus pesos en Hugging Face. El modelo admite generación desde texto y edición de imágenes existentes.",
+        "El fabricante indica que H3-Image puede usar hasta 16 imágenes de referencia y generar imágenes de hasta 4096 por 4096 píxeles. También ofrece acceso mediante sus servicios alojados."
+      ],
+      "takeaway": "Los pesos publicados permiten evaluar el modelo con referencias y escenas propias.",
+      "caveat": "La velocidad anunciada corresponde a la configuración del proveedor. El rendimiento local depende del equipo y de la implementación.",
+      "company": "MiniMax",
+      "category": "Modelos",
+      "topic": "Imagen",
+      "kind": "news",
+      "verification": "confirmed",
+      "date": "2026-11-11",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-12T07:28:04.896Z",
+      "modifiedAt": "2026-11-12T07:28:04.896Z",
+      "detectedAt": "2026-11-11",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "MiniMax",
+        "Imagen"
+      ],
+      "sources": [
+        {
+          "name": "MiniMax",
+          "title": "MiniMax H3-Image",
+          "url": "https://www.minimax.io/blog/minimax-h3-image"
+        },
+        {
+          "name": "MiniMax",
+          "title": "Pesos y ficha del modelo",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+        }
+      ]
+    },
+    {
+      "slug": "google-gemini-decision-1-api-20261111",
+      "dedup_key": "google-gemini-decision-1-api-20261111",
+      "title": "Google lanza una API de Gemini para evaluar preguntas con opciones cerradas",
+      "summary": "Gemini Decision 1 puntúa opciones a partir de una entrada que puede incluir texto, imágenes, audio, vídeo o PDF.",
+      "source": "Google",
+      "sourceTitle": "Gemini Decisions API",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "body": [
+        "Google presentó el 11 de noviembre Gemini Decision 1 y su API de decisiones. La interfaz recibe una entrada multimodal y una lista de preguntas con opciones predefinidas.",
+        "Según Google, una sola petición admite hasta mil preguntas independientes sobre la misma entrada. La API devuelve puntuaciones o probabilidades, lo que permite usar el resultado para clasificar solicitudes o dirigirlas a distintas herramientas."
+      ],
+      "takeaway": "La API sirve para incorporar decisiones acotadas a un flujo sin pedir una respuesta redactada.",
+      "caveat": "Las mediciones de latencia proceden de Google. Los umbrales deben validarse con datos de la aplicación.",
+      "company": "Google",
+      "category": "Modelos",
+      "topic": "Gemini",
+      "kind": "news",
+      "verification": "confirmed",
+      "date": "2026-11-11",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-12T07:28:04.896Z",
+      "modifiedAt": "2026-11-12T07:28:04.896Z",
+      "detectedAt": "2026-11-11",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "name": "Vercel",
+          "title": "Disponibilidad en AI Gateway",
+          "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway"
+        }
+      ]
+    },
+    {
+      "slug": "claude-fable-52-analisis-pruebas-y-opiniones-20261112",
+      "dedup_key": "claude-fable-52-analisis-pruebas-y-opiniones-20261112",
+      "title": "Claude Fable 5.2 lidera el índice de Artificial Analysis. ¿Qué aporta en el trabajo real?",
+      "summary": "Las demos de Matthew Berman y AI Search, una prueba fallida de Simon Willison y la evaluación de Artificial Analysis muestran cuándo compensa usar el Claude más capaz de Anthropic.",
+      "body": [
+        "Claude Fable 5.2 salió el 9 de noviembre y, en la consulta del 12 de noviembre, su configuración Max con el fallback predeterminado ocupaba el primer puesto entre 74 modelos comparables en el índice general de Artificial Analysis. El dato da peso al entusiasmo de los primeros días. Las demostraciones públicas y los ensayos que salieron mal ayudan a entender qué se puede esperar de ese liderazgo."
+      ],
+      "sections": [
+        {
+          "heading": "El primer puesto tiene un coste",
+          "body": "Artificial Analysis da 65 puntos a Max y 62 a High. En la comparación de ambas configuraciones, las dos obtienen 59,6 % en Terminal-Bench 4.0, mientras que Max mejora de 73,8 % a 80,2 % en HLE-Diamond. En la ficha de Max, la primera respuesta tarda unos cuatro minutos y una tarea del índice cuesta 26,54 dólares de media. Son cifras de la API y del protocolo de evaluación. Las tareas y tiempos de una sesión en Claude pueden ser distintos."
+        },
+        {
+          "heading": "Matthew Berman mira lo que el modelo llega a construir",
+          "body": "Berman presenta Fable 5.2 como el mejor modelo que ha probado y dedica buena parte de su vídeo a proyectos concretos. Entre los ejemplos están Quadrille, una hoja de cálculo, Photon, un editor de imágenes, y escenas y juegos construidos con herramientas como Unreal Engine. Su descripción enlaza varios artefactos para examinarlos. Para un equipo de producto, eso permite juzgar la amplitud del prototipo. La selección de ejemplos deja abierta la pregunta de cuántos intentos necesitaría otro usuario para obtener resultados comparables."
+        },
+        {
+          "heading": "AI Search se fija en el trabajo creativo con herramientas",
+          "body": "AI Search muestra animación, música y un juego en Unreal, además de ejemplos de investigación e ideación. Su vídeo destaca proyectos que requieren coordinar varios pasos y herramientas. Es una forma de ver el tipo de trabajo que se puede plantear a Fable. El vídeo incluye una promoción de Higgsfield y los ejemplos corresponden a los flujos mostrados por el canal."
+        },
+        {
+          "heading": "Simon Willison encontró un caso en que Max se quedó sin entregar",
+          "body": "Willison pidió un SVG de un pelícano en bicicleta con cada uno de los cinco niveles de razonamiento. Su mejor dibujo salió con Xhigh. En Max, el modelo agotó el presupuesto tras emplear 128.000 tokens de razonamiento y la prueba terminó sin dibujo. Es un encargo pequeño y deliberadamente peculiar. En ese ensayo, aumentar el esfuerzo empeoró la entrega, justo lo contrario de lo que sugeriría mirar solo la puntuación agregada."
+        },
+        {
+          "heading": "AI Explained lleva la discusión a la investigación",
+          "body": "El canal analiza Fable junto a Gemini 4 Carbon y al informe de METR sobre el ritmo de I+D en Anthropic. La pregunta es cuánto puede acelerar el trabajo científico y técnico el uso de estos modelos. METR estima que en octubre el ritmo de mejora en tareas bien especificadas rondaba el doble del histórico, con incertidumbre amplia y parte de la evidencia bajo reserva. La evaluación abarca el trabajo de Anthropic durante meses y es anterior al lanzamiento de Fable 5.2."
+        },
+        {
+          "heading": "Anthropic y Diode llevaron tres diseños a la mesa de pruebas",
+          "body": "En el experimento de lanzamiento, Fable preparó diseños electrónicos, carcasas y firmware para tres dispositivos. Diode fabricó los prototipos y, según el informe de los participantes, funcionaron sin correcciones en los circuitos. El montaje físico da al ensayo un criterio de éxito concreto. Sigue siendo una prueba de Anthropic y su socio, con tareas y herramientas definidas por el equipo."
+        },
+        {
+          "heading": "Cuándo merece la pena elegir Fable 5.2",
+          "body": "Reservaría Fable para una migración difícil, un prototipo que combina varias disciplinas o una revisión de un plan técnico con fallos costosos. Para valorar el salto, conviene darle el mismo encargo que a Opus 5.5 y comparar la calidad de la entrega, la intervención humana, el tiempo y el coste total. Anthropic recomienda empezar con Opus 5.5 para la mayoría de tareas de código y conocimiento. Fable también puede actuar como asesor cuando otro modelo se atasca."
+        }
+      ],
+      "takeaway": "La mejora más interesante es poder delegar proyectos con varias etapas y comprobar un resultado concreto, como un prototipo que funciona o un cambio que supera las pruebas.",
+      "caveat": "La clasificación corresponde a Max con el fallback predeterminado. Las demostraciones son ejemplos seleccionados y Noticias IA no ha replicado sus resultados.",
+      "company": "Anthropic",
+      "topic": "Claude",
+      "category": "Análisis",
+      "kind": "news",
+      "format": "analysis",
+      "verification": "confirmed",
+      "label": "ANÁLISIS",
+      "art": "editorial",
+      "source": "Artificial Analysis",
+      "sourceTitle": "Ficha de Fable 5.2 en modo Max",
+      "sourceUrl": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "sources": [
+        {
+          "name": "Artificial Analysis",
+          "title": "Ficha de Fable 5.2 en modo Max",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+        },
+        {
+          "name": "Artificial Analysis",
+          "title": "Comparación de esfuerzo High y Max",
+          "url": "https://artificialanalysis.ai/models/comparisons/claude-fable-5-2-high-vs-claude-fable-5-2"
+        },
+        {
+          "name": "Anthropic",
+          "title": "Anuncio y evaluaciones de Fable y Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "name": "Anthropic y Diode",
+          "title": "Experimento con tres prototipos electrónicos",
+          "url": "https://www.anthropic.com/research/claude-electronics-design"
+        },
+        {
+          "name": "Simon Willison",
+          "title": "Prueba con cinco niveles de razonamiento",
+          "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+        },
+        {
+          "name": "METR",
+          "title": "Evaluación de la aceleración de la I+D en Anthropic",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        }
+      ],
+      "webLinks": [
+        {
+          "label": "Matthew Berman · hoja de cálculo",
+          "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg&t=136s"
+        },
+        {
+          "label": "AI Search · animación",
+          "url": "https://www.youtube.com/watch?v=S7lpCyZSdJQ&t=54s"
+        },
+        {
+          "label": "AI Explained · análisis de Fable 5.2 y Gemini Carbon",
+          "url": "https://www.youtube.com/watch?v=583ThJIqQ7k"
+        }
+      ],
+      "date": "2026-11-12",
+      "dateBasis": "editorial",
+      "detectedAt": "2026-11-12",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Fable 5.2",
+        "Evaluaciones",
+        "Programación"
+      ],
+      "publishedAt": "2026-11-12T07:28:04.896Z",
+      "modifiedAt": "2026-11-12T07:28:04.896Z"
+    },
     {
       "slug": "anthropic-interactive-connectors-apps-20261110",
       "dedup_key": "anthropic-interactive-connectors-apps-20261110",
@@ -7158,6 +7358,19 @@
   ],
   "xPosts": [
     {
+      "name": "Google for Developers",
+      "handle": "@googledevs",
+      "title": "Google anuncia Gemini Decisions API",
+      "summary": "La cuenta oficial presenta Gemini Decision 1 y su API para clasificar entradas y puntuar opciones.",
+      "url": "https://x.com/googledevs/status/2120583940247552381",
+      "sourceUrl": "https://x.com/googledevs/status/2120583940247552381",
+      "type": "Anuncio",
+      "date": "2026-11-11",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-11T22:26:53.335Z",
+      "access": "Autor, fecha y contenido comprobados mediante el oEmbed oficial."
+    },
+    {
       "name": "Qwen",
       "handle": "@Alibaba_Qwen",
       "title": "Qwen anuncia la vista previa de Qwen4-Max",
@@ -7476,6 +7689,9 @@
     }
   ],
   "selectedSlugs": [
+    "claude-fable-52-analisis-pruebas-y-opiniones-20261112",
+    "google-gemini-decision-1-api-20261111",
+    "minimax-h3-image-open-weights-20261111",
     "deepl-aure-voice-20261111",
     "alibaba-qwen4-max-preview-20261111",
     "elevenlabs-scribe-v3-live-20261110",
@@ -7702,7 +7918,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-11T16:44:19.919Z",
-    "coverage": "Revisión parcial. Un anuncio original de Qwen comprobado mediante el oEmbed oficial. Se conservan las publicaciones anteriores con sus fechas."
+    "checkedAt": "2026-11-11T22:26:53.335Z",
+    "coverage": "Revisión parcial. Un anuncio original comprobado mediante oEmbed de X."
   }
 }

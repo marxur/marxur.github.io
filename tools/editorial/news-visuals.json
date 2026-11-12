@@ -290,6 +290,30 @@
       "src": "/assets/news-visuals/edition-20261111-claude.webp",
       "position": "50% 50%",
       "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "fable-52-analisis",
+      "slug": "claude-fable-52-analisis-pruebas-y-opiniones-20261112",
+      "prompt": "Premium editorial photograph for an in-depth Spanish tech feature on Claude Fable 5.2 as a high-effort model for difficult long projects. A real electronics workbench viewed from above, a tiny crafted copper circuit board beside a partly assembled tactile off-white prototype speaker, a crisp abstract geometric proof sketch on translucent drafting paper and calipers, purposeful modern studio, warm copper and deep blue, light pooling on the prototype. Beautiful realistic materials. Wide horizontal 3:2. No readable text, no logos, no humans. Conceptual illustration, not an exact product photo.",
+      "src": "/assets/news-visuals/fable-52-analisis.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "gemini-decisions-20261111",
+      "slug": "google-gemini-decision-1-api-20261111",
+      "prompt": "Cinematic magazine still life of three precisely machined colored ceramic decision tokens moving through branching grooves in a cream technical table, one turquoise route lit, abstract translucent photo and audio tiles at input, no text, wide landscape 3:2",
+      "src": "/assets/news-visuals/gemini-decisions-20261111.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "minimax-h3-20261111",
+      "slug": "minimax-h3-image-open-weights-20261111",
+      "prompt": "Contemporary editorial photograph of a fine art print studio where a large inkjet produces a vivid detailed coral-and-violet architectural photograph, close-up paper texture and beside it a stack of small visual references, no text or branding, wide landscape 3:2",
+      "src": "/assets/news-visuals/minimax-h3-20261111.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual creada con image_gen para Noticias IA y revisada visualmente."
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

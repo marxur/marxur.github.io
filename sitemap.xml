@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/sobre.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/editorial.html</loc><lastmod>2026-10-27T22:17:01Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/privacidad.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/contacto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/xai.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/agentes-ia.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/china.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/deepseek.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/qwen.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/kimi.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/voz-y-teclado.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/xai.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/agentes-ia.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/china.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/deepseek.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/qwen.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/kimi.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/voz-y-teclado.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/claude-code-modernization-contexto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/qwenwork-commerce-20261014-signal.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/anthropic-singapore-office-mou-20261014.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
@@ -210,4 +210,7 @@
   <url><loc>https://www.ianoticias.org/noticias/alibaba-qwen4-max-preview-20261111.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/elevenlabs-scribe-v3-live-20261110.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/anthropic-interactive-connectors-apps-20261110.html</loc><lastmod>2026-11-11T16:46:38.814Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/claude-fable-52-analisis-pruebas-y-opiniones-20261112.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/google-gemini-decision-1-api-20261111.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/minimax-h3-image-open-weights-20261111.html</loc><lastmod>2026-11-12T07:28:04.896Z</lastmod></url>
 </urlset>

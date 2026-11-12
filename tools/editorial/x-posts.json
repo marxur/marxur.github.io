@@ -1,5 +1,18 @@
 [
   {
+    "name": "Google for Developers",
+    "handle": "@googledevs",
+    "title": "Google anuncia Gemini Decisions API",
+    "summary": "La cuenta oficial presenta Gemini Decision 1 y su API para clasificar entradas y puntuar opciones.",
+    "url": "https://x.com/googledevs/status/2120583940247552381",
+    "sourceUrl": "https://x.com/googledevs/status/2120583940247552381",
+    "type": "Anuncio",
+    "date": "2026-11-11",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-11T22:26:53.335Z",
+    "access": "Autor, fecha y contenido comprobados mediante el oEmbed oficial."
+  },
+  {
     "name": "Qwen",
     "handle": "@Alibaba_Qwen",
     "title": "Qwen anuncia la vista previa de Qwen4-Max",
