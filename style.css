@@ -59,3 +59,5 @@ html{scroll-padding-top:24px}.wrap{max-width:1260px;width:calc(100% - 72px)}
 /* Articles awaiting their own reviewed illustration use a compact text card. */
 .story-card--text{position:relative;border-top:1px solid var(--line);padding-top:34px}
 .story-card--text .card-save{top:0;right:0}
+
+.article-videos{margin:2rem 0}.article-video{margin-bottom:1.5rem}.article-video .video-play,.article-video iframe{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:7px}.article-video>a{display:inline-block;margin-top:.4rem;font-size:.875rem}

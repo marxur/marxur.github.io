@@ -106,6 +106,10 @@
           "body": "Artificial Analysis da 65 puntos a Max y 62 a High. En la comparación de ambas configuraciones, las dos obtienen 59,6 % en Terminal-Bench 4.0, mientras que Max mejora de 73,8 % a 80,2 % en HLE-Diamond. En la ficha de Max, la primera respuesta tarda unos cuatro minutos y una tarea del índice cuesta 26,54 dólares de media. Son cifras de la API y del protocolo de evaluación. Las tareas y tiempos de una sesión en Claude pueden ser distintos."
         },
         {
+          "heading": "Jon Hernández destaca la capacidad y el coste",
+          "body": "En su vídeo del 11 de noviembre, Jon Hernández presenta Fable 5.2 como el modelo más capaz del momento. Compara sus resultados con Gemini, Opus y GPT-6 Astra, y se detiene en lo que cuesta resolver tareas con el nivel de esfuerzo más alto. Su lectura es que el salto en las pruebas puede pasar inadvertido en el uso cotidiano. A su juicio, la forma de integrar la IA en el trabajo, por ejemplo mediante agentes personales, tendrá más impacto práctico que elegir siempre el modelo que encabeza el ranking."
+        },
+        {
           "heading": "Matthew Berman mira lo que el modelo llega a construir",
           "body": "Berman presenta Fable 5.2 como el mejor modelo que ha probado y dedica buena parte de su vídeo a proyectos concretos. Entre los ejemplos están Quadrille, una hoja de cálculo, Photon, un editor de imágenes, y escenas y juegos construidos con herramientas como Unreal Engine. Su descripción enlaza varios artefactos para examinarlos. Para un equipo de producto, eso permite juzgar la amplitud del prototipo. La selección de ejemplos deja abierta la pregunta de cuántos intentos necesitaría otro usuario para obtener resultados comparables."
         },
@@ -136,7 +140,7 @@
       "topic": "Claude",
       "category": "Análisis",
       "kind": "news",
-      "format": "analysis",
+      "format": "detailed",
       "verification": "confirmed",
       "label": "ANÁLISIS",
       "art": "editorial",
@@ -173,9 +177,18 @@
           "name": "METR",
           "title": "Evaluación de la aceleración de la I+D en Anthropic",
           "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        },
+        {
+          "name": "Jon Hernández",
+          "title": "Su valoración de Fable 5.2",
+          "url": "https://es.linkedin.com/posts/jon-hernandez-ia_noticias-ia-nuevo-fable-52-de-anthropic-activity-7526363996321439744-SRFI"
         }
       ],
       "webLinks": [
+        {
+          "label": "Jon Hernández · Nuevo Fable 5.2 de Anthropic",
+          "url": "https://www.youtube.com/watch?v=HWijk9dFptU"
+        },
         {
           "label": "Matthew Berman · hoja de cálculo",
           "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg&t=136s"
@@ -200,7 +213,8 @@
         "Programación"
       ],
       "publishedAt": "2026-11-12T07:28:04.896Z",
-      "modifiedAt": "2026-11-12T07:28:04.896Z"
+      "modifiedAt": "2026-11-12T19:45:53.694Z",
+      "inlineVideos": true
     },
     {
       "slug": "anthropic-interactive-connectors-apps-20261110",
