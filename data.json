@@ -1,7 +1,127 @@
 {
-  "edition": "2026-11-12T20:50:53.075Z",
-  "reviewedAt": "2026-11-12T20:50:53.075Z",
+  "edition": "2026-11-13T20:50:06.683Z",
+  "reviewedAt": "2026-11-13T20:50:06.683Z",
   "articles": [
+    {
+      "slug": "llama-cpp-ggml-v100-20261113",
+      "dedup_key": "llama-cpp-ggml-v100-20261113",
+      "date": "2026-11-13",
+      "source": "ggml-org",
+      "topic": "IA local",
+      "title": "llama.cpp y ggml llegan a la versión 1.0",
+      "summary": "Las nuevas versiones marcan un punto de referencia para las aplicaciones que integran las bibliotecas de inferencia local.",
+      "sourceUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+      "sourceTitle": "llama.cpp v1.0.0",
+      "body": [
+        "Los mantenedores publicaron la versión 1.0.0 de llama.cpp y actualizaron su dependencia ggml a la misma versión. llama.cpp permite ejecutar modelos en equipos propios y se integra en aplicaciones de terceros.",
+        "La versión elimina interfaces públicas que ya estaban obsoletas. Las notas también detallan nuevas arquitecturas compatibles y cambios en la interfaz web del servidor."
+      ],
+      "takeaway": "El salto de versión da a los equipos una referencia para revisar sus dependencias y probar la integración.",
+      "caveat": "La compatibilidad depende de las interfaces que use cada aplicación. Las notas advierten de retiradas en la versión 1.0.",
+      "company": "ggml-org",
+      "category": "Modelos",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-13T20:50:06.683Z",
+      "modifiedAt": "2026-11-13T20:50:06.683Z",
+      "detectedAt": "2026-11-13",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "ggml-org",
+        "IA local"
+      ],
+      "sources": [
+        {
+          "name": "ggml-org",
+          "title": "llama.cpp v1.0.0",
+          "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"
+        }
+      ]
+    },
+    {
+      "slug": "google-gemini-4-hydrogen-ga-20261112",
+      "dedup_key": "google-gemini-4-hydrogen-ga-20261112",
+      "date": "2026-11-12",
+      "source": "Google",
+      "topic": "Gemini",
+      "title": "Google lanza Gemini 4 Hydrogen para programación y tareas con agentes",
+      "summary": "El modelo se incorpora a la aplicación Gemini y a la API. Google también lo usa junto a Carbon en el selector automático de Antigravity.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "sourceTitle": "Introducing Gemini 4 Hydrogen",
+      "body": [
+        "Google presentó Gemini 4 Hydrogen el 12 de noviembre, con un despliegue que abarca Gemini, AI Studio y la API. Está orientado a la ejecución rápida de tareas de código y al uso de herramientas.",
+        "En Antigravity, el selector anunciado por Google puede alternar Carbon y Hydrogen durante una sesión. En una evaluación de Terminal-Bench 4.0 del proveedor, esa combinación utilizó menos cuota y terminó antes que el uso de Carbon."
+      ],
+      "takeaway": "Los equipos pueden probar distintos modelos para planificar un cambio y para ejecutarlo.",
+      "caveat": "Las mejoras anunciadas corresponden a las pruebas de Google. La disponibilidad depende de la aplicación y el plan.",
+      "company": "Google",
+      "category": "Modelos",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-13T20:50:06.683Z",
+      "modifiedAt": "2026-11-13T20:50:06.683Z",
+      "detectedAt": "2026-11-13",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+        }
+      ]
+    },
+    {
+      "slug": "openai-chatgpt-wallet-20261113",
+      "dedup_key": "openai-chatgpt-wallet-20261113",
+      "date": "2026-11-13",
+      "source": "OpenAI",
+      "topic": "ChatGPT",
+      "title": "ChatGPT Wallet empieza a desplegarse para compras con agentes",
+      "summary": "El asistente personal puede completar compras aprobadas por el usuario. El acceso inicial se limita a suscriptores Pro elegibles en Estados Unidos.",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet/",
+      "sourceTitle": "Introducing ChatGPT Wallet",
+      "body": [
+        "OpenAI anunció el 13 de noviembre el inicio del despliegue de ChatGPT Wallet en sus asistentes personales, llamados dots. El servicio añade el pago al proceso de comparar productos y preparar un pedido.",
+        "Tras la aprobación de una compra, la red de pagos emite un token que sustituye los datos reales de la tarjeta ante el agente y el comercio. La ayuda indica que la aprobación requiere verificación biométrica en un dispositivo compatible."
+      ],
+      "takeaway": "El agente puede completar una compra que el usuario ha revisado.",
+      "caveat": "El acceso inicial es para mayores de edad con ChatGPT Pro en Estados Unidos y una tarjeta estadounidense elegible.",
+      "company": "OpenAI",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-13T20:50:06.683Z",
+      "modifiedAt": "2026-11-13T20:50:06.683Z",
+      "detectedAt": "2026-11-13",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+        }
+      ]
+    },
     {
       "slug": "stanford-ai100-2026-mainstream-report",
       "dedup_key": "stanford-ai100-2026-mainstream-report",
@@ -7497,6 +7617,19 @@
   ],
   "xPosts": [
     {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "title": "Google DeepMind presenta Gemini 4 Hydrogen",
+      "summary": "La cuenta oficial presenta Hydrogen para programación rápida, síntesis multimodal y tareas cotidianas.",
+      "url": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+      "type": "Anuncio",
+      "date": "2026-11-12",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-13T20:50:13.868Z",
+      "access": "Cuenta, contenido y fecha comprobados mediante el oEmbed oficial de X."
+    },
+    {
       "name": "Google for Developers",
       "handle": "@googledevs",
       "title": "Google anuncia Gemini Decisions API",
@@ -7828,6 +7961,9 @@
     }
   ],
   "selectedSlugs": [
+    "openai-chatgpt-wallet-20261113",
+    "google-gemini-4-hydrogen-ga-20261112",
+    "llama-cpp-ggml-v100-20261113",
     "nvidia-kress-ceo-interina-20261112",
     "databricks-genie-one-workspace-20261111",
     "stanford-ai100-2026-mainstream-report",
@@ -8060,7 +8196,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-11T22:26:53.335Z",
-    "coverage": "Revisión parcial. Un anuncio original comprobado mediante oEmbed de X."
+    "checkedAt": "2026-11-13T20:50:13.868Z",
+    "coverage": "Revisión puntual del anuncio de Google DeepMind mediante oEmbed."
   }
 }

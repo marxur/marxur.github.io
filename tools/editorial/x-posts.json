@@ -1,5 +1,18 @@
 [
   {
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "title": "Google DeepMind presenta Gemini 4 Hydrogen",
+    "summary": "La cuenta oficial presenta Hydrogen para programación rápida, síntesis multimodal y tareas cotidianas.",
+    "url": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+    "sourceUrl": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+    "type": "Anuncio",
+    "date": "2026-11-12",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-13T20:50:13.868Z",
+    "access": "Cuenta, contenido y fecha comprobados mediante el oEmbed oficial de X."
+  },
+  {
     "name": "Google for Developers",
     "handle": "@googledevs",
     "title": "Google anuncia Gemini Decisions API",

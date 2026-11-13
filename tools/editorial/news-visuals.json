@@ -338,6 +338,30 @@
       "src": "/assets/news-visuals/stanford-ai100-20261112.webp",
       "position": "50% 50%",
       "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "wallet-20261113",
+      "slug": "openai-chatgpt-wallet-20261113",
+      "prompt": "Editorial conceptual photo of a payment card shielding its details behind frosted glass as a checkout terminal glows, cobalt and amber. 3:2 landscape, no text or logos.",
+      "src": "/assets/news-visuals/wallet-20261113.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "hydrogen-20261113",
+      "slug": "google-gemini-4-hydrogen-ga-20261112",
+      "prompt": "Editorial photo of two fast optically lit computing tracks inside a modern lab, one blue light streak and focused computer coding workspace, white and cyan. 3:2 landscape, no text or logos.",
+      "src": "/assets/news-visuals/hydrogen-20261113.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "llama-local-20261113",
+      "slug": "llama-cpp-ggml-v100-20261113",
+      "prompt": "Editorial realistic still life of a compact local inference computer and neatly laid components on a developer workbench, violet and warm yellow. 3:2 landscape, no text or logos.",
+      "src": "/assets/news-visuals/llama-local-20261113.webp",
+      "position": "50% 50%",
+      "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-12T20:50:53.075Z",
+  "generated": "2026-11-13T20:50:06.683Z",
   "items": [
+    {
+      "title": "llama.cpp y ggml llegan a la versión 1.0",
+      "summary": "Las nuevas versiones marcan un punto de referencia para las aplicaciones que integran las bibliotecas de inferencia local.",
+      "url": "/noticias/llama-cpp-ggml-v100-20261113.html",
+      "category": "Modelos",
+      "topic": "IA local",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "ggml-org",
+      "slug": "llama-cpp-ggml-v100-20261113"
+    },
+    {
+      "title": "Google lanza Gemini 4 Hydrogen para programación y tareas con agentes",
+      "summary": "El modelo se incorpora a la aplicación Gemini y a la API. Google también lo usa junto a Carbon en el selector automático de Antigravity.",
+      "url": "/noticias/google-gemini-4-hydrogen-ga-20261112.html",
+      "category": "Modelos",
+      "topic": "Gemini",
+      "date": "2026-11-12",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-gemini-4-hydrogen-ga-20261112"
+    },
+    {
+      "title": "ChatGPT Wallet empieza a desplegarse para compras con agentes",
+      "summary": "El asistente personal puede completar compras aprobadas por el usuario. El acceso inicial se limita a suscriptores Pro elegibles en Estados Unidos.",
+      "url": "/noticias/openai-chatgpt-wallet-20261113.html",
+      "category": "Herramientas",
+      "topic": "ChatGPT",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-chatgpt-wallet-20261113"
+    },
     {
       "title": "El estudio AI100 de Stanford revisa cinco años de expansión de la IA generativa",
       "summary": "El tercer informe examina avances técnicos, adopción y gobernanza desde la revisión de 2021.",
