@@ -1,7 +1,126 @@
 {
-  "edition": "2026-11-13T20:50:06.683Z",
-  "reviewedAt": "2026-11-13T20:50:06.683Z",
+  "edition": "2026-11-14T20:48:52.034Z",
+  "reviewedAt": "2026-11-14T20:48:52.034Z",
   "articles": [
+    {
+      "slug": "deepseek-app-tools-api-20261113",
+      "dedup_key": "deepseek-app-tools-api-20261113",
+      "date": "2026-11-13",
+      "source": "DeepSeek",
+      "topic": "DeepSeek",
+      "category": "Herramientas",
+      "title": "DeepSeek lleva la búsqueda, los archivos y la lectura de enlaces de su app a la API",
+      "summary": "V4.1 Flash incorpora estas funciones en tres interfaces. DeepSeek también ofrece servicios independientes de OCR y voz.",
+      "sourceUrl": "https://api-docs.deepseek.com/news/news261113/",
+      "sourceTitle": "The full DeepSeek App experience, now via API",
+      "body": [
+        "DeepSeek anunció el 13 de noviembre que los desarrolladores pueden activar la búsqueda web, la lectura de enlaces y el procesamiento de documentos en V4.1 Flash mediante Messages, Responses y Chat Completions.",
+        "El proveedor gestiona las llamadas a herramientas y la incorporación de resultados al contexto de la conversación. Además ofrece interfaces independientes para reconocimiento óptico de caracteres, transcripción y síntesis de voz."
+      ],
+      "takeaway": "Un equipo puede añadir búsqueda con citas y lectura de archivos a su aplicación sin construir toda esa infraestructura.",
+      "caveat": "Las funciones ampliadas pueden generar cargos adicionales al coste de los tokens.",
+      "company": "DeepSeek",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-14T20:48:52.034Z",
+      "modifiedAt": "2026-11-14T20:48:52.034Z",
+      "detectedAt": "2026-11-14",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "DeepSeek"
+      ],
+      "sources": [
+        {
+          "name": "DeepSeek",
+          "title": "The full DeepSeek App experience, now via API",
+          "url": "https://api-docs.deepseek.com/news/news261113/"
+        }
+      ]
+    },
+    {
+      "slug": "sglang-nvidia-certified-nim-20261113",
+      "dedup_key": "sglang-nvidia-certified-nim-20261113",
+      "date": "2026-11-13",
+      "source": "LMSYS y NVIDIA",
+      "topic": "Infraestructura",
+      "category": "Herramientas",
+      "title": "NVIDIA incorpora el motor abierto SGLang a sus microservicios NIM certificados",
+      "summary": "La integración ofrece contenedores validados y perfiles de inferencia para combinaciones compatibles de modelos y GPU.",
+      "sourceUrl": "https://www.lmsys.org/blog/2026-11-13-sglang-nvidia-nim/",
+      "sourceTitle": "SGLang and NVIDIA NIM: Advancing Enterprise Inference Together",
+      "body": [
+        "Los equipos de NVIDIA NIM y SGLang anunciaron el 13 de noviembre que el motor abierto de inferencia pasa a ejecutarse dentro de los microservicios NIM certificados.",
+        "NVIDIA publica configuraciones probadas para determinadas GPU y modelos. Los equipos que sirven modelos en producción pueden usar esos perfiles como punto de partida para medir latencia y capacidad en su entorno."
+      ],
+      "takeaway": "La matriz de soporte permite comprobar qué combinaciones se han validado antes de planificar un despliegue.",
+      "caveat": "El anuncio cubre configuraciones concretas. El rendimiento depende del modelo, el hardware y la carga.",
+      "company": "LMSYS y NVIDIA",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-14T20:48:52.034Z",
+      "modifiedAt": "2026-11-14T20:48:52.034Z",
+      "detectedAt": "2026-11-14",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "LMSYS y NVIDIA",
+        "Infraestructura"
+      ],
+      "sources": [
+        {
+          "name": "LMSYS y NVIDIA",
+          "title": "SGLang and NVIDIA NIM: Advancing Enterprise Inference Together",
+          "url": "https://www.lmsys.org/blog/2026-11-13-sglang-nvidia-nim/"
+        }
+      ]
+    },
+    {
+      "slug": "google-deepmind-pardig-satweave-20261113",
+      "dedup_key": "google-deepmind-pardig-satweave-20261113",
+      "date": "2026-11-13",
+      "source": "Google DeepMind",
+      "topic": "Investigación",
+      "category": "Ciencia",
+      "title": "DeepMind abre los datos de satélite y lluvia que usa WeatherNext 3",
+      "summary": "SatWeave reúne imágenes de satélite en un mosaico global y PARDIG estima la precipitación. Ambos ofrecen acceso al histórico y a datos en directo.",
+      "sourceUrl": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "sourceTitle": "Opening the datasets behind our AI weather models",
+      "body": [
+        "Google DeepMind publicó el 13 de noviembre dos conjuntos de datos que ya usa su modelo WeatherNext 3. SatWeave combina observaciones de satélites geoestacionarios en un mosaico global con canales de luz visible, vapor de agua e infrarrojo.",
+        "PARDIG combina observaciones y estimaciones para reconstruir la precipitación global. El histórico y los datos en directo permiten usar ambos conjuntos de forma independiente para estudiar tormentas, desarrollar modelos o comparar estimaciones con mediciones locales."
+      ],
+      "takeaway": "La apertura permite trabajar con los datos de entrada de WeatherNext 3 y evaluar su utilidad en aplicaciones propias.",
+      "caveat": "Los resultados de precisión difundidos corresponden a la evaluación del equipo de WeatherNext.",
+      "company": "Google DeepMind",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-14T20:48:52.034Z",
+      "modifiedAt": "2026-11-14T20:48:52.034Z",
+      "detectedAt": "2026-11-14",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google DeepMind",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "title": "Opening the datasets behind our AI weather models",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
+        }
+      ]
+    },
     {
       "slug": "llama-cpp-ggml-v100-20261113",
       "dedup_key": "llama-cpp-ggml-v100-20261113",
@@ -7961,6 +8080,9 @@
     }
   ],
   "selectedSlugs": [
+    "google-deepmind-pardig-satweave-20261113",
+    "sglang-nvidia-certified-nim-20261113",
+    "deepseek-app-tools-api-20261113",
     "openai-chatgpt-wallet-20261113",
     "google-gemini-4-hydrogen-ga-20261112",
     "llama-cpp-ggml-v100-20261113",

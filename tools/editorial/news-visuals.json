@@ -362,6 +362,36 @@
       "src": "/assets/news-visuals/llama-local-20261113.webp",
       "position": "50% 50%",
       "provenance": "Ilustración conceptual generada para Noticias IA y revisada visualmente."
+    },
+    {
+      "key": "weathernext-data-20261114",
+      "slug": "google-deepmind-pardig-satweave-20261113",
+      "prompt": "Wide 3:2 editorial science photograph-style illustration of Earth's curved horizon from orbit, white spirals of actual-looking clouds above an indigo ocean, a small silver weather satellite in foreground observing the storm, a subtle teal translucent observation swath crossing the cloud layer, rich navy and cyan, clean modern science magazine cover, highly legible at thumbnail, no words, no labels, no logos.",
+      "position": "50% 50%",
+      "provenance": "Ilustración editorial generada con OpenAI para Noticias IA y revisada visualmente.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "src": "/assets/news-visuals/weathernext-data-20261114.webp"
+    },
+    {
+      "key": "sglang-nim-20261114",
+      "slug": "sglang-nvidia-certified-nim-20261113",
+      "prompt": "Wide 3:2 modern editorial technology photograph-style illustration of open-source inference running inside certified infrastructure: overhead close view of a real-looking dense modular AI accelerator tray smoothly docking into a server rack, amber edge lighting and graphite hardware, bronze and black color palette, tactile metal engineering, crisp thumbnail composition, no text, logos or holograms.",
+      "position": "50% 50%",
+      "provenance": "Ilustración editorial generada con OpenAI para Noticias IA y revisada visualmente.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "src": "/assets/news-visuals/sglang-nim-20261114.webp"
+    },
+    {
+      "key": "deepseek-api-tools-20261114",
+      "slug": "deepseek-app-tools-api-20261113",
+      "prompt": "Wide 3:2 editorial conceptual still life, modern dark computer workspace where a central API hub is visually connected by fine luminous violet optical cables to a paper document, a microphone and a translucent browser pane, objects physically arranged on a matte lavender desk, refined directional daylight, crisp silhouettes, no text, logos or people.",
+      "position": "50% 50%",
+      "provenance": "Ilustración editorial generada con OpenAI para Noticias IA y revisada visualmente.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "src": "/assets/news-visuals/deepseek-api-tools-20261114.webp"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

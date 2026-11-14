@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-13T20:50:06.683Z",
+  "generated": "2026-11-14T20:48:52.034Z",
   "items": [
+    {
+      "title": "DeepSeek lleva la búsqueda, los archivos y la lectura de enlaces de su app a la API",
+      "summary": "V4.1 Flash incorpora estas funciones en tres interfaces. DeepSeek también ofrece servicios independientes de OCR y voz.",
+      "url": "/noticias/deepseek-app-tools-api-20261113.html",
+      "category": "Herramientas",
+      "topic": "DeepSeek",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "DeepSeek",
+      "slug": "deepseek-app-tools-api-20261113"
+    },
+    {
+      "title": "NVIDIA incorpora el motor abierto SGLang a sus microservicios NIM certificados",
+      "summary": "La integración ofrece contenedores validados y perfiles de inferencia para combinaciones compatibles de modelos y GPU.",
+      "url": "/noticias/sglang-nvidia-certified-nim-20261113.html",
+      "category": "Herramientas",
+      "topic": "Infraestructura",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "LMSYS y NVIDIA",
+      "slug": "sglang-nvidia-certified-nim-20261113"
+    },
+    {
+      "title": "DeepMind abre los datos de satélite y lluvia que usa WeatherNext 3",
+      "summary": "SatWeave reúne imágenes de satélite en un mosaico global y PARDIG estima la precipitación. Ambos ofrecen acceso al histórico y a datos en directo.",
+      "url": "/noticias/google-deepmind-pardig-satweave-20261113.html",
+      "category": "Ciencia",
+      "topic": "Investigación",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "Google DeepMind",
+      "slug": "google-deepmind-pardig-satweave-20261113"
+    },
     {
       "title": "llama.cpp y ggml llegan a la versión 1.0",
       "summary": "Las nuevas versiones marcan un punto de referencia para las aplicaciones que integran las bibliotecas de inferencia local.",
