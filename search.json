@@ -1,6 +1,28 @@
 {
-  "generated": "2026-11-14T20:48:52.034Z",
+  "generated": "2026-11-15T20:54:27.225Z",
   "items": [
+    {
+      "title": "Sierra publica Poppy 1.0 y anuncia su integración en Shopify y Meta Muse",
+      "summary": "El protocolo busca que los asistentes personales puedan interactuar con empresas mediante sus webs, APIs y agentes de atención.",
+      "url": "/noticias/sierra-poppy-10-20261113.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "Sierra",
+      "slug": "sierra-poppy-10-20261113"
+    },
+    {
+      "title": "Pixel Dojo incorpora Seedance 2.5 Flash para generar vídeos con sonido",
+      "summary": "La versión Flash crea clips de hasta 30 segundos y está disponible en el estudio, la aplicación móvil y la API de Pixel Dojo.",
+      "url": "/noticias/pixel-dojo-seedance-25-flash-20261115.html",
+      "category": "Herramientas",
+      "topic": "Vídeo",
+      "date": "2026-11-15",
+      "type": "noticia",
+      "source": "Pixel Dojo",
+      "slug": "pixel-dojo-seedance-25-flash-20261115"
+    },
     {
       "title": "DeepSeek lleva la búsqueda, los archivos y la lectura de enlaces de su app a la API",
       "summary": "V4.1 Flash incorpora estas funciones en tres interfaces. DeepSeek también ofrece servicios independientes de OCR y voz.",

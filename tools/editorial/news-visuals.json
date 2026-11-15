@@ -392,6 +392,26 @@
       "attribution": "Noticias IA / OpenAI Image Generation",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "src": "/assets/news-visuals/deepseek-api-tools-20261114.webp"
+    },
+    {
+      "key": "seedance-flash-20261115",
+      "slug": "pixel-dojo-seedance-25-flash-20261115",
+      "src": "/assets/news-visuals/seedance-flash-20261115.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 modern editorial photograph-style illustration, a compact cinema camera on a motion-control track in a contemporary video studio, three luminous translucent frames suspended in sequence showing a coral silk ribbon in different positions, turquoise and coral accents, tactile optical glass, sharp striking thumbnail composition, no text, no logos, no people.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA, revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "sierra-poppy-20261115",
+      "slug": "sierra-poppy-10-20261113",
+      "src": "/assets/news-visuals/sierra-poppy-20261115.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 modern magazine illustration about personal AI agents connecting to online merchants, a top-down cyan and mint design with two distinct physical objects, a smartphone with an abstract assistant wave and a small brown kraft retail parcel with a blank white paper seal, a single illuminated optical line runs between them across the table, clean modern studio lighting, no writing or logos.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA, revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

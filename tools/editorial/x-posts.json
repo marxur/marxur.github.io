@@ -1,5 +1,18 @@
 [
   {
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "title": "OpenAI abre Businesses in ChatGPT en beta",
+    "summary": "Las empresas pueden gestionar su ficha y, si cumplen los requisitos, configurar un agente que responda a consultas de clientes.",
+    "url": "https://x.com/OpenAI/status/2120216592395174382",
+    "sourceUrl": "https://x.com/OpenAI/status/2120216592395174382",
+    "type": "Anuncio",
+    "date": "2026-11-10",
+    "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+    "checkedAt": "2026-11-15T20:54:27.225Z",
+    "access": "Cuenta, texto y fecha verificados mediante el oEmbed oficial de X."
+  },
+  {
     "name": "Google DeepMind",
     "handle": "@GoogleDeepMind",
     "title": "Google DeepMind presenta Gemini 4 Hydrogen",

@@ -1,7 +1,87 @@
 {
-  "edition": "2026-11-14T20:48:52.034Z",
-  "reviewedAt": "2026-11-14T20:48:52.034Z",
+  "edition": "2026-11-15T20:54:27.225Z",
+  "reviewedAt": "2026-11-15T20:54:27.225Z",
   "articles": [
+    {
+      "slug": "sierra-poppy-10-20261113",
+      "dedup_key": "sierra-poppy-10-20261113",
+      "date": "2026-11-13",
+      "source": "Sierra",
+      "topic": "Agentes IA",
+      "title": "Sierra publica Poppy 1.0 y anuncia su integración en Shopify y Meta Muse",
+      "summary": "El protocolo busca que los asistentes personales puedan interactuar con empresas mediante sus webs, APIs y agentes de atención.",
+      "sourceUrl": "https://sierra.ai/uk/blog/releasing-poppy",
+      "sourceTitle": "Releasing Personal Agent Protocol 1.0",
+      "body": [
+        "Sierra publicó la versión 1.0 de Personal Agent Protocol, también llamado Poppy, el 13 de noviembre. La especificación describe cómo un agente personal puede encontrar e interactuar con los canales que una empresa pone a su disposición.",
+        "Según Sierra, Shopify habilitó Poppy para sus comercios y Muse, el asistente de Meta, busca si el sitio visitado admite el protocolo. El anuncio también identifica a varios socios que están empezando a usarlo."
+      ],
+      "takeaway": "El protocolo abre una vía para que un asistente consulte productos o gestione peticiones a través de los canales establecidos por cada empresa.",
+      "caveat": "Las integraciones proceden del anuncio de Sierra. Las acciones disponibles dependen de cada empresa.",
+      "company": "Sierra",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-15T20:54:27.225Z",
+      "modifiedAt": "2026-11-15T20:54:27.225Z",
+      "detectedAt": "2026-11-15",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Sierra",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Sierra",
+          "title": "Releasing Personal Agent Protocol 1.0",
+          "url": "https://sierra.ai/uk/blog/releasing-poppy"
+        }
+      ]
+    },
+    {
+      "slug": "pixel-dojo-seedance-25-flash-20261115",
+      "dedup_key": "pixel-dojo-seedance-25-flash-20261115",
+      "date": "2026-11-15",
+      "source": "Pixel Dojo",
+      "topic": "Vídeo",
+      "title": "Pixel Dojo incorpora Seedance 2.5 Flash para generar vídeos con sonido",
+      "summary": "La versión Flash crea clips de hasta 30 segundos y está disponible en el estudio, la aplicación móvil y la API de Pixel Dojo.",
+      "sourceUrl": "https://pixeldojo.ai/changelog/2026-11",
+      "sourceTitle": "Seedance 2.5 Flash is here",
+      "body": [
+        "Pixel Dojo incorporó Seedance 2.5 Flash el 15 de noviembre. Puede generar vídeo con sonido a partir de una descripción, una foto o materiales de referencia. La plataforma lo ofrece en varias herramientas de edición y también como opción predeterminada de su asistente Sensei.",
+        "Flash admite salida a 480p y 720p en Pixel Dojo. Si el usuario pide 1080p en Sensei, el servicio utiliza la versión estándar de Seedance 2.5."
+      ],
+      "takeaway": "La versión Flash permite probar una escena con audio antes de dedicar más recursos a una salida en mayor resolución.",
+      "caveat": "Las resoluciones y los límites reflejan la integración de Pixel Dojo.",
+      "company": "Pixel Dojo",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-15T20:54:27.225Z",
+      "modifiedAt": "2026-11-15T20:54:27.225Z",
+      "detectedAt": "2026-11-15",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Pixel Dojo",
+        "Vídeo"
+      ],
+      "sources": [
+        {
+          "name": "Pixel Dojo",
+          "title": "Seedance 2.5 Flash is here",
+          "url": "https://pixeldojo.ai/changelog/2026-11"
+        }
+      ]
+    },
     {
       "slug": "deepseek-app-tools-api-20261113",
       "dedup_key": "deepseek-app-tools-api-20261113",
@@ -7736,6 +7816,19 @@
   ],
   "xPosts": [
     {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "title": "OpenAI abre Businesses in ChatGPT en beta",
+      "summary": "Las empresas pueden gestionar su ficha y, si cumplen los requisitos, configurar un agente que responda a consultas de clientes.",
+      "url": "https://x.com/OpenAI/status/2120216592395174382",
+      "sourceUrl": "https://x.com/OpenAI/status/2120216592395174382",
+      "type": "Anuncio",
+      "date": "2026-11-10",
+      "dateBasis": "fecha mostrada por el oEmbed oficial de X",
+      "checkedAt": "2026-11-15T20:54:27.225Z",
+      "access": "Cuenta, texto y fecha verificados mediante el oEmbed oficial de X."
+    },
+    {
       "name": "Google DeepMind",
       "handle": "@GoogleDeepMind",
       "title": "Google DeepMind presenta Gemini 4 Hydrogen",
@@ -8080,6 +8173,8 @@
     }
   ],
   "selectedSlugs": [
+    "pixel-dojo-seedance-25-flash-20261115",
+    "sierra-poppy-10-20261113",
     "google-deepmind-pardig-satweave-20261113",
     "sglang-nvidia-certified-nim-20261113",
     "deepseek-app-tools-api-20261113",
@@ -8318,7 +8413,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-13T20:50:13.868Z",
-    "coverage": "Revisión puntual del anuncio de Google DeepMind mediante oEmbed."
+    "checkedAt": "2026-11-15T20:54:27.225Z",
+    "coverage": "Cobertura parcial. OpenAI y ClaudeDevs confirmados por oEmbed. Se añade el enlace de OpenAI, cuenta configurada. ClaudeDevs queda como referencia auxiliar."
   }
 }
