@@ -412,6 +412,26 @@
       "attribution": "Noticias IA / OpenAI Image Generation",
       "provenance": "Ilustración editorial generada para Noticias IA, revisada visualmente.",
       "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "lvmh-news-20261116",
+      "slug": "openai-lvmh-medios-20261116",
+      "src": "/assets/news-visuals/lvmh-news-20261116.webp",
+      "position": "50% 50%",
+      "prompt": "Wide 3:2 modern editorial photograph illustration of an AI agreement with French newsrooms: folded unbranded newspapers, a photographer's loupe and a glass tablet on a sunlit walnut editorial desk in Paris, cream paper and amber light, no legible text or logos, strong thumbnail composition.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "contexta-rtve-20261116",
+      "slug": "rtve-contexta-asistente-ia-20261113",
+      "src": "/assets/news-visuals/contexta-rtve-20261116.webp",
+      "position": "50% 50%",
+      "prompt": "Wide 3:2 realistic editorial photograph illustration for a Spanish public broadcaster archive assistant: dark indigo audiovisual archive, rows of vintage broadcast tapes, a contemporary translucent screen with three small documentary contact sheets linked by fine lines, warm red accent, clean visual hierarchy, no text or logos.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

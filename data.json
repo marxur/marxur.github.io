@@ -1,7 +1,86 @@
 {
-  "edition": "2026-11-15T20:54:27.225Z",
-  "reviewedAt": "2026-11-15T20:54:27.225Z",
+  "edition": "2026-11-16T14:16:34.096Z",
+  "reviewedAt": "2026-11-16T14:16:34.096Z",
   "articles": [
+    {
+      "slug": "rtve-contexta-asistente-ia-20261113",
+      "dedup_key": "rtve-contexta-asistente-ia-20261113",
+      "date": "2026-11-13",
+      "source": "RTVE",
+      "topic": "Medios",
+      "title": "RTVE abre Contexta, un asistente que responde con su archivo de noticias",
+      "summary": "La herramienta permite hacer preguntas sobre actualidad y consultar los enlaces a los contenidos de RTVE en los que se basa cada respuesta.",
+      "sourceUrl": "https://www.rtve.es/rtve/20261113/rtve-lanza-contexta-rtve-asistente-ia-para-entender-actualidad-con-periodismo-rtve/17313265.shtml",
+      "sourceTitle": "RTVE lanza Contexta RTVE",
+      "body": [
+        "RTVE Noticias presentó Contexta el 13 de noviembre. El asistente responde preguntas en lenguaje natural a partir de contenidos informativos de RTVE publicados desde 2015 y ofrece enlaces para consultar las fuentes.",
+        "El servicio admite preguntas de seguimiento. También sugiere consultas a partir de los titulares recientes de RTVE Noticias."
+      ],
+      "takeaway": "Las referencias permiten pasar de una respuesta a la cobertura original de RTVE.",
+      "caveat": "La herramienta se limita al archivo informativo de RTVE.",
+      "company": "RTVE",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-16T14:16:34.096Z",
+      "modifiedAt": "2026-11-16T14:16:34.096Z",
+      "detectedAt": "2026-11-16",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "RTVE",
+        "Medios"
+      ],
+      "sources": [
+        {
+          "name": "RTVE",
+          "title": "RTVE lanza Contexta RTVE",
+          "url": "https://www.rtve.es/rtve/20261113/rtve-lanza-contexta-rtve-asistente-ia-para-entender-actualidad-con-periodismo-rtve/17313265.shtml"
+        }
+      ]
+    },
+    {
+      "slug": "openai-lvmh-medios-20261116",
+      "dedup_key": "openai-lvmh-medios-20261116",
+      "date": "2026-11-16",
+      "source": "OpenAI",
+      "topic": "OpenAI",
+      "title": "OpenAI y los medios de LVMH acuerdan llevar sus noticias a ChatGPT",
+      "summary": "El acuerdo prevé incorporar resúmenes y enlaces de medios como Les Echos, Le Parisien y Paris Match, además de desplegar ChatGPT Enterprise en sus equipos.",
+      "sourceUrl": "https://openai.com/index/lvmh-media-division-partnership/",
+      "sourceTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "body": [
+        "La división de medios de LVMH y OpenAI anunciaron un acuerdo que abarca las publicaciones del grupo. Las respuestas de ChatGPT a preguntas pertinentes podrán incluir extractos o resúmenes con la identificación de la fuente y un enlace al artículo original.",
+        "El acuerdo también prevé desplegar ChatGPT Enterprise en los equipos de la división. Las redacciones podrán explorar usos como buscar, comparar o traducir documentos con formación adaptada a cada equipo."
+      ],
+      "takeaway": "El anuncio abarca tanto el trabajo en las redacciones como la distribución de sus artículos.",
+      "caveat": "El comunicado no fija un calendario por cabecera.",
+      "company": "OpenAI",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-16T14:16:34.096Z",
+      "modifiedAt": "2026-11-16T14:16:34.096Z",
+      "detectedAt": "2026-11-16",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "url": "https://openai.com/index/lvmh-media-division-partnership/"
+        }
+      ]
+    },
     {
       "slug": "sierra-poppy-10-20261113",
       "dedup_key": "sierra-poppy-10-20261113",
@@ -8173,6 +8252,8 @@
     }
   ],
   "selectedSlugs": [
+    "openai-lvmh-medios-20261116",
+    "rtve-contexta-asistente-ia-20261113",
     "pixel-dojo-seedance-25-flash-20261115",
     "sierra-poppy-10-20261113",
     "google-deepmind-pardig-satweave-20261113",

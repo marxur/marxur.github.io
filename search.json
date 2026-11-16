@@ -1,6 +1,28 @@
 {
-  "generated": "2026-11-15T20:54:27.225Z",
+  "generated": "2026-11-16T14:16:34.096Z",
   "items": [
+    {
+      "title": "RTVE abre Contexta, un asistente que responde con su archivo de noticias",
+      "summary": "La herramienta permite hacer preguntas sobre actualidad y consultar los enlaces a los contenidos de RTVE en los que se basa cada respuesta.",
+      "url": "/noticias/rtve-contexta-asistente-ia-20261113.html",
+      "category": "Herramientas",
+      "topic": "Medios",
+      "date": "2026-11-13",
+      "type": "noticia",
+      "source": "RTVE",
+      "slug": "rtve-contexta-asistente-ia-20261113"
+    },
+    {
+      "title": "OpenAI y los medios de LVMH acuerdan llevar sus noticias a ChatGPT",
+      "summary": "El acuerdo prevé incorporar resúmenes y enlaces de medios como Les Echos, Le Parisien y Paris Match, además de desplegar ChatGPT Enterprise en sus equipos.",
+      "url": "/noticias/openai-lvmh-medios-20261116.html",
+      "category": "Herramientas",
+      "topic": "OpenAI",
+      "date": "2026-11-16",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-lvmh-medios-20261116"
+    },
     {
       "title": "Sierra publica Poppy 1.0 y anuncia su integración en Shopify y Meta Muse",
       "summary": "El protocolo busca que los asistentes personales puedan interactuar con empresas mediante sus webs, APIs y agentes de atención.",
