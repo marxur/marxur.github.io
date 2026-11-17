@@ -1,6 +1,50 @@
 {
-  "generated": "2026-11-16T14:16:34.096Z",
+  "generated": "2026-11-17T20:44:51.613Z",
   "items": [
+    {
+      "title": "AMD anuncia el cierre de la compra de World Labs e incorpora a Fei-Fei Li",
+      "summary": "El equipo de modelos espaciales seguirá investigando y colaborará con los ingenieros de AMD en futuras plataformas de IA.",
+      "url": "/noticias/amd-world-labs-fei-fei-li-20261116.html",
+      "category": "Herramientas",
+      "topic": "Infraestructura",
+      "date": "2026-11-16",
+      "type": "noticia",
+      "source": "AMD",
+      "slug": "amd-world-labs-fei-fei-li-20261116"
+    },
+    {
+      "title": "Google amplía el modo Tareas de Gemini y lo abre gratis en seis países",
+      "summary": "La actualización permite delegar encargos como concertar citas. Las funciones avanzadas empiezan a llegar a Estados Unidos.",
+      "url": "/noticias/google-gemini-tasks-expansion-20261117.html",
+      "category": "Herramientas",
+      "topic": "Gemini",
+      "date": "2026-11-17",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-gemini-tasks-expansion-20261117"
+    },
+    {
+      "title": "Microsoft estrena MAI Code 2 y Code 2 Flash en GitHub Copilot",
+      "summary": "GitHub ya ofrece los dos modelos en su selector. Flash también llega a los planes Free y Student.",
+      "url": "/noticias/microsoft-mai-code-2-copilot-20261117.html",
+      "category": "Modelos",
+      "topic": "Agentes IA",
+      "date": "2026-11-17",
+      "type": "noticia",
+      "source": "GitHub",
+      "slug": "microsoft-mai-code-2-copilot-20261117"
+    },
+    {
+      "title": "OpenAI lanza GPT‑6.2 Astra y Sol en ChatGPT Work, Codex y la API",
+      "summary": "Astra se orienta a proyectos complejos. Sol busca un equilibrio entre calidad y eficiencia para el trabajo cotidiano.",
+      "url": "/noticias/openai-gpt-62-astra-sol-20261117.html",
+      "category": "Modelos",
+      "topic": "OpenAI",
+      "date": "2026-11-17",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-gpt-62-astra-sol-20261117"
+    },
     {
       "title": "RTVE abre Contexta, un asistente que responde con su archivo de noticias",
       "summary": "La herramienta permite hacer preguntas sobre actualidad y consultar los enlaces a los contenidos de RTVE en los que se basa cada respuesta.",

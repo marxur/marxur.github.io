@@ -1,7 +1,176 @@
 {
-  "edition": "2026-11-16T14:16:34.096Z",
-  "reviewedAt": "2026-11-16T14:16:34.096Z",
+  "edition": "2026-11-17T20:44:51.613Z",
+  "reviewedAt": "2026-11-17T20:44:51.613Z",
   "articles": [
+    {
+      "slug": "amd-world-labs-fei-fei-li-20261116",
+      "dedup_key": "amd-world-labs-fei-fei-li-20261116",
+      "date": "2026-11-16",
+      "source": "AMD",
+      "topic": "Infraestructura",
+      "title": "AMD anuncia el cierre de la compra de World Labs e incorpora a Fei-Fei Li",
+      "summary": "El equipo de modelos espaciales seguirá investigando y colaborará con los ingenieros de AMD en futuras plataformas de IA.",
+      "sourceUrl": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+      "sourceTitle": "AMD anuncia el cierre de la compra de World Labs e incorpora a Fei-Fei Li",
+      "body": [
+        "AMD anunció el 16 de noviembre que había completado la adquisición de World Labs, que desarrolla modelos para crear y simular entornos tridimensionales interactivos. El documento de AMD ante la SEC sitúa el cierre el día 13.",
+        "Fei-Fei Li se incorpora como vicepresidenta ejecutiva y científica jefe, con reporte directo a Lisa Su. El equipo de World Labs seguirá investigando modelos y aportará su experiencia al desarrollo de hardware y software."
+      ],
+      "takeaway": "AMD incorpora investigación en modelos de mundo al diseño de su infraestructura.",
+      "caveat": "AMD describe una línea de trabajo conjunta sin anunciar un producto nuevo.",
+      "company": "AMD",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-17T20:44:51.613Z",
+      "modifiedAt": "2026-11-17T20:44:51.613Z",
+      "detectedAt": "2026-11-17",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "AMD",
+        "Infraestructura"
+      ],
+      "sources": [
+        {
+          "name": "AMD",
+          "title": "AMD anuncia el cierre de la compra de World Labs e incorpora a Fei-Fei Li",
+          "url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/"
+        },
+        {
+          "name": "AMD / SEC",
+          "title": "Form 8-K/A",
+          "url": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-26-462340/d105780d8ka.htm"
+        }
+      ]
+    },
+    {
+      "slug": "google-gemini-tasks-expansion-20261117",
+      "dedup_key": "google-gemini-tasks-expansion-20261117",
+      "date": "2026-11-17",
+      "source": "Google",
+      "topic": "Gemini",
+      "title": "Google amplía el modo Tareas de Gemini y lo abre gratis en seis países",
+      "summary": "La actualización permite delegar encargos como concertar citas. Las funciones avanzadas empiezan a llegar a Estados Unidos.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "sourceTitle": "Google amplía el modo Tareas de Gemini y lo abre gratis en seis países",
+      "body": [
+        "Google anunció una ampliación del modo Tareas de Gemini, que usa Gemini 4 Hydrogen. La aplicación permite alternar entre el chat y el modo Tareas para encargar gestiones cotidianas.",
+        "Google inició el despliegue gratuito en Estados Unidos, Japón, Corea del Sur, Canadá, Australia e India. Algunas funciones avanzadas se activan primero en Estados Unidos."
+      ],
+      "takeaway": "El modo Tareas amplía el tipo de gestiones que se pueden delegar desde la aplicación.",
+      "caveat": "España queda fuera de los mercados enumerados en el lanzamiento.",
+      "company": "Google",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-17T20:44:51.613Z",
+      "modifiedAt": "2026-11-17T20:44:51.613Z",
+      "detectedAt": "2026-11-17",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Google amplía el modo Tareas de Gemini y lo abre gratis en seis países",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-mai-code-2-copilot-20261117",
+      "dedup_key": "microsoft-mai-code-2-copilot-20261117",
+      "date": "2026-11-17",
+      "source": "GitHub",
+      "topic": "Agentes IA",
+      "title": "Microsoft estrena MAI Code 2 y Code 2 Flash en GitHub Copilot",
+      "summary": "GitHub ya ofrece los dos modelos en su selector. Flash también llega a los planes Free y Student.",
+      "sourceUrl": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/",
+      "sourceTitle": "Microsoft estrena MAI Code 2 y Code 2 Flash en GitHub Copilot",
+      "body": [
+        "Microsoft presentó los dos modelos en Ignite. Code 2 está pensado para depuración compleja, refactorizaciones y cambios en varios archivos. Flash está orientado a explicaciones, ediciones acotadas e iteraciones rápidas.",
+        "Los modelos también llegan a Foundry. En equipos de Copilot Business y Enterprise, su disponibilidad depende de la política que haya configurado el administrador."
+      ],
+      "takeaway": "Los equipos pueden elegir entre un modelo para cambios complejos y uno para cambios rápidos.",
+      "caveat": "La disponibilidad de Code 2 y Code 2 Flash varía según el plan.",
+      "company": "GitHub",
+      "category": "Modelos",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-17T20:44:51.613Z",
+      "modifiedAt": "2026-11-17T20:44:51.613Z",
+      "detectedAt": "2026-11-17",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "GitHub",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "GitHub",
+          "title": "Microsoft estrena MAI Code 2 y Code 2 Flash en GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/"
+        },
+        {
+          "name": "Microsoft",
+          "title": "Ignite 2026: Building the frontier ecosystem",
+          "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+        }
+      ]
+    },
+    {
+      "slug": "openai-gpt-62-astra-sol-20261117",
+      "dedup_key": "openai-gpt-62-astra-sol-20261117",
+      "date": "2026-11-17",
+      "source": "OpenAI",
+      "topic": "OpenAI",
+      "title": "OpenAI lanza GPT‑6.2 Astra y Sol en ChatGPT Work, Codex y la API",
+      "summary": "Astra se orienta a proyectos complejos. Sol busca un equilibrio entre calidad y eficiencia para el trabajo cotidiano.",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "sourceTitle": "OpenAI lanza GPT‑6.2 Astra y Sol en ChatGPT Work, Codex y la API",
+      "body": [
+        "OpenAI dice que Astra sigue mejor las plantillas de documentos, hojas de cálculo y presentaciones y que ambos modelos usan menos tokens de salida en sus pruebas de trabajo profesional.",
+        "El lanzamiento cubre ChatGPT Work y Codex para planes elegibles y la API. El modo Ultrafast está disponible en la API para ambos modelos y su acceso por suscripción depende del plan."
+      ],
+      "takeaway": "Astra y Sol llegan el mismo día a las herramientas de trabajo y a la API.",
+      "caveat": "Las comparaciones de rendimiento proceden de las evaluaciones publicadas por OpenAI.",
+      "company": "OpenAI",
+      "category": "Modelos",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-17T20:44:51.613Z",
+      "modifiedAt": "2026-11-17T20:44:51.613Z",
+      "detectedAt": "2026-11-17",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "OpenAI lanza GPT‑6.2 Astra y Sol en ChatGPT Work, Codex y la API",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        }
+      ]
+    },
     {
       "slug": "rtve-contexta-asistente-ia-20261113",
       "dedup_key": "rtve-contexta-asistente-ia-20261113",
@@ -8252,6 +8421,10 @@
     }
   ],
   "selectedSlugs": [
+    "openai-gpt-62-astra-sol-20261117",
+    "microsoft-mai-code-2-copilot-20261117",
+    "google-gemini-tasks-expansion-20261117",
+    "amd-world-labs-fei-fei-li-20261116",
     "openai-lvmh-medios-20261116",
     "rtve-contexta-asistente-ia-20261113",
     "pixel-dojo-seedance-25-flash-20261115",

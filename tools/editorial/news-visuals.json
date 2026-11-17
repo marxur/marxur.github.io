@@ -432,6 +432,46 @@
       "attribution": "Noticias IA / OpenAI Image Generation",
       "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
       "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "gpt62-models-20261117",
+      "slug": "openai-gpt-62-astra-sol-20261117",
+      "src": "/assets/news-visuals/gpt62-models-20261117.webp",
+      "position": "50% 50%",
+      "prompt": "Editorial landscape 3:2 photo illustration for two new AI models for professional work, paired architect workstations in a modern studio, one with physical architectural scale model and the other with a restrained abstract data plot on a glass screen, violet and soft cream light, no writing or logos",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "mai-code2-20261117",
+      "slug": "microsoft-mai-code-2-copilot-20261117",
+      "src": "/assets/news-visuals/mai-code2-20261117.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial photo illustration on coding models in GitHub Copilot, close up of two distinct precision tools resting side by side on a dark developer desk near a blurred monitor with abstract syntax coloring, warm orange and cobalt side lights, no identifiable text logos or people",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "gemini-tasks-20261117",
+      "slug": "google-gemini-tasks-expansion-20261117",
+      "src": "/assets/news-visuals/gemini-tasks-20261117.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial illustration of a smartphone on breakfast counter beside small calendar and keys, subtle graphic clock and checklist on phone as visual cues for recurring AI tasks, airy pistachio and peach daylight, modern and realistic no text or logos",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "amd-world-labs-20261117",
+      "slug": "amd-world-labs-fei-fei-li-20261116",
+      "src": "/assets/news-visuals/amd-world-labs-20261117.webp",
+      "position": "50% 50%",
+      "prompt": "Wide 3:2 editorial image of world model research meeting chip development: infrared-red and dusk blue environment, a miniature interactive 3D city street rendered as a physical diorama emerging through a workstation's clean glass display, with a small bare processor on the foreground workbench, no lettering people or logos.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."
