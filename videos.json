@@ -1,37 +1,37 @@
 {
-    "videos": [
-        {
-            "id": "tYcsUY8GRlk",
-            "title": "El resumen de Noticias IA · 17 de octubre de 2026",
-            "publishedAt": "2026-10-17T12:00:00Z"
-        },
-        {
-            "id": "ExnzuMOHcVg",
-            "title": "Google DeepMind y Singapur ajustan Gemma para detectar estafas en el móvil",
-            "publishedAt": "2026-10-15T12:00:06+00:00"
-        },
-        {
-            "id": "IPrTGAj-AFY",
-            "title": "NVIDIA invierte 250 M$ para seguridad de agentes, adiós a GPT-4o en la API y más | Noticias IA 14/10",
-            "publishedAt": "2026-10-14T19:00:36+00:00"
-        },
-        {
-            "id": "5S5_EbJ6BtM",
-            "title": "GPT-5.6 Sol ayuda a hackear Chrome en 6 días: 250.000 $ de recompensa",
-            "publishedAt": "2026-10-14T17:00:30+00:00"
-        },
-        {
-            "id": "pZUmmmgcNjI",
-            "title": "Gemini 4 Argon ya está disponible en todo el mundo",
-            "publishedAt": "2026-10-14T12:00:37+00:00"
-        },
-        {
-            "id": "d5t_kJGXTPU",
-            "title": "Bienvenidos a Noticias IA: la IA en menos de un minuto",
-            "publishedAt": "2026-10-13T17:00:34+00:00"
-        }
-    ],
-    "checkedAt": "2026-10-14T07:07:28.129Z",
-    "feedAvailable": false,
-    "channelUrl": "https://www.youtube.com/@NoticiasIAes/shorts"
+  "videos": [
+    {
+      "id": "a2kwl5REDFw",
+      "title": "Claude Sheets, Whiteboards, Data y Meetings #NoticiasIAes",
+      "publishedAt": "2026-11-11T20:00:39.000Z"
+    },
+    {
+      "id": "CG3CnfiXE1s",
+      "title": "OpenAI abre en beta Businesses in ChatGPT #NoticiasIAes",
+      "publishedAt": "2026-11-11T14:00:29.000Z"
+    },
+    {
+      "id": "Rkk84fbhru0",
+      "title": "Google DeepMind presenta Gemini Robotics 2.5 #NoticiasIAes",
+      "publishedAt": "2026-11-11T11:00:35.000Z"
+    },
+    {
+      "id": "SvEQvY-j5sM",
+      "title": "Adobe y Disney: alianza plurianual con Firefly Foundry",
+      "publishedAt": "2026-11-10T20:00:09.000Z"
+    },
+    {
+      "id": "PWdh2rfqr0o",
+      "title": "Google TPU 8tx y TPU 8i Max: confidencial y más contexto",
+      "publishedAt": "2026-11-10T17:00:31.000Z"
+    },
+    {
+      "id": "n-vZTywJFd8",
+      "title": "Meta Muse Ember, su modelo más pequeño y eficiente",
+      "publishedAt": "2026-11-10T14:00:08.000Z"
+    }
+  ],
+  "checkedAt": "2026-11-18T15:07:10.228Z",
+  "feedAvailable": false,
+  "channelUrl": "https://www.youtube.com/@NoticiasIAes/shorts"
 }
