@@ -472,6 +472,36 @@
       "attribution": "Noticias IA / OpenAI Image Generation",
       "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
       "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "genie4-access-20261118",
+      "slug": "genie4-project-genie-ultra-20261118",
+      "src": "/assets/news-visuals/genie4-access-20261118.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial concept photograph, a person seen from behind at a desktop screen exploring a richly rendered virtual tropical island with a floating stone bridge, crisp sound-wave ripples of light around the monitor as a hint of native audio, vibrant turquoise and lush green, realistic modern creative studio, no writing no logos",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "chip-design-20261118",
+      "slug": "openai-amd-chip-design-20261118",
+      "src": "/assets/news-visuals/chip-design-20261118.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial macro photograph of a silicon chip with carefully etched circuit pathways and a tiny precision optical measuring instrument above the die, burnt orange and deep graphite background, engineering design review, highly detailed and modern, no text or logos",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "key": "avatar6-20261118",
+      "slug": "heygen-avatar6-20261117",
+      "src": "/assets/news-visuals/avatar6-20261118.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial concept photo of a modern avatar video production workspace, a video camera facing a studio monitor showing a fictional woman presenter waist-up with an expressive open hand gesture, lavender studio and warm beige clothes, elegant photorealistic lighting, no text or logos",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
+      "rights": "Recurso generado para uso editorial de Noticias IA"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

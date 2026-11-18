@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-17T20:44:51.613Z",
+  "generated": "2026-11-18T20:47:36.932Z",
   "items": [
+    {
+      "title": "HeyGen presenta Avatar 6 con más control sobre gestos y expresión",
+      "summary": "El modelo permite dirigir la interpretación del avatar mediante instrucciones de lenguaje natural y estilos de presentación.",
+      "url": "/noticias/heygen-avatar6-20261117.html",
+      "category": "Herramientas",
+      "topic": "Vídeo",
+      "date": "2026-11-17",
+      "type": "noticia",
+      "source": "HeyGen",
+      "slug": "heygen-avatar6-20261117"
+    },
+    {
+      "title": "OpenAI y AMD prueban modelos de IA para optimizar el diseño de chips",
+      "summary": "OpenAI comunica mejoras de hasta un 14 % frente a diseños ya optimizados de bloques de GPU de AMD.",
+      "url": "/noticias/openai-amd-chip-design-20261118.html",
+      "category": "Modelos",
+      "topic": "Investigación",
+      "date": "2026-11-18",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-amd-chip-design-20261118"
+    },
+    {
+      "title": "Genie 4 llega a Project Genie con audio y edición de mundos en tiempo real",
+      "summary": "Google abre el acceso a suscriptores Ultra elegibles y añade un agente de creación y una galería de mundos para explorar y remezclar.",
+      "url": "/noticias/genie4-project-genie-ultra-20261118.html",
+      "category": "Herramientas",
+      "topic": "Vídeo",
+      "date": "2026-11-18",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "genie4-project-genie-ultra-20261118"
+    },
     {
       "title": "AMD anuncia el cierre de la compra de World Labs e incorpora a Fei-Fei Li",
       "summary": "El equipo de modelos espaciales seguirá investigando y colaborará con los ingenieros de AMD en futuras plataformas de IA.",

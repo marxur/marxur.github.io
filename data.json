@@ -1,7 +1,132 @@
 {
-  "edition": "2026-11-17T20:44:51.613Z",
-  "reviewedAt": "2026-11-17T20:44:51.613Z",
+  "edition": "2026-11-18T20:47:36.932Z",
+  "reviewedAt": "2026-11-18T20:47:36.932Z",
   "articles": [
+    {
+      "slug": "heygen-avatar6-20261117",
+      "dedup_key": "heygen-avatar6-20261117",
+      "date": "2026-11-17",
+      "source": "HeyGen",
+      "topic": "Vídeo",
+      "title": "HeyGen presenta Avatar 6 con más control sobre gestos y expresión",
+      "summary": "El modelo permite dirigir la interpretación del avatar mediante instrucciones de lenguaje natural y estilos de presentación.",
+      "sourceUrl": "https://www-redesign.heygen.com/events/introducing-avatar-6",
+      "sourceTitle": "HeyGen presenta Avatar 6 con más control sobre gestos y expresión",
+      "body": [
+        "HeyGen anunció Avatar 6 el 17 de noviembre y programó su demostración pública para el día 18. El modelo adapta los gestos, la emoción y la expresión al guion, según la compañía.",
+        "La presentación describe la creación de un avatar personal a partir de vídeo, fotografías y una grabación de voz. También incluye un modo Professional y plantillas de interpretación para ajustar cómo se presenta el mensaje."
+      ],
+      "takeaway": "Los creadores pueden ajustar cómo interpreta el avatar un guion.",
+      "caveat": "Las capacidades descritas proceden de la presentación de HeyGen y requieren una prueba propia para valorar los resultados.",
+      "company": "HeyGen",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-18T20:47:36.932Z",
+      "modifiedAt": "2026-11-18T20:47:36.932Z",
+      "detectedAt": "2026-11-18",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "HeyGen",
+        "Vídeo"
+      ],
+      "sources": [
+        {
+          "name": "HeyGen",
+          "title": "HeyGen presenta Avatar 6 con más control sobre gestos y expresión",
+          "url": "https://www-redesign.heygen.com/events/introducing-avatar-6"
+        },
+        {
+          "name": "HeyGen",
+          "title": "Anuncio de Avatar 6 fechado el 17 de noviembre",
+          "url": "https://www.heygen.com/"
+        }
+      ]
+    },
+    {
+      "slug": "openai-amd-chip-design-20261118",
+      "dedup_key": "openai-amd-chip-design-20261118",
+      "date": "2026-11-18",
+      "source": "OpenAI",
+      "topic": "Investigación",
+      "title": "OpenAI y AMD prueban modelos de IA para optimizar el diseño de chips",
+      "summary": "OpenAI comunica mejoras de hasta un 14 % frente a diseños ya optimizados de bloques de GPU de AMD.",
+      "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "sourceTitle": "OpenAI y AMD prueban modelos de IA para optimizar el diseño de chips",
+      "body": [
+        "OpenAI publicó una revisión de su trabajo en diseño de circuitos. La compañía explica que sus modelos reescriben descripciones de hardware y que herramientas de Synopsys comprueban si los cambios conservan el comportamiento del circuito.",
+        "En la colaboración con AMD, OpenAI atribuye a este proceso mejoras de hasta un 14 % en potencia, rendimiento y área frente a las referencias usadas. AMD habría incorporado parte de los cambios a un diseño enviado a fabricación."
+      ],
+      "takeaway": "La IA participa en cambios de circuitos que se verifican con herramientas de diseño electrónico.",
+      "caveat": "Las cifras son resultados comunicados por OpenAI para bloques y referencias concretas. No equivalen a una mejora uniforme de toda una GPU.",
+      "company": "OpenAI",
+      "category": "Modelos",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-18T20:47:36.932Z",
+      "modifiedAt": "2026-11-18T20:47:36.932Z",
+      "detectedAt": "2026-11-18",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "OpenAI y AMD prueban modelos de IA para optimizar el diseño de chips",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+        }
+      ]
+    },
+    {
+      "slug": "genie4-project-genie-ultra-20261118",
+      "dedup_key": "genie4-project-genie-ultra-20261118",
+      "date": "2026-11-18",
+      "source": "Google",
+      "topic": "Vídeo",
+      "title": "Genie 4 llega a Project Genie con audio y edición de mundos en tiempo real",
+      "summary": "Google abre el acceso a suscriptores Ultra elegibles y añade un agente de creación y una galería de mundos para explorar y remezclar.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "sourceTitle": "Genie 4 llega a Project Genie con audio y edición de mundos en tiempo real",
+      "body": [
+        "Google anunció el 18 de noviembre el acceso a Genie 4 dentro de Project Genie. Durante la exploración de un mundo, el usuario puede escribir nuevas instrucciones para cambiar el entorno. El modelo genera audio que se adapta a la escena.",
+        "La actualización incorpora un agente que ayuda a construir mundos y una galería para compartirlos. Genie 3 también recibe mejoras, incluidas sesiones de hasta tres minutos por generación."
+      ],
+      "takeaway": "La novedad es el acceso a Genie 4 en Project Genie, tras su presentación de octubre.",
+      "caveat": "El acceso inicial es para suscriptores Google AI Ultra elegibles. Google mantiene limitaciones en latencia, física y permanencia de los detalles.",
+      "company": "Google",
+      "category": "Herramientas",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-18T20:47:36.932Z",
+      "modifiedAt": "2026-11-18T20:47:36.932Z",
+      "detectedAt": "2026-11-18",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Vídeo"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Genie 4 llega a Project Genie con audio y edición de mundos en tiempo real",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+        }
+      ]
+    },
     {
       "slug": "amd-world-labs-fei-fei-li-20261116",
       "dedup_key": "amd-world-labs-fei-fei-li-20261116",
@@ -8499,6 +8624,9 @@
     }
   ],
   "selectedSlugs": [
+    "genie4-project-genie-ultra-20261118",
+    "openai-amd-chip-design-20261118",
+    "heygen-avatar6-20261117",
     "openai-gpt-62-astra-sol-20261117",
     "microsoft-mai-code-2-copilot-20261117",
     "google-gemini-tasks-expansion-20261117",
