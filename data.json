@@ -8066,6 +8066,84 @@
     {
       "name": "OpenAI",
       "handle": "@OpenAI",
+      "title": "OpenAI y AMD prueban IA para optimizar diseños de chips",
+      "summary": "OpenAI comunica mejoras de hasta un 14 % en una métrica conjunta de potencia, rendimiento y área de bloques de GPU de AMD. La cifra procede de la compañía.",
+      "date": "2026-11-18",
+      "url": "https://x.com/OpenAI/status/2123100386638877054",
+      "sourceUrl": "https://x.com/OpenAI/status/2123100386638877054",
+      "type": "Anuncio",
+      "checkedAt": "2026-11-18T19:52:08.221Z",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "title": "GPT‑6.2 Astra y Sol ya están disponibles",
+      "summary": "OpenAI anuncia los nuevos modelos Astra y Sol, orientados a trabajo profesional y eficiencia.",
+      "date": "2026-11-17",
+      "url": "https://x.com/OpenAI/status/2122750124543926515",
+      "sourceUrl": "https://x.com/OpenAI/status/2122750124543926515",
+      "type": "Anuncio",
+      "checkedAt": "2026-11-18T19:52:08.221Z",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "title": "OpenAI estudia el uso de ChatGPT entre investigadores",
+      "summary": "El anuncio resume un estudio con más de 1.800 participantes. La mejora de productividad mencionada fue declarada por los propios investigadores.",
+      "date": "2026-11-16",
+      "url": "https://x.com/OpenAI/status/2122380010287960095",
+      "sourceUrl": "https://x.com/OpenAI/status/2122380010287960095",
+      "type": "Anuncio",
+      "checkedAt": "2026-11-18T19:52:08.221Z",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "title": "Genie 4 llega a Project Genie",
+      "summary": "Google DeepMind anuncia audio nativo, edición en tiempo real y un agente para crear mundos virtuales interactivos.",
+      "date": "2026-11-18",
+      "url": "https://x.com/GoogleDeepMind/status/2123117733709586849",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2123117733709586849",
+      "type": "Anuncio",
+      "checkedAt": "2026-11-18T19:52:08.221Z",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "title": "Antigravity añade un complemento para enseñar tareas a robots",
+      "summary": "Google DeepMind presenta un flujo con Gemini 4 Hydrogen, brazos compatibles y simulación MuJoCo.",
+      "date": "2026-11-17",
+      "url": "https://x.com/GoogleDeepMind/status/2122767521925230896",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2122767521925230896",
+      "type": "Anuncio",
+      "checkedAt": "2026-11-18T19:52:08.221Z",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+    },
+    {
+      "name": "Google",
+      "handle": "@Google",
+      "title": "Google muestra una recreación de la construcción de la Torre Eiffel",
+      "summary": "La demostración combina agentes de Gemini 4 Carbon y fuentes históricas para crear una exposición tridimensional interactiva.",
+      "date": "2026-11-18",
+      "url": "https://x.com/Google/status/2122858128584720489",
+      "sourceUrl": "https://x.com/Google/status/2122858128584720489",
+      "type": "Demostración",
+      "checkedAt": "2026-11-18T19:52:08.221Z",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
       "title": "OpenAI abre Businesses in ChatGPT en beta",
       "summary": "Las empresas pueden gestionar su ficha y, si cumplen los requisitos, configurar un agente que responda a consultas de clientes.",
       "url": "https://x.com/OpenAI/status/2120216592395174382",
@@ -8667,7 +8745,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-15T20:54:27.225Z",
-    "coverage": "Cobertura parcial. OpenAI y ClaudeDevs confirmados por oEmbed. Se añade el enlace de OpenAI, cuenta configurada. ClaudeDevs queda como referencia auxiliar."
+    "checkedAt": "2026-11-18T19:52:08.221Z",
+    "coverage": "Siete perfiles públicos consultados. Selección de seis acontecimientos verificados mediante oEmbed. Cobertura parcial de cronologías."
   }
 }
