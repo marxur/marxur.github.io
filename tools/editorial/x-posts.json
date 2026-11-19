@@ -1,5 +1,31 @@
 [
   {
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "title": "Google DeepMind anuncia Gemini 4 Neon",
+    "summary": "La cuenta presenta Neon como una opción intermedia entre Carbon e Hydrogen para ingeniería de software, trabajo con conocimiento y ciencia.",
+    "url": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+    "sourceUrl": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+    "date": "2026-11-18",
+    "type": "Anuncio",
+    "dateBasis": "Fecha del oEmbed oficial de X",
+    "checkedAt": "2026-11-19T19:52:42.950Z",
+    "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+  },
+  {
+    "name": "Google",
+    "handle": "@Google",
+    "title": "Google muestra un simulador de esquí creado con Gemini 4 Neon",
+    "summary": "La demostración compartida por Google recrea recorridos de Chamonix. La compañía atribuye a Neon el código JavaScript y los efectos visuales realizados en Antigravity.",
+    "url": "https://x.com/Google/status/2123470665210851508",
+    "sourceUrl": "https://x.com/Google/status/2123470665210851508",
+    "date": "2026-11-19",
+    "type": "Demostración",
+    "dateBasis": "Fecha del oEmbed oficial de X",
+    "checkedAt": "2026-11-19T19:52:42.950Z",
+    "access": "Autor, texto y fecha comprobados mediante oEmbed oficial."
+  },
+  {
     "name": "OpenAI",
     "handle": "@OpenAI",
     "title": "OpenAI y AMD prueban IA para optimizar diseños de chips",
