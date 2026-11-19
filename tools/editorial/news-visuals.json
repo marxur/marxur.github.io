@@ -502,6 +502,39 @@
       "attribution": "Noticias IA / OpenAI Image Generation",
       "provenance": "Ilustración editorial generada para Noticias IA y revisada visualmente.",
       "rights": "Recurso generado para uso editorial de Noticias IA"
+    },
+    {
+      "slug": "gemini4-neon-lanzamiento-20261118",
+      "key": "gemini4-neon-lanzamiento-20261118",
+      "src": "/assets/news-visuals/gemini4-neon-lanzamiento-20261118.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Editorial illustration for article announcing Gemini 4 Neon, a long-context AI model for software engineering and document analysis. Wide 3:2 cinematic composition: a luminous neon gas discharge tube in elegant looping shape at center of a dark sophisticated laboratory desk, surrounded by layered translucent sheets of code-like abstract fine marks and document pages flowing into one coherent prism. Coral red neon with cool cyan glass reflections, precise contemporary 3D materials, striking distinct subject, luxurious photography quality. No words, no lettering, no logos, no generic robot, no gold mechanical sphere. Concept illustration, not documentary.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para este artículo y revisada visualmente el 19 de noviembre de 2026. No es una fotografía ni una captura del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-c37742f8-f11a-4b1a-8e27-7b913a80bd4c.png"
+    },
+    {
+      "slug": "chatgpt-dictado-continuo-20261118",
+      "key": "chatgpt-dictado-continuo-20261118",
+      "src": "/assets/news-visuals/chatgpt-dictado-continuo-20261118.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Editorial illustration about ChatGPT live voice dictation turning speech to text continuously. Wide 3:2 image, close side view of a sculptural brushed aluminium desktop microphone on a warm lavender desk, a flowing ribbon of luminous sound waves transforms into crisp cream paper strips with abstract ink marks, visually communicate speech becoming writing. Modern tactile 3D editorial art, bold violet and electric lime accents, soft daylight and beautifully controlled shadows. No readable text, no logos, no robots, no sphere. Conceptual not actual app screenshot.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para este artículo y revisada visualmente el 19 de noviembre de 2026. No es una fotografía ni una captura del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-8f573d33-bd56-46ab-8e0a-185b38a5f76f.png"
+    },
+    {
+      "slug": "openai-agentes-investigacion-frontera-irregular-20261118",
+      "key": "openai-agentes-investigacion-frontera-irregular-20261118",
+      "src": "/assets/news-visuals/openai-agentes-investigacion-frontera-irregular-20261118.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Editorial illustration for OpenAI study showing uneven success of research agents and need for human supervision. Wide 3:2 image: isometric research workbench with several experimental tracks made of teal and burnt-orange translucent steps of uneven heights; small precision robotic lab manipulators moving sample blocks along tracks, one gloved human hand carefully checking a block with a magnifying lens. Realistic tactile scientific materials, light cream background, sophisticated modern editorial 3D photography. Clear different workflows with bottlenecks, not an actual documented lab. No text, numbers, logos, charts with invented data, generic humanoid or sphere.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración editorial generada para este artículo y revisada visualmente el 19 de noviembre de 2026. No es una fotografía ni una captura del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-43789a32-da72-4413-b699-c04b208540da.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

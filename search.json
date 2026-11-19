@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-18T20:47:36.932Z",
+  "generated": "2026-11-19T20:53:44.903Z",
   "items": [
+    {
+      "title": "OpenAI estudia el avance desigual de los agentes en su investigación interna",
+      "summary": "El informe describe mejoras y cuellos de botella: analizar y comunicar resulta más fiable que construir sistemas.",
+      "url": "/noticias/openai-agentes-investigacion-frontera-irregular-20261118.html",
+      "category": "Modelos",
+      "topic": "Investigación",
+      "date": "2026-11-18",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-agentes-investigacion-frontera-irregular-20261118"
+    },
+    {
+      "title": "ChatGPT incorpora dictado en directo y elimina el límite de diez minutos",
+      "summary": "La transcripción aparece mientras hablas. OpenAI anuncia el despliegue global para todos los planes.",
+      "url": "/noticias/chatgpt-dictado-continuo-20261118.html",
+      "category": "Herramientas",
+      "topic": "Voz y teclado",
+      "date": "2026-11-18",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "chatgpt-dictado-continuo-20261118"
+    },
+    {
+      "title": "Google lanza Gemini 4 Neon para programación y análisis de documentos",
+      "summary": "El modelo admite un millón de tokens de contexto y llega a la API, Gemini y Antigravity.",
+      "url": "/noticias/gemini4-neon-lanzamiento-20261118.html",
+      "category": "Modelos",
+      "topic": "Gemini",
+      "date": "2026-11-18",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "gemini4-neon-lanzamiento-20261118"
+    },
     {
       "title": "HeyGen presenta Avatar 6 con más control sobre gestos y expresión",
       "summary": "El modelo permite dirigir la interpretación del avatar mediante instrucciones de lenguaje natural y estilos de presentación.",

@@ -1,7 +1,127 @@
 {
-  "edition": "2026-11-18T20:47:36.932Z",
-  "reviewedAt": "2026-11-18T20:47:36.932Z",
+  "edition": "2026-11-19T20:53:44.903Z",
+  "reviewedAt": "2026-11-19T20:53:44.903Z",
   "articles": [
+    {
+      "slug": "openai-agentes-investigacion-frontera-irregular-20261118",
+      "source": "OpenAI",
+      "topic": "Investigación",
+      "category": "Modelos",
+      "title": "OpenAI estudia el avance desigual de los agentes en su investigación interna",
+      "summary": "El informe describe mejoras y cuellos de botella: analizar y comunicar resulta más fiable que construir sistemas.",
+      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier/",
+      "body": [
+        "OpenAI publicó el 18 de noviembre datos de uso de agentes entre sus investigadores. Estima un éxito sin intervención humana del 69 % en comunicación, del 58 % en análisis y del 43 % en construcción, entre agosto y octubre.",
+        "Las entrevistas describen ayuda en código y experimentos, junto a errores que exigen supervisión cercana. La compañía advierte de que delegar tareas distintas puede cambiar las tasas observadas y de que producir más código no demuestra por sí solo un avance científico mayor."
+      ],
+      "takeaway": "Conviene evaluar cada tipo de tarea antes de aumentar la autonomía del agente.",
+      "caveat": "Son datos internos y respuestas de empleados de OpenAI, sin auditoría independiente. Los resultados no se generalizan automáticamente a otros equipos.",
+      "dedup_key": "openai-agentes-investigacion-frontera-irregular-20261118",
+      "date": "2026-11-18",
+      "sourceTitle": "OpenAI estudia el avance desigual de los agentes en su investigación interna",
+      "company": "OpenAI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-19T20:53:44.903Z",
+      "modifiedAt": "2026-11-19T20:53:44.903Z",
+      "detectedAt": "2026-11-19",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "OpenAI estudia el avance desigual de los agentes en su investigación interna",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier/"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-dictado-continuo-20261118",
+      "source": "OpenAI",
+      "topic": "Voz y teclado",
+      "category": "Herramientas",
+      "title": "ChatGPT incorpora dictado en directo y elimina el límite de diez minutos",
+      "summary": "La transcripción aparece mientras hablas. OpenAI anuncia el despliegue global para todos los planes.",
+      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "body": [
+        "OpenAI anunció Live Dictation el 18 de noviembre. El texto se genera durante el dictado y puede mostrarse u ocultarse pulsando la forma de onda. También desaparece el anterior límite de diez minutos de grabación.",
+        "La actualización empieza a llegar a iOS, Android, web y escritorio. Permite redactar notas y mensajes largos sin dividir la grabación en fragmentos."
+      ],
+      "takeaway": "Puedes revisar la transcripción conforme dictas.",
+      "caveat": "El despliegue es progresivo. No se ha comprobado su disponibilidad en todas las cuentas ni su precisión en cada idioma.",
+      "dedup_key": "chatgpt-dictado-continuo-20261118",
+      "date": "2026-11-18",
+      "sourceTitle": "ChatGPT incorpora dictado en directo y elimina el límite de diez minutos",
+      "company": "OpenAI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-19T20:53:44.903Z",
+      "modifiedAt": "2026-11-19T20:53:44.903Z",
+      "detectedAt": "2026-11-19",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "Voz y teclado"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "ChatGPT incorpora dictado en directo y elimina el límite de diez minutos",
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+        }
+      ]
+    },
+    {
+      "slug": "gemini4-neon-lanzamiento-20261118",
+      "source": "Google",
+      "topic": "Gemini",
+      "category": "Modelos",
+      "title": "Google lanza Gemini 4 Neon para programación y análisis de documentos",
+      "summary": "El modelo admite un millón de tokens de contexto y llega a la API, Gemini y Antigravity.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "body": [
+        "Google presentó Gemini 4 Neon el 18 de noviembre. El modelo combina entradas de documentos, gráficos, audio y vídeo, y está orientado a programación, análisis y tareas científicas.",
+        "La API cuesta 3 dólares por millón de tokens de entrada y 15 por millón de salida. El despliegue incluye AI Studio, Gemini para empresas y los planes Pro y Ultra de Gemini y Antigravity."
+      ],
+      "takeaway": "Una nueva opción de contexto largo para trabajar con repositorios y documentación extensa.",
+      "caveat": "Las comparaciones de rendimiento proceden del anuncio de Google. No hemos reproducido sus pruebas; la disponibilidad depende del producto y del plan.",
+      "dedup_key": "gemini4-neon-lanzamiento-20261118",
+      "date": "2026-11-18",
+      "sourceTitle": "Google lanza Gemini 4 Neon para programación y análisis de documentos",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-19T20:53:44.903Z",
+      "modifiedAt": "2026-11-19T20:53:44.903Z",
+      "detectedAt": "2026-11-19",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Google lanza Gemini 4 Neon para programación y análisis de documentos",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        }
+      ]
+    },
     {
       "slug": "heygen-avatar6-20261117",
       "dedup_key": "heygen-avatar6-20261117",
@@ -8650,6 +8770,9 @@
     }
   ],
   "selectedSlugs": [
+    "gemini4-neon-lanzamiento-20261118",
+    "chatgpt-dictado-continuo-20261118",
+    "openai-agentes-investigacion-frontera-irregular-20261118",
     "genie4-project-genie-ultra-20261118",
     "openai-amd-chip-design-20261118",
     "heygen-avatar6-20261117",
