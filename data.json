@@ -1,7 +1,132 @@
 {
-  "edition": "2026-11-19T20:53:44.903Z",
-  "reviewedAt": "2026-11-19T20:53:44.903Z",
+  "edition": "2026-11-20T20:47:09.220Z",
+  "reviewedAt": "2026-11-20T20:47:09.220Z",
   "articles": [
+    {
+      "slug": "gpt-live11-api-standby-20261119",
+      "date": "2026-11-19",
+      "source": "OpenAI",
+      "topic": "Voz y teclado",
+      "category": "Modelos",
+      "title": "GPT‑Live‑1.1 llega a la API con un modo de espera para conversaciones de voz",
+      "summary": "Los desarrolladores pueden usar el modelo multilingüe y pausar la inferencia durante los silencios en sesiones WebRTC.",
+      "sourceUrl": "https://developers.openai.com/api/docs/changelog",
+      "body": [
+        "OpenAI incorporó GPT‑Live‑1.1 a su API el 19 de noviembre. El modelo puede escuchar mientras habla y delegar tareas de razonamiento o herramientas en un sistema de backend.",
+        "El modo standby pausa la inferencia cuando no hay actividad y la reanuda al hablar. La tarifa documentada es de 0,05 dólares por minuto activo y 0,02 por minuto en espera; el backend y las herramientas se cobran aparte."
+      ],
+      "takeaway": "La novedad es el acceso programático y el modo de espera, tras su llegada anterior a ChatGPT.",
+      "caveat": "Las mejoras de pronunciación, acento y transcripción son afirmaciones de OpenAI. No se han reproducido pruebas de calidad ni medido el coste de una integración real.",
+      "dedup_key": "gpt-live11-api-standby-20261119",
+      "sourceTitle": "GPT‑Live‑1.1 llega a la API con un modo de espera para conversaciones de voz",
+      "company": "OpenAI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-20T20:47:09.220Z",
+      "modifiedAt": "2026-11-20T20:47:09.220Z",
+      "detectedAt": "2026-11-20",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "Voz y teclado"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "GPT‑Live‑1.1 llega a la API con un modo de espera para conversaciones de voz",
+          "url": "https://developers.openai.com/api/docs/changelog"
+        },
+        {
+          "name": "OpenAI",
+          "title": "Ficha y precios de GPT-Live-1.1",
+          "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-mac-uso-ordenador-20261119",
+      "date": "2026-11-19",
+      "source": "Google",
+      "topic": "Gemini",
+      "category": "Herramientas",
+      "title": "Gemini para Mac empieza a manejar aplicaciones y archivos en segundo plano",
+      "summary": "El agente trabaja en una ventana aislada y permite seguir usando la pantalla y el cursor principales.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "body": [
+        "Google comenzó el 19 de noviembre el despliegue de uso del ordenador en Gemini para Mac. Puede encadenar acciones en archivos locales, aplicaciones y webs a partir de una petición.",
+        "La aplicación ofrece una vista previa en directo, permisos por aplicación, pausa y aprobación de acciones clave. Google propone tareas como organizar archivos, rellenar formularios o preparar presentaciones."
+      ],
+      "takeaway": "La automatización de escritorio llega a la aplicación de Gemini con controles visibles.",
+      "caveat": "El acceso inicial es en inglés y Estados Unidos, para cuentas personales de adultos con Google AI Plus, Pro o Ultra. Requiere Apple Silicon y macOS Sequoia 15 o posterior; no hemos probado el servicio.",
+      "dedup_key": "gemini-mac-uso-ordenador-20261119",
+      "sourceTitle": "Gemini para Mac empieza a manejar aplicaciones y archivos en segundo plano",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-20T20:47:09.220Z",
+      "modifiedAt": "2026-11-20T20:47:09.220Z",
+      "detectedAt": "2026-11-20",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Gemini para Mac empieza a manejar aplicaciones y archivos en segundo plano",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+        }
+      ]
+    },
+    {
+      "slug": "google-suncatcher-blue-origin-20261119",
+      "date": "2026-11-19",
+      "source": "Google",
+      "topic": "Infraestructura",
+      "category": "Modelos",
+      "title": "Google elige a Blue Origin para lanzar los satélites de Suncatcher en 2029",
+      "summary": "El plan busca probar infraestructura de IA en órbita alimentada por energía solar.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "body": [
+        "Google anunció el 19 de noviembre que Blue Origin realizará el primer lanzamiento pesado de Project Suncatcher. Un cohete New Glenn llevaría los satélites a una órbita heliosíncrona durante el primer trimestre de 2029.",
+        "La compañía calcula para cada satélite una capacidad aproximada a la de un rack de centro de datos. El acuerdo fija un socio y una ventana de lanzamiento para su investigación en computación espacial."
+      ],
+      "takeaway": "Suncatcher incorpora un hito concreto a su hoja de ruta.",
+      "caveat": "Es un objetivo futuro: el anuncio no demuestra aún la viabilidad operativa, el coste ni el rendimiento del sistema.",
+      "dedup_key": "google-suncatcher-blue-origin-20261119",
+      "sourceTitle": "Google elige a Blue Origin para lanzar los satélites de Suncatcher en 2029",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-20T20:47:09.220Z",
+      "modifiedAt": "2026-11-20T20:47:09.220Z",
+      "detectedAt": "2026-11-20",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Infraestructura"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Google elige a Blue Origin para lanzar los satélites de Suncatcher en 2029",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/"
+        }
+      ]
+    },
     {
       "slug": "openai-agentes-investigacion-frontera-irregular-20261118",
       "source": "OpenAI",
@@ -8822,6 +8947,9 @@
     }
   ],
   "selectedSlugs": [
+    "google-suncatcher-blue-origin-20261119",
+    "gemini-mac-uso-ordenador-20261119",
+    "gpt-live11-api-standby-20261119",
     "gemini4-neon-lanzamiento-20261118",
     "chatgpt-dictado-continuo-20261118",
     "openai-agentes-investigacion-frontera-irregular-20261118",

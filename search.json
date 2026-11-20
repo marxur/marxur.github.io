@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-19T20:53:44.903Z",
+  "generated": "2026-11-20T20:47:09.220Z",
   "items": [
+    {
+      "title": "GPT‑Live‑1.1 llega a la API con un modo de espera para conversaciones de voz",
+      "summary": "Los desarrolladores pueden usar el modelo multilingüe y pausar la inferencia durante los silencios en sesiones WebRTC.",
+      "url": "/noticias/gpt-live11-api-standby-20261119.html",
+      "category": "Modelos",
+      "topic": "Voz y teclado",
+      "date": "2026-11-19",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "gpt-live11-api-standby-20261119"
+    },
+    {
+      "title": "Gemini para Mac empieza a manejar aplicaciones y archivos en segundo plano",
+      "summary": "El agente trabaja en una ventana aislada y permite seguir usando la pantalla y el cursor principales.",
+      "url": "/noticias/gemini-mac-uso-ordenador-20261119.html",
+      "category": "Herramientas",
+      "topic": "Gemini",
+      "date": "2026-11-19",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "gemini-mac-uso-ordenador-20261119"
+    },
+    {
+      "title": "Google elige a Blue Origin para lanzar los satélites de Suncatcher en 2029",
+      "summary": "El plan busca probar infraestructura de IA en órbita alimentada por energía solar.",
+      "url": "/noticias/google-suncatcher-blue-origin-20261119.html",
+      "category": "Modelos",
+      "topic": "Infraestructura",
+      "date": "2026-11-19",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-suncatcher-blue-origin-20261119"
+    },
     {
       "title": "OpenAI estudia el avance desigual de los agentes en su investigación interna",
       "summary": "El informe describe mejoras y cuellos de botella: analizar y comunicar resulta más fiable que construir sistemas.",

@@ -535,6 +535,39 @@
       "provenance": "Ilustración editorial generada para este artículo y revisada visualmente el 19 de noviembre de 2026. No es una fotografía ni una captura del producto.",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-43789a32-da72-4413-b699-c04b208540da.png"
+    },
+    {
+      "slug": "google-suncatcher-blue-origin-20261119",
+      "key": "google-suncatcher-blue-origin-20261119",
+      "src": "/assets/news-visuals/google-suncatcher-blue-origin-20261119.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Wide 3:2 premium editorial illustration for Google Project Suncatcher planned AI computing satellites, not a documentary depiction. A technically plausible compact silver satellite computer module with radiator fins and wide dark-blue solar arrays orbiting above the curved blue Earth at sunrise, another small satellite distant, warm sunlight on photovoltaic cells, deep indigo space. Main spacecraft fills frame and is clearly a satellite, not a rocket or space station. Crisp detailed materials and cinematic scientific art. No lettering, words, logos, glowing data paths or generic robot. Concept art of a future plan, not a launched system.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente. No representa una fotografía ni una captura real del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-e88030d6-ca33-4415-82b2-12f876b59905.png"
+    },
+    {
+      "slug": "gemini-mac-uso-ordenador-20261119",
+      "key": "gemini-mac-uso-ordenador-20261119",
+      "src": "/assets/news-visuals/gemini-mac-uso-ordenador-20261119.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Wide 3:2 modern editorial art about Gemini for Mac computer use in an isolated background window. An elegant unbranded aluminium laptop on a coral and ivory desk, screen showing two visually separate translucent workspaces: one with abstract folders and document thumbnails being neatly arranged by a precise glowing cursor, the other with a calm creative canvas. A real human hand types on the keyboard while tasks progress beside it. Tactile realistic 3D editorial photography, warm daylight, coral accents and teal glass. No readable text, no app logos, no humanoid, not an actual product screenshot.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente. No representa una fotografía ni una captura real del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-bd0aeb34-b52a-489d-bf5c-5599201f955e.png"
+    },
+    {
+      "slug": "gpt-live11-api-standby-20261119",
+      "key": "gpt-live11-api-standby-20261119",
+      "src": "/assets/news-visuals/gpt-live11-api-standby-20261119.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Wide 3:2 sophisticated editorial illustration about GPT-Live-1.1 API full-duplex voice conversation with backend delegation and standby. A modern matte midnight-blue headset with one earcup resting on a dark violet studio surface, two distinct interwoven luminous sound wave ribbons, one cyan and one amber, bridge the headset to a small translucent server module with visible neat circuitry. Show simultaneous speaking/listening and backend connection conceptually; no letters, text, numbers, logos, screen charts or robot. Dramatic controlled lighting, crisp tactile materials, striking close composition, no generic orb.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente. No representa una fotografía ni una captura real del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-539de01c-0d60-4815-a91a-1af9645772b4.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."
