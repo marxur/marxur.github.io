@@ -1,5 +1,57 @@
 [
   {
+    "url": "https://x.com/OpenAI/status/2123862344422088794",
+    "sourceUrl": "https://x.com/OpenAI/status/2123862344422088794",
+    "name": "OpenAI",
+    "handle": "@OpenAI",
+    "title": "OpenAI comparte su investigación para detectar y combatir la destilación de modelos",
+    "summary": "La compañía estudia cómo se transfieren capacidades mediante destilación y cómo detectar intentos coordinados. Advierte de que las salvaguardas pueden no transferirse con ellas.",
+    "date": "2026-11-20",
+    "type": "Investigación",
+    "dateBasis": "Fecha del oEmbed oficial de X",
+    "access": "Autor, contenido y fecha comprobados mediante el oEmbed oficial de X.",
+    "checkedAt": "2026-11-20T19:47:09.486Z"
+  },
+  {
+    "url": "https://x.com/Google/status/2123827048808370477",
+    "sourceUrl": "https://x.com/Google/status/2123827048808370477",
+    "name": "Google",
+    "handle": "@Google",
+    "title": "Google lleva la edición por voz de Gemini 3.5 Transcribe a la API",
+    "summary": "Google anuncia que los desarrolladores podrán crear funciones para editar, reformular y traducir texto mediante la voz.",
+    "date": "2026-11-20",
+    "type": "Anuncio",
+    "dateBasis": "Fecha del oEmbed oficial de X",
+    "access": "Autor, contenido y fecha comprobados mediante el oEmbed oficial de X.",
+    "checkedAt": "2026-11-20T19:47:09.486Z"
+  },
+  {
+    "url": "https://x.com/Google/status/2123575135232024719",
+    "sourceUrl": "https://x.com/Google/status/2123575135232024719",
+    "name": "Google",
+    "handle": "@Google",
+    "title": "Google muestra una animación de un poema de Keats creada con Neon",
+    "summary": "La demostración de «To Autumn» combina animación 3D, narración y sonido ambiental. Google atribuye a Gemini 4 Neon el código JavaScript sin bibliotecas externas.",
+    "date": "2026-11-20",
+    "type": "Demostración",
+    "dateBasis": "Fecha del oEmbed oficial de X",
+    "access": "Autor, contenido y fecha comprobados mediante el oEmbed oficial de X.",
+    "checkedAt": "2026-11-20T19:47:09.486Z"
+  },
+  {
+    "url": "https://x.com/GoogleDeepMind/status/2123519772390215780",
+    "sourceUrl": "https://x.com/GoogleDeepMind/status/2123519772390215780",
+    "name": "Google DeepMind",
+    "handle": "@GoogleDeepMind",
+    "title": "Google DeepMind comparte una conversación sobre cómo reconocer el avance hacia la AGI",
+    "summary": "Koray Kavukcuoglu plantea que no habrá una única prueba definitiva y destaca la importancia de modelos más fiables y menos irregulares. Es una opinión presentada en la conversación con Hannah Fry.",
+    "date": "2026-11-19",
+    "type": "Entrevista",
+    "dateBasis": "Fecha del oEmbed oficial de X",
+    "access": "Autor, contenido y fecha comprobados mediante el oEmbed oficial de X.",
+    "checkedAt": "2026-11-20T19:47:09.486Z"
+  },
+  {
     "name": "Google DeepMind",
     "handle": "@GoogleDeepMind",
     "title": "Google DeepMind anuncia Gemini 4 Neon",
