@@ -1,7 +1,132 @@
 {
-  "edition": "2026-11-20T20:47:09.220Z",
-  "reviewedAt": "2026-11-20T20:47:09.220Z",
+  "edition": "2026-11-21T20:53:38.245Z",
+  "reviewedAt": "2026-11-21T20:53:38.245Z",
   "articles": [
+    {
+      "slug": "watch-duty-gemini-radio-incendios-20261120",
+      "date": "2026-11-20",
+      "source": "Google",
+      "topic": "Aplicaciones",
+      "category": "Herramientas",
+      "title": "Watch Duty usa Gemini para convertir las radios de bomberos en texto consultable",
+      "summary": "Google describe una herramienta que ayuda a sus voluntarios a detectar y verificar avisos entre el ruido de radio.",
+      "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "body": [
+        "Google publicó el 20 de noviembre el balance de seis meses de colaboración con Watch Duty. El equipo usó grabaciones históricas para adaptar una herramienta de Gemini al audio de radio con interferencias y vocabulario de bomberos.",
+        "Según el balance, el sistema transcribe más de 200 horas de radio al día y envía señales a los reporteros para que verifiquen los incidentes. La organización conserva el trabajo humano de comprobación y emisión de alertas."
+      ],
+      "takeaway": "La IA ayuda a localizar información en audio difícil de escuchar.",
+      "caveat": "Los resultados proceden de Google y Watch Duty, sin una evaluación independiente reproducida aquí. La publicación describe un sistema ya probado; no anuncia su estreno el 20 de noviembre.",
+      "dedup_key": "watch-duty-gemini-radio-incendios-20261120",
+      "sourceTitle": "Watch Duty usa Gemini para convertir las radios de bomberos en texto consultable",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-21T20:53:38.245Z",
+      "modifiedAt": "2026-11-21T20:53:38.245Z",
+      "detectedAt": "2026-11-21",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Aplicaciones"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Watch Duty usa Gemini para convertir las radios de bomberos en texto consultable",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/"
+        }
+      ]
+    },
+    {
+      "slug": "genie4-gemini-api-20261119",
+      "date": "2026-11-19",
+      "source": "Google",
+      "topic": "Vídeo",
+      "category": "Herramientas",
+      "title": "Genie 4 llega a la API de Gemini para crear mundos interactivos",
+      "summary": "Los desarrolladores pueden probar el modelo desde Interactions API y Google AI Studio.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "body": [
+        "Google abrió el 19 de noviembre el acceso para desarrolladores a Genie 4. A partir de texto, una imagen o ambos, el modelo genera mundos continuos de 720p a 24 fotogramas por segundo con sonido sincronizado.",
+        "Los controles de teclado y las instrucciones en directo permiten navegar y modificar el entorno. Las salidas incluyen la marca de agua SynthID."
+      ],
+      "takeaway": "El acceso programático amplía el despliegue del día anterior en Project Genie.",
+      "caveat": "Es un entorno para experimentar. No hemos probado su estabilidad ni comprobado las condiciones y precios de una cuenta concreta.",
+      "dedup_key": "genie4-gemini-api-20261119",
+      "sourceTitle": "Genie 4 llega a la API de Gemini para crear mundos interactivos",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-21T20:53:38.245Z",
+      "modifiedAt": "2026-11-21T20:53:38.245Z",
+      "detectedAt": "2026-11-21",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Vídeo"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Genie 4 llega a la API de Gemini para crear mundos interactivos",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-hy4-pesos-publicos-20261120",
+      "date": "2026-11-20",
+      "source": "Tencent",
+      "topic": "China",
+      "category": "Modelos",
+      "title": "Tencent publica los pesos del modelo multimodal Hy4",
+      "summary": "El repositorio permite descargar el modelo definitivo, presentado a principios de noviembre.",
+      "sourceUrl": "https://huggingface.co/tencent/Hy4",
+      "body": [
+        "La ficha pública de Hy4 contiene los archivos de pesos y registra una actualización el 20 de noviembre. El modelo admite texto, imágenes y vídeo; su arquitectura combina 770.000 millones de parámetros totales con 49.000 millones activos por token en la parte lingüística.",
+        "La descarga permite estudiar y desplegar el modelo fuera de la API de Tencent. Es un cambio respecto al anuncio del 4 de noviembre, cuando la publicación de pesos todavía estaba prevista."
+      ],
+      "takeaway": "La novedad es el acceso a los pesos del modelo definitivo.",
+      "caveat": "La ficha actual identifica una licencia propia de Tencent. No hemos ejecutado el modelo ni reproducido sus evaluaciones; sus requisitos de infraestructura son elevados.",
+      "dedup_key": "tencent-hy4-pesos-publicos-20261120",
+      "sourceTitle": "Tencent publica los pesos del modelo multimodal Hy4",
+      "company": "Tencent",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-21T20:53:38.245Z",
+      "modifiedAt": "2026-11-21T20:53:38.245Z",
+      "detectedAt": "2026-11-21",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Tencent",
+        "China"
+      ],
+      "sources": [
+        {
+          "name": "Tencent",
+          "title": "Tencent publica los pesos del modelo multimodal Hy4",
+          "url": "https://huggingface.co/tencent/Hy4"
+        },
+        {
+          "name": "Tencent",
+          "title": "Repositorio oficial de Hy4",
+          "url": "https://github.com/Tencent-Hunyuan/Hy4"
+        }
+      ]
+    },
     {
       "slug": "gpt-live11-api-standby-20261119",
       "date": "2026-11-19",
@@ -8960,6 +9085,9 @@
     }
   ],
   "selectedSlugs": [
+    "tencent-hy4-pesos-publicos-20261120",
+    "genie4-gemini-api-20261119",
+    "watch-duty-gemini-radio-incendios-20261120",
     "google-suncatcher-blue-origin-20261119",
     "gemini-mac-uso-ordenador-20261119",
     "gpt-live11-api-standby-20261119",

@@ -568,6 +568,39 @@
       "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente. No representa una fotografía ni una captura real del producto.",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-539de01c-0d60-4815-a91a-1af9645772b4.png"
+    },
+    {
+      "slug": "tencent-hy4-pesos-publicos-20261120",
+      "key": "tencent-hy4-pesos-publicos-20261120",
+      "src": "/assets/news-visuals/tencent-hy4-pesos-publicos-20261120.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Wide 3:2 modern editorial illustration about Tencent Hy4 releasing public model weights for text, image and video understanding. A large modular glass computing architecture on a clean dark-teal workbench, removable translucent memory cartridges neatly fanned outward from an open server chassis, three distinct input panels represented by abstract document marks, a landscape photograph and tiny sequential film frames. Precise sophisticated contemporary 3D scientific materials, mint and electric orange highlights, rich blue shadows. No lettering, logos, numbers or golden orb. Concept illustration, not actual hardware or product screenshot.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente el 21 de noviembre. No es una fotografía de un hecho real ni una captura del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-ecd28766-06da-43db-a782-c914e1d1abb1.png"
+    },
+    {
+      "slug": "genie4-gemini-api-20261119",
+      "key": "genie4-gemini-api-20261119",
+      "src": "/assets/news-visuals/genie4-gemini-api-20261119.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: stylized-concept. Wide 3:2 editorial visual for Genie 4 opening an API to developers for navigable generated worlds. A miniature vivid moss-covered canyon with a river and floating stone bridges emerging from a luminous rectangular portal on a programmer's desk, the portal visibly attached to an elegant modular connector plug, small keyboard in foreground. A coherent richly detailed explorable world, twilight cyan and soft coral, cinematic realistic 3D conceptual photography. No words, text, logos, generic robots or mechanical sphere. Clearly artistic metaphor for a programmable world.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente el 21 de noviembre. No es una fotografía de un hecho real ni una captura del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-22e1b430-5692-4599-806b-e6876c37c0c2.png"
+    },
+    {
+      "slug": "watch-duty-gemini-radio-incendios-20261120",
+      "key": "watch-duty-gemini-radio-incendios-20261120",
+      "src": "/assets/news-visuals/watch-duty-gemini-radio-incendios-20261120.webp",
+      "position": "50% 50%",
+      "prompt": "Use case: photorealistic-natural. Wide 3:2 conceptual editorial still life illustrating Watch Duty using AI to transcribe noisy firefighter radio audio. Rugged black VHF handheld radio on an outdoor fire lookout desk with headphones and a tablet displaying abstract clean waveform lines, no readable text. Through the lookout window a distant forest ridge with a thin column of smoke at sunset; no people in danger, no huge disaster flames. Warm amber natural light with cool forest green tones, documentary-style material detail but clearly illustrative, not a real incident photograph. No logos, lettering, invented warnings or numbers.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente el 21 de noviembre. No es una fotografía de un hecho real ni una captura del producto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-19a65e6a-71d1-434d-996a-d478572108e2.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

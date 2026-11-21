@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-20T20:47:09.220Z",
+  "generated": "2026-11-21T20:53:38.245Z",
   "items": [
+    {
+      "title": "Watch Duty usa Gemini para convertir las radios de bomberos en texto consultable",
+      "summary": "Google describe una herramienta que ayuda a sus voluntarios a detectar y verificar avisos entre el ruido de radio.",
+      "url": "/noticias/watch-duty-gemini-radio-incendios-20261120.html",
+      "category": "Herramientas",
+      "topic": "Aplicaciones",
+      "date": "2026-11-20",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "watch-duty-gemini-radio-incendios-20261120"
+    },
+    {
+      "title": "Genie 4 llega a la API de Gemini para crear mundos interactivos",
+      "summary": "Los desarrolladores pueden probar el modelo desde Interactions API y Google AI Studio.",
+      "url": "/noticias/genie4-gemini-api-20261119.html",
+      "category": "Herramientas",
+      "topic": "Vídeo",
+      "date": "2026-11-19",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "genie4-gemini-api-20261119"
+    },
+    {
+      "title": "Tencent publica los pesos del modelo multimodal Hy4",
+      "summary": "El repositorio permite descargar el modelo definitivo, presentado a principios de noviembre.",
+      "url": "/noticias/tencent-hy4-pesos-publicos-20261120.html",
+      "category": "Modelos",
+      "topic": "China",
+      "date": "2026-11-20",
+      "type": "noticia",
+      "source": "Tencent",
+      "slug": "tencent-hy4-pesos-publicos-20261120"
+    },
     {
       "title": "GPT‑Live‑1.1 llega a la API con un modo de espera para conversaciones de voz",
       "summary": "Los desarrolladores pueden usar el modelo multilingüe y pausar la inferencia durante los silencios en sesiones WebRTC.",
