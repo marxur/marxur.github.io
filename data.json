@@ -8434,6 +8434,19 @@
   ],
   "xPosts": [
     {
+      "name": "Google",
+      "handle": "@Google",
+      "title": "Google explica cómo Watch Duty usa Gemini para interpretar las radios de bomberos",
+      "summary": "La herramienta convierte audio con ruido y terminología especializada en texto que los voluntarios pueden consultar para verificar incidentes y preparar alertas. Es una experiencia descrita por Google.",
+      "url": "https://x.com/Google/status/2123845785359978934",
+      "sourceUrl": "https://x.com/Google/status/2123845785359978934",
+      "date": "2026-11-20",
+      "type": "Aplicación",
+      "dateBasis": "Fecha del oEmbed oficial de X y del original público",
+      "access": "Autor y fecha verificados por oEmbed oficial; texto íntegro leído en el original público de X.",
+      "checkedAt": "2026-11-21T19:45:29.593Z"
+    },
+    {
       "url": "https://x.com/OpenAI/status/2123862344422088794",
       "sourceUrl": "https://x.com/OpenAI/status/2123862344422088794",
       "name": "OpenAI",
@@ -9202,7 +9215,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-20T19:47:09.486Z",
-    "coverage": "Siete perfiles públicos consultados y 28 publicaciones verificadas por oEmbed; cuatro altas distintas. Cobertura parcial."
+    "checkedAt": "2026-11-21T19:45:29.593Z",
+    "coverage": "Siete perfiles públicos consultados, búsqueda por cuenta y fecha, contraste con tres radares autorizados. Una alta; cobertura parcial."
   }
 }
