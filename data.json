@@ -1,7 +1,93 @@
 {
-  "edition": "2026-11-21T20:53:38.245Z",
-  "reviewedAt": "2026-11-21T20:53:38.245Z",
+  "edition": "2026-11-22T20:52:57.565Z",
+  "reviewedAt": "2026-11-22T20:52:57.565Z",
   "articles": [
+    {
+      "slug": "inkling2-mini-pesos-local-20261120",
+      "date": "2026-11-20",
+      "source": "Thinking Machines Lab",
+      "topic": "IA local",
+      "category": "Modelos",
+      "title": "Inkling 2 Mini abre sus pesos para llevar modelos multimodales al equipo local",
+      "summary": "Thinking Machines publica un modelo de texto e imagen bajo Apache 2.0, con una arquitectura que reutiliza capas.",
+      "sourceUrl": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "body": [
+        "Thinking Machines lanzó el 20 de noviembre Inkling 2 Mini. Acepta texto e imágenes y genera texto; sus pesos y licencia Apache 2.0 pueden consultarse en Hugging Face. La arquitectura repite tres veces las capas intermedias para procesar cada token.",
+        "El modelo combina 26.400 millones de parámetros totales y 3.400 millones activos. El fabricante estima unos 20 GB de memoria en su configuración y ofrece acceso mediante Tinker. Abre una opción para experimentar con asistentes y programación en equipos con recursos suficientes."
+      ],
+      "takeaway": "Permite evaluar un modelo multimodal de pesos abiertos con datos y tareas propias.",
+      "caveat": "Las cifras de memoria y rendimiento proceden del fabricante. La configuración, el hardware y el software compatibles condicionan la ejecución; no se ha reproducido aquí su evaluación.",
+      "extra": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "dedup_key": "inkling2-mini-pesos-local-20261120",
+      "sourceTitle": "Inkling 2 Mini abre sus pesos para llevar modelos multimodales al equipo local",
+      "company": "Thinking Machines Lab",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-22T20:52:57.565Z",
+      "modifiedAt": "2026-11-22T20:52:57.565Z",
+      "detectedAt": "2026-11-22",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Thinking Machines Lab",
+        "IA local"
+      ],
+      "sources": [
+        {
+          "name": "Thinking Machines Lab",
+          "title": "Inkling 2 Mini abre sus pesos para llevar modelos multimodales al equipo local",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        },
+        {
+          "name": "Hugging Face / Thinking Machines",
+          "title": "Ficha, fecha de lanzamiento, licencia y pesos",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+        }
+      ]
+    },
+    {
+      "slug": "openai-perplejidad-medida-seguridad-20261122",
+      "date": "2026-11-22",
+      "source": "OpenAI",
+      "topic": "Investigación",
+      "category": "Modelos",
+      "title": "OpenAI propone medir la perplejidad para coordinar los límites de la IA",
+      "summary": "Jakub Pachocki publica tendencias internas de preentrenamiento y pide una referencia común entre laboratorios.",
+      "sourceUrl": "https://openai.com/index/perplexity-and-intelligence/",
+      "body": [
+        "El científico jefe de OpenAI propone usar la perplejidad, que mide cómo predice un modelo el siguiente token, para seguir el progreso y orientar estándares compartidos de seguridad. Una cifra menor indica mejores predicciones en el conjunto evaluado.",
+        "La propuesta plantea acordar límites al desarrollo vinculados a mejoras concretas de supervisión. OpenAI aporta medidas sobre una versión fija de su código interno. Comparar laboratorios exige resolver diferencias entre datos y evaluaciones."
+      ],
+      "takeaway": "Abre un debate sobre mediciones compartidas, con datos internos como primer paso.",
+      "caveat": "Es una propuesta del autor, no un acuerdo de la industria. La métrica no mide directamente todas las capacidades ni recoge los avances del razonamiento posterior al preentrenamiento.",
+      "dedup_key": "openai-perplejidad-medida-seguridad-20261122",
+      "sourceTitle": "OpenAI propone medir la perplejidad para coordinar los límites de la IA",
+      "company": "OpenAI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-22T20:52:57.565Z",
+      "modifiedAt": "2026-11-22T20:52:57.565Z",
+      "detectedAt": "2026-11-22",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "OpenAI propone medir la perplejidad para coordinar los límites de la IA",
+          "url": "https://openai.com/index/perplexity-and-intelligence/"
+        }
+      ]
+    },
     {
       "slug": "watch-duty-gemini-radio-incendios-20261120",
       "date": "2026-11-20",
@@ -9098,6 +9184,8 @@
     }
   ],
   "selectedSlugs": [
+    "openai-perplejidad-medida-seguridad-20261122",
+    "inkling2-mini-pesos-local-20261120",
     "tencent-hy4-pesos-publicos-20261120",
     "genie4-gemini-api-20261119",
     "watch-duty-gemini-radio-incendios-20261120",

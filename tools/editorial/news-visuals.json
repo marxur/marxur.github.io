@@ -601,6 +601,28 @@
       "provenance": "Ilustración conceptual generada para este artículo y revisada visualmente el 21 de noviembre. No es una fotografía de un hecho real ni una captura del producto.",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-19a65e6a-71d1-434d-996a-d478572108e2.png"
+    },
+    {
+      "slug": "openai-perplejidad-medida-seguridad-20261122",
+      "key": "openai-perplejidad-medida-seguridad-20261122",
+      "src": "/assets/news-visuals/openai-perplejidad-medida-seguridad-20261122.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial illustration about OpenAI proposing perplexity as a measurement of language-model progress. Beautiful precise scientific glass prism splitting a stream of luminous token-like small blank cubes into three descending smooth measurement curves over a dark navy laboratory surface, subtle teal and coral, calibrated transparent planes, photoreal materials, sophisticated modern magazine visual, no text no letters no numerals no logo no spheres, conceptual not actual experimental evidence.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 22 de noviembre. No es una fotografía ni una captura del producto; las curvas no representan datos reales.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-2b188678-9734-4064-8119-248cdedd03d1.png"
+    },
+    {
+      "slug": "inkling2-mini-pesos-local-20261120",
+      "key": "inkling2-mini-pesos-local-20261120",
+      "src": "/assets/news-visuals/inkling2-mini-pesos-local-20261120.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 premium editorial technology still life about Thinking Machines Inkling 2 Mini open-weight AI running locally: a thin silver laptop in a warmly lit olive-green studio, a compact translucent layered rectangular neural processor above the keyboard, three elegant looping light paths passing through the same middle layers, tiny image tiles and textlike abstract marks remain unreadable, realistic photography and tasteful restrained CGI, purple and pale green accents, no branding no readable text no spheres, clearly conceptual.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 22 de noviembre. No es una fotografía ni una captura del producto; las curvas no representan datos reales.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-9b2f7885-3a83-4a16-851b-1a6c8fc06094.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

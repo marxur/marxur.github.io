@@ -1,6 +1,28 @@
 {
-  "generated": "2026-11-21T20:53:38.245Z",
+  "generated": "2026-11-22T20:52:57.565Z",
   "items": [
+    {
+      "title": "Inkling 2 Mini abre sus pesos para llevar modelos multimodales al equipo local",
+      "summary": "Thinking Machines publica un modelo de texto e imagen bajo Apache 2.0, con una arquitectura que reutiliza capas.",
+      "url": "/noticias/inkling2-mini-pesos-local-20261120.html",
+      "category": "Modelos",
+      "topic": "IA local",
+      "date": "2026-11-20",
+      "type": "noticia",
+      "source": "Thinking Machines Lab",
+      "slug": "inkling2-mini-pesos-local-20261120"
+    },
+    {
+      "title": "OpenAI propone medir la perplejidad para coordinar los límites de la IA",
+      "summary": "Jakub Pachocki publica tendencias internas de preentrenamiento y pide una referencia común entre laboratorios.",
+      "url": "/noticias/openai-perplejidad-medida-seguridad-20261122.html",
+      "category": "Modelos",
+      "topic": "Investigación",
+      "date": "2026-11-22",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-perplejidad-medida-seguridad-20261122"
+    },
     {
       "title": "Watch Duty usa Gemini para convertir las radios de bomberos en texto consultable",
       "summary": "Google describe una herramienta que ayuda a sus voluntarios a detectar y verificar avisos entre el ruido de radio.",
