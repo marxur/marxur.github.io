@@ -1,6 +1,6 @@
 {
-  "edition": "2026-11-22T20:52:57.565Z",
-  "reviewedAt": "2026-11-22T20:52:57.565Z",
+  "edition": "2026-11-23T19:52:32.457Z",
+  "reviewedAt": "2026-11-23T19:52:32.457Z",
   "articles": [
     {
       "slug": "inkling2-mini-pesos-local-20261120",
@@ -8645,6 +8645,32 @@
   ],
   "xPosts": [
     {
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "title": "OpenAI presenta OpenWorks para acercar la IA a pequeñas empresas",
+      "summary": "La compañía anuncia un programa que financia a expertos locales para ayudar a pequeñas empresas a desarrollar herramientas y habilidades de IA sin coste para ellas.",
+      "url": "https://x.com/OpenAI/status/2124922133545714160",
+      "type": "Anuncio",
+      "sourceUrl": "https://x.com/OpenAI/status/2124922133545714160",
+      "date": "2026-11-23",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, contenido y fecha comprobados mediante el oEmbed oficial; descripción del original público contrastada. Cronología parcial.",
+      "checkedAt": "2026-11-23T19:52:32.457Z"
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "title": "Google DeepMind usa agentes Gemini para diseñar circuitos cuánticos más eficientes",
+      "summary": "El equipo afirma que sus nuevos circuitos pueden reducir hasta diez veces el coste de futuras simulaciones cuánticas. Es un resultado de investigación comunicado por sus autores; no una mejora general comprobada en ordenadores actuales.",
+      "url": "https://x.com/GoogleDeepMind/status/2124911073266413634",
+      "type": "Investigación",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2124911073266413634",
+      "date": "2026-11-23",
+      "dateBasis": "Fecha del oEmbed oficial de X",
+      "access": "Autor, contenido y fecha comprobados mediante el oEmbed oficial; descripción del original público contrastada. Cronología parcial.",
+      "checkedAt": "2026-11-23T19:52:32.457Z"
+    },
+    {
       "name": "Sam Altman",
       "handle": "@sama",
       "title": "Sam Altman pide límites comunes de seguridad y más transparencia sobre preentrenamiento",
@@ -9444,7 +9470,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-22T19:49:21.529Z",
-    "coverage": "Siete perfiles públicos, búsqueda por cuenta y fecha, cuatro radares autorizados; una alta de opinión. Cobertura parcial."
+    "checkedAt": "2026-11-23T19:52:32.457Z",
+    "coverage": "Siete cuentas revisadas mediante perfiles públicos parciales, búsquedas por cuenta y fecha y cinco radares de Dropbox; dos originales comprobados con oEmbed y descripción pública."
   }
 }
