@@ -623,6 +623,39 @@
       "provenance": "Ilustración conceptual generada y revisada visualmente el 22 de noviembre. No es una fotografía ni una captura del producto; las curvas no representan datos reales.",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-9b2f7885-3a83-4a16-851b-1a6c8fc06094.png"
+    },
+    {
+      "slug": "zai-glm54-loop-transformer-20261123",
+      "key": "zai-glm54-loop-transformer-20261123",
+      "src": "/assets/news-visuals/zai-glm54-loop-transformer-20261123.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 premium editorial conceptual illustration for Z.ai GLM-5.4 launching a Loop Transformer AI model for coding. Show an elegant graphite modular computation stack in a deep crimson studio, a shared central block of 28 thin translucent layers with TWO flowing precise light paths returning through the same block, a tiny geometric CAD robotic arm and wireframe game landscape forming at the output. Modern high-end 3D materials, lacquer black and red with icy silver highlights. No text, lettering, numerals, logos or generic orb. Conceptual metaphor not a product screenshot or real hardware.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 23 de noviembre. No es una fotografía, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-1d99fb09-90e0-4f3b-9d6e-3e5393e4cd2f.png"
+    },
+    {
+      "slug": "llamaindex-ocria-nano-cpu-20261123",
+      "key": "llamaindex-ocria-nano-cpu-20261123",
+      "src": "/assets/news-visuals/llamaindex-ocria-nano-cpu-20261123.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 editorial photograph with tasteful CGI for OCRia-nano-1 document parsing on a CPU. Cream paper report with abstract unreadable text and a table rests on a pale blue desk beside a small exposed rectangular CPU board. Fine electric-blue bounding boxes gently lift from the table and page into an orderly translucent grid, showing text and layout extraction. Bright daylight, matte ceramic and paper textures, ultramodern clean editorial composition, warm orange small accents, no readable words, no logos, no generic computer screen or sphere. Conceptual illustration not an actual software capture.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 23 de noviembre. No es una fotografía, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-7f996ada-2b14-4786-99c9-474ea9807df6.png"
+    },
+    {
+      "slug": "deepmind-gemini-circuitos-cuanticos-lean-20261123",
+      "key": "deepmind-gemini-circuitos-cuanticos-lean-20261123",
+      "src": "/assets/news-visuals/deepmind-gemini-circuitos-cuanticos-lean-20261123.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 cinematic scientific editorial illustration for Google DeepMind using Gemini agent teams plus Lean mathematical verification to optimize quantum algorithms. An intricate suspended quantum circuit made of thin silver wires and small glass square gates, its many branching routes simplifying into a sparse clean circuit on the right, reflected on a dark indigo laboratory slab. Subtle violet and cyan light, several distinct coordinated streams converging at a precise geometric verification checkpoint. Realistic precision engineering art, no text, letters, labels, numbers, logos or golden spheres. Conceptual design, not an actual device or measured result.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 23 de noviembre. No es una fotografía, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-0723ab33-831f-4dcb-a125-53a3f4049039.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

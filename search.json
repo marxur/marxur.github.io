@@ -1,6 +1,39 @@
 {
-  "generated": "2026-11-22T20:52:57.565Z",
+  "generated": "2026-11-23T20:53:30.538Z",
   "items": [
+    {
+      "title": "DeepMind combina agentes Gemini y Lean para mejorar algoritmos cuánticos",
+      "summary": "Equipos de agentes proponen circuitos y comprueban sus resultados mediante verificación formal.",
+      "url": "/noticias/deepmind-gemini-circuitos-cuanticos-lean-20261123.html",
+      "category": "Modelos",
+      "topic": "Investigación",
+      "date": "2026-11-23",
+      "type": "noticia",
+      "source": "Google DeepMind",
+      "slug": "deepmind-gemini-circuitos-cuanticos-lean-20261123"
+    },
+    {
+      "title": "OCRia‑nano‑1 lleva la extracción de texto y tablas a la CPU",
+      "summary": "LlamaIndex publica un sistema de siete modelos con 8,1 millones de parámetros para procesar documentos localmente.",
+      "url": "/noticias/llamaindex-ocria-nano-cpu-20261123.html",
+      "category": "Herramientas",
+      "topic": "Aplicaciones",
+      "date": "2026-11-23",
+      "type": "noticia",
+      "source": "LlamaIndex",
+      "slug": "llamaindex-ocria-nano-cpu-20261123"
+    },
+    {
+      "title": "Z.ai presenta GLM‑5.4 con capas reutilizadas y acceso en Coding Plan",
+      "summary": "El nuevo modelo adopta una arquitectura Loop Transformer para profundizar el cálculo sin añadir parámetros a cada pasada.",
+      "url": "/noticias/zai-glm54-loop-transformer-20261123.html",
+      "category": "Modelos",
+      "topic": "Modelos",
+      "date": "2026-11-23",
+      "type": "noticia",
+      "source": "Z.ai",
+      "slug": "zai-glm54-loop-transformer-20261123"
+    },
     {
       "title": "Inkling 2 Mini abre sus pesos para llevar modelos multimodales al equipo local",
       "summary": "Thinking Machines publica un modelo de texto e imagen bajo Apache 2.0, con una arquitectura que reutiliza capas.",

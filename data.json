@@ -1,7 +1,139 @@
 {
-  "edition": "2026-11-23T19:52:32.457Z",
-  "reviewedAt": "2026-11-23T19:52:32.457Z",
+  "edition": "2026-11-23T20:53:30.538Z",
+  "reviewedAt": "2026-11-23T20:53:30.538Z",
   "articles": [
+    {
+      "slug": "deepmind-gemini-circuitos-cuanticos-lean-20261123",
+      "source": "Google DeepMind",
+      "topic": "Investigación",
+      "category": "Modelos",
+      "title": "DeepMind combina agentes Gemini y Lean para mejorar algoritmos cuánticos",
+      "summary": "Equipos de agentes proponen circuitos y comprueban sus resultados mediante verificación formal.",
+      "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "body": [
+        "Google DeepMind publicó el 23 de noviembre una investigación en la que equipos de agentes Gemini 4 buscan mejoras de algoritmos cuánticos. Las propuestas se verifican con Lean antes de incorporarse a un cuaderno compartido.",
+        "Para un cálculo relacionado con fusión por confinamiento inercial, el equipo comunica una reducción de 11,8 veces en una métrica que combina cúbits y operaciones. También publica una biblioteca de Lean, especificaciones de problemas y soluciones verificadas para facilitar su estudio."
+      ],
+      "takeaway": "El trabajo muestra un flujo que une búsqueda de ideas y comprobación matemática.",
+      "caveat": "Son resultados comunicados por los autores, sin reproducción independiente aquí. Los cálculos todavía exigen más recursos que los primeros ordenadores cuánticos con corrección de errores previstos; no se han ejecutado como simulaciones científicas completas en hardware actual.",
+      "date": "2026-11-23",
+      "dedup_key": "deepmind-gemini-circuitos-cuanticos-lean-20261123",
+      "sourceTitle": "DeepMind combina agentes Gemini y Lean para mejorar algoritmos cuánticos",
+      "company": "Google DeepMind",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-23T20:53:30.538Z",
+      "modifiedAt": "2026-11-23T20:53:30.538Z",
+      "detectedAt": "2026-11-23",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google DeepMind",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "title": "DeepMind combina agentes Gemini y Lean para mejorar algoritmos cuánticos",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+        }
+      ]
+    },
+    {
+      "slug": "llamaindex-ocria-nano-cpu-20261123",
+      "source": "LlamaIndex",
+      "topic": "Aplicaciones",
+      "category": "Herramientas",
+      "title": "OCRia‑nano‑1 lleva la extracción de texto y tablas a la CPU",
+      "summary": "LlamaIndex publica un sistema de siete modelos con 8,1 millones de parámetros para procesar documentos localmente.",
+      "sourceUrl": "https://www.llamaindex.ai/blog/introducing-ocria-nano-1",
+      "body": [
+        "LlamaIndex publicó el 23 de noviembre los pesos de OCRia‑nano‑1. El sistema funciona dentro de LiteParse y combina reconocimiento de texto con recuperación de tablas y distribución de elementos en la página.",
+        "Está pensado para un primer procesamiento de documentos corrientes en CPU y permite obtener Markdown o JSON. El equipo reserva los manuscritos, las tablas complejas y los escaneos muy degradados para modelos mayores; Nano conserva los gráficos como imágenes."
+      ],
+      "takeaway": "Ofrece una opción local y ligera para preparar documentos antes de usarlos con agentes.",
+      "caveat": "Las pruebas de velocidad y precisión pertenecen al fabricante. Los pesos tienen una licencia Open RAIL‑M modificada; LiteParse usa Apache 2.0. No deben confundirse sus condiciones de uso.",
+      "extra": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "date": "2026-11-23",
+      "dedup_key": "llamaindex-ocria-nano-cpu-20261123",
+      "sourceTitle": "OCRia‑nano‑1 lleva la extracción de texto y tablas a la CPU",
+      "company": "LlamaIndex",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-23T20:53:30.538Z",
+      "modifiedAt": "2026-11-23T20:53:30.538Z",
+      "detectedAt": "2026-11-23",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "LlamaIndex",
+        "Aplicaciones"
+      ],
+      "sources": [
+        {
+          "name": "LlamaIndex",
+          "title": "OCRia‑nano‑1 lleva la extracción de texto y tablas a la CPU",
+          "url": "https://www.llamaindex.ai/blog/introducing-ocria-nano-1"
+        },
+        {
+          "name": "LlamaIndex",
+          "title": "Documentación y disponibilidad",
+          "url": "https://huggingface.co/llamaindex/OCRia-nano-1"
+        }
+      ]
+    },
+    {
+      "slug": "zai-glm54-loop-transformer-20261123",
+      "source": "Z.ai",
+      "topic": "Modelos",
+      "category": "Modelos",
+      "title": "Z.ai presenta GLM‑5.4 con capas reutilizadas y acceso en Coding Plan",
+      "summary": "El nuevo modelo adopta una arquitectura Loop Transformer para profundizar el cálculo sin añadir parámetros a cada pasada.",
+      "sourceUrl": "https://z.ai/blog/glm-5.4",
+      "body": [
+        "Z.ai presentó el 23 de noviembre GLM‑5.4, que reutiliza un bloque de capas durante varias pasadas. La compañía lo orienta a programación y tareas que combinan código con diseño, vídeo o entornos tridimensionales.",
+        "La documentación de Coding Plan ya incluye GLM‑5.4 entre los modelos disponibles. El anuncio sitúa la API general como próxima y los pesos como un compromiso futuro, condicionado a completar medidas de seguridad."
+      ],
+      "takeaway": "Los suscriptores pueden evaluar el modelo en el canal de acceso documentado.",
+      "caveat": "Las comparaciones de rendimiento son del proveedor. No se han reproducido aquí; Z.ai reconoce que el modelo puede prolongar demasiado su razonamiento. No se anuncia disponibilidad actual de pesos.",
+      "extra": "https://docs.z.ai/devpack/overview",
+      "date": "2026-11-23",
+      "dedup_key": "zai-glm54-loop-transformer-20261123",
+      "sourceTitle": "Z.ai presenta GLM‑5.4 con capas reutilizadas y acceso en Coding Plan",
+      "company": "Z.ai",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-23T20:53:30.538Z",
+      "modifiedAt": "2026-11-23T20:53:30.538Z",
+      "detectedAt": "2026-11-23",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Z.ai",
+        "Modelos"
+      ],
+      "sources": [
+        {
+          "name": "Z.ai",
+          "title": "Z.ai presenta GLM‑5.4 con capas reutilizadas y acceso en Coding Plan",
+          "url": "https://z.ai/blog/glm-5.4"
+        },
+        {
+          "name": "Z.ai",
+          "title": "Documentación y disponibilidad",
+          "url": "https://docs.z.ai/devpack/overview"
+        }
+      ]
+    },
     {
       "slug": "inkling2-mini-pesos-local-20261120",
       "date": "2026-11-20",
@@ -9210,6 +9342,9 @@
     }
   ],
   "selectedSlugs": [
+    "zai-glm54-loop-transformer-20261123",
+    "llamaindex-ocria-nano-cpu-20261123",
+    "deepmind-gemini-circuitos-cuanticos-lean-20261123",
     "openai-perplejidad-medida-seguridad-20261122",
     "inkling2-mini-pesos-local-20261120",
     "tencent-hy4-pesos-publicos-20261120",
