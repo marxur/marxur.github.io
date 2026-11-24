@@ -1,7 +1,167 @@
 {
-  "edition": "2026-11-24T19:50:09.172Z",
-  "reviewedAt": "2026-11-24T19:50:09.172Z",
+  "edition": "2026-11-24T20:50:30.846Z",
+  "reviewedAt": "2026-11-24T20:50:30.846Z",
   "articles": [
+    {
+      "slug": "openai-candidatos-exoplanetas-astra-codex-20261124",
+      "date": "2026-11-24",
+      "source": "OpenAI",
+      "topic": "Investigación",
+      "category": "Modelos",
+      "title": "Codex y Astra ayudan a localizar señales de posibles exoplanetas en datos públicos",
+      "summary": "OpenAI relata dos búsquedas aficionadas cuyos resultados requieren evaluación astronómica adicional.",
+      "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+      "body": [
+        "Kevin Bond, ingeniero de OpenAI, y Ethan Byrd trabajaron por separado con datos públicos de telescopios. Según el relato de la compañía, Codex y Astra les ayudaron a comparar métodos, escribir programas y buscar caídas periódicas del brillo de las estrellas.",
+        "Bond analizó observaciones de unas 100.000 estrellas de Kepler; Byrd trabajó con unos 19 millones de estrellas. Sus búsquedas produjeron candidatos que han remitido a especialistas para comprobaciones posteriores."
+      ],
+      "takeaway": "Ilustra cómo los asistentes pueden ayudar a explorar archivos científicos existentes.",
+      "caveat": "Son señales candidatas, no planetas confirmados. Otras causas pueden producir variaciones similares. La fuente es OpenAI y no se han reproducido aquí los análisis ni las observaciones de seguimiento.",
+      "dedup_key": "openai-candidatos-exoplanetas-astra-codex-20261124",
+      "sourceTitle": "Codex y Astra ayudan a localizar señales de posibles exoplanetas en datos públicos",
+      "company": "OpenAI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-24T20:50:30.846Z",
+      "modifiedAt": "2026-11-24T20:50:30.846Z",
+      "detectedAt": "2026-11-24",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "title": "Codex y Astra ayudan a localizar señales de posibles exoplanetas en datos públicos",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra/"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-api-fragmentos-archivos-office-20261123",
+      "date": "2026-11-23",
+      "source": "Google",
+      "topic": "Aplicaciones",
+      "category": "Herramientas",
+      "title": "Gemini API permite seleccionar páginas, celdas y fragmentos de audio o vídeo",
+      "summary": "Google añade selección de contenido y carga nativa de archivos Office y OpenDocument.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "body": [
+        "Google anunció el 23 de noviembre controles para que Gemini inspeccione partes concretas de un archivo. Permiten seleccionar páginas, rangos de hojas de cálculo e intervalos de audio o vídeo, además de determinadas capas de contenido.",
+        "La función se ofrece para Gemini 4 y permite reutilizar un archivo subido en distintas consultas. Según Google, se facturan los tokens de las partes inspeccionadas, evitando procesar siempre el documento o la grabación completos."
+      ],
+      "takeaway": "Los agentes pueden buscar primero una sección y ampliar después el contexto necesario.",
+      "caveat": "Siguen vigentes los límites de tamaño y páginas del archivo original. El ahorro depende de la selección y del flujo de trabajo; no se ha medido aquí.",
+      "dedup_key": "gemini-api-fragmentos-archivos-office-20261123",
+      "sourceTitle": "Gemini API permite seleccionar páginas, celdas y fragmentos de audio o vídeo",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-24T20:50:30.846Z",
+      "modifiedAt": "2026-11-24T20:50:30.846Z",
+      "detectedAt": "2026-11-24",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Aplicaciones"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Gemini API permite seleccionar páginas, celdas y fragmentos de audio o vídeo",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/"
+        }
+      ]
+    },
+    {
+      "slug": "openai-cisco-shirudo-linux-20261123",
+      "date": "2026-11-23",
+      "source": "OpenAI / Cisco",
+      "topic": "Seguridad",
+      "category": "Herramientas",
+      "title": "OpenAI y Cisco presentan Shirudo para proteger Linux mientras se preparan los parches",
+      "summary": "El proyecto abierto aplica defensas temporales con eBPF a servicios que siguen funcionando.",
+      "sourceUrl": "https://openai.com/index/introducing-shirudo/",
+      "body": [
+        "OpenAI y Cisco anunciaron el 23 de noviembre Shirudo, un entorno para probar y desplegar protecciones provisionales en sistemas Linux. El equipo puede observar su efecto antes de que un operador apruebe la aplicación.",
+        "Los socios describen una prueba controlada en la que una protección generada con Codex bloqueó un intento de explotación sin reiniciar Elasticsearch. El código se publica para facilitar su inspección y evolución."
+      ],
+      "takeaway": "Busca reducir la exposición durante la espera de una corrección permanente.",
+      "caveat": "El ejemplo procede de los socios y no es una evaluación independiente. Es un primer paso: cada protección necesita comprobar su compatibilidad y su impacto; no reemplaza el parche definitivo.",
+      "dedup_key": "openai-cisco-shirudo-linux-20261123",
+      "sourceTitle": "OpenAI y Cisco presentan Shirudo para proteger Linux mientras se preparan los parches",
+      "company": "OpenAI / Cisco",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-24T20:50:30.846Z",
+      "modifiedAt": "2026-11-24T20:50:30.846Z",
+      "detectedAt": "2026-11-24",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "OpenAI / Cisco",
+        "Seguridad"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI / Cisco",
+          "title": "OpenAI y Cisco presentan Shirudo para proteger Linux mientras se preparan los parches",
+          "url": "https://openai.com/index/introducing-shirudo/"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-claude-ship-github-20261123",
+      "date": "2026-11-23",
+      "source": "Anthropic",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Claude Ship reúne revisión, correcciones y aprobaciones de cambios en GitHub",
+      "summary": "Anthropic añade dos agentes en beta a Code Review para seguir las reglas de cada equipo.",
+      "sourceUrl": "https://claude.com/resources/articles/introducing-claude-ship",
+      "body": [
+        "Anthropic presentó el 23 de noviembre Claude Ship para repositorios de GitHub en planes Team y Enterprise. Reúne Code Review, ya disponible, con PR Steward y Claude Approvals, ambos en beta.",
+        "PR Steward atiende fallos de pruebas, conflictos y comentarios; no aprueba ni fusiona cambios. Claude Approvals aplica una política del repositorio para decidir qué puede aprobar y qué necesita revisión humana. Los administradores eligen dónde se activa."
+      ],
+      "takeaway": "Amplía la automatización del trabajo que sigue a abrir una propuesta de cambio.",
+      "caveat": "La disponibilidad tiene exclusiones según la configuración empresarial y el uso puede generar cargos por tokens. Anthropic recomienda empezar observando las decisiones; no garantiza que detecte todos los defectos.",
+      "dedup_key": "anthropic-claude-ship-github-20261123",
+      "sourceTitle": "Claude Ship reúne revisión, correcciones y aprobaciones de cambios en GitHub",
+      "company": "Anthropic",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-24T20:50:30.846Z",
+      "modifiedAt": "2026-11-24T20:50:30.846Z",
+      "detectedAt": "2026-11-24",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Anthropic",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Claude Ship reúne revisión, correcciones y aprobaciones de cambios en GitHub",
+          "url": "https://claude.com/resources/articles/introducing-claude-ship"
+        }
+      ]
+    },
     {
       "slug": "deepmind-gemini-circuitos-cuanticos-lean-20261123",
       "source": "Google DeepMind",
@@ -9394,6 +9554,10 @@
     }
   ],
   "selectedSlugs": [
+    "anthropic-claude-ship-github-20261123",
+    "openai-cisco-shirudo-linux-20261123",
+    "gemini-api-fragmentos-archivos-office-20261123",
+    "openai-candidatos-exoplanetas-astra-codex-20261124",
     "zai-glm54-loop-transformer-20261123",
     "llamaindex-ocria-nano-cpu-20261123",
     "deepmind-gemini-circuitos-cuanticos-lean-20261123",

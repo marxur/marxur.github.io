@@ -1,6 +1,50 @@
 {
-  "generated": "2026-11-23T20:53:30.538Z",
+  "generated": "2026-11-24T20:50:30.846Z",
   "items": [
+    {
+      "title": "Codex y Astra ayudan a localizar señales de posibles exoplanetas en datos públicos",
+      "summary": "OpenAI relata dos búsquedas aficionadas cuyos resultados requieren evaluación astronómica adicional.",
+      "url": "/noticias/openai-candidatos-exoplanetas-astra-codex-20261124.html",
+      "category": "Modelos",
+      "topic": "Investigación",
+      "date": "2026-11-24",
+      "type": "noticia",
+      "source": "OpenAI",
+      "slug": "openai-candidatos-exoplanetas-astra-codex-20261124"
+    },
+    {
+      "title": "Gemini API permite seleccionar páginas, celdas y fragmentos de audio o vídeo",
+      "summary": "Google añade selección de contenido y carga nativa de archivos Office y OpenDocument.",
+      "url": "/noticias/gemini-api-fragmentos-archivos-office-20261123.html",
+      "category": "Herramientas",
+      "topic": "Aplicaciones",
+      "date": "2026-11-23",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "gemini-api-fragmentos-archivos-office-20261123"
+    },
+    {
+      "title": "OpenAI y Cisco presentan Shirudo para proteger Linux mientras se preparan los parches",
+      "summary": "El proyecto abierto aplica defensas temporales con eBPF a servicios que siguen funcionando.",
+      "url": "/noticias/openai-cisco-shirudo-linux-20261123.html",
+      "category": "Herramientas",
+      "topic": "Seguridad",
+      "date": "2026-11-23",
+      "type": "noticia",
+      "source": "OpenAI / Cisco",
+      "slug": "openai-cisco-shirudo-linux-20261123"
+    },
+    {
+      "title": "Claude Ship reúne revisión, correcciones y aprobaciones de cambios en GitHub",
+      "summary": "Anthropic añade dos agentes en beta a Code Review para seguir las reglas de cada equipo.",
+      "url": "/noticias/anthropic-claude-ship-github-20261123.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-23",
+      "type": "noticia",
+      "source": "Anthropic",
+      "slug": "anthropic-claude-ship-github-20261123"
+    },
     {
       "title": "DeepMind combina agentes Gemini y Lean para mejorar algoritmos cuánticos",
       "summary": "Equipos de agentes proponen circuitos y comprueban sus resultados mediante verificación formal.",

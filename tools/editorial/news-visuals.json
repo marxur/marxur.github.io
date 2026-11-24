@@ -656,6 +656,50 @@
       "provenance": "Ilustración conceptual generada y revisada visualmente el 23 de noviembre. No es una fotografía, captura del producto ni diagrama técnico exacto.",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-0723ab33-831f-4dcb-a125-53a3f4049039.png"
+    },
+    {
+      "slug": "anthropic-claude-ship-github-20261123",
+      "key": "anthropic-claude-ship-github-20261123",
+      "src": "/assets/news-visuals/anthropic-claude-ship-github-20261123.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 premium editorial still life for Anthropic Claude Ship, software agents reviewing, fixing and approving GitHub pull requests under team policy. Three elegant translucent vertical panels on a warm terracotta and cream engineering desk: first shows abstract branching code-like lines and magnifying inspection geometry, middle a precise tiny robotic gripper repairing one connection, final a circular mechanical approval gate with a human-controlled key resting nearby. Realistic tactile glass, copper and ceramic, bright cinematic side light. No readable text, no letters, logos or screenshots. Clear sophisticated conceptual metaphor, not actual interface.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 24 de noviembre. No es una fotografía, captura del producto ni una observación astronómica real.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-5dc37b6d-8a56-4843-a060-fd414c9dd169.png"
+    },
+    {
+      "slug": "openai-cisco-shirudo-linux-20261123",
+      "key": "openai-cisco-shirudo-linux-20261123",
+      "src": "/assets/news-visuals/openai-cisco-shirudo-linux-20261123.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 photorealistic conceptual editorial technology photograph for OpenAI and Cisco Shirudo temporary eBPF defenses for running Linux services. A sharply detailed rack server module on a dark forest-green studio bench, continuous fiber light paths flowing through it, a thin transparent emerald protective shield enclosing just one exposed circuit while the rest stays active. A small removable repair component waits on the bench. Elegant cyber-security magazine image, black anodized metal, silver accents, soft emerald reflections, no text, icons, logos, generic sphere or hooded people. Not actual company hardware.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 24 de noviembre. No es una fotografía, captura del producto ni una observación astronómica real.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-3d8f69fc-3769-419d-b289-dda6257b1aa0.png"
+    },
+    {
+      "slug": "gemini-api-fragmentos-archivos-office-20261123",
+      "key": "gemini-api-fragmentos-archivos-office-20261123",
+      "src": "/assets/news-visuals/gemini-api-fragmentos-archivos-office-20261123.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 luminous editorial conceptual photograph about Gemini API selecting only requested slices of files. A carefully arranged fan of ivory document pages, spreadsheet grid cards, miniature filmstrip and audio waveform ribbon on a soft violet tabletop. A slim rectangular luminous selection frame isolates a few cells and a small segment of film, while the rest stays translucent and muted. High-end contemporary product photography, lilac and citrus-yellow accents, generous clean space, no text letters numbers logos or readable document content. Conceptual illustration of targeted file inspection, not software screenshot.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 24 de noviembre. No es una fotografía, captura del producto ni una observación astronómica real.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-90062ea0-62ae-42c6-9762-e770e8331d97.png"
+    },
+    {
+      "slug": "openai-candidatos-exoplanetas-astra-codex-20261124",
+      "key": "openai-candidatos-exoplanetas-astra-codex-20261124",
+      "src": "/assets/news-visuals/openai-candidatos-exoplanetas-astra-codex-20261124.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 breathtaking realistic astronomical editorial illustration about AI-assisted searches for possible exoplanets in public telescope data. A distant orange star seen with a small dark planet-like silhouette crossing its bright disk, deep indigo star field, delicate transparent light-curve trace running beneath the star as a subtle scientific motif, no axes or labels, no text. Restrained lens glow, plausible proportions, extraordinary cinematic astronomy magazine quality, warm orange versus deep ultramarine. Clearly conceptual illustration of a possible transit, not an actual observation, confirmed planet or telescope photograph.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 24 de noviembre. No es una fotografía, captura del producto ni una observación astronómica real.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-45d920b9-6dff-4c73-856a-56dae7712adf.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."
