@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/sobre.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/editorial.html</loc><lastmod>2026-10-27T22:17:01Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/privacidad.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/contacto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/xai.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/agentes-ia.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/china.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/deepseek.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/qwen.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/kimi.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
-  <url><loc>https://www.ianoticias.org/temas/voz-y-teclado.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/archivo.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/openai.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/anthropic.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/google.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/xai.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/agentes-ia.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/china.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/deepseek.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/qwen.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/kimi.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/temas/voz-y-teclado.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/claude-code-modernization-contexto.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/qwenwork-commerce-20261014-signal.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/anthropic-singapore-office-mou-20261014.html</loc><lastmod>2026-10-17T19:31:15Z</lastmod></url>
@@ -251,4 +251,8 @@
   <url><loc>https://www.ianoticias.org/noticias/openai-cisco-shirudo-linux-20261123.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/gemini-api-fragmentos-archivos-office-20261123.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
   <url><loc>https://www.ianoticias.org/noticias/openai-candidatos-exoplanetas-astra-codex-20261124.html</loc><lastmod>2026-11-24T20:50:30.846Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/anthropic-api-rust-verificacion-20261125.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/anthropic-siren-limites-agentes-20261124.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/tencent-hy-mt3-traduccion-102-idiomas-20261124.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
+  <url><loc>https://www.ianoticias.org/noticias/google-workspace-mcp-cli-agentes-20261124.html</loc><lastmod>2026-11-25T20:53:09.691Z</lastmod></url>
 </urlset>

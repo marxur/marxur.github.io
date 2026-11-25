@@ -700,6 +700,50 @@
       "provenance": "Ilustración conceptual generada y revisada visualmente el 24 de noviembre. No es una fotografía, captura del producto ni una observación astronómica real.",
       "rights": "Recurso generado para uso editorial de Noticias IA",
       "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-45d920b9-6dff-4c73-856a-56dae7712adf.png"
+    },
+    {
+      "slug": "anthropic-api-rust-verificacion-20261125",
+      "key": "anthropic-api-rust-verificacion-20261125",
+      "src": "/assets/news-visuals/anthropic-api-rust-verificacion-20261125.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 premium editorial conceptual photograph about migrating an AI message API from Python to Rust with shadow verification. On a dark graphite engineering bench two parallel illuminated fiber conduits, one cool blue and one rust orange, carry identical luminous packets through a precise glass comparator, small human calibration dial between them. Orange conduit compact and efficient. Physically plausible optical laboratory still life, exquisite macro details, cinematic directional light. No text, letters, numbers, logos, robot heads or screens. Not a real product interface.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 25 de noviembre de 2026. No es una fotografía documental, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-0f1aab77-3d02-4d62-9899-a9a9f53dec0d.png"
+    },
+    {
+      "slug": "anthropic-siren-limites-agentes-20261124",
+      "key": "anthropic-siren-limites-agentes-20261124",
+      "src": "/assets/news-visuals/anthropic-siren-limites-agentes-20261124.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 striking editorial conceptual still life about Anthropic Siren evaluating AI agents in deliberately weakened sandboxes. A small luminous teal geometric agent within a transparent cubic enclosure on a deep indigo platform; one narrow amber boundary gap leads toward a tempting bright data crystal outside; a separate mechanical safety gate is clearly visible beside the gap. No literal sand, no humanoid robots. Architectural glass and matte ceramic, precise dramatic studio light. No words, letters, logos or real security screenshots.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 25 de noviembre de 2026. No es una fotografía documental, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-2b2df973-9b22-4893-b297-b9238ca3702e.png"
+    },
+    {
+      "slug": "tencent-hy-mt3-traduccion-102-idiomas-20261124",
+      "key": "tencent-hy-mt3-traduccion-102-idiomas-20261124",
+      "src": "/assets/news-visuals/tencent-hy-mt3-traduccion-102-idiomas-20261124.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 bright premium editorial conceptual image for Tencent Hy-MT3 multilingual translation with downloadable model weights. A sculptural fan of fine translucent paper sheets with abstract calligraphic strokes from many writing traditions, flowing through three differently sized jade-green translation prisms and emerging as ordered parallel sheets. Warm ivory background, mint jade and coral accents, tactile paper macro detail, beautiful daylight, distinctive graphic composition. Strokes decorative and unreadable; no actual sentences, labels, logos, flags or screens. Not a product screenshot.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 25 de noviembre de 2026. No es una fotografía documental, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-12fa36bf-ba3e-4110-a740-ffe75e28e79d.png"
+    },
+    {
+      "slug": "google-workspace-mcp-cli-agentes-20261124",
+      "key": "google-workspace-mcp-cli-agentes-20261124",
+      "src": "/assets/news-visuals/google-workspace-mcp-cli-agentes-20261124.webp",
+      "position": "50% 50%",
+      "prompt": "Landscape 3:2 premium editorial conceptual still life for Google Workspace managed MCP connections and official CLI for agents. Isometric ivory modular office desk: separate sculptural objects representing an envelope, document sheets, calendar grid without numbers, and colored spreadsheet tiles; all connected by a precise cobalt-blue central connector with visible permission switches. Human hand adjusting one physical authorization switch. Clean modern product photography, vivid primary accents, soft daylight and rich shadows. No words, letters, numbers, logos or actual Google interface. Conceptual, not screenshot.",
+      "attribution": "Noticias IA / OpenAI Image Generation",
+      "provenance": "Ilustración conceptual generada y revisada visualmente el 25 de noviembre de 2026. No es una fotografía documental, captura del producto ni diagrama técnico exacto.",
+      "rights": "Recurso generado para uso editorial de Noticias IA",
+      "original": "C:\\Users\\USUARIO\\.codex\\generated_images\\01a19b5e-16e6-7672-9f73-baf9d15c54a4\\exec-a1b403bd-26b3-4560-859b-8256ade807dd.png"
     }
   ],
   "policy": "Exact article assignments only; no topic fallback or shared illustration between different articles."

@@ -1,7 +1,167 @@
 {
-  "edition": "2026-11-25T19:48:57.487Z",
-  "reviewedAt": "2026-11-25T19:48:57.487Z",
+  "edition": "2026-11-25T20:53:09.691Z",
+  "reviewedAt": "2026-11-25T20:53:09.691Z",
   "articles": [
+    {
+      "slug": "google-workspace-mcp-cli-agentes-20261124",
+      "date": "2026-11-24",
+      "source": "Google",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Google Workspace generaliza sus servidores MCP y la CLI para agentes",
+      "summary": "Google ofrece conexiones gestionadas con controles de acceso, confirmaciones y registro de acciones.",
+      "sourceUrl": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+      "body": [
+        "El anuncio del 24 de noviembre cubre herramientas para Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat y Tasks. Los servidores MCP conectan agentes remotos; la CLI sirve a entornos de terminal.",
+        "Google prevé desplegar la disponibilidad general y los controles administrativos durante dos semanas. Anuncia para el 1 de febrero de 2027 la aplicación técnica del requisito de MCP en el acceso de agentes."
+      ],
+      "takeaway": "Los equipos pueden planificar conexiones con permisos y auditoría gestionados por Workspace.",
+      "caveat": "El anuncio no implica activación inmediata en todas las cuentas. Cuotas, configuración y calendario de facturación requieren consultar la documentación correspondiente.",
+      "dedup_key": "google-workspace-mcp-cli-agentes-20261124",
+      "sourceTitle": "Google Workspace generaliza sus servidores MCP y la CLI para agentes",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-25T20:53:09.691Z",
+      "modifiedAt": "2026-11-25T20:53:09.691Z",
+      "detectedAt": "2026-11-25",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Google Workspace generaliza sus servidores MCP y la CLI para agentes",
+          "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-hy-mt3-traduccion-102-idiomas-20261124",
+      "date": "2026-11-24",
+      "source": "Tencent",
+      "topic": "China",
+      "category": "Modelos",
+      "title": "Hy-MT3 amplía la traducción de Tencent a 102 idiomas con pesos descargables",
+      "summary": "La familia incorpora tres tamaños y la herramienta TransRubric para evaluar errores de traducción.",
+      "sourceUrl": "https://github.com/Tencent-Hunyuan/Hy-MT3",
+      "body": [
+        "Tencent fecha el lanzamiento el 24 de noviembre. Ofrece variantes de 1.800 y 7.000 millones de parámetros y una de 30.000 millones con 3.000 millones activos. Hy-MT2 cubría 38 idiomas.",
+        "El equipo destaca la localización de videojuegos y la traducción de texto extraído mediante OCR. Publica también TransRubric, que puntúa traducciones con rúbricas y clasifica sus problemas."
+      ],
+      "takeaway": "Los pesos permiten comparar modelos y costes de ejecución en pares de idiomas concretos, incluido el gallego.",
+      "caveat": "Las mejoras proceden de Tencent. No hemos reproducido sus pruebas; descargar pesos exige revisar su licencia y no garantiza calidad uniforme en todos los idiomas.",
+      "dedup_key": "tencent-hy-mt3-traduccion-102-idiomas-20261124",
+      "sourceTitle": "Hy-MT3 amplía la traducción de Tencent a 102 idiomas con pesos descargables",
+      "company": "Tencent",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-25T20:53:09.691Z",
+      "modifiedAt": "2026-11-25T20:53:09.691Z",
+      "detectedAt": "2026-11-25",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Tencent",
+        "China"
+      ],
+      "sources": [
+        {
+          "name": "Tencent",
+          "title": "Hy-MT3 amplía la traducción de Tencent a 102 idiomas con pesos descargables",
+          "url": "https://github.com/Tencent-Hunyuan/Hy-MT3"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-siren-limites-agentes-20261124",
+      "date": "2026-11-24",
+      "source": "Anthropic",
+      "topic": "Seguridad",
+      "category": "Investigación",
+      "title": "Siren mide cuándo un agente cruza los límites de un entorno aislado",
+      "summary": "Anthropic presenta más de 1.700 escenarios con debilidades deliberadas y recursos tentadores fuera del entorno permitido.",
+      "sourceUrl": "https://safeguards.anthropic.com/2026/siren/",
+      "body": [
+        "Siren asigna tareas rutinarias a modelos dentro de entornos aislados debilitados a propósito. Distingue entre intentar acceder al exterior, usar lo encontrado y hacerlo sin una autorización razonable.",
+        "Anthropic utiliza la evaluación antes de desplegar modelos y estudia mitigaciones: describir las restricciones, revisar acciones y facilitar que el agente comunique fallos del aislamiento."
+      ],
+      "takeaway": "La evaluación examina si el agente respeta los permisos incluso cuando saltárselos ayudaría a terminar su tarea.",
+      "caveat": "Los experimentos buscan provocar esa conducta y omiten protecciones de los productos. Sus tasas no representan la frecuencia de incidentes en uso real.",
+      "dedup_key": "anthropic-siren-limites-agentes-20261124",
+      "sourceTitle": "Siren mide cuándo un agente cruza los límites de un entorno aislado",
+      "company": "Anthropic",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-25T20:53:09.691Z",
+      "modifiedAt": "2026-11-25T20:53:09.691Z",
+      "detectedAt": "2026-11-25",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Anthropic",
+        "Seguridad"
+      ],
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Siren mide cuándo un agente cruza los límites de un entorno aislado",
+          "url": "https://safeguards.anthropic.com/2026/siren/"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-api-rust-verificacion-20261125",
+      "date": "2026-11-25",
+      "source": "Anthropic",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Anthropic explica cómo verificó con agentes la migración de su API a Rust",
+      "summary": "La empresa publica el método de comparación con producción que permitió revisar la reescritura sin detener el servicio.",
+      "sourceUrl": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "body": [
+        "Anthropic describe cómo comparó su nueva Messages API con la implementación en Python, que seguía cambiando. Los agentes investigaban diferencias en entornos aislados y proponían correcciones sometidas a revisión humana.",
+        "La empresa atribuye a la migración aproximadamente un 70 % menos de CPU por petición y una reducción del 20 % en la mediana del tiempo hasta el primer token. El artículo se publica el 25 de noviembre; la reescritura ya se había realizado."
+      ],
+      "takeaway": "La aportación es el sistema de verificación: generar código y demostrar que conserva el comportamiento son tareas distintas.",
+      "caveat": "Son mediciones internas, no una garantía para otras migraciones. La revisión humana siguió siendo necesaria.",
+      "dedup_key": "anthropic-api-rust-verificacion-20261125",
+      "sourceTitle": "Anthropic explica cómo verificó con agentes la migración de su API a Rust",
+      "company": "Anthropic",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-25T20:53:09.691Z",
+      "modifiedAt": "2026-11-25T20:53:09.691Z",
+      "detectedAt": "2026-11-25",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Anthropic",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Anthropic",
+          "title": "Anthropic explica cómo verificó con agentes la migración de su API a Rust",
+          "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+        }
+      ]
+    },
     {
       "slug": "openai-candidatos-exoplanetas-astra-codex-20261124",
       "date": "2026-11-24",
@@ -9619,6 +9779,10 @@
     }
   ],
   "selectedSlugs": [
+    "anthropic-api-rust-verificacion-20261125",
+    "anthropic-siren-limites-agentes-20261124",
+    "tencent-hy-mt3-traduccion-102-idiomas-20261124",
+    "google-workspace-mcp-cli-agentes-20261124",
     "anthropic-claude-ship-github-20261123",
     "openai-cisco-shirudo-linux-20261123",
     "gemini-api-fragmentos-archivos-office-20261123",

@@ -1,6 +1,50 @@
 {
-  "generated": "2026-11-24T20:50:30.846Z",
+  "generated": "2026-11-25T20:53:09.691Z",
   "items": [
+    {
+      "title": "Google Workspace generaliza sus servidores MCP y la CLI para agentes",
+      "summary": "Google ofrece conexiones gestionadas con controles de acceso, confirmaciones y registro de acciones.",
+      "url": "/noticias/google-workspace-mcp-cli-agentes-20261124.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-24",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "google-workspace-mcp-cli-agentes-20261124"
+    },
+    {
+      "title": "Hy-MT3 amplía la traducción de Tencent a 102 idiomas con pesos descargables",
+      "summary": "La familia incorpora tres tamaños y la herramienta TransRubric para evaluar errores de traducción.",
+      "url": "/noticias/tencent-hy-mt3-traduccion-102-idiomas-20261124.html",
+      "category": "Modelos",
+      "topic": "China",
+      "date": "2026-11-24",
+      "type": "noticia",
+      "source": "Tencent",
+      "slug": "tencent-hy-mt3-traduccion-102-idiomas-20261124"
+    },
+    {
+      "title": "Siren mide cuándo un agente cruza los límites de un entorno aislado",
+      "summary": "Anthropic presenta más de 1.700 escenarios con debilidades deliberadas y recursos tentadores fuera del entorno permitido.",
+      "url": "/noticias/anthropic-siren-limites-agentes-20261124.html",
+      "category": "Investigación",
+      "topic": "Seguridad",
+      "date": "2026-11-24",
+      "type": "noticia",
+      "source": "Anthropic",
+      "slug": "anthropic-siren-limites-agentes-20261124"
+    },
+    {
+      "title": "Anthropic explica cómo verificó con agentes la migración de su API a Rust",
+      "summary": "La empresa publica el método de comparación con producción que permitió revisar la reescritura sin detener el servicio.",
+      "url": "/noticias/anthropic-api-rust-verificacion-20261125.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-25",
+      "type": "noticia",
+      "source": "Anthropic",
+      "slug": "anthropic-api-rust-verificacion-20261125"
+    },
     {
       "title": "Codex y Astra ayudan a localizar señales de posibles exoplanetas en datos públicos",
       "summary": "OpenAI relata dos búsquedas aficionadas cuyos resultados requieren evaluación astronómica adicional.",
