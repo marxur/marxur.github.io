@@ -9304,6 +9304,19 @@
     {
       "name": "Google DeepMind",
       "handle": "@GoogleDeepMind",
+      "title": "Google DeepMind muestra un globo 3D que convierte rayos en música con Hydrogen",
+      "summary": "La compañía atribuye a Gemini 4 Hydrogen un globo interactivo que transforma datos de rayos en música ambiental y enlaza una versión para probar. Es una demostración del proveedor; no hemos auditado los datos meteorológicos ni analizado el vídeo completo.",
+      "url": "https://x.com/GoogleDeepMind/status/2125371062880022536",
+      "date": "2026-11-24",
+      "type": "Demostración",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2125371062880022536",
+      "dateBasis": "Fecha del original público contrastada con oEmbed oficial de X",
+      "access": "Autor, texto íntegro y fecha leídos en el original accesible y comprobados mediante oEmbed oficial; no vídeo completo.",
+      "checkedAt": "2026-11-26T21:17:42.915Z"
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
       "title": "Gemini 4 Neon programa una máquina de Rube Goldberg en una recreación de un salón recreativo",
       "summary": "DeepMind muestra una demostración creada con Antigravity, física simulada y una pista de Lyria 3.5. Es una demostración seleccionada por el proveedor, no una evaluación independiente.",
       "url": "https://x.com/GoogleDeepMind/status/2125694207197110560",
@@ -10273,7 +10286,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-26T21:07:15.245Z",
-    "coverage": "Revisión parcial de siete cuentas configuradas mediante sus vistas públicas; una demostración nueva verificada en original y oEmbed oficial. Se conservan43 entradas anteriores. No cronologías completas."
+    "checkedAt": "2026-11-26T21:17:42.915Z",
+    "coverage": "Siete perfiles públicos revisados, búsquedas por cuenta/fecha48h y ampliación7d para huecos, pistas de radares autorizados; acceso parcial, sin cronologías completas."
   }
 }
