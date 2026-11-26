@@ -1,0 +1,72 @@
+.argos-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  align-items: end;
+  gap: clamp(24px, 4.5vw, 60px);
+  margin-bottom: clamp(26px, 4vw, 52px);
+  padding: clamp(22px, 4.5vw, 56px);
+  background: #202722;
+  color: #faf9f5;
+  border-top: 4px solid #e6b862;
+  border-radius: 8px;
+}
+
+.argos-feature .eyebrow {
+  color: #f0c775;
+}
+
+.argos-feature h2 {
+  max-width: 19ch;
+  margin: 10px 0 15px;
+  color: inherit;
+  font-size: clamp(30px, 4.4vw, 59px);
+  line-height: 1.06;
+  letter-spacing: -0.035em;
+  text-wrap: balance;
+}
+
+.argos-feature p {
+  max-width: 54ch;
+  color: #e6e7df;
+  font-size: clamp(14px, 1.4vw, 17px);
+}
+
+.argos-feature .argos-action {
+  margin-top: 22px;
+  border-color: #f0c775;
+  background: #f0c775;
+  color: #202722;
+}
+
+.argos-feature .argos-action:hover {
+  background: #ffdb90;
+}
+
+.argos-feature .argos-action svg {
+  width: 16px;
+  height: 16px;
+}
+
+.argos-index {
+  border-left: 1px solid #ffffff55;
+  padding-left: clamp(18px, 2.5vw, 32px);
+}
+
+.argos-index a {
+  margin-top: 10px;
+  color: #f0c775;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+@media (max-width: 760px) {
+  .argos-feature {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .argos-index {
+    border-left: 0;
+    border-top: 1px solid #ffffff55;
+    padding: 18px 0 0;
+  }
+}
