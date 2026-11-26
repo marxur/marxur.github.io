@@ -1,6 +1,7 @@
 [
-  "anthropic-api-rust-verificacion-20261125",
-  "anthropic-siren-limites-agentes-20261124",
-  "tencent-hy-mt3-traduccion-102-idiomas-20261124",
-  "google-workspace-mcp-cli-agentes-20261124"
+  "deepl-aure-v2-traduccion-voz-20261126",
+  "perplexity-time-machine-web-historica-20261125",
+  "sakana-namazu-small-30b-20261125",
+  "cloudflare-search-for-agents-20261125",
+  "aws-quick-web-plugins-agentes-20261121"
 ]

@@ -1,7 +1,212 @@
 {
-  "edition": "2026-11-25T20:53:09.691Z",
-  "reviewedAt": "2026-11-25T20:53:09.691Z",
+  "edition": "2026-11-26T21:07:15.245Z",
+  "reviewedAt": "2026-11-26T21:07:15.245Z",
   "articles": [
+    {
+      "slug": "aws-quick-web-plugins-agentes-20261121",
+      "date": "2026-11-21",
+      "source": "AWS",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "AWS Quick lleva sus agentes al navegador y agrupa herramientas en plugins",
+      "summary": "Recuperamos el anuncio del 21 de noviembre: los agentes iniciados o programados desde la web siguen trabajando tras cerrarla.",
+      "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
+      "body": [
+        "Quick sincroniza conversaciones, agentes y archivos entre navegador, escritorio y móvil. Mission Control permite consultar lo terminado y dónde necesita intervenir la persona.",
+        "Los plugins reúnen agentes, habilidades, conectores y flujos para una tarea. AWS permite instalar paquetes oficiales o crear y compartir uno propio dentro del equipo."
+      ],
+      "takeaway": "Facilita preparar procesos repetibles y supervisarlos desde varios dispositivos.",
+      "caveat": "La interfaz web se ofrece en las regiones enumeradas por AWS. Los conectores y permisos requieren configuración. La noticia mantiene su fecha original; no es un lanzamiento de hoy.",
+      "dedup_key": "aws-quick-web-plugins-agentes-20261121",
+      "sourceTitle": "AWS Quick lleva sus agentes al navegador y agrupa herramientas en plugins",
+      "company": "AWS",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-26T21:07:15.245Z",
+      "modifiedAt": "2026-11-26T21:07:15.245Z",
+      "detectedAt": "2026-11-26",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "AWS",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "AWS",
+          "title": "AWS Quick lleva sus agentes al navegador y agrupa herramientas en plugins",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/"
+        },
+        {
+          "name": "AWS",
+          "title": "Plugins de Quick: agentes, habilidades, conectores y flujos",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
+        }
+      ]
+    },
+    {
+      "slug": "cloudflare-search-for-agents-20261125",
+      "date": "2026-11-25",
+      "source": "Cloudflare",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Cloudflare permite ofrecer a los agentes un buscador desde el propio dominio",
+      "summary": "Search for Agents crea un índice del sitio y anuncia dónde consultarlo, en lugar de recorrer cada página.",
+      "sourceUrl": "https://blog.cloudflare.com/search-for-agents",
+      "body": [
+        "El responsable activa la función desde Cloudflare. El servicio indexa el contenido y publica un punto de búsqueda que los agentes pueden descubrir desde los metadatos de las páginas.",
+        "Devuelve contenido recuperado en Markdown, no una respuesta redactada por otro modelo. Las consultas respetan la configuración del dominio para robots, tráfico y seguridad."
+      ],
+      "takeaway": "Una web puede facilitar la recuperación de información relevante mediante su propio índice.",
+      "caveat": "Cloudflare anuncia acceso para todos los planes, incluido el gratuito con límites. Indexación, consultas y almacenamiento están sujetos al uso y condiciones de AI Search; no hemos medido su calidad.",
+      "dedup_key": "cloudflare-search-for-agents-20261125",
+      "sourceTitle": "Cloudflare permite ofrecer a los agentes un buscador desde el propio dominio",
+      "company": "Cloudflare",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-26T21:07:15.245Z",
+      "modifiedAt": "2026-11-26T21:07:15.245Z",
+      "detectedAt": "2026-11-26",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Cloudflare",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Cloudflare",
+          "title": "Cloudflare permite ofrecer a los agentes un buscador desde el propio dominio",
+          "url": "https://blog.cloudflare.com/search-for-agents"
+        }
+      ]
+    },
+    {
+      "slug": "sakana-namazu-small-30b-20261125",
+      "date": "2026-11-25",
+      "source": "Sakana AI",
+      "topic": "Modelos",
+      "category": "Modelos",
+      "title": "Sakana presenta Namazu Small y prepara su despliegue en infraestructura propia",
+      "summary": "El modelo de razonamiento de 30.000 millones de parámetros parte de la base Nemotron 3 Nano de NVIDIA.",
+      "sourceUrl": "https://sakana.ai/namazu-small/",
+      "body": [
+        "Sakana realizó el preentrenamiento adicional y el postentrenamiento. Orienta la variante a conversación, investigación con búsqueda web y lectura de documentos largos con respuestas apoyadas en fuentes.",
+        "El laboratorio comunica una media superior a Nemotron 3 Nano y Super en sus 25 evaluaciones. Reconoce avances más limitados cuando las respuestas dependen solo del conocimiento interno."
+      ],
+      "takeaway": "Abre otra opción para estudiar el uso de modelos de razonamiento en instalaciones propias.",
+      "caveat": "Los detalles de esa disponibilidad se anuncian para diciembre. El comunicado no acredita una descarga pública; las comparativas son del laboratorio.",
+      "dedup_key": "sakana-namazu-small-30b-20261125",
+      "sourceTitle": "Sakana presenta Namazu Small y prepara su despliegue en infraestructura propia",
+      "company": "Sakana AI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-26T21:07:15.245Z",
+      "modifiedAt": "2026-11-26T21:07:15.245Z",
+      "detectedAt": "2026-11-26",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Sakana AI",
+        "Modelos"
+      ],
+      "sources": [
+        {
+          "name": "Sakana AI",
+          "title": "Sakana presenta Namazu Small y prepara su despliegue en infraestructura propia",
+          "url": "https://sakana.ai/namazu-small/"
+        }
+      ]
+    },
+    {
+      "slug": "perplexity-time-machine-web-historica-20261125",
+      "date": "2026-11-25",
+      "source": "Perplexity",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Perplexity Time Machine deja buscar en la web tal como estaba en una fecha",
+      "summary": "Search API y Context API incorporan un corte temporal basado en las copias archivadas por el servicio.",
+      "sourceUrl": "https://www.perplexity.ai/en-GB/hub/blog/freeze-the-web-with-perplexity-time-machine",
+      "body": [
+        "El parámetro snapshot_as_of limita la búsqueda y lectura a versiones guardadas hasta el instante elegido. Los resultados muestran el título y fragmento de esa copia; Context API recupera su texto completo.",
+        "Perplexity indica un alcance inicial de hasta 365 días. La función permite repetir investigaciones de agentes sin que la búsqueda incorpore páginas actualizadas con información posterior."
+      ],
+      "takeaway": "Ayuda a diseñar evaluaciones históricas reproducibles y a investigar qué información podía recuperarse entonces.",
+      "caveat": "El archivo no es una copia completa de Internet. Tampoco elimina por sí solo el conocimiento futuro que pueda contener el modelo.",
+      "dedup_key": "perplexity-time-machine-web-historica-20261125",
+      "sourceTitle": "Perplexity Time Machine deja buscar en la web tal como estaba en una fecha",
+      "company": "Perplexity",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-26T21:07:15.245Z",
+      "modifiedAt": "2026-11-26T21:07:15.245Z",
+      "detectedAt": "2026-11-26",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Perplexity",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Perplexity",
+          "title": "Perplexity Time Machine deja buscar en la web tal como estaba en una fecha",
+          "url": "https://www.perplexity.ai/en-GB/hub/blog/freeze-the-web-with-perplexity-time-machine"
+        }
+      ]
+    },
+    {
+      "slug": "deepl-aure-v2-traduccion-voz-20261126",
+      "date": "2026-11-26",
+      "source": "DeepL",
+      "topic": "Voz y teclado",
+      "category": "Modelos",
+      "title": "DeepL presenta Aure v2 para traducir conversaciones con menos retraso",
+      "summary": "El nuevo modelo de voz a voz llega a DeepL Voice y su API con seis idiomas iniciales, incluido el español.",
+      "sourceUrl": "https://www.deepl.com/nl/press-release/aure-v2",
+      "body": [
+        "Aure v2 reúne la traducción oral en un modelo de extremo a extremo. DeepL emplea aprendizaje por refuerzo para decidir cuándo dispone de contexto suficiente para empezar a hablar.",
+        "La compañía comunica una mediana de retraso un 50 % menor que Aure. Su estudio usó grabaciones de un minuto en diez pares lingüísticos, mediante API y sin la sobrecarga de las aplicaciones."
+      ],
+      "takeaway": "Puede facilitar turnos más naturales en reuniones multilingües. DeepL anuncia activación automática en los idiomas compatibles.",
+      "caveat": "Son pruebas internas. Ruido, conversaciones largas y vocabulario propio pueden cambiar el resultado; no hemos probado el servicio.",
+      "dedup_key": "deepl-aure-v2-traduccion-voz-20261126",
+      "sourceTitle": "DeepL presenta Aure v2 para traducir conversaciones con menos retraso",
+      "company": "DeepL",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-26T21:07:15.245Z",
+      "modifiedAt": "2026-11-26T21:07:15.245Z",
+      "detectedAt": "2026-11-26",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "DeepL",
+        "Voz y teclado"
+      ],
+      "sources": [
+        {
+          "name": "DeepL",
+          "title": "DeepL presenta Aure v2 para traducir conversaciones con menos retraso",
+          "url": "https://www.deepl.com/nl/press-release/aure-v2"
+        }
+      ]
+    },
     {
       "slug": "google-workspace-mcp-cli-agentes-20261124",
       "date": "2026-11-24",
@@ -9097,6 +9302,19 @@
   ],
   "xPosts": [
     {
+      "name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "title": "Gemini 4 Neon programa una máquina de Rube Goldberg en una recreación de un salón recreativo",
+      "summary": "DeepMind muestra una demostración creada con Antigravity, física simulada y una pista de Lyria 3.5. Es una demostración seleccionada por el proveedor, no una evaluación independiente.",
+      "url": "https://x.com/GoogleDeepMind/status/2125694207197110560",
+      "date": "2026-11-25",
+      "type": "Demostración",
+      "sourceUrl": "https://x.com/GoogleDeepMind/status/2125694207197110560",
+      "dateBasis": "Fecha contrastada en original público y oEmbed oficial de X",
+      "access": "Texto íntegro, autor y fecha leídos en el original público y contrastados con oEmbed oficial. No se ha analizado el vídeo completo.",
+      "checkedAt": "2026-11-26T21:07:15.245Z"
+    },
+    {
       "name": "Anthropic",
       "handle": "@AnthropicAI",
       "title": "Anthropic explica cómo migró su Messages API de Python a Rust con Claude",
@@ -9779,6 +9997,11 @@
     }
   ],
   "selectedSlugs": [
+    "deepl-aure-v2-traduccion-voz-20261126",
+    "perplexity-time-machine-web-historica-20261125",
+    "sakana-namazu-small-30b-20261125",
+    "cloudflare-search-for-agents-20261125",
+    "aws-quick-web-plugins-agentes-20261121",
     "anthropic-api-rust-verificacion-20261125",
     "anthropic-siren-limites-agentes-20261124",
     "tencent-hy-mt3-traduccion-102-idiomas-20261124",
@@ -10050,7 +10273,7 @@
     }
   ],
   "xModule": {
-    "checkedAt": "2026-11-25T19:48:57.487Z",
-    "coverage": "Siete perfiles públicos revisados, búsquedas por cuenta y fecha y cinco informes de Dropbox. Cinco altas contrastadas con oEmbed y originales; cronologías parciales."
+    "checkedAt": "2026-11-26T21:07:15.245Z",
+    "coverage": "Revisión parcial de siete cuentas configuradas mediante sus vistas públicas; una demostración nueva verificada en original y oEmbed oficial. Se conservan43 entradas anteriores. No cronologías completas."
   }
 }

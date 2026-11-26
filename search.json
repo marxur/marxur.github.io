@@ -1,6 +1,61 @@
 {
-  "generated": "2026-11-25T20:53:09.691Z",
+  "generated": "2026-11-26T21:07:15.245Z",
   "items": [
+    {
+      "title": "AWS Quick lleva sus agentes al navegador y agrupa herramientas en plugins",
+      "summary": "Recuperamos el anuncio del 21 de noviembre: los agentes iniciados o programados desde la web siguen trabajando tras cerrarla.",
+      "url": "/noticias/aws-quick-web-plugins-agentes-20261121.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-21",
+      "type": "noticia",
+      "source": "AWS",
+      "slug": "aws-quick-web-plugins-agentes-20261121"
+    },
+    {
+      "title": "Cloudflare permite ofrecer a los agentes un buscador desde el propio dominio",
+      "summary": "Search for Agents crea un índice del sitio y anuncia dónde consultarlo, en lugar de recorrer cada página.",
+      "url": "/noticias/cloudflare-search-for-agents-20261125.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-25",
+      "type": "noticia",
+      "source": "Cloudflare",
+      "slug": "cloudflare-search-for-agents-20261125"
+    },
+    {
+      "title": "Sakana presenta Namazu Small y prepara su despliegue en infraestructura propia",
+      "summary": "El modelo de razonamiento de 30.000 millones de parámetros parte de la base Nemotron 3 Nano de NVIDIA.",
+      "url": "/noticias/sakana-namazu-small-30b-20261125.html",
+      "category": "Modelos",
+      "topic": "Modelos",
+      "date": "2026-11-25",
+      "type": "noticia",
+      "source": "Sakana AI",
+      "slug": "sakana-namazu-small-30b-20261125"
+    },
+    {
+      "title": "Perplexity Time Machine deja buscar en la web tal como estaba en una fecha",
+      "summary": "Search API y Context API incorporan un corte temporal basado en las copias archivadas por el servicio.",
+      "url": "/noticias/perplexity-time-machine-web-historica-20261125.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-25",
+      "type": "noticia",
+      "source": "Perplexity",
+      "slug": "perplexity-time-machine-web-historica-20261125"
+    },
+    {
+      "title": "DeepL presenta Aure v2 para traducir conversaciones con menos retraso",
+      "summary": "El nuevo modelo de voz a voz llega a DeepL Voice y su API con seis idiomas iniciales, incluido el español.",
+      "url": "/noticias/deepl-aure-v2-traduccion-voz-20261126.html",
+      "category": "Modelos",
+      "topic": "Voz y teclado",
+      "date": "2026-11-26",
+      "type": "noticia",
+      "source": "DeepL",
+      "slug": "deepl-aure-v2-traduccion-voz-20261126"
+    },
     {
       "title": "Google Workspace generaliza sus servidores MCP y la CLI para agentes",
       "summary": "Google ofrece conexiones gestionadas con controles de acceso, confirmaciones y registro de acciones.",
