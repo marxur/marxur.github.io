@@ -1,7 +1,207 @@
 {
-  "edition": "2026-11-26T21:07:15.245Z",
-  "reviewedAt": "2026-11-26T21:07:15.245Z",
+  "edition": "2026-11-27T20:52:51.271Z",
+  "reviewedAt": "2026-11-27T20:52:51.271Z",
   "articles": [
+    {
+      "slug": "cognition-swe21-programacion-devin-20261124",
+      "date": "2026-11-24",
+      "source": "Cognition",
+      "topic": "Agentes IA",
+      "category": "Modelos",
+      "title": "Cognition presenta SWE-2.1 para programación y tareas largas en Devin",
+      "summary": "La actualización mejora sobre SWE-2 según las pruebas del proveedor y amplía su trabajo en seguridad defensiva.",
+      "sourceUrl": "https://cognition.com/blog/swe-2-1",
+      "body": [
+        "SWE-2.1 se entrenó mediante aprendizaje por refuerzo sobre Kimi K3. Cognition atribuye parte de sus mejoras a reforzar el razonamiento general y los procesos que requieren varios pasos durante periodos prolongados.",
+        "El anuncio describe medidas de supervisión y una variante SWE-2.1 Cyber para Devin Security. Es una recuperación del lanzamiento del 24 de noviembre, que seguía pendiente en los acumulados."
+      ],
+      "takeaway": "Propone otro modelo para evaluar programación y revisión de proyectos con trabajos que exceden una respuesta breve.",
+      "caveat": "Los resultados proceden de Cognition y dependen de cada evaluación y configuración. No hemos probado el modelo ni confirmado una mejora equivalente en repositorios propios.",
+      "dedup_key": "cognition-swe21-programacion-devin-20261124",
+      "sourceTitle": "Cognition presenta SWE-2.1 para programación y tareas largas en Devin",
+      "company": "Cognition",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-27T20:52:51.271Z",
+      "modifiedAt": "2026-11-27T20:52:51.271Z",
+      "detectedAt": "2026-11-27",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Cognition",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Cognition",
+          "title": "Cognition presenta SWE-2.1 para programación y tareas largas en Devin",
+          "url": "https://cognition.com/blog/swe-2-1"
+        }
+      ]
+    },
+    {
+      "slug": "deepmind-humanitys-first-exam-fiabilidad-20261124",
+      "date": "2026-11-24",
+      "source": "Google DeepMind",
+      "topic": "Investigación",
+      "category": "Análisis",
+      "title": "Humanity’s First Exam pone a prueba la constancia de la IA en tareas sencillas",
+      "summary": "DeepMind publica una evaluación centrada en responder bien de forma consistente, incluso cuando cambia ligeramente una pregunta.",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "body": [
+        "El conjunto reúne 544 instrucciones de texto e imagen en 20 capacidades básicas. Su enfoque complementa las pruebas de problemas difíciles que un modelo puede resolver una sola vez.",
+        "DeepMind invita a aportar preguntas cotidianas que todavía fallen a los modelos mediante una competición de Kaggle abierta hasta el 15 de diciembre. Recuperamos el anuncio original del 24 de noviembre."
+      ],
+      "takeaway": "Ayuda a examinar la fiabilidad repetida que necesita una herramienta utilizada a diario.",
+      "caveat": "El banco no garantiza un comportamiento fiable fuera de sus tareas. Sus resultados deben interpretarse según la muestra y el método, no como una medida universal de inteligencia.",
+      "dedup_key": "deepmind-humanitys-first-exam-fiabilidad-20261124",
+      "sourceTitle": "Humanity’s First Exam pone a prueba la constancia de la IA en tareas sencillas",
+      "company": "Google DeepMind",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-27T20:52:51.271Z",
+      "modifiedAt": "2026-11-27T20:52:51.271Z",
+      "detectedAt": "2026-11-27",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google DeepMind",
+        "Investigación"
+      ],
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "title": "Humanity’s First Exam pone a prueba la constancia de la IA en tareas sencillas",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-live-guided-vision-iphone-20261125",
+      "date": "2026-11-25",
+      "source": "Google",
+      "topic": "Aplicaciones",
+      "category": "Herramientas",
+      "title": "Guided Vision de Gemini Live llega al iPhone con asistencia visual conversacional",
+      "summary": "Google anuncia disponibilidad en iOS para compartir la cámara y recibir indicaciones en tiempo real.",
+      "sourceUrl": "https://x.com/GeminiApp/status/2125685936344236471",
+      "body": [
+        "La cuenta oficial de Gemini comunicó la ampliación el 25 de noviembre. La función, desarrollada con personas ciegas o con baja visión, ofrece descripciones de audio y orientaciones verbales para ajustar el encuadre.",
+        "La novedad es la llegada a iOS de una capacidad ya presentada anteriormente. El anuncio remite a abrir Live y apuntar la cámara para recibir la asistencia."
+      ],
+      "takeaway": "Amplía las opciones de accesibilidad visual conversacional para quienes usan un iPhone.",
+      "caveat": "No hemos probado la función en un dispositivo. La publicación no detalla todos los idiomas, regiones ni el calendario de activación de cada cuenta.",
+      "dedup_key": "gemini-live-guided-vision-iphone-20261125",
+      "sourceTitle": "Guided Vision de Gemini Live llega al iPhone con asistencia visual conversacional",
+      "company": "Google",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-27T20:52:51.271Z",
+      "modifiedAt": "2026-11-27T20:52:51.271Z",
+      "detectedAt": "2026-11-27",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Google",
+        "Aplicaciones"
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "title": "Guided Vision de Gemini Live llega al iPhone con asistencia visual conversacional",
+          "url": "https://x.com/GeminiApp/status/2125685936344236471"
+        }
+      ]
+    },
+    {
+      "slug": "pydantic-pax-agente-terminal-20261125",
+      "date": "2026-11-25",
+      "source": "Pydantic",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Pydantic presenta Pax, un agente de programación modular para la terminal",
+      "summary": "Pax utiliza el SDK Pydantic AI Harness y permite activar por separado el agente, los entornos aislados, MCP y la observabilidad.",
+      "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
+      "body": [
+        "El cliente admite distintos modelos y agentes propios mediante su configuración. Sus complementos agrupan herramientas, instrucciones y controles de la interfaz de terminal.",
+        "El anuncio acompaña la beta de Harness, cuyo equipo prepara una versión 1.0. Pydantic publica pruebas propias de programación, con resultados dependientes del modelo y del entorno usados."
+      ],
+      "takeaway": "Ofrece una alternativa para equipos que quieren adaptar el entorno de ejecución del agente a su proyecto.",
+      "caveat": "No hemos instalado ni probado Pax. Las funciones del SDK no están todas disponibles en el cliente: el anuncio excluye de Pax la ejecución durable descrita para agentes del SDK.",
+      "dedup_key": "pydantic-pax-agente-terminal-20261125",
+      "sourceTitle": "Pydantic presenta Pax, un agente de programación modular para la terminal",
+      "company": "Pydantic",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-27T20:52:51.271Z",
+      "modifiedAt": "2026-11-27T20:52:51.271Z",
+      "detectedAt": "2026-11-27",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Pydantic",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Pydantic",
+          "title": "Pydantic presenta Pax, un agente de programación modular para la terminal",
+          "url": "https://pydantic.dev/articles/pax-harness-beta"
+        }
+      ]
+    },
+    {
+      "slug": "sakana-marlin-modos-investigacion-20261126",
+      "date": "2026-11-26",
+      "source": "Sakana AI",
+      "topic": "Agentes IA",
+      "category": "Herramientas",
+      "title": "Marlin añade dos modos de investigación y renueva sus diapositivas",
+      "summary": "Sakana incorpora Twilight 2.0 y Midnight 2.0 para elegir entre una exploración más rápida o más profunda.",
+      "sourceUrl": "https://sakana.ai/marlin-update-2/",
+      "body": [
+        "Sunlight sigue disponible como opción ligera. Twilight 2.0 busca ampliar los ángulos de una investigación con menos espera, mientras que Midnight 2.0 dedica más trabajo a explorar y contrastar hipótesis.",
+        "Los nuevos modos consumen 300 créditos por consulta frente a los 100 de Sunlight. La actualización también rediseña las exportaciones a PowerPoint en los tres modos, con una estructura narrativa, diagramas y referencias."
+      ],
+      "takeaway": "Permite ajustar la profundidad de un informe y compartir sus conclusiones en diapositivas.",
+      "caveat": "Las mejoras de velocidad, amplitud y calidad son afirmaciones de Sakana. Consultar más fuentes no demuestra por sí solo que un informe sea más preciso.",
+      "dedup_key": "sakana-marlin-modos-investigacion-20261126",
+      "sourceTitle": "Marlin añade dos modos de investigación y renueva sus diapositivas",
+      "company": "Sakana AI",
+      "kind": "news",
+      "verification": "confirmed",
+      "dateBasis": "source",
+      "publishedAt": "2026-11-27T20:52:51.271Z",
+      "modifiedAt": "2026-11-27T20:52:51.271Z",
+      "detectedAt": "2026-11-27",
+      "format": "brief",
+      "label": "ACTUALIDAD",
+      "art": "general",
+      "sections": [],
+      "tags": [
+        "Sakana AI",
+        "Agentes IA"
+      ],
+      "sources": [
+        {
+          "name": "Sakana AI",
+          "title": "Marlin añade dos modos de investigación y renueva sus diapositivas",
+          "url": "https://sakana.ai/marlin-update-2/"
+        }
+      ]
+    },
     {
       "slug": "aws-quick-web-plugins-agentes-20261121",
       "date": "2026-11-21",
@@ -10010,6 +10210,11 @@
     }
   ],
   "selectedSlugs": [
+    "sakana-marlin-modos-investigacion-20261126",
+    "pydantic-pax-agente-terminal-20261125",
+    "gemini-live-guided-vision-iphone-20261125",
+    "deepmind-humanitys-first-exam-fiabilidad-20261124",
+    "cognition-swe21-programacion-devin-20261124",
     "deepl-aure-v2-traduccion-voz-20261126",
     "perplexity-time-machine-web-historica-20261125",
     "sakana-namazu-small-30b-20261125",

@@ -1,6 +1,61 @@
 {
-  "generated": "2026-11-26T21:07:15.245Z",
+  "generated": "2026-11-27T20:52:51.271Z",
   "items": [
+    {
+      "title": "Cognition presenta SWE-2.1 para programación y tareas largas en Devin",
+      "summary": "La actualización mejora sobre SWE-2 según las pruebas del proveedor y amplía su trabajo en seguridad defensiva.",
+      "url": "/noticias/cognition-swe21-programacion-devin-20261124.html",
+      "category": "Modelos",
+      "topic": "Agentes IA",
+      "date": "2026-11-24",
+      "type": "noticia",
+      "source": "Cognition",
+      "slug": "cognition-swe21-programacion-devin-20261124"
+    },
+    {
+      "title": "Humanity’s First Exam pone a prueba la constancia de la IA en tareas sencillas",
+      "summary": "DeepMind publica una evaluación centrada en responder bien de forma consistente, incluso cuando cambia ligeramente una pregunta.",
+      "url": "/noticias/deepmind-humanitys-first-exam-fiabilidad-20261124.html",
+      "category": "Análisis",
+      "topic": "Investigación",
+      "date": "2026-11-24",
+      "type": "noticia",
+      "source": "Google DeepMind",
+      "slug": "deepmind-humanitys-first-exam-fiabilidad-20261124"
+    },
+    {
+      "title": "Guided Vision de Gemini Live llega al iPhone con asistencia visual conversacional",
+      "summary": "Google anuncia disponibilidad en iOS para compartir la cámara y recibir indicaciones en tiempo real.",
+      "url": "/noticias/gemini-live-guided-vision-iphone-20261125.html",
+      "category": "Herramientas",
+      "topic": "Aplicaciones",
+      "date": "2026-11-25",
+      "type": "noticia",
+      "source": "Google",
+      "slug": "gemini-live-guided-vision-iphone-20261125"
+    },
+    {
+      "title": "Pydantic presenta Pax, un agente de programación modular para la terminal",
+      "summary": "Pax utiliza el SDK Pydantic AI Harness y permite activar por separado el agente, los entornos aislados, MCP y la observabilidad.",
+      "url": "/noticias/pydantic-pax-agente-terminal-20261125.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-25",
+      "type": "noticia",
+      "source": "Pydantic",
+      "slug": "pydantic-pax-agente-terminal-20261125"
+    },
+    {
+      "title": "Marlin añade dos modos de investigación y renueva sus diapositivas",
+      "summary": "Sakana incorpora Twilight 2.0 y Midnight 2.0 para elegir entre una exploración más rápida o más profunda.",
+      "url": "/noticias/sakana-marlin-modos-investigacion-20261126.html",
+      "category": "Herramientas",
+      "topic": "Agentes IA",
+      "date": "2026-11-26",
+      "type": "noticia",
+      "source": "Sakana AI",
+      "slug": "sakana-marlin-modos-investigacion-20261126"
+    },
     {
       "title": "AWS Quick lleva sus agentes al navegador y agrupa herramientas en plugins",
       "summary": "Recuperamos el anuncio del 21 de noviembre: los agentes iniciados o programados desde la web siguen trabajando tras cerrarla.",
